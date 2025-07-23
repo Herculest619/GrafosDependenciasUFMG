@@ -1,0 +1,230 @@
+{
+  "nodes": [
+    {
+      "level": 1,
+      "id": "DCC208",
+      "label": "Introdução à Programação...",
+      "title": "DCC208 - Introdução à Programação de Computadores"
+    },
+    {
+      "level": 1,
+      "id": "FIS065",
+      "label": "Fundamentos de Mecânica",
+      "title": "FIS065 - Fundamentos de Mecânica"
+    },
+    {
+      "level": 1,
+      "id": "MAT001",
+      "label": "Cálculo Diferencial e Inte...",
+      "title": "MAT001 - Cálculo Diferencial e Integral I"
+    },
+    {
+      "level": 1,
+      "id": "MAT038",
+      "label": "Geometria Analítica e Álg...",
+      "title": "MAT038 - Geometria Analítica e Álgebra Linear"
+    },
+    {
+      "level": 1,
+      "id": "FIS151",
+      "label": "Física Experimental Bási...",
+      "title": "FIS151 - Física Experimental Básica: Mecânica"
+    },
+    {
+      "level": 1,
+      "id": "FIS615",
+      "label": "Seminários: Física e Soci...",
+      "title": "FIS615 - Seminários: Física e Sociedade"
+    },
+    {
+      "level": 2,
+      "id": "FIS003",
+      "label": "Evolução das Ideias da Fí...",
+      "title": "FIS003 - Evolução das Ideias da Física"
+    },
+    {
+      "level": 2,
+      "id": "FIS154",
+      "label": "Física Experimental Bási...",
+      "title": "FIS154 - Física Experimental Básica: Termodinâmica"
+    },
+    {
+      "level": 2,
+      "id": "FIS616",
+      "label": "Introdução à Computação e...",
+      "title": "FIS616 - Introdução à Computação em Física"
+    },
+    {
+      "level": 2,
+      "id": "FIS152",
+      "label": "Fund. Mecânica dos Fluido...",
+      "title": "FIS152 - Fund. Mecânica dos Fluidos e Termodinâmica"
+    },
+    {
+      "level": 2,
+      "id": "MAT039",
+      "label": "Cálculo Diferencial e Inte...",
+      "title": "MAT039 - Cálculo Diferencial e Integral II"
+    },
+    {
+      "level": 3,
+      "id": "FIS069",
+      "label": "Fundamentos de Eletromagn...",
+      "title": "FIS069 - Fundamentos de Eletromagnetismo"
+    },
+    {
+      "level": 3,
+      "id": "FIS153",
+      "label": "Física Experimental Bási...",
+      "title": "FIS153 - Física Experimental Básica: Eletromagnetismo"
+    },
+    {
+      "level": 3,
+      "id": "MAT002",
+      "label": "Cálculo Diferencial e Inte...",
+      "title": "MAT002 - Cálculo Diferencial e Integral III"
+    },
+    {
+      "level": 3,
+      "id": "MAT015",
+      "label": "Equações Diferenciais A",
+      "title": "MAT015 - Equações Diferenciais A"
+    },
+    {
+      "level": 4,
+      "id": "FIS034",
+      "label": "Mecânica I",
+      "title": "FIS034 - Mecânica I"
+    },
+    {
+      "level": 4,
+      "id": "FIS086",
+      "label": "Fundamentos de Oscilações...",
+      "title": "FIS086 - Fundamentos de Oscilações, Ondas e Ótica"
+    },
+    {
+      "level": 4,
+      "id": "FIS091",
+      "label": "Fundamentos de Relativida...",
+      "title": "FIS091 - Fundamentos de Relatividade"
+    },
+    {
+      "level": 4,
+      "id": "FIS155",
+      "label": "Física Experimental Bási...",
+      "title": "FIS155 - Física Experimental Básica: Ondas e Ótica"
+    },
+    {
+      "level": 4,
+      "id": "MAT016",
+      "label": "Equações Diferenciais B",
+      "title": "MAT016 - Equações Diferenciais B"
+    },
+    {
+      "level": 5,
+      "id": "FIS036",
+      "label": "Mecânica II",
+      "title": "FIS036 - Mecânica II"
+    },
+    {
+      "level": 5,
+      "id": "FIS073",
+      "label": "Introdução à Física Quânt...",
+      "title": "FIS073 - Introdução à Física Quântica"
+    },
+    {
+      "level": 5,
+      "id": "FIS617",
+      "label": "Física Experimental: Eletr...",
+      "title": "FIS617 - Física Experimental: Eletromagnetismo"
+    },
+    {
+      "level": 5,
+      "id": "FIS618",
+      "label": "Métodos da Física Teórica...",
+      "title": "FIS618 - Métodos da Física Teórica I"
+    },
+    {
+      "level": 6,
+      "id": "FIS037",
+      "label": "Eletromagnetismo I",
+      "title": "FIS037 - Eletromagnetismo I"
+    },
+    {
+      "level": 6,
+      "id": "FIS120",
+      "label": "Física Quântica I",
+      "title": "FIS120 - Física Quântica I"
+    },
+    {
+      "level": 6,
+      "id": "FIS622",
+      "label": "Estrutura da Matéria",
+      "title": "FIS622 - Estrutura da Matéria"
+    },
+    {
+      "level": 6,
+      "id": "FIS621",
+      "label": "Física Experimental: Osc...",
+      "title": "FIS621 - Física Experimental: Oscilações, Ondas e Ótica"
+    },
+    {
+      "level": 7,
+      "id": "FIS039",
+      "label": "Eletromagnetismo II",
+      "title": "FIS039 - Eletromagnetismo II"
+    },
+    {
+      "level": 7,
+      "id": "FIS628",
+      "label": "Termodinâmica e Introduçã...",
+      "title": "FIS628 - Termodinâmica e Introdução à Física Estatística"
+    },
+    {
+      "level": 7,
+      "id": "FIS627",
+      "label": "Física Experimental: Fisi...",
+      "title": "FIS627 - Física Experimental: Fisica Moderna"
+    }
+  ],
+  "edges": [
+    { "from": "FIS065", "to": "FIS003" },
+    { "from": "FIS151", "to": "FIS154" },
+    { "from": "FIS065", "to": "FIS154" },
+    { "from": "DCC208", "to": "FIS616" },
+    { "from": "MAT001", "to": "FIS616" },
+    { "from": "FIS065", "to": "FIS152" },
+    { "from": "MAT001", "to": "FIS152" },
+    { "from": "MAT001", "to": "MAT039" },
+    { "from": "FIS065", "to": "FIS069" },
+    { "from": "MAT039", "to": "FIS069" },
+    { "from": "FIS151", "to": "FIS153" },
+    { "from": "FIS065", "to": "FIS153" },
+    { "from": "MAT039", "to": "MAT002" },
+    { "from": "MAT039", "to": "MAT015" },
+    { "from": "FIS065", "to": "FIS034" },
+    { "from": "MAT015", "to": "FIS034" },
+    { "from": "FIS069", "to": "FIS086" },
+    { "from": "MAT015", "to": "FIS086" },
+    { "from": "FIS069", "to": "FIS091" },
+    { "from": "FIS151", "to": "FIS155" },
+    { "from": "FIS069", "to": "FIS155" },
+    { "from": "MAT015", "to": "MAT016" },
+    { "from": "FIS034", "to": "FIS036" },
+    { "from": "FIS086", "to": "FIS073" },
+    { "from": "FIS155", "to": "FIS617" },
+    { "from": "FIS086", "to": "FIS617" },
+    { "from": "MAT015", "to": "FIS618" },
+    { "from": "FIS069", "to": "FIS037" },
+    { "from": "MAT002", "to": "FIS037" },
+    { "from": "FIS073", "to": "FIS120" },
+    { "from": "FIS618", "to": "FIS120" },
+    { "from": "FIS073", "to": "FIS622" },
+    { "from": "FIS086", "to": "FIS621" },
+    { "from": "FIS155", "to": "FIS621" },
+    { "from": "FIS037", "to": "FIS039" },
+    { "from": "FIS622", "to": "FIS628" },
+    { "from": "FIS621", "to": "FIS627" },
+    { "from": "FIS073", "to": "FIS627" }
+  ]
+}

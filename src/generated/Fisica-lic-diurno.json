@@ -1,0 +1,301 @@
+{
+  "nodes": [
+    {
+      "level": 1,
+      "id": "DCC208",
+      "label": "Introdução à Programação...",
+      "title": "DCC208 - Introdução à Programação de Computadores"
+    },
+    {
+      "level": 1,
+      "id": "FIS065",
+      "label": "Fundamentos de Mecânica",
+      "title": "FIS065 - Fundamentos de Mecânica"
+    },
+    {
+      "level": 1,
+      "id": "MAT001",
+      "label": "Cálculo Diferencial e Int...",
+      "title": "MAT001 - Cálculo Diferencial e Integral I"
+    },
+    {
+      "level": 1,
+      "id": "MAT038",
+      "label": "Geometria Analítica e Álg...",
+      "title": "MAT038 - Geometria Analítica e Álgebra Linear"
+    },
+    {
+      "level": 1,
+      "id": "FIS151",
+      "label": "Física Experimental: Mecâ...",
+      "title": "FIS151 - Física Experimental Básica: Mecânica"
+    },
+    {
+      "level": 1,
+      "id": "FIS615",
+      "label": "Seminários: Fisica e Soci...",
+      "title": "FIS615 - Seminários: Fisica e Sociedade"
+    },
+    {
+      "level": 2,
+      "id": "FIS003",
+      "label": "Evolução das Ideias da Fí...",
+      "title": "FIS003 - Evolução das Ideias da Fisica"
+    },
+    {
+      "level": 2,
+      "id": "FIS154",
+      "label": "Física Experimental: Term...",
+      "title": "FIS154 - Fisica Experimental Básica: Termodinâmica"
+    },
+    {
+      "level": 2,
+      "id": "FIS616",
+      "label": "Introdução à Computação e...",
+      "title": "FIS616 - Introdução à Computação em Física"
+    },
+    {
+      "level": 2,
+      "id": "FIS152",
+      "label": "Fund. Mecânica dos Fluido...",
+      "title": "FIS152 - Fund. Mecânica dos Fluidos e Termodinâmica"
+    },
+    {
+      "level": 2,
+      "id": "MAT039",
+      "label": "Cálculo Diferencial e Int...",
+      "title": "MAT039 - Cálculo Diferencial e Integral II"
+    },
+    {
+      "level": 2,
+      "id": "LET223",
+      "label": "Fundamentos de Libras",
+      "title": "LET223 - Fundamentos de Libras"
+    },
+    {
+      "level": 2,
+      "id": "CAE002",
+      "label": "Psicologia da Educação",
+      "title": "CAE002 - Psicologia da Educação - Aprendizagem e Ensino"
+    },
+    {
+      "level": 3,
+      "id": "FIS069",
+      "label": "Fundamentos de Eletromagn...",
+      "title": "FIS069 - Fundamentos de Eletromagnetismo"
+    },
+    {
+      "level": 3,
+      "id": "FIS153",
+      "label": "Física Experimental: Eletr...",
+      "title": "FIS153 - Fisica Experimental Básica: Eletromagnetismo"
+    },
+    {
+      "level": 3,
+      "id": "MAT002",
+      "label": "Cálculo Diferencial e Int...",
+      "title": "MAT002 - Cálculo Diferencial e Integral III"
+    },
+    {
+      "level": 3,
+      "id": "MAT015",
+      "label": "Equações Diferenciais A",
+      "title": "MAT015 - Equações Diferenciais A"
+    },
+    {
+      "level": 3,
+      "id": "ADE066",
+      "label": "Gestão Escolar",
+      "title": "ADE066 - Gestão Escolar"
+    },
+    {
+      "level": 4,
+      "id": "FIS004",
+      "label": "Astronomia Geral",
+      "title": "FIS004 - Astronomia Geral"
+    },
+    {
+      "level": 4,
+      "id": "FIS034",
+      "label": "Mecânica I",
+      "title": "FIS034 - Mecânica I"
+    },
+    {
+      "level": 4,
+      "id": "FIS086",
+      "label": "Fund. Oscilações, Ondas ...",
+      "title": "FIS086 - Fundamentos de Oscilações, Ondas e Ótica"
+    },
+    {
+      "level": 4,
+      "id": "FIS091",
+      "label": "Fundamentos de Relativida...",
+      "title": "FIS091 - Fundamentos de Relatividade"
+    },
+    {
+      "level": 4,
+      "id": "FIS155",
+      "label": "Física Experimental: Onda...",
+      "title": "FIS155 - Fisica Experimental Básica: Ondas e Ótica"
+    },
+    {
+      "level": 4,
+      "id": "FAE493",
+      "label": "Fundamentos da Educação E...",
+      "title": "FAE493 - Fundamentos da Educação Especial e Inclusiva"
+    },
+    {
+      "level": 4,
+      "id": "MTE101",
+      "label": "Didática da Licenciatura",
+      "title": "MTE101 - Didática da Licenciatura"
+    },
+    {
+      "level": 5,
+      "id": "FIS073",
+      "label": "Introdução à Fisica Quânt...",
+      "title": "FIS073 - Introdução à Fisica Quântica"
+    },
+    {
+      "level": 5,
+      "id": "FIS619",
+      "label": "Rec. Didáticos: Mecânica,...",
+      "title": "FIS619 - Recursos Didáticos: Mecânica, Fluidos e Física Térmica"
+    },
+    {
+      "level": 5,
+      "id": "FIS617",
+      "label": "Física Experimental: Eletr...",
+      "title": "FIS617 - Física Experimental: Eletromagnetismo"
+    },
+    {
+      "level": 5,
+      "id": "FIS620",
+      "label": "Física Conceitual A",
+      "title": "FIS620 - Física Conceitual A"
+    },
+    {
+      "level": 6,
+      "id": "FIS625",
+      "label": "Recursos Didáticos: Eletr...",
+      "title": "FIS625 - Recursos Didáticos: Eletromagnetismo"
+    },
+    {
+      "level": 6,
+      "id": "FIS626",
+      "label": "Recursos Didáticos: Astro...",
+      "title": "FIS626 - Recursos Didáticos: Astronomia"
+    },
+    {
+      "level": 6,
+      "id": "FIS622",
+      "label": "Estrutura da Matéria",
+      "title": "FIS622 - Estrutura da Matéria"
+    },
+    {
+      "level": 6,
+      "id": "FIS621",
+      "label": "Física Experimental: Osc...",
+      "title": "FIS621 - Fisica Experimental: Oscilações, Ondas e Ótica"
+    },
+    {
+      "level": 6,
+      "id": "FIS624",
+      "label": "Física Conceitual B",
+      "title": "FIS624 - Física Conceitual B"
+    },
+    {
+      "level": 7,
+      "id": "FIS629",
+      "label": "Rec. Didáticos: Ondas, Ó...",
+      "title": "FIS629 - Recursos Didáticos: Ondas, Ótica e Física Moderna"
+    },
+    {
+      "level": 7,
+      "id": "FIS627",
+      "label": "Física Experimental: Fisi...",
+      "title": "FIS627 - Fisica Experimental: Fisica Moderna"
+    },
+    {
+      "level": 7,
+      "id": "MTE446",
+      "label": "Didática da Física I",
+      "title": "MTE446 - Didática da Física I"
+    },
+    {
+      "level": 7,
+      "id": "MTE230",
+      "label": "Estágio em Ensino de Físi...",
+      "title": "MTE230 - Estágio em Ensino de Física I"
+    },
+    {
+      "level": 8,
+      "id": "MTE447",
+      "label": "Didática da Física II",
+      "title": "MTE447 - Didática da Física II"
+    },
+    {
+      "level": 8,
+      "id": "MTE235",
+      "label": "Estágio em Ensino de Físi...",
+      "title": "MTE235 - Estágio em Ensino de Física II"
+    },
+    {
+      "level": 9,
+      "id": "MTE239",
+      "label": "Estágio em Ensino de Físi...",
+      "title": "MTE239 - Estágio em Ensino de Física III"
+    }
+  ],
+  "edges": [
+    { "from": "FIS065", "to": "FIS003" },
+    { "from": "FIS151", "to": "FIS154" },
+    { "from": "FIS065", "to": "FIS154" },
+    { "from": "DCC208", "to": "FIS616" },
+    { "from": "MAT001", "to": "FIS616" },
+    { "from": "FIS065", "to": "FIS152" },
+    { "from": "MAT001", "to": "FIS152" },
+    { "from": "MAT001", "to": "MAT039" },
+    { "from": "FIS065", "to": "FIS069" },
+    { "from": "MAT039", "to": "FIS069" },
+    { "from": "FIS151", "to": "FIS153" },
+    { "from": "FIS065", "to": "FIS153" },
+    { "from": "MAT039", "to": "MAT002" },
+    { "from": "MAT039", "to": "MAT015" },
+    { "from": "FIS065", "to": "FIS004" },
+    { "from": "FIS065", "to": "FIS034" },
+    { "from": "MAT015", "to": "FIS034" },
+    { "from": "FIS069", "to": "FIS086" },
+    { "from": "MAT015", "to": "FIS086" },
+    { "from": "FIS069", "to": "FIS091" },
+    { "from": "FIS151", "to": "FIS155" },
+    { "from": "FIS069", "to": "FIS155" },
+    { "from": "FIS086", "to": "FIS073" },
+    { "from": "FIS155", "to": "FIS619" },
+    { "from": "FIS086", "to": "FIS619" },
+    { "from": "FIS155", "to": "FIS617" },
+    { "from": "FIS086", "to": "FIS617" },
+    { "from": "FIS152", "to": "FIS620" },
+    { "from": "FIS619", "to": "FIS625" },
+    { "from": "FIS004", "to": "FIS626" },
+    { "from": "FIS619", "to": "FIS626" },
+    { "from": "FIS073", "to": "FIS622" },
+    { "from": "FIS155", "to": "FIS621" },
+    { "from": "FIS086", "to": "FIS621" },
+    { "from": "FIS073", "to": "FIS624" },
+    { "from": "FIS091", "to": "FIS624" },
+    { "from": "FIS619", "to": "FIS629" },
+    { "from": "FIS073", "to": "FIS629" },
+    { "from": "FIS091", "to": "FIS629" },
+    { "from": "FIS621", "to": "FIS627" },
+    { "from": "FIS073", "to": "FIS627" },
+    { "from": "FIS069", "to": "MTE446" },
+    { "from": "FIS069", "to": "MTE230" },
+    { "from": "MTE446", "to": "MTE447" },
+    { "from": "MTE230", "to": "MTE447" },
+    { "from": "MTE230", "to": "MTE235" },
+    { "from": "MTE446", "to": "MTE235" },
+    { "from": "MTE235", "to": "MTE239" },
+    { "from": "MTE447", "to": "MTE239" }
+  ]
+}
