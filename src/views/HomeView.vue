@@ -10,10 +10,10 @@ const state = reactive({ isDark: true, view: 'graph' })
 const tabs = [{
   label: 'Disciplinas e Dependências',
   id: 'graph'
-}, {
+}/*, {
   label: 'Tabela de Horários',
   id: 'timetable'
-}]
+}*/]
 
 const selectedTab = (tab) => {
   state.view = tab.id
