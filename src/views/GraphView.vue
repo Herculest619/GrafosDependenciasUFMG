@@ -2,22 +2,22 @@
 import VisNetwork from '../components/VisNetwork.vue';
 import Select from '../components/Select.vue';
 import { reactive, onMounted } from 'vue';
-import computacao from '../generated/Fisica-bacharelado.json';
-import eletrica from '../generated/Fisica-lic-noturno.json';
+import fis_bacharel from '../generated/Fisica-bacharelado.json';
+import fis_lic_diurno from '../generated/Fisica-lic-diurno.json';
+import fis_lic_noturno from '../generated/Fisica-lic-noturno.json';
 import sistemas from '../generated/SJM.json';
-import producao from '../generated/Fisica-lic-diurno.json';
 
 const COURSES = {
-    CJM: { label: 'Física - Bacharelado', id: 'CJM', file: computacao },
-    PJM: { label: 'Física - Licenciatura Diurno', id: 'PJM', file: producao },
-    EJM: { label: 'Física - Licenciatura Noturno', id: 'EJM', file: eletrica },
-    SJM: { label: 'Sistemas de Informação', id: 'SJM', file: sistemas },
+    FIS_BACHAREL: { label: 'Física - Bacharelado', id: 'FIS_BACHAREL', file: fis_bacharel },
+    FIS_LIC_DIURNO: { label: 'Física - Licenciatura Diurno', id: 'FIS_LIC_DIURNO', file: fis_lic_diurno },
+    FIS_LIC_NOTURNO: { label: 'Física - Licenciatura Noturno', id: 'FIS_LIC_NOTURNO', file: fis_lic_noturno },
+    /*SJM: { label: 'TESTE', id: 'SJM', file: sistemas },*/
 }
 const options = [
-    { label: COURSES.CJM.label, value: COURSES.CJM.id },
-    { label: COURSES.PJM.label, value: COURSES.PJM.id },
-    { label: COURSES.EJM.label, value: COURSES.EJM.id },
-    { label: COURSES.SJM.label, value: COURSES.SJM.id },
+    { label: COURSES.FIS_BACHAREL.label, value: COURSES.FIS_BACHAREL.id },
+    { label: COURSES.FIS_LIC_DIURNO.label, value: COURSES.FIS_LIC_DIURNO.id },
+    { label: COURSES.FIS_LIC_NOTURNO.label, value: COURSES.FIS_LIC_NOTURNO.id },
+    /*{ label: COURSES.SJM.label, value: COURSES.SJM.id },*/
 ]
 const state = reactive({ selectedCourse: null })
 onMounted(() => {
