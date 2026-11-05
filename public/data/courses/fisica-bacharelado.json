@@ -1,0 +1,575 @@
+{
+    "schemaVersion": 2,
+    "id": "fisica-bacharelado",
+    "meta": {
+        "id": "fisica-bacharelado",
+        "name": "Física",
+        "variant": "Bacharelado",
+        "unit": "ICEx — Departamento de Física",
+        "campus": "Pampulha",
+        "shift": "Diurno",
+        "degree": "Bacharelado",
+        "curriculum": "Versão não registrada na fonte legada",
+        "source": {
+            "kind": "legacy-json",
+            "url": null,
+            "retrievedAt": null,
+            "note": "Convertido do JSON do projeto original (importado de PDF do Siga em 2025); carga horária e optativas não estão disponíveis nesta fonte."
+        },
+        "note": null
+    },
+    "generatedAt": "2026-11-05T14:38:35.796Z",
+    "disciplines": {
+        "DCC208": {
+            "code": "DCC208",
+            "name": "Introdução à Programação de Computadores",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "FIS065": {
+            "code": "FIS065",
+            "name": "Fundamentos de Mecânica",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MAT001": {
+            "code": "MAT001",
+            "name": "Cálculo Diferencial e Integral I",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MAT038": {
+            "code": "MAT038",
+            "name": "Geometria Analítica e Álgebra Linear",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "FIS151": {
+            "code": "FIS151",
+            "name": "Física Experimental Básica: Mecânica",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "FIS615": {
+            "code": "FIS615",
+            "name": "Seminários: Física e Sociedade",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "FIS003": {
+            "code": "FIS003",
+            "name": "Evolução das Ideias da Física",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS065"
+            ],
+            "scheduled": true
+        },
+        "FIS154": {
+            "code": "FIS154",
+            "name": "Física Experimental Básica: Termodinâmica",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS151",
+                "FIS065"
+            ],
+            "scheduled": true
+        },
+        "FIS616": {
+            "code": "FIS616",
+            "name": "Introdução à Computação em Física",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "DCC208",
+                "MAT001"
+            ],
+            "scheduled": true
+        },
+        "FIS152": {
+            "code": "FIS152",
+            "name": "Fund. Mecânica dos Fluidos e Termodinâmica",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS065",
+                "MAT001"
+            ],
+            "scheduled": true
+        },
+        "MAT039": {
+            "code": "MAT039",
+            "name": "Cálculo Diferencial e Integral II",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MAT001"
+            ],
+            "scheduled": true
+        },
+        "FIS069": {
+            "code": "FIS069",
+            "name": "Fundamentos de Eletromagnetismo",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS065",
+                "MAT039"
+            ],
+            "scheduled": true
+        },
+        "FIS153": {
+            "code": "FIS153",
+            "name": "Física Experimental Básica: Eletromagnetismo",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS151",
+                "FIS065"
+            ],
+            "scheduled": true
+        },
+        "MAT002": {
+            "code": "MAT002",
+            "name": "Cálculo Diferencial e Integral III",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MAT039"
+            ],
+            "scheduled": true
+        },
+        "MAT015": {
+            "code": "MAT015",
+            "name": "Equações Diferenciais A",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MAT039"
+            ],
+            "scheduled": true
+        },
+        "FIS034": {
+            "code": "FIS034",
+            "name": "Mecânica I",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS065",
+                "MAT015"
+            ],
+            "scheduled": true
+        },
+        "FIS086": {
+            "code": "FIS086",
+            "name": "Fundamentos de Oscilações, Ondas e Ótica",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS069",
+                "MAT015"
+            ],
+            "scheduled": true
+        },
+        "FIS091": {
+            "code": "FIS091",
+            "name": "Fundamentos de Relatividade",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS069"
+            ],
+            "scheduled": true
+        },
+        "FIS155": {
+            "code": "FIS155",
+            "name": "Física Experimental Básica: Ondas e Ótica",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS151",
+                "FIS069"
+            ],
+            "scheduled": true
+        },
+        "MAT016": {
+            "code": "MAT016",
+            "name": "Equações Diferenciais B",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MAT015"
+            ],
+            "scheduled": true
+        },
+        "FIS036": {
+            "code": "FIS036",
+            "name": "Mecânica II",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS034"
+            ],
+            "scheduled": true
+        },
+        "FIS073": {
+            "code": "FIS073",
+            "name": "Introdução à Física Quântica",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS086"
+            ],
+            "scheduled": true
+        },
+        "FIS617": {
+            "code": "FIS617",
+            "name": "Física Experimental: Eletromagnetismo",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS155",
+                "FIS086"
+            ],
+            "scheduled": true
+        },
+        "FIS618": {
+            "code": "FIS618",
+            "name": "Métodos da Física Teórica I",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MAT015"
+            ],
+            "scheduled": true
+        },
+        "FIS037": {
+            "code": "FIS037",
+            "name": "Eletromagnetismo I",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS069",
+                "MAT002"
+            ],
+            "scheduled": true
+        },
+        "FIS120": {
+            "code": "FIS120",
+            "name": "Física Quântica I",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS073",
+                "FIS618"
+            ],
+            "scheduled": true
+        },
+        "FIS622": {
+            "code": "FIS622",
+            "name": "Estrutura da Matéria",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS073"
+            ],
+            "scheduled": true
+        },
+        "FIS621": {
+            "code": "FIS621",
+            "name": "Física Experimental: Oscilações, Ondas e Ótica",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS086",
+                "FIS155"
+            ],
+            "scheduled": true
+        },
+        "FIS039": {
+            "code": "FIS039",
+            "name": "Eletromagnetismo II",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS037"
+            ],
+            "scheduled": true
+        },
+        "FIS628": {
+            "code": "FIS628",
+            "name": "Termodinâmica e Introdução à Física Estatística",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS622"
+            ],
+            "scheduled": true
+        },
+        "FIS627": {
+            "code": "FIS627",
+            "name": "Física Experimental: Fisica Moderna",
+            "type": null,
+            "credits": null,
+            "hours": {
+                "total": null,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS621",
+                "FIS073"
+            ],
+            "scheduled": true
+        }
+    },
+    "percursos": [
+        {
+            "id": "padrao",
+            "name": "Matriz curricular (fonte legada)",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "DCC208",
+                        "FIS065",
+                        "FIS151",
+                        "FIS615",
+                        "MAT001",
+                        "MAT038"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "FIS003",
+                        "FIS152",
+                        "FIS154",
+                        "FIS616",
+                        "MAT039"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "FIS069",
+                        "FIS153",
+                        "MAT002",
+                        "MAT015"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "FIS034",
+                        "FIS086",
+                        "FIS091",
+                        "FIS155",
+                        "MAT016"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "FIS036",
+                        "FIS073",
+                        "FIS617",
+                        "FIS618"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "FIS037",
+                        "FIS120",
+                        "FIS621",
+                        "FIS622"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "FIS039",
+                        "FIS627",
+                        "FIS628"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [],
+            "optionalPool": [],
+            "prereqOverrides": {},
+            "summary": null
+        }
+    ]
+}

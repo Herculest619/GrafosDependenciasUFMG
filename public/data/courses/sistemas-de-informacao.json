@@ -1,0 +1,1506 @@
+{
+    "schemaVersion": 2,
+    "id": "sistemas-de-informacao",
+    "meta": {
+        "id": "sistemas-de-informacao",
+        "name": "Sistemas de Informação",
+        "variant": null,
+        "unit": "DCC — ICEx",
+        "campus": "Pampulha",
+        "shift": "Noturno",
+        "degree": "Bacharelado",
+        "layout": "percurso",
+        "curriculum": "02009 · N-2019/9",
+        "source": {
+            "kind": "siga-versao-curricular",
+            "url": "https://dcc.ufmg.br/wp-content/uploads/versao_curricular_bsi_20250102.pdf",
+            "retrievedAt": "2026-11-05T11:19:32-03:00",
+            "note": null
+        },
+        "note": null
+    },
+    "generatedAt": "2026-11-05T14:38:35.895Z",
+    "disciplines": {
+        "CAD103": {
+            "code": "CAD103",
+            "name": "ADMINISTRACAO TGA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC044": {
+            "code": "DCC044",
+            "name": "FUNDAMENTOS DE SISTEMAS DE INFORMACAO",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC203": {
+            "code": "DCC203",
+            "name": "PROGRAMAÇÃO E DESENVOLVIMENTO DE SOFTWARE I",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC638": {
+            "code": "DCC638",
+            "name": "INTRODUÇÃO À LÓGICA COMPUTACIONAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MAT038": {
+            "code": "MAT038",
+            "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC204": {
+            "code": "DCC204",
+            "name": "PROGRAMAÇÃO E DESENVOLVIMENTO DE SOFTWARE II",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC203"
+            ],
+            "scheduled": true
+        },
+        "DCC216": {
+            "code": "DCC216",
+            "name": "MATEMÁTICA DISCRETA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC639": {
+            "code": "DCC639",
+            "name": "ÁLGEBRA LINEAR COMPUTACIONAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "MAT038"
+            ],
+            "scheduled": true
+        },
+        "ECN101": {
+            "code": "ECN101",
+            "name": "ECONOMIA A I",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MAT001": {
+            "code": "MAT001",
+            "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+            "type": "DIG",
+            "credits": 6,
+            "hours": {
+                "total": 90,
+                "theory": 90,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC011": {
+            "code": "DCC011",
+            "name": "INTRODUÇÃO A BANCO DE DADOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC114": {
+            "code": "DCC114",
+            "name": "INTRODUÇÃO AOS SISTEMAS LÓGICOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC216"
+            ],
+            "scheduled": true
+        },
+        "DCC205": {
+            "code": "DCC205",
+            "name": "ESTRUTURAS DE DADOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC204"
+            ],
+            "scheduled": true
+        },
+        "EST031": {
+            "code": "EST031",
+            "name": "ESTATISTICA E PROBABILIDADES",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MAT039": {
+            "code": "MAT039",
+            "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "MAT001"
+            ],
+            "scheduled": true
+        },
+        "CAD163": {
+            "code": "CAD163",
+            "name": "ADMINISTRAÇÃO DE RECURSOS HUMANOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "CAD103"
+            ],
+            "scheduled": true
+        },
+        "DCC006": {
+            "code": "DCC006",
+            "name": "ORGANIZAÇÃO DE COMPUTADORES I",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC114"
+            ],
+            "scheduled": true
+        },
+        "DCC206": {
+            "code": "DCC206",
+            "name": "ALGORITMOS I",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC216",
+                "DCC205"
+            ],
+            "scheduled": true
+        },
+        "TGI004": {
+            "code": "TGI004",
+            "name": "USUÁRIOS DA INFORMAÇÃO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CAD004": {
+            "code": "CAD004",
+            "name": "ADMINISTRAÇÃO DA PRODUÇÃO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "CAD103"
+            ],
+            "scheduled": true
+        },
+        "CIC010": {
+            "code": "CIC010",
+            "name": "INTRODUÇÃO À CONTABILIDADE",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "CAD103"
+            ],
+            "scheduled": true
+        },
+        "DCC024": {
+            "code": "DCC024",
+            "name": "LINGUAGENS DE PROGRAMACAO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC194": {
+            "code": "DCC194",
+            "name": "INTERAÇÃO HUMANO-COMPUTADOR",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "OTI071": {
+            "code": "OTI071",
+            "name": "ORGANIZAÇÃO E TRATAMENTO DA INFORMAÇÃO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CAD153": {
+            "code": "CAD153",
+            "name": "ADMINISTRAÇÃO DE CUSTOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "CIC010"
+            ],
+            "scheduled": true
+        },
+        "DCC603": {
+            "code": "DCC603",
+            "name": "ENGENHARIA DE SOFTWARE",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC605": {
+            "code": "DCC605",
+            "name": "SISTEMAS OPERACIONAIS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CAD167": {
+            "code": "CAD167",
+            "name": "ADMINISTRAÇÃO FINANCEIRA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "CAD153"
+            ],
+            "scheduled": true
+        },
+        "DCC023": {
+            "code": "DCC023",
+            "name": "REDES DE COMPUTADORES",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC072": {
+            "code": "DCC072",
+            "name": "ENGENHARIA DE SOFTWARE II",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC603"
+            ],
+            "scheduled": true
+        },
+        "DCC636": {
+            "code": "DCC636",
+            "name": "ÉTICA NA COMPUTAÇÃO",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CAD164": {
+            "code": "CAD164",
+            "name": "ADMINISTRAÇÃO MERCADOLÓGICA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "CAD103"
+            ],
+            "scheduled": true
+        },
+        "DCC046": {
+            "code": "DCC046",
+            "name": "MONOGRAFIA EM SISTEMAS DE INFORMAÇÃO I",
+            "type": "DIG",
+            "credits": 6,
+            "hours": {
+                "total": 90,
+                "theory": 90,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC637": {
+            "code": "DCC637",
+            "name": "COMPUTAÇÃO E SOCIEDADE",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC073": {
+            "code": "DCC073",
+            "name": "MONOGRAFIA EM SISTEMAS DE INFORMAÇÃO II",
+            "type": "DIG",
+            "credits": 6,
+            "hours": {
+                "total": 90,
+                "theory": 90,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC046"
+            ],
+            "scheduled": true
+        },
+        "DCC007": {
+            "code": "DCC007",
+            "name": "ORGANIZAÇÃO DE COMPUTADORES II",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC006"
+            ],
+            "scheduled": false
+        },
+        "DCC008": {
+            "code": "DCC008",
+            "name": "SOFTWARE BASICO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC014": {
+            "code": "DCC014",
+            "name": "SISTEMA DE TEMPO REAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC027": {
+            "code": "DCC027",
+            "name": "COMPUTAÇÃO GRÁFICA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC028": {
+            "code": "DCC028",
+            "name": "INTELIGENCIA ARTIFICIAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC029": {
+            "code": "DCC029",
+            "name": "PROCESSAMENTOS DIGITAL DE IMAGENS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC041": {
+            "code": "DCC041",
+            "name": "INTRODUÇÃO À ROBÓTICA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC042": {
+            "code": "DCC042",
+            "name": "ROBÓTICA MÓVEL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC049": {
+            "code": "DCC049",
+            "name": "TOPICOS EM SISTEMAS DE INFORMACAO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC053": {
+            "code": "DCC053",
+            "name": "COMPILADORES I",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC129"
+            ],
+            "scheduled": false
+        },
+        "DCC054": {
+            "code": "DCC054",
+            "name": "COMPILADORES II",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC053"
+            ],
+            "scheduled": false
+        },
+        "DCC056": {
+            "code": "DCC056",
+            "name": "ENGENHARIA DE APLICACAO EM REDE",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC023"
+            ],
+            "scheduled": false
+        },
+        "DCC057": {
+            "code": "DCC057",
+            "name": "MINERACAO DE DADOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC058": {
+            "code": "DCC058",
+            "name": "PROJETOS E CONCEITOS DE SISTEMAS PARALELOS E DISTRIBUÍDOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC059": {
+            "code": "DCC059",
+            "name": "SEMANTICA FORMAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC024"
+            ],
+            "scheduled": false
+        },
+        "DCC068": {
+            "code": "DCC068",
+            "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA I",
+            "type": "DIG",
+            "credits": 1,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC069": {
+            "code": "DCC069",
+            "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA II",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC070": {
+            "code": "DCC070",
+            "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA III",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC071": {
+            "code": "DCC071",
+            "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA IV",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC129": {
+            "code": "DCC129",
+            "name": "FUNDAMENTOS DA TEORIA DA COMPUTAÇÃO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC186": {
+            "code": "DCC186",
+            "name": "ALGORITMOS PARA BIOINFORMÁTICA I",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC187": {
+            "code": "DCC187",
+            "name": "ALGORITMOS PARA BIOINFORMATICA II",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC188": {
+            "code": "DCC188",
+            "name": "ANALISE E MODELAGEM DE DESEMP. SIST.COMP",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC189": {
+            "code": "DCC189",
+            "name": "ARMAZÉNS DE DADOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC190": {
+            "code": "DCC190",
+            "name": "BIBLIOTECAS DIGITAIS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC191": {
+            "code": "DCC191",
+            "name": "COMPUTAÇÃO NATURAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC192": {
+            "code": "DCC192",
+            "name": "DESENVOLVIMENTO DE JOGOS DIGITAIS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC193": {
+            "code": "DCC193",
+            "name": "ENGENHARIA DE USABILIDADE",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC195": {
+            "code": "DCC195",
+            "name": "MÉTODOS QUANTIT. DE PESQ. EXPERIMENTAL EM CIÊNCIA COMPUTAÇÃO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC196": {
+            "code": "DCC196",
+            "name": "MODELAGEM DE PROCESSOS DE NEGOCIO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC197": {
+            "code": "DCC197",
+            "name": "PROCESSAMENTO DIGITAL DE SOM E VIDEO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC198": {
+            "code": "DCC198",
+            "name": "REDES COMPLEXAS EM COMP.: MODELAGEM, ALGORITMOS E APLICAÇÕES",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC199": {
+            "code": "DCC199",
+            "name": "TEORIA DOS GRAFOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC207": {
+            "code": "DCC207",
+            "name": "ALGORITMOS II",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICE019": {
+            "code": "ICE019",
+            "name": "PARTICIPACAO EM EVENTOS I",
+            "type": "DIG",
+            "credits": 1,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICE025": {
+            "code": "ICE025",
+            "name": "INICIACAO CIENTIFICA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICE026": {
+            "code": "ICE026",
+            "name": "ESTAGIO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 0,
+                "practice": 60
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICE027": {
+            "code": "ICE027",
+            "name": "PARTICIPACAO EM EMPRESA JUNIOR",
+            "type": "DIG",
+            "credits": 1,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICE028": {
+            "code": "ICE028",
+            "name": "EMPREENDENDORISMO",
+            "type": "DIG",
+            "credits": 1,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICE029": {
+            "code": "ICE029",
+            "name": "DISCUSSOES TEMATICAS",
+            "type": "DIG",
+            "credits": 1,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "LET223": {
+            "code": "LET223",
+            "name": "FUNDAMENTOS DE LIBRAS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MAT034": {
+            "code": "MAT034",
+            "name": "ÁLGEBRA A",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        }
+    },
+    "percursos": [
+        {
+            "id": "01-01",
+            "name": "BACHARELADO/ FORMAÇÃO LIVRE",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "CAD103",
+                        "DCC044",
+                        "DCC203",
+                        "DCC638",
+                        "MAT038"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "DCC204",
+                        "DCC216",
+                        "DCC639",
+                        "ECN101",
+                        "MAT001"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "DCC011",
+                        "DCC114",
+                        "DCC205",
+                        "EST031",
+                        "MAT039"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "CAD163",
+                        "DCC006",
+                        "DCC206",
+                        "TGI004"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "CAD004",
+                        "CIC010",
+                        "DCC024",
+                        "DCC194",
+                        "OTI071"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "CAD153",
+                        "DCC603",
+                        "DCC605"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "CAD167",
+                        "DCC023",
+                        "DCC072",
+                        "DCC636"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "CAD164",
+                        "DCC046",
+                        "DCC637"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 9,
+                    "codes": [
+                        "DCC073"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-01-01-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-06",
+                    "label": "Optativa 6",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-07",
+                    "label": "Optativa 7",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-08",
+                    "label": "Optativa 8",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-09",
+                    "label": "Optativa 9",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-10",
+                    "label": "Optativa 10",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-11",
+                    "label": "Optativa 11",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-12",
+                    "label": "Optativa 12",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-13",
+                    "label": "Optativa 13",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "DCC007",
+                    "group": "3",
+                    "prereqs": [
+                        "DCC006"
+                    ]
+                },
+                {
+                    "code": "DCC008",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC014",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC027",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC028",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC029",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC041",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC042",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC049",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC053",
+                    "group": "3",
+                    "prereqs": [
+                        "DCC129"
+                    ]
+                },
+                {
+                    "code": "DCC054",
+                    "group": "3",
+                    "prereqs": [
+                        "DCC053"
+                    ]
+                },
+                {
+                    "code": "DCC056",
+                    "group": "3",
+                    "prereqs": [
+                        "DCC023"
+                    ]
+                },
+                {
+                    "code": "DCC057",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC058",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC059",
+                    "group": "3",
+                    "prereqs": [
+                        "DCC024"
+                    ]
+                },
+                {
+                    "code": "DCC068",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC069",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC070",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC071",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC129",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC186",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC187",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC188",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC189",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC190",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC191",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC192",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC193",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC195",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC196",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC197",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC198",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC199",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC207",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICE019",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICE025",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICE026",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICE027",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICE028",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICE029",
+                    "group": "3",
+                    "prereqs": [
+                        "ICE035"
+                    ]
+                },
+                {
+                    "code": "LET223",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "MAT034",
+                    "group": "3",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "01-01",
+                "semesters": {
+                    "min": 8,
+                    "standard": 9,
+                    "max": 15
+                },
+                "enrollmentHours": {
+                    "min": 210,
+                    "max": null
+                },
+                "obligatoryHours": {
+                    "min": 2100,
+                    "max": 2100
+                },
+                "optionalHours": {
+                    "min": 780,
+                    "max": 780
+                },
+                "stageHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryPresetHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryOpenHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "freeHours": {
+                    "min": 120,
+                    "max": 120
+                },
+                "totalHours": 3000
+            }
+        }
+    ]
+}

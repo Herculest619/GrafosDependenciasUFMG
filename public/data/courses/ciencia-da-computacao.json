@@ -1,0 +1,2293 @@
+{
+    "schemaVersion": 2,
+    "id": "ciencia-da-computacao",
+    "meta": {
+        "id": "ciencia-da-computacao",
+        "name": "Ciência da Computação",
+        "variant": null,
+        "unit": "DCC — ICEx",
+        "campus": "Pampulha",
+        "shift": "Diurno",
+        "degree": "Bacharelado",
+        "layout": "versao",
+        "curriculum": "02001 · D-20192",
+        "source": {
+            "kind": "siga-versao-curricular",
+            "url": "https://dcc.ufmg.br/wp-content/uploads/versao_curricular_bcc_20241208.pdf",
+            "retrievedAt": "2026-11-05T11:19:32-03:00",
+            "note": null
+        },
+        "note": null
+    },
+    "generatedAt": "2026-11-05T14:38:35.871Z",
+    "disciplines": {
+        "CAD011": {
+            "code": "CAD011",
+            "name": "ADMINISTRACAO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC050": {
+            "code": "DCC050",
+            "name": "INTRODUCAO A CIENCIA DA COMPUTACAO",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC203": {
+            "code": "DCC203",
+            "name": "PROGRAMAÇÃO E DESENVOLVIMENTO DE SOFTWARE I",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC638": {
+            "code": "DCC638",
+            "name": "INTRODUÇÃO À LÓGICA COMPUTACIONAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MAT038": {
+            "code": "MAT038",
+            "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC204": {
+            "code": "DCC204",
+            "name": "PROGRAMAÇÃO E DESENVOLVIMENTO DE SOFTWARE II",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC203"
+            ],
+            "scheduled": true
+        },
+        "DCC216": {
+            "code": "DCC216",
+            "name": "MATEMÁTICA DISCRETA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC638"
+            ],
+            "scheduled": true
+        },
+        "DCC639": {
+            "code": "DCC639",
+            "name": "ÁLGEBRA LINEAR COMPUTACIONAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "MAT038"
+            ],
+            "scheduled": true
+        },
+        "ECN140": {
+            "code": "ECN140",
+            "name": "INTRODUÇÃO À ECONOMIA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MAT001": {
+            "code": "MAT001",
+            "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+            "type": "DIG",
+            "credits": 6,
+            "hours": {
+                "total": 90,
+                "theory": 90,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC011": {
+            "code": "DCC011",
+            "name": "INTRODUÇÃO A BANCO DE DADOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC203"
+            ],
+            "scheduled": true
+        },
+        "DCC114": {
+            "code": "DCC114",
+            "name": "INTRODUÇÃO AOS SISTEMAS LÓGICOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC638"
+            ],
+            "scheduled": true
+        },
+        "DCC205": {
+            "code": "DCC205",
+            "name": "ESTRUTURAS DE DADOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC204"
+            ],
+            "scheduled": true
+        },
+        "EST032": {
+            "code": "EST032",
+            "name": "PROBABILIDADE",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MAT039": {
+            "code": "MAT039",
+            "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "MAT001",
+                "MAT038"
+            ],
+            "scheduled": true
+        },
+        "DCC006": {
+            "code": "DCC006",
+            "name": "ORGANIZAÇÃO DE COMPUTADORES I",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC114"
+            ],
+            "scheduled": true
+        },
+        "DCC129": {
+            "code": "DCC129",
+            "name": "FUNDAMENTOS DA TEORIA DA COMPUTAÇÃO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC638"
+            ],
+            "scheduled": true
+        },
+        "DCC206": {
+            "code": "DCC206",
+            "name": "ALGORITMOS I",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC205"
+            ],
+            "scheduled": true
+        },
+        "DCC212": {
+            "code": "DCC212",
+            "name": "INTRODUÇÃO À CIÊNCIA DOS DADOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "MAT001",
+                "DCC216",
+                "DCC639",
+                "EST032"
+            ],
+            "scheduled": true
+        },
+        "MAT034": {
+            "code": "MAT034",
+            "name": "ÁLGEBRA A",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC024": {
+            "code": "DCC024",
+            "name": "LINGUAGENS DE PROGRAMACAO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC205"
+            ],
+            "scheduled": true
+        },
+        "DCC035": {
+            "code": "DCC035",
+            "name": "PESQUISA OPERACIONAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC207": {
+            "code": "DCC207",
+            "name": "ALGORITMOS II",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC206"
+            ],
+            "scheduled": true
+        },
+        "MAT040": {
+            "code": "MAT040",
+            "name": "EQUACOES DIFERENCIAIS C",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "MAT039"
+            ],
+            "scheduled": true
+        },
+        "DCC053": {
+            "code": "DCC053",
+            "name": "COMPILADORES I",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC129"
+            ],
+            "scheduled": true
+        },
+        "DCC603": {
+            "code": "DCC603",
+            "name": "ENGENHARIA DE SOFTWARE",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC011",
+                "DCC204"
+            ],
+            "scheduled": true
+        },
+        "DCC605": {
+            "code": "DCC605",
+            "name": "SISTEMAS OPERACIONAIS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC006"
+            ],
+            "scheduled": true
+        },
+        "FIS156": {
+            "code": "FIS156",
+            "name": "INTRODUÇÃO À FÍSICA ESTATÍSTICA COMPUTACIONAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC023": {
+            "code": "DCC023",
+            "name": "REDES DE COMPUTADORES",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC636": {
+            "code": "DCC636",
+            "name": "ÉTICA NA COMPUTAÇÃO",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC641": {
+            "code": "DCC641",
+            "name": "FUNDAMENTOS DE SISTEMAS PARALELOS E DISTRIBUÍDOS",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC642": {
+            "code": "DCC642",
+            "name": "INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC205"
+            ],
+            "scheduled": true
+        },
+        "DCC637": {
+            "code": "DCC637",
+            "name": "COMPUTAÇÃO E SOCIEDADE",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC636"
+            ],
+            "scheduled": true
+        },
+        "DCC604": {
+            "code": "DCC604",
+            "name": "PROJETO ORIENTADO EM COMPUTACAO I",
+            "type": "DIG",
+            "credits": 6,
+            "hours": {
+                "total": 90,
+                "theory": 0,
+                "practice": 90
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC009": {
+            "code": "DCC009",
+            "name": "PROJETO ORIENTADO EM COMPUTACAO II",
+            "type": "DIG",
+            "credits": 6,
+            "hours": {
+                "total": 90,
+                "theory": 0,
+                "practice": 90
+            },
+            "prereqs": [
+                "DCC604"
+            ],
+            "scheduled": true
+        },
+        "DCC007": {
+            "code": "DCC007",
+            "name": "ORGANIZAÇÃO DE COMPUTADORES II",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC006"
+            ],
+            "scheduled": false
+        },
+        "DCC008": {
+            "code": "DCC008",
+            "name": "SOFTWARE BASICO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC006"
+            ],
+            "scheduled": false
+        },
+        "DCC014": {
+            "code": "DCC014",
+            "name": "SISTEMA DE TEMPO REAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC027": {
+            "code": "DCC027",
+            "name": "COMPUTAÇÃO GRÁFICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC028": {
+            "code": "DCC028",
+            "name": "INTELIGENCIA ARTIFICIAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC029": {
+            "code": "DCC029",
+            "name": "PROCESSAMENTOS DIGITAL DE IMAGENS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC030": {
+            "code": "DCC030",
+            "name": "TOPICOS EM CIENCIA DA COMPUTACAO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC039": {
+            "code": "DCC039",
+            "name": "ROBOTICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC041": {
+            "code": "DCC041",
+            "name": "INTRODUÇÃO À ROBÓTICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC042": {
+            "code": "DCC042",
+            "name": "ROBÓTICA MÓVEL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC043": {
+            "code": "DCC043",
+            "name": "VISAO COMPUTACIONAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC054": {
+            "code": "DCC054",
+            "name": "COMPILADORES II",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC053"
+            ],
+            "scheduled": false
+        },
+        "DCC055": {
+            "code": "DCC055",
+            "name": "EMPREENDIMENTOS EM INFORMÁTICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC056": {
+            "code": "DCC056",
+            "name": "ENGENHARIA DE APLICACAO EM REDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC023"
+            ],
+            "scheduled": false
+        },
+        "DCC057": {
+            "code": "DCC057",
+            "name": "MINERACAO DE DADOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC058": {
+            "code": "DCC058",
+            "name": "PROJETOS E CONCEITOS DE SISTEMAS PARALELOS E DISTRIBUÍDOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC059": {
+            "code": "DCC059",
+            "name": "SEMANTICA FORMAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC072": {
+            "code": "DCC072",
+            "name": "ENGENHARIA DE SOFTWARE II",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "DCC603"
+            ],
+            "scheduled": false
+        },
+        "DCC186": {
+            "code": "DCC186",
+            "name": "ALGORITMOS PARA BIOINFORMÁTICA I",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC187": {
+            "code": "DCC187",
+            "name": "ALGORITMOS PARA BIOINFORMATICA II",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC188": {
+            "code": "DCC188",
+            "name": "ANALISE E MODELAGEM DE DESEMP. SIST.COMP",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC189": {
+            "code": "DCC189",
+            "name": "ARMAZÉNS DE DADOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC190": {
+            "code": "DCC190",
+            "name": "BIBLIOTECAS DIGITAIS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC191": {
+            "code": "DCC191",
+            "name": "COMPUTAÇÃO NATURAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC192": {
+            "code": "DCC192",
+            "name": "DESENVOLVIMENTO DE JOGOS DIGITAIS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC193": {
+            "code": "DCC193",
+            "name": "ENGENHARIA DE USABILIDADE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC194": {
+            "code": "DCC194",
+            "name": "INTERAÇÃO HUMANO-COMPUTADOR",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC195": {
+            "code": "DCC195",
+            "name": "MÉTODOS QUANTIT. DE PESQ. EXPERIMENTAL EM CIÊNCIA COMPUTAÇÃO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC196": {
+            "code": "DCC196",
+            "name": "MODELAGEM DE PROCESSOS DE NEGOCIO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC197": {
+            "code": "DCC197",
+            "name": "PROCESSAMENTO DIGITAL DE SOM E VIDEO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC198": {
+            "code": "DCC198",
+            "name": "REDES COMPLEXAS EM COMP.: MODELAGEM, ALGORITMOS E APLICAÇÕES",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC213": {
+            "code": "DCC213",
+            "name": "TÓPICOS EM FORMAÇÃO AVANÇADA I",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC214": {
+            "code": "DCC214",
+            "name": "TÓPICOS EM FORMAÇÃO AVANÇADA II",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCC215": {
+            "code": "DCC215",
+            "name": "HEURÍSTICAS E METAHEURÍSTICAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FIS065": {
+            "code": "FIS065",
+            "name": "FUNDAMENTOS DE MECANICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FIS069": {
+            "code": "FIS069",
+            "name": "FUNDAMENTOS DE ELETROMAGNETISMO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "FIS065",
+                "MAT039"
+            ],
+            "scheduled": false
+        },
+        "FIS086": {
+            "code": "FIS086",
+            "name": "FUNDAMENTOS DE OSCILAÇÕES,ONDAS E ÓPTICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "FIS069"
+            ],
+            "scheduled": false
+        },
+        "FIS087": {
+            "code": "FIS087",
+            "name": "FUNDAMENTOS DE OSCILACOES E ONDAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "FIS069"
+            ],
+            "scheduled": false
+        },
+        "FIS088": {
+            "code": "FIS088",
+            "name": "FUNDAMENTOS DE FÍSICA QUÂNTICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FIS151": {
+            "code": "FIS151",
+            "name": "FÍSICA EXPERIMENTAL BÁSICA: MECÂNICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FIS152": {
+            "code": "FIS152",
+            "name": "FUNDAMENTOS DE MECÂNICA DOS FLUIDOS E TERMODINÂMICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "FIS065",
+                "MAT001"
+            ],
+            "scheduled": false
+        },
+        "FIS153": {
+            "code": "FIS153",
+            "name": "FÍSICA EXPERIMENTAL BÁSICA: ELETROMAGNETISMO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [
+                "FIS151",
+                "FIS065"
+            ],
+            "scheduled": false
+        },
+        "FIS154": {
+            "code": "FIS154",
+            "name": "FÍSICA EXPERIMENTAL BÁSICA: TERMODINÂMICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [
+                "FIS151",
+                "FIS065"
+            ],
+            "scheduled": false
+        },
+        "FIS155": {
+            "code": "FIS155",
+            "name": "FÍSICA EXPERIMENTAL BÁSICA - ONDAS E ÓPTICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [
+                "FIS151",
+                "FIS065"
+            ],
+            "scheduled": false
+        },
+        "ICE131": {
+            "code": "ICE131",
+            "name": "PARTICIPAÇÃO EM EVENTOS I",
+            "type": "04G",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICE132": {
+            "code": "ICE132",
+            "name": "INICIAÇÃO CIENTÍFICA",
+            "type": "03G",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICE133": {
+            "code": "ICE133",
+            "name": "ESTÁGIO",
+            "type": "10G",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 0,
+                "practice": 60
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICE134": {
+            "code": "ICE134",
+            "name": "PARTICIPAÇÃO EM EMPRESA JÚNIOR",
+            "type": "12G",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICE135": {
+            "code": "ICE135",
+            "name": "EMPREENDEDORISMO",
+            "type": "11G",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICE136": {
+            "code": "ICE136",
+            "name": "DISCUSSÕES TEMÁTICAS",
+            "type": "07G",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "LET223": {
+            "code": "LET223",
+            "name": "FUNDAMENTOS DE LIBRAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MAT002": {
+            "code": "MAT002",
+            "name": "CALCULO DIFERENCIAL E INTEGRAL III",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "MAT039"
+            ],
+            "scheduled": false
+        },
+        "MAT008": {
+            "code": "MAT008",
+            "name": "ALGEBRA II",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 90,
+                "theory": 60,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        }
+    },
+    "percursos": [
+        {
+            "id": "01-01",
+            "name": "BACH./NÚCLEO COMP./NÚCLEO AVANÇADO/NÚCLEO GERAL",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "CAD011",
+                        "DCC050",
+                        "DCC203",
+                        "DCC638",
+                        "MAT038"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "DCC204",
+                        "DCC216",
+                        "DCC639",
+                        "ECN140",
+                        "MAT001"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "DCC011",
+                        "DCC114",
+                        "DCC205",
+                        "EST032",
+                        "MAT039"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "DCC006",
+                        "DCC129",
+                        "DCC206",
+                        "DCC212",
+                        "MAT034"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "DCC024",
+                        "DCC035",
+                        "DCC207",
+                        "MAT040"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "DCC053",
+                        "DCC603",
+                        "DCC605",
+                        "FIS156"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "DCC023",
+                        "DCC636",
+                        "DCC641",
+                        "DCC642"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "DCC637"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 9,
+                    "codes": [
+                        "DCC604"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 10,
+                    "codes": [
+                        "DCC009"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-01-01-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-06",
+                    "label": "Optativa 6",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-07",
+                    "label": "Optativa 7",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-08",
+                    "label": "Optativa 8",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-09",
+                    "label": "Optativa 9",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-10",
+                    "label": "Optativa 10",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-11",
+                    "label": "Optativa 11",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "DCC007",
+                    "group": "5",
+                    "prereqs": [
+                        "DCC006"
+                    ]
+                },
+                {
+                    "code": "DCC008",
+                    "group": "5",
+                    "prereqs": [
+                        "DCC006"
+                    ]
+                },
+                {
+                    "code": "DCC014",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC027",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC028",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC029",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC030",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC039",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC041",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC042",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC043",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC054",
+                    "group": "5",
+                    "prereqs": [
+                        "DCC053"
+                    ]
+                },
+                {
+                    "code": "DCC055",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC056",
+                    "group": "5",
+                    "prereqs": [
+                        "DCC023"
+                    ]
+                },
+                {
+                    "code": "DCC057",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC058",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC059",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC072",
+                    "group": "5",
+                    "prereqs": [
+                        "DCC603"
+                    ]
+                },
+                {
+                    "code": "DCC186",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC187",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC188",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC189",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC190",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC191",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC192",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC193",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC194",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC195",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC196",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC197",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC198",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC213",
+                    "group": "8",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC214",
+                    "group": "8",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC215",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "FIS065",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "FIS069",
+                    "group": "5",
+                    "prereqs": [
+                        "FIS065",
+                        "MAT039"
+                    ]
+                },
+                {
+                    "code": "FIS086",
+                    "group": "5",
+                    "prereqs": [
+                        "FIS069"
+                    ]
+                },
+                {
+                    "code": "FIS087",
+                    "group": "5",
+                    "prereqs": [
+                        "FIS069"
+                    ]
+                },
+                {
+                    "code": "FIS088",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "FIS151",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "FIS152",
+                    "group": "5",
+                    "prereqs": [
+                        "FIS065",
+                        "MAT001"
+                    ]
+                },
+                {
+                    "code": "FIS153",
+                    "group": "5",
+                    "prereqs": [
+                        "FIS151",
+                        "FIS065"
+                    ]
+                },
+                {
+                    "code": "FIS154",
+                    "group": "5",
+                    "prereqs": [
+                        "FIS151",
+                        "FIS065"
+                    ]
+                },
+                {
+                    "code": "FIS155",
+                    "group": "5",
+                    "prereqs": [
+                        "FIS151",
+                        "FIS065"
+                    ]
+                },
+                {
+                    "code": "ICE131",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICE132",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICE133",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICE134",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICE135",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICE136",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "LET223",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "MAT002",
+                    "group": "5",
+                    "prereqs": [
+                        "MAT039"
+                    ]
+                },
+                {
+                    "code": "MAT008",
+                    "group": "5",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "01-01",
+                "semesters": {
+                    "min": 8,
+                    "standard": 10,
+                    "max": 17
+                },
+                "enrollmentHours": {
+                    "min": 195,
+                    "max": 360
+                },
+                "obligatoryHours": {
+                    "min": 2040,
+                    "max": 2040
+                },
+                "optionalHours": {
+                    "min": 660,
+                    "max": 780
+                },
+                "stageHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryPresetHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryOpenHours": {
+                    "min": 360,
+                    "max": 360
+                },
+                "freeHours": {
+                    "min": 60,
+                    "max": 180
+                },
+                "totalHours": 3240
+            }
+        },
+        {
+            "id": "01-02",
+            "name": "BACH./NÚCLEO AVANÇADO/NÚCLEO GERAL",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "CAD011",
+                        "DCC050",
+                        "DCC203",
+                        "DCC638",
+                        "MAT038"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "DCC204",
+                        "DCC216",
+                        "DCC639",
+                        "ECN140",
+                        "MAT001"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "DCC011",
+                        "DCC114",
+                        "DCC205",
+                        "EST032",
+                        "MAT039"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "DCC006",
+                        "DCC129",
+                        "DCC206",
+                        "DCC212",
+                        "MAT034"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "DCC024",
+                        "DCC035",
+                        "DCC207",
+                        "MAT040"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "DCC053",
+                        "DCC603",
+                        "DCC605",
+                        "FIS156"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "DCC023",
+                        "DCC636",
+                        "DCC641",
+                        "DCC642"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "DCC637"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 9,
+                    "codes": [
+                        "DCC604"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 10,
+                    "codes": [
+                        "DCC009"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-01-02-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-06",
+                    "label": "Optativa 6",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-07",
+                    "label": "Optativa 7",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-08",
+                    "label": "Optativa 8",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-09",
+                    "label": "Optativa 9",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-10",
+                    "label": "Optativa 10",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-11",
+                    "label": "Optativa 11",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-12",
+                    "label": "Optativa 12",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-13",
+                    "label": "Optativa 13",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-14",
+                    "label": "Optativa 14",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-15",
+                    "label": "Optativa 15",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-16",
+                    "label": "Optativa 16",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-17",
+                    "label": "Optativa 17",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "DCC007",
+                    "group": "11",
+                    "prereqs": [
+                        "DCC006"
+                    ]
+                },
+                {
+                    "code": "DCC008",
+                    "group": "11",
+                    "prereqs": [
+                        "DCC006"
+                    ]
+                },
+                {
+                    "code": "DCC014",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC027",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC028",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC029",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC030",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC039",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC041",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC042",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC043",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC054",
+                    "group": "11",
+                    "prereqs": [
+                        "DCC053"
+                    ]
+                },
+                {
+                    "code": "DCC055",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC056",
+                    "group": "11",
+                    "prereqs": [
+                        "DCC023"
+                    ]
+                },
+                {
+                    "code": "DCC057",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC058",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC059",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC072",
+                    "group": "11",
+                    "prereqs": [
+                        "DCC603"
+                    ]
+                },
+                {
+                    "code": "DCC186",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC187",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC188",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC189",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC190",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC191",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC192",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC193",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC194",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC195",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC196",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC197",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC198",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC213",
+                    "group": "8",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC214",
+                    "group": "8",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC215",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "FIS065",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "FIS069",
+                    "group": "11",
+                    "prereqs": [
+                        "FIS065",
+                        "MAT039"
+                    ]
+                },
+                {
+                    "code": "FIS086",
+                    "group": "11",
+                    "prereqs": [
+                        "FIS069"
+                    ]
+                },
+                {
+                    "code": "FIS087",
+                    "group": "11",
+                    "prereqs": [
+                        "FIS069"
+                    ]
+                },
+                {
+                    "code": "FIS088",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "FIS151",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "FIS152",
+                    "group": "11",
+                    "prereqs": [
+                        "FIS065",
+                        "MAT001"
+                    ]
+                },
+                {
+                    "code": "FIS153",
+                    "group": "11",
+                    "prereqs": [
+                        "FIS151",
+                        "FIS065"
+                    ]
+                },
+                {
+                    "code": "FIS154",
+                    "group": "11",
+                    "prereqs": [
+                        "FIS151",
+                        "FIS065"
+                    ]
+                },
+                {
+                    "code": "FIS155",
+                    "group": "11",
+                    "prereqs": [
+                        "FIS151",
+                        "FIS065"
+                    ]
+                },
+                {
+                    "code": "ICE131",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICE132",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICE133",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICE134",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICE135",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICE136",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "LET223",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "MAT002",
+                    "group": "11",
+                    "prereqs": [
+                        "MAT039"
+                    ]
+                },
+                {
+                    "code": "MAT008",
+                    "group": "11",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "01-02",
+                "semesters": {
+                    "min": 8,
+                    "standard": 10,
+                    "max": 17
+                },
+                "enrollmentHours": {
+                    "min": 195,
+                    "max": 360
+                },
+                "obligatoryHours": {
+                    "min": 2040,
+                    "max": 2040
+                },
+                "optionalHours": {
+                    "min": 1020,
+                    "max": 1140
+                },
+                "stageHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryPresetHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryOpenHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "freeHours": {
+                    "min": 60,
+                    "max": 180
+                },
+                "totalHours": 3240
+            }
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "dcc/bcc",
+    "courseGuess": "Ciência da Computação",
+    "url": "https://dcc.ufmg.br/wp-content/uploads/versao_curricular_bcc_20241208.pdf",
+    "retrievedAt": "2026-11-05T11:19:32-03:00",
+    "extractor": "jina-reader",
+    "pages": 11,
+    "chars": 16467,
+    "sha256": "6fb9e638e116ff9863ec44c375fc477163bfe5061c87325e859de212e2c2950f"
+  },
+  {
+    "id": "dcc/bsi",
+    "courseGuess": "Sistemas de Informação",
+    "url": "https://dcc.ufmg.br/wp-content/uploads/versao_curricular_bsi_20250102.pdf",
+    "retrievedAt": "2026-11-05T11:19:32-03:00",
+    "extractor": "jina-reader",
+    "pages": 9,
+    "chars": 12792,
+    "sha256": "10160f7f9a792487a58e925f7dc8b34708a9108aae0881ba60e162a34c4ac4dc"
+  },
+  {
+    "id": "dcc/bec",
+    "courseGuess": "Engenharia de Computação",
+    "url": "https://dcc.ufmg.br/wp-content/uploads/versao_curricular_bec_2025.pdf",
+    "retrievedAt": "2026-11-05T11:19:32-03:00",
+    "extractor": "jina-reader",
+    "pages": 16,
+    "chars": 26951,
+    "sha256": "e1e95184d196b181e988aaa9b8c82de05f574796fd0a00212101d4574da07e45"
+  },
+  {
+    "id": "dcc/bcd",
+    "courseGuess": "Ciência de Dados",
+    "url": "https://dcc.ufmg.br/wp-content/uploads/versao_curricular_BCD_2025.pdf",
+    "retrievedAt": "2026-11-05T11:19:32-03:00",
+    "extractor": "jina-reader",
+    "pages": 10,
+    "chars": 17681,
+    "sha256": "3d6adf2e0b12607e66c30d80e7d3e3deb86c724ae560d87bbb7719394000f3d8"
+  }
+]

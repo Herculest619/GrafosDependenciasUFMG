@@ -1,0 +1,403 @@
+Configuração Curricular
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+Relatório de percurso curricular
+Pró-reitoria de Graduação
+Curso:
+Situação:
+Versão curricular:CIÊNCIA DE DADOS V-20241
+VigenteIdentificador: 01-01
+Nome: BACHARELADO/NÚCLEO AVANÇADO/NÚCLEO GERAL
+Formação Complementar: Nome: -Não Possui
+Disponibilidade nas subdivisões do curso:
+Subdivisão de Curso Disponível É versão para vinculação
+de ingressantes Modalidade Educacional
+02011PV001/Presencial/VESPERTINO/Bacharelado Sim Sim Presencial
+Regras gerais:
+Número de semestres para integralização Matrícula no semestre Regras adicionais
+Padrão Mínimo Máximo Carga horária mínima Carga horária máxima
+Período para opção de
+vinculação Pré-requisitos para opção de
+vinculação Integralização
+Carga horária mínima para
+integralização
+9 9 15 210 360 5 - - 3000
+Atividades acadêmicas e carga horária adicional por período
+Pró-reitoria de Graduação
+RELATÓRIO DE PERCURSO CURRICULAR
+Página 1 de 1026/02/2025 10.24.041º PERÍODO
+Atividades acadêmicas obrigatórias no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - CAD103 - ADMINISTRACAO TGA 4 60 0 60 N 5 OB - -
+DIG - DCC203 - PROGRAMAÇÃO E DESENVOLVIMENTO DE SOFTWARE I 4 60 0 60 N 5 OB - -
+DIG - DCC638 - INTRODUÇÃO À LÓGICA COMPUTACIONAL 4 60 0 60 N 5 OB - -
+DIG - ICE071 - FUNDAMENTOS DE CIÊNCIA DE DADOS 4 45 15 60 N 5 OB - -
+DIG - MAT001 - CALCULO DIFERENCIAL E INTEGRAL I 6 90 0 90 N 5 OB - -
+2º PERÍODO
+Atividades acadêmicas obrigatórias no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - DCC204 - PROGRAMAÇÃO E DESENVOLVIMENTO DE SOFTWARE II 4 60 0 60 N 5 OB DCC203 -
+DIG - DCC216 - MATEMÁTICA DISCRETA 4 60 0 60 N 5 OB DCC638 -
+DIG - EST229 - ESTATÍSTICA BÁSICA 4 60 0 60 N 5 OB ICE071 -
+DIG - MAT038 - GEOMETRIA ANALITICA E ALGEBRA LINEAR 4 60 0 60 N 5 OB - -
+DIG - MAT039 - CÁLCULO DIFERENCIAL E INTEGRAL II 4 60 0 60 N 5 OB MAT001 -
+3º PERÍODO
+Atividades acadêmicas obrigatórias no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - DCC011 - INTRODUÇÃO A BANCO DE DADOS 4 60 0 60 N 5 OB DCC204, DCC638 -
+DIG - DCC205 - ESTRUTURAS DE DADOS 4 60 0 60 N 5 OB DCC204 -
+DIG - DCC639 - ÁLGEBRA LINEAR COMPUTACIONAL 4 60 0 60 N 5 OB MAT001, MAT038 -
+DIG - ECN140 - INTRODUÇÃO À ECONOMIA 4 60 0 60 N 5 OB - -
+DIG - EST230 - PROBABILIDADE 6 90 0 90 N 5 OB MAT039 -
+Pró-reitoria de Graduação
+RELATÓRIO DE PERCURSO CURRICULAR
+Página 2 de 1026/02/2025 10.24.04Atividades acadêmicas obrigatórias no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - DCC011 - INTRODUÇÃO A BANCO DE DADOS 4 60 0 60 N 5 OB DCC204, DCC638 -
+DIG - DCC205 - ESTRUTURAS DE DADOS 4 60 0 60 N 5 OB DCC204 -
+DIG - DCC639 - ÁLGEBRA LINEAR COMPUTACIONAL 4 60 0 60 N 5 OB MAT001, MAT038 -
+DIG - ECN140 - INTRODUÇÃO À ECONOMIA 4 60 0 60 N 5 OB - -
+DIG - EST230 - PROBABILIDADE 6 90 0 90 N 5 OB MAT039 -
+4º PERÍODO
+Atividades acadêmicas obrigatórias no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - DCC194 - INTERAÇÃO HUMANO-COMPUTADOR 4 60 0 60 N 5 OB - -
+DIG - DCC206 - ALGORITMOS I 4 60 0 60 N 5 OB DCC205 -
+DIG - EST035 - ANÁLISE DE REGRESSÃO 4 60 0 60 N 5 OB EST229 -
+DIG - EST231 - INFERÊNCIA CLÁSSICA 4 60 0 60 N 5 OB EST230 -
+DIG - ICE072 - INTRODUÇÃO À CIÊNCIA DE DADOS 4 45 15 60 N 5 OB DCC639, EST230 -
+5º PERÍODO
+Atividades acadêmicas obrigatórias no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - DCC074 - FUNDAMENTOS DE ARQUITETURA DE COMPUTADORES 4 60 0 60 N 5 OB - -
+DIG - DCC603 - ENGENHARIA DE SOFTWARE 4 60 0 60 N 5 OB DCC205 -
+DIG - DCC642 - INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL 2 30 0 30 N 5 OB - -
+DIG - EST079 - MODELOS LINEARES GENERALIZADOS 4 60 0 60 N 5 OB EST035, EST231 -
+DIG - EST088 - INFERÊNCIA ESTATÍSTICA COM ABORDAGEM BAYESIANA 4 60 0 60 N 5 OB EST230, EST231 -
+DIG - ICE144 - MINERAÇÃO DE DADOS 4 45 15 60 N 5 OB ICE072 -
+Pró-reitoria de Graduação
+RELATÓRIO DE PERCURSO CURRICULAR
+Página 3 de 1026/02/2025 10.24.046º PERÍODO
+Atividades acadêmicas obrigatórias no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - DCC075 - FUNDAMENTOS DE SISTEMAS COMPUTACIONAIS 4 60 0 60 N 5 OB DCC074 -
+DIG - EST011 - ESTATÍSTICA MULTIVARIADA 4 60 0 60 N 5 OB EST035, MAT038, EST231 -
+DIG - EST080 - ESTATÍSTICA NÃO PARAMÉTRICA 4 60 0 60 N 5 OB EST231 -
+DIG - ICE145 - CIÊNCIA DE DADOS E SOCIEDADE 2 30 0 30 N 5 OB ICE072 -
+DIG - ICE146 - ÉTICA E CIÊNCIA DE DADOS 2 30 0 30 N 5 OB ICE072 -
+DIG - ICE147 - APRENDIZADO DE MÁQUINA SUPERVISIONADO 4 45 15 60 N 5 OB ICE144 -
+7º PERÍODO
+Atividades acadêmicas obrigatórias no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - DCC076 - RECUPERAÇÃO DE INFORMAÇÃO 4 60 0 60 N 5 OB DCC206 -
+DIG - DCC077 - INTRODUÇÃO À COMPUTAÇÃO VISUAL 4 60 0 60 N 5 OB MAT038 -
+DIG - EST038 - MÉTODOS ESTATÍSTICOS DE PREVISÃO 4 60 0 60 N 5 OB EST231 -
+DIG - EST090 - ANÁLISE DE SOBREVIVÊNCIA 4 60 0 60 N 5 OB EST035, EST231 -
+DIG - ICE148 - APRENDIZADO DE MÁQUINA NÃO SUPERVISIONADO 4 45 15 60 N 5 OB ICE147 -
+Carga horária adicional do período
+Grupo de Atividades: Carga Horária
+Optativas 60
+Pró-reitoria de Graduação
+RELATÓRIO DE PERCURSO CURRICULAR
+Página 4 de 1026/02/2025 10.24.048º PERÍODO
+Atividades acadêmicas obrigatórias no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - ICE149 - MONOGRAFIA I 4 30 30 60 N 5 OB - -
+Carga horária adicional do período
+Grupo de Atividades: Carga Horária
+Optativas 300
+9º PERÍODO
+Atividades acadêmicas obrigatórias no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - ICE150 - MONOGRAFIA II 4 30 30 60 N 5 OB ICE149 -
+Carga horária adicional do período
+Grupo de Atividades: Carga Horária
+Núcleo Geral 60
+Optativas 270
+Atividades de estágio curricular obrigatório
+Não existem atividades acadêmicas cadastradas.
+Observações:
+Obs.: As atividades obrigatórias de Estágio Curricular Obrigatório com período sugerido serão listadas apenas em seus respectivos períodos, na seção 'Atividades acadêmicas e carga horária adicional por período'.
+Pró-reitoria de Graduação
+RELATÓRIO DE PERCURSO CURRICULAR
+Página 5 de 1026/02/2025 10.24.04Atividades acadêmicas optativas no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - CAD004 - ADMINISTRAÇÃO DA PRODUÇÃO 4 60 0 60 N 10 OB - -
+DIG - CAD153 - ADMINISTRAÇÃO DE CUSTOS 4 60 0 60 N 10 OB - -
+DIG - CAD163 - ADMINISTRAÇÃO DE RECURSOS HUMANOS 4 60 0 60 N 10 OB - -
+DIG - CAD164 - ADMINISTRAÇÃO MERCADOLÓGICA 4 60 0 60 N 10 OB - -
+DIG - CAD167 - ADMINISTRAÇÃO FINANCEIRA 4 60 0 60 N 10 OB - -
+DIG - CIC010 - INTRODUÇÃO À CONTABILIDADE 4 60 0 60 N 10 OB - -
+DIG - DCC006 - ORGANIZAÇÃO DE COMPUTADORES I 4 60 0 60 N 10 OB - -
+DIG - DCC007 - ORGANIZAÇÃO DE COMPUTADORES II 4 60 0 60 N 10 OB - -
+DIG - DCC023 - REDES DE COMPUTADORES 4 60 0 60 N 10 OB - -
+DIG - DCC027 - COMPUTAÇÃO GRÁFICA 4 60 0 60 N 10 OB - -
+DIG - DCC035 - PESQUISA OPERACIONAL 4 60 0 60 N 10 OB - -
+DIG - DCC041 - INTRODUÇÃO À ROBÓTICA 4 60 0 60 N 10 OB - -
+DIG - DCC042 - ROBÓTICA MÓVEL 4 60 0 60 N 10 OB - -
+DIG - DCC053 - COMPILADORES I 4 60 0 60 N 10 OB - -
+DIG - DCC055 - EMPREENDIMENTOS EM INFORMÁTICA 4 60 0 60 N 10 OB - -
+DIG - DCC068 - TÓPICOS ESPECIAIS EM INFORMÁTICA I 1 15 0 15 S 10 OB - -
+DIG - DCC069 - TÓPICOS ESPECIAIS EM INFORMÁTICA II 2 30 0 30 S 10 OB - -
+DIG - DCC070 - TÓPICOS ESPECIAIS EM INFORMÁTICA III 3 45 0 45 S 10 OB - -
+DIG - DCC071 - TÓPICOS ESPECIAIS EM INFORMÁTICA IV 4 60 0 60 S 10 OB - -
+DIG - DCC078 - BANCOS DE DADOS GEOGRÁFICOS 4 60 0 60 N 10 OB - -
+DIG - DCC079 - BIOINFORMÁTICA 4 60 0 60 N 10 OB - -
+DIG - DCC080 - CIBERSEGURANÇA 4 60 0 60 N 10 OB - -
+DIG - DCC081 - FUNDAMENTOS ESTATÍSTICOS DE CIÊNCIA DOS DADOS A 4 60 0 60 N 10 OB - -
+DIG - DCC082 - FUNDAMENTOS ESTATÍSTICOS DE CIÊNCIA DOS DADOS B 4 60 0 60 N 10 OB - -
+DIG - DCC083 - GESTÃO DE EQUIPES 4 60 0 60 N 10 OB - -
+DIG - DCC084 - PROGRAMAÇÃO COMPETITIVA 4 60 0 60 N 10 OB - -
+DIG - DCC085 - PRÁTICA DE DESENVOLVIMENTO DE SOFTWARE 4 60 0 60 N 10 OB - -
+DIG - DCC086 - REDES COMPLEXAS 4 60 0 60 N 10 OB - -
+DIG - DCC087 - MÉTODOS QUALITATIVOS APLICADOS EM COMPUTAÇÃO 4 60 0 60 N 10 OB - -
+DIG - DCC088 - SISTEMAS EM REDES 4 60 0 60 N 10 OB - -
+DIG - DCC089 - TESTE DE SOFTWARE 4 60 0 60 N 10 OB - -
+Atividades optativas no percurso
+Pró-reitoria de Graduação
+RELATÓRIO DE PERCURSO CURRICULAR
+Página 6 de 1026/02/2025 10.24.04Atividades acadêmicas optativas no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - DCC090 - TEORIA DA INFORMAÇÃO 4 60 0 60 N 10 OB - -
+DIG - DCC091 - FLUXO DE INFORMAÇÃO QUANTITATIVO 4 60 0 60 N 10 OB - -
+DIG - DCC092 - MÉTODOS FORMAIS 4 60 0 60 N 10 OB - -
+DIG - DCC093 - SISTEMAS DE RECOMENDAÇÃO 4 60 0 60 N 10 OB - -
+DIG - DCC114 - INTRODUÇÃO AOS SISTEMAS LÓGICOS 4 60 0 60 N 10 OB - -
+DIG - DCC129 - FUNDAMENTOS DA TEORIA DA COMPUTAÇÃO 4 60 0 60 N 10 OB - -
+DIG - DCC186 - ALGORITMOS PARA BIOINFORMÁTICA I 4 60 0 60 N 10 OB - -
+DIG - DCC189 - ARMAZÉNS DE DADOS 4 60 0 60 N 10 OB - -
+DIG - DCC190 - BIBLIOTECAS DIGITAIS 4 60 0 60 N 10 OB - -
+DIG - DCC191 - COMPUTAÇÃO NATURAL 4 60 0 60 N 10 OB - -
+DIG - DCC192 - DESENVOLVIMENTO DE JOGOS DIGITAIS 4 60 0 60 N 10 OB - -
+DIG - DCC193 - ENGENHARIA DE USABILIDADE 4 60 0 60 N 10 OB - -
+DIG - DCC195 - MÉTODOS QUANTIT. DE PESQ. EXPERIMENTAL EM
+CIÊNCIA COMPUTAÇÃO 4 60 0 60 N 10 OB - -
+DIG - DCC198 - REDES COMPLEXAS EM COMP.: MODELAGEM,
+ALGORITMOS E APLICAÇÕES 4 60 0 60 N 10 OB - -
+DIG - DCC199 - TEORIA DOS GRAFOS 4 60 0 60 N 10 OB - -
+DIG - DCC207 - ALGORITMOS II 4 60 0 60 N 10 OB - -
+DIG - DCC215 - HEURÍSTICAS E METAHEURÍSTICAS 4 60 0 60 N 10 OB - -
+DIG - DCC605 - SISTEMAS OPERACIONAIS 4 60 0 60 N 10 OB - -
+DIG - DCC641 - FUNDAMENTOS DE SISTEMAS PARALELOS E
+DISTRIBUÍDOS 2 30 0 30 N 10 OB - -
+DIG - EST010 - CONTROLE DE QUALIDADE 4 60 0 60 N 10 OB EST035, EST231 -
+DIG - EST014 - ASPECTOS ESTATÍSTICOS DA ECONOMIA 4 60 0 60 N 10 OB EST035, EST231 -
+DIG - EST017 - PLANEJAMENTO DE EXPERIMENTOS INDUSTRIAIS 4 30 30 60 N 10 OB EST035, EST231 -
+DIG - EST019 - APLICAÇÕES DE AMOSTRAGEM 4 30 30 60 N 10 OB EST037, EST231 -
+DIG - EST028 - PROBABILIDADE II 6 90 0 90 N 10 OB EST232, MAT039 -
+DIG - EST036 - PLANEJAMENTO DE EXPERIMENTOS 4 60 0 60 N 10 OB EST035, EST231 -
+DIG - EST037 - AMOSTRAGEM 4 60 0 60 N 10 OB EST231 -
+DIG - EST039 - PROCESSOS ESTOCÁSTICOS 4 60 0 60 N 10 OB EST230 -
+DIG - EST046 - INTRODUÇÃO AO SEGURO E PREVIDÊNCIA 4 60 0 60 N 10 OB - -
+DIG - EST047 - TÉCNICAS ATUARIAIS I 4 60 0 60 N 10 OB EST230 -
+DIG - EST049 - TÉCNICAS ATUARIAIS II 4 60 0 60 N 10 OB EST230 -
+DIG - EST050 - TEORIA DO RISCO 4 60 0 60 N 10 OB EST230 -
+DIG - EST060 - PESQUISA DE OPINIÃO E MERCADO 4 60 0 60 N 10 OB EST037, EST231 -
+DIG - EST061 - AMOSTRAGEM INDUSTRIAL 4 60 0 60 N 10 OB EST037, EST231 -
+Pró-reitoria de Graduação
+RELATÓRIO DE PERCURSO CURRICULAR
+Página 7 de 1026/02/2025 10.24.04Atividades acadêmicas optativas no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - EST067 - ANÁLISE DE DADOS LONGITUDINAIS E EM
+CONGLOMERADOS 4 60 0 60 N 10 OB EST035, EST231 -
+DIG - EST089 - ANÁLISE DE DADOS CATEGÓRICOS 4 60 0 60 N 10 OB EST035, EST231 -
+DIG - EST093 - ESTATÍSTICA E SOCIEDADE 4 60 0 60 N 10 OB - -
+DIG - EST169 - ANÁLISE DE DADOS DISCRETOS 4 60 0 60 N 10 OB EST035, EST231 -
+DIG - EST232 - PROBABILIDADE I 6 90 0 90 N 10 OB MAT001, EST230 -
+DIG - EST233 - MÉTODOS COMPUTACIONAIS PARA CIÊNCIA DE DADOS I 4 30 30 60 N 10 OB - -
+DIG - EST234 - INTRODUÇÃO À INFERÊNCIA ESTATÍSTICA 6 90 0 90 N 10 OB EST232 -
+DIG - EST235 - INFERÊNCIA I 4 60 0 60 N 10 OB EST230, EST231 -
+DIG - EST236 - INFERÊNCIA II 4 60 0 60 N 10 OB EST235 -
+DIG - EST238 - MÉTODOS COMPUTACIONAIS PARA CIÊNCIA DE DADOS II 4 30 30 60 N 10 OB EST231 -
+DIG - EST239 - LABORATÓRIO DE ESTATÍSTICA I 6 90 0 90 N 10 OB EST079 -
+DIG - EST240 - ESTATÍSTICA ESPACIAL 4 60 0 60 N 10 OB EST035, EST231 -
+PGG - ICE047 - PARTICIPAÇÃO EM EMPRESA JÚNIOR I 1 0 15 15 S 9 OB - -
+PGG - ICE052 - PARTICIPAÇÃO EM EMPRESA JÚNIOR II 2 0 30 30 S 9 OB - -
+PGG - ICE053 - MONITORIA I 2 0 30 30 S 9 OB - -
+PGG - ICE054 - MONITORIA II 4 0 60 60 S 9 OB - -
+PGG - ICE067 - REPRESENTAÇÃO EM ÓRGÃOS COLEGIADOS 1 0 15 15 S 9 OB - -
+PGG - ICE068 - PARTICIPAÇÃO EM EVENTOS I 1 0 15 15 S 9 OB - -
+PJG - ICE075 - INICIAÇÃO CIENTÍFICA 4 0 60 60 S 9 OB - -
+EVG - ICE153 - CURSOS DE CAPACITAÇÃO 1 0 15 15 S 9 OB - -
+EVG - ICE156 - PARTICIPAÇÃO EM ATIVIDADES DE EXTENSÃO I 1 0 15 15 S 9 OB - -
+PGG - ICE157 - PARTICIPAÇÃO EM ATIVIDADE DE EXTENSÃO II 2 0 30 30 S 9 OB - -
+PGG - ICE158 - PARTICIPAÇÃO EM ATIVIDADE DE EXTENSÃO III 3 0 45 45 S 9 OB - -
+PGG - ICE159 - PARTICIPAÇÃO EM ATIVIDADE DE EXTENSÃO IV 4 0 60 60 S 9 OB - -
+DIG - ICE160 - FORMAÇÃO AVANÇADA I 1 15 0 15 S 3 OB - -
+DIG - ICE161 - FORMAÇÃO AVANÇADA II 2 30 0 30 S 3 OB - -
+DIG - ICE162 - FORMAÇÃO AVANÇADA III 3 45 0 45 S 3 OB - -
+DIG - ICE163 - FORMAÇÃO AVANÇADA IV 4 60 0 60 S 3 OB - -
+PGG - ICE164 - DIVULGAÇÃO DO CONHECIMENTO 4 0 60 60 S 9 OB - -
+DIG - ICE169 - TÓPICOS EM CIÊNCIA DE DADOS I 1 15 0 15 S 10 OB - -
+DIG - ICE170 - TÓPICOS EM CIÊNCIA DE DADOS II 2 30 0 30 S 10 OB - -
+DIG - ICE171 - TÓPICOS EM CIÊNCIA DE DADOS III 3 45 0 45 S 10 OB - -
+DIG - ICE172 - TÓPICOS EM CIÊNCIA DE DADOS IV 4 60 0 60 S 10 OB - -
+Pró-reitoria de Graduação
+RELATÓRIO DE PERCURSO CURRICULAR
+Página 8 de 1026/02/2025 10.24.04Atividades acadêmicas optativas no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+ETG - ICE173 - ESTÁGIO 4 0 60 60 S 9 OB - -
+PGG - ICE174 - DISCUSSÕES TEMÁTICAS 1 0 15 15 S 9 OB - -
+PJG - ICE179 - PARTICIPAÇÃO EM EMPRESA JÚNIOR III 3 0 45 45 S 9 OB - -
+PJG - ICE180 - PARTICIPAÇÃO EM EMPRESA JÚNIOR IV 4 0 60 60 S 9 OB - -
+DIG - LET223 - FUNDAMENTOS DE LIBRAS 4 60 0 60 N 10 OB - -
+DIG - MAT015 - EQUAÇÕES DIFERENCIAIS A 4 60 0 60 N 10 OB MAT039 -
+DIG - MAT034 - ÁLGEBRA A 4 60 0 60 N 10 OB - -
+DIG - MAT047 - ANÁLISE COMBINATÓRIA 4 60 0 60 N 10 OB - -
+DIG - MAT048 - ÁLGEBRA LINEAR I 4 60 0 60 N 10 OB MAT038 -
+DIG - OTI071 - ORGANIZAÇÃO E TRATAMENTO DA INFORMAÇÃO 4 60 0 60 N 10 OB - -
+DIG - TGI004 - USUÁRIOS DA INFORMAÇÃO 4 30 30 60 N 10 OB - -
+Quadro de integralização
+Semestres
+Carga horária de
+matrícula por semestre Carga horária em
+atividades obrigatórias
+Carga horária em
+atividades optativas
+Carga horária em
+estágio obrigatório
+Carga horária em
+atividades de formação
+complementar
+preestabelecida
+Carga horária em
+atividades de formação
+complementar aberta
+Carga horária em
+atividades de formação
+livre
+Mínimo Padrão Máximo Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima
+Total (Carga
+horária mínima
+para
+integralização)
+9 9 15 210 360 2310 2310 630 630 0 0 0 0 0 0 60 60 3000
+Propriedades do grupo não predefinido Carga Horária Regras
+Permite atividades
+Grupo
+Identificador Nome
+Natureza
+no
+percurso
+Natureza
+do Grupo Predef.
+Tipo de formação
+Do próprio curso Do próprio percurso
+Mínima Máxima Pré-requisitos Integralização
+Núcleo Específico6 OB OB Sim - - - 2940 2940 - -
+Obrigatórias5 OB OB Sim - - - 2310 2310 - -
+Optativas8 OB OB Sim - - - 630 630 - -
+Atividades Complementares9 OP OP Sim - - - - 120 - -
+Núcleo Avançado3 OP OP Sim - - - - 240 - -
+Grupos de atividades
+Pró-reitoria de Graduação
+RELATÓRIO DE PERCURSO CURRICULAR
+Página 9 de 1026/02/2025 10.24.04Propriedades do grupo não predefinido Carga Horária Regras
+Permite atividades
+Grupo
+Identificador Nome
+Natureza
+no
+percurso
+Natureza do
+Grupo Predef.
+Tipo de formação
+Do próprio curso Do próprio percurso
+Mínima Máxima Pré-requisitos Integralização
+Optativas Gerais10 OB OB Sim - - - 390 630 - -
+Núcleo Geral1 OB OB Não Livre Não Não 60 60 - -
+Código Descrição
+DIG DISCIPLINA GRADUAÇÃO
+PGG PROGRAMA
+PJG PROJETO
+EVG EVENTO
+ETG ESTÁGIO
+Tipos de atividades
+Não há regras curriculares.
+Regras curriculares
+Pró-reitoria de Graduação
+RELATÓRIO DE PERCURSO CURRICULAR
+Página 10 de 1026/02/2025 10.24.04

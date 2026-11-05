@@ -1,0 +1,590 @@
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+Configuração Curricular
+Pró-reitoria de Graduação
+Relatório de versão curricular
+Liberada
+D-20192
+Situação:
+Carga horária mínima para mudança de opção de vinculação: -
+Versão curricular:02001 - CIÊNCIA DA COMPUTAÇÃOCurso:
+Período mínimo para mudança de opção de vinculação: 1
+Disponibilidade nas subdivisões do curso:
+Percurso padrão
+Subdivisão de Curso
+É versão para
+vinculação de
+ingressantes
+Modalidade
+Educacional
+Identificador Nome
+02001PD001/Presencial/DIURNO Sim Presencial 01-02 BACH./NÚCLEO AVANÇADO/NÚCLEO GERAL
+Observações:
+-
+Percursos curriculares que compõem a versão:
+Identificador Nome
+01 CIENCIA DA COMPUTACAO-BACHARELADO - (M)
+01-02 ---BACH./NÚCLEO AVANÇADO/NÚCLEO GERAL
+01-01 ---BACH./NÚCLEO COMP./NÚCLEO AVANÇADO/NÚCLEO GERAL
+Atividades acadêmicas:
+08/12/2024 10.42.20 Página 1 de 11
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoTabela organizada por sugestão de período definido na versão curricular
+1º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - CAD011 - ADMINISTRACAO 4 4 60 30 30 01-01 - 2 OB OB -
+01-02 - 2 OB OB -
+DIG - DCC050 - INTRODUCAO A CIENCIA DA COMPUTACAO 2 2 30 30 0 01-01 - 2 OB OB -
+01-02 - 2 OB OB -
+DIG - DCC203 - PROGRAMAÇÃO E DESENVOLVIMENTO DE SOFTWARE I 4 4 60 60 0 01-01 - 2 OB OB -
+01-02 - 2 OB OB -
+DIG - DCC638 - INTRODUÇÃO À LÓGICA COMPUTACIONAL 4 4 60 60 0 01-01 - 2 OB OB -
+01-02 - 2 OB OB -
+DIG - MAT038 - GEOMETRIA ANALITICA E ALGEBRA LINEAR 4 4 60 60 0 01-01 - 2 OB OB -
+01-02 - 2 OB OB -
+2º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - DCC204 - PROGRAMAÇÃO E DESENVOLVIMENTO DE SOFTWARE II 4 4 60 60 0 01-01 - 2 OB OB DCC203
+01-02 - 2 OB OB DCC203
+DIG - DCC216 - MATEMÁTICA DISCRETA 4 4 60 60 0 01-01 - 2 OB OB DCC638
+01-02 - 2 OB OB DCC638
+DIG - DCC639 - ÁLGEBRA LINEAR COMPUTACIONAL 4 4 60 60 0 01-01 - 2 OB OB MAT038
+01-02 - 2 OB OB MAT038
+DIG - ECN140 - INTRODUÇÃO À ECONOMIA 4 4 60 60 0 01-01 - 2 OB OB -
+01-02 - 2 OB OB -
+DIG - MAT001 - CALCULO DIFERENCIAL E INTEGRAL I 6 6 90 90 0 01-01 - 2 OB OB -
+01-02 - 2 OB OB -
+08/12/2024 10.42.20 Página 2 de 11
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de Graduação3º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - DCC011 - INTRODUÇÃO A BANCO DE DADOS 4 4 60 60 0 01-01 - 2 OB OB DCC203
+01-02 - 2 OB OB DCC203
+DIG - DCC114 - INTRODUÇÃO AOS SISTEMAS LÓGICOS 4 4 60 60 0 01-01 - 2 OB OB DCC638
+01-02 - 2 OB OB DCC638
+DIG - DCC205 - ESTRUTURAS DE DADOS 4 4 60 60 0 01-01 - 2 OB OB DCC204
+01-02 - 2 OB OB DCC204
+DIG - EST032 - PROBABILIDADE 4 4 60 60 0 01-01 - 2 OB OB -
+01-02 - 2 OB OB -
+DIG - MAT039 - CÁLCULO DIFERENCIAL E INTEGRAL II 4 4 60 60 0 01-01 - 2 OB OB MAT001, MAT038
+01-02 - 2 OB OB MAT001, MAT038
+4º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - DCC006 - ORGANIZAÇÃO DE COMPUTADORES I 4 4 60 60 0 01-01 - 2 OB OB DCC114
+01-02 - 2 OB OB DCC114
+DIG - DCC129 - FUNDAMENTOS DA TEORIA DA COMPUTAÇÃO 4 4 60 60 0 01-01 - 2 OB OB DCC638
+01-02 - 2 OB OB DCC638
+DIG - DCC206 - ALGORITMOS I 4 4 60 60 0 01-01 - 2 OB OB DCC205
+01-02 - 2 OB OB DCC205
+DIG - DCC212 - INTRODUÇÃO À CIÊNCIA DOS DADOS 4 4 60 60 0 01-01 - 2 OB OB MAT001, DCC216,
+DCC639, EST032
+01-02 - 2 OB OB MAT001, DCC216,
+DCC639, EST032
+DIG - MAT034 - ÁLGEBRA A 4 4 60 60 0 01-01 - 2 OB OB -
+01-02 - 2 OB OB -
+Carga horária adicional do período
+Percurso Grupo de atividades Carga Horária
+01-01 6002001-D-20192-3 - Optativas
+01-02 6002001-D-20192-10 - Optativas
+08/12/2024 10.42.20 Página 3 de 11
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de Graduação5º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - DCC024 - LINGUAGENS DE PROGRAMACAO 4 4 60 60 0 01-01 - 2 OB OB DCC205
+01-02 - 2 OB OB DCC205
+DIG - DCC035 - PESQUISA OPERACIONAL 4 4 60 60 0 01-01 - 2 OB OB -
+01-02 - 2 OB OB -
+DIG - DCC207 - ALGORITMOS II 4 4 60 60 0 01-01 - 2 OB OB DCC206
+01-02 - 2 OB OB DCC206
+DIG - MAT040 - EQUACOES DIFERENCIAIS C 4 4 60 60 0 01-01 - 2 OB OB MAT039
+01-02 - 2 OB OB MAT039
+Carga horária adicional do período
+Percurso Grupo de atividades Carga Horária
+01-01 12002001-D-20192-3 - Optativas
+01-02 12002001-D-20192-10 - Optativas
+6º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - DCC053 - COMPILADORES I 4 4 60 60 0 01-01 - 2 OB OB DCC129
+01-02 - 2 OB OB DCC129
+DIG - DCC603 - ENGENHARIA DE SOFTWARE 4 4 60 60 0 01-01 - 2 OB OB DCC011, DCC204
+01-02 - 2 OB OB DCC011, DCC204
+DIG - DCC605 - SISTEMAS OPERACIONAIS 4 4 60 60 0 01-01 - 2 OB OB DCC006
+01-02 - 2 OB OB DCC006
+DIG - FIS156 - INTRODUÇÃO À FÍSICA ESTATÍSTICA COMPUTACIONAL 4 4 60 30 30 01-01 - 2 OB OB -
+01-02 - 2 OB OB -
+Carga horária adicional do período
+Percurso Grupo de atividades Carga Horária
+01-01 12002001-D-20192-8 - Núcleo Avançado
+01-02 12002001-D-20192-8 - Núcleo Avançado
+08/12/2024 10.42.20 Página 4 de 11
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de Graduação7º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - DCC023 - REDES DE COMPUTADORES 4 4 60 60 0 01-01 - 2 OB OB -
+01-02 - 2 OB OB -
+DIG - DCC636 - ÉTICA NA COMPUTAÇÃO 2 2 30 30 0 01-01 - 2 OB OB -
+01-02 - 2 OB OB -
+DIG - DCC641 - FUNDAMENTOS DE SISTEMAS PARALELOS E DISTRIBUÍDOS 2 2 30 30 0 01-01 - 2 OB OB -
+01-02 - 2 OB OB -
+DIG - DCC642 - INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL 2 2 30 30 0 01-01 - 2 OB OB DCC205
+01-02 - 2 OB OB DCC205
+Carga horária adicional do período
+Percurso Grupo de atividades Carga Horária
+01-01 6002001-D-20192-7 - Núcleo Geral
+12002001-D-20192-6 - Núcleo de Formação Complementar
+01-02 6002001-D-20192-7 - Núcleo Geral
+12002001-D-20192-10 - Optativas
+8º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - DCC637 - COMPUTAÇÃO E SOCIEDADE 2 2 30 30 0 01-01 - 2 OB OB DCC636
+01-02 - 2 OB OB DCC636
+Carga horária adicional do período
+Percurso Grupo de atividades Carga Horária
+01-01 6002001-D-20192-7 - Núcleo Geral
+24002001-D-20192-6 - Núcleo de Formação Complementar
+01-02 6002001-D-20192-7 - Núcleo Geral
+24002001-D-20192-10 - Optativas
+08/12/2024 10.42.20 Página 5 de 11
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de Graduação9º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - DCC604 - PROJETO ORIENTADO EM COMPUTACAO I 6 6 90 0 90 01-01 - 2 OB OB -
+01-02 - 2 OB OB -
+Carga horária adicional do período
+Percurso Grupo de atividades Carga Horária
+01-01 18002001-D-20192-8 - Núcleo Avançado
+6002001-D-20192-7 - Núcleo Geral
+01-02 6002001-D-20192-7 - Núcleo Geral
+18002001-D-20192-10 - Optativas
+10º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - DCC009 - PROJETO ORIENTADO EM COMPUTACAO II 6 6 90 0 90 01-01 - 2 OB OB DCC604
+01-02 - 2 OB OB DCC604
+Carga horária adicional do período
+Percurso Grupo de atividades Carga Horária
+01-01 18002001-D-20192-3 - Optativas
+01-02 18002001-D-20192-8 - Núcleo Avançado
+ATIVIDADES DE ESTÁGIO CURRICULAR OBRIGATÓRIO:
+Não existem atividades acadêmicas de estágio curricular obrigatório.
+08/12/2024 10.42.20 Página 6 de 11
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoATIVIDADES SEM PERÍODO SUGERIDO:
+Carga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - DCC007 - ORGANIZAÇÃO DE COMPUTADORES II 60 60 0 01-01 5 OP OP DCC006
+01-02 11 OP OP DCC006
+DIG - DCC008 - SOFTWARE BASICO 60 60 0 01-01 5 OP OP DCC006
+01-02 11 OP OP DCC006
+DIG - DCC014 - SISTEMA DE TEMPO REAL 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC027 - COMPUTAÇÃO GRÁFICA 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC028 - INTELIGENCIA ARTIFICIAL 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC029 - PROCESSAMENTOS DIGITAL DE IMAGENS 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC030 - TOPICOS EM CIENCIA DA COMPUTACAO 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC039 - ROBOTICA 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC041 - INTRODUÇÃO À ROBÓTICA 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC042 - ROBÓTICA MÓVEL 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC043 - VISAO COMPUTACIONAL 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC054 - COMPILADORES II 60 60 0 01-01 5 OP OP DCC053
+01-02 11 OP OP DCC053
+DIG - DCC055 - EMPREENDIMENTOS EM INFORMÁTICA 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC056 - ENGENHARIA DE APLICACAO EM REDE 60 60 0 01-01 5 OP OP DCC023
+01-02 11 OP OP DCC023
+DIG - DCC057 - MINERACAO DE DADOS 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC058 - PROJETOS E CONCEITOS DE SISTEMAS PARALELOS E
+DISTRIBUÍDOS
+60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC059 - SEMANTICA FORMAL 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC072 - ENGENHARIA DE SOFTWARE II 60 60 0 01-01 5 OP OP DCC603
+01-02 11 OP OP DCC603
+08/12/2024 10.42.20 Página 7 de 11
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - DCC186 - ALGORITMOS PARA BIOINFORMÁTICA I 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC187 - ALGORITMOS PARA BIOINFORMATICA II 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC188 - ANALISE E MODELAGEM DE DESEMP. SIST.COMP 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC189 - ARMAZÉNS DE DADOS 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC190 - BIBLIOTECAS DIGITAIS 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC191 - COMPUTAÇÃO NATURAL 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC192 - DESENVOLVIMENTO DE JOGOS DIGITAIS 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC193 - ENGENHARIA DE USABILIDADE 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC194 - INTERAÇÃO HUMANO-COMPUTADOR 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC195 - MÉTODOS QUANTIT. DE PESQ. EXPERIMENTAL EM CIÊNCIA
+COMPUTAÇÃO
+60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC196 - MODELAGEM DE PROCESSOS DE NEGOCIO 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC197 - PROCESSAMENTO DIGITAL DE SOM E VIDEO 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC198 - REDES COMPLEXAS EM COMP.: MODELAGEM, ALGORITMOS E
+APLICAÇÕES
+60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - DCC213 - TÓPICOS EM FORMAÇÃO AVANÇADA I 60 60 0 01-01 8 OP OP -
+01-02 8 OP OP -
+DIG - DCC214 - TÓPICOS EM FORMAÇÃO AVANÇADA II 30 30 0 01-01 8 OP OP -
+01-02 8 OP OP -
+DIG - DCC215 - HEURÍSTICAS E METAHEURÍSTICAS 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - FIS065 - FUNDAMENTOS DE MECANICA 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - FIS069 - FUNDAMENTOS DE ELETROMAGNETISMO 60 60 0 01-01 5 OP OP FIS065, MAT039
+01-02 11 OP OP FIS065, MAT039
+DIG - FIS086 - FUNDAMENTOS DE OSCILAÇÕES,ONDAS E ÓPTICA 60 60 0 01-01 5 OP OP FIS069
+01-02 11 OP OP FIS069
+DIG - FIS087 - FUNDAMENTOS DE OSCILACOES E ONDAS 30 30 0 01-01 5 OP OP FIS069
+01-02 11 OP OP FIS069
+08/12/2024 10.42.20 Página 8 de 11
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - FIS088 - FUNDAMENTOS DE FÍSICA QUÂNTICA 30 30 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - FIS151 - FÍSICA EXPERIMENTAL BÁSICA: MECÂNICA 30 0 30 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - FIS152 - FUNDAMENTOS DE MECÂNICA DOS FLUIDOS E TERMODINÂMICA 30 30 0 01-01 5 OP OP FIS065, MAT001
+01-02 11 OP OP FIS065, MAT001
+DIG - FIS153 - FÍSICA EXPERIMENTAL BÁSICA: ELETROMAGNETISMO 30 0 30 01-01 5 OP OP FIS151, FIS065
+01-02 11 OP OP FIS151, FIS065
+DIG - FIS154 - FÍSICA EXPERIMENTAL BÁSICA: TERMODINÂMICA 30 0 30 01-01 5 OP OP FIS151, FIS065
+01-02 11 OP OP FIS151, FIS065
+DIG - FIS155 - FÍSICA EXPERIMENTAL BÁSICA - ONDAS E ÓPTICA 30 0 30 01-01 5 OP OP FIS151, FIS065
+01-02 11 OP OP FIS151, FIS065
+04G - ICE131 - PARTICIPAÇÃO EM EVENTOS I 15 15 0 01-01 4 OP OP -
+01-02 4 OP OP -
+03G - ICE132 - INICIAÇÃO CIENTÍFICA 60 60 0 01-01 4 OP OP -
+01-02 4 OP OP -
+10G - ICE133 - ESTÁGIO 60 0 60 01-01 4 OP OP -
+01-02 4 OP OP -
+12G - ICE134 - PARTICIPAÇÃO EM EMPRESA JÚNIOR 15 0 15 01-01 4 OP OP -
+01-02 4 OP OP -
+11G - ICE135 - EMPREENDEDORISMO 15 15 0 01-01 4 OP OP -
+01-02 4 OP OP -
+07G - ICE136 - DISCUSSÕES TEMÁTICAS 15 15 0 01-01 4 OP OP -
+01-02 4 OP OP -
+DIG - LET223 - FUNDAMENTOS DE LIBRAS 60 60 0 01-01 5 OP OP -
+01-02 11 OP OP -
+DIG - MAT002 - CALCULO DIFERENCIAL E INTEGRAL III 60 60 0 01-01 5 OP OP MAT039
+01-02 11 OP OP MAT039
+DIG - MAT008 - ALGEBRA II 90 60 30 01-01 5 OP OP -
+01-02 11 OP OP -
+Quadro de integralização
+Semestres
+Carga horária de
+matrícula por
+semestre
+Carga horária em
+atividades
+obrigatória
+Carga horária em
+atividades optativa
+Carga horária em
+estágio obrigatório
+Carga horária em
+atividades de formação
+complementar
+preestabelecida
+Carga horária em
+atividades de
+formação
+complementar aberta
+Carga horária em
+atividades de
+formação livrePercurso
+Mínimo Padrão Máximo Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima
+Total (Carga horária
+mínima para
+integralização)
+08/12/2024 10.42.21 Página 9 de 11
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoSemestres
+Carga horária de
+matrícula por
+semestre
+Carga horária em
+atividades
+obrigatória
+Carga horária em
+atividades optativa
+Carga horária em
+estágio obrigatório
+Carga horária em
+atividades de formação
+complementar
+preestabelecida
+Carga horária em
+atividades de
+formação
+complementar aberta
+Carga horária em
+atividades de
+formação livrePercurso
+Mínimo Padrão Máximo Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima
+Total (Carga horária
+mínima para
+integralização)
+01-01 8 10 17 195 360 2040 2040 660 780 0 0 0 0 360 360 60 180 3240
+01-02 8 10 17 195 360 2040 2040 1020 1140 0 0 0 0 0 0 60 180 3240
+Propriedades do grupo não predefinido Carga
+Horária Regras
+Permite atividades
+Grupo
+NomeIdentificador
+Percursos
+Identificador
+Natureza
+no
+percurso
+Natureza do
+Grupo Predef.
+Tipo de formação Do
+próprio
+curso
+Do próprio
+percurso
+Mín. Máx. Pré-requisitos Integralização
+8 Núcleo Avançado 01-01 OP
+01-02 OP
+OP Sim - - - 0 300 - -
+6 Núcleo de Formação Complementar 01-01 OB OB Não Complementar aberta Não Não 360 360 - -
+1 Núcleo Específico 01-01 OB OB Sim - - - 2400 2820 - -
+2 Obrigatórias 01-01 OB
+01-02 OB
+OB Sim - - - 2040 2040 - -
+3 Optativas 01-01 OB OB Sim - - - 360 780 - -
+4 Atividades Complementares Geradoras de Crédito 01-01 OP
+01-02 OP
+OP Sim - - - 0 240 - -
+5 Optativas Gerais 01-01 OB OB Sim - - - 120 780 - -
+9 Núcleo Específico 01-02 OB OB Sim - - - 2760 3180 - -
+2 Obrigatórias 01-01 OB
+01-02 OB
+OB Sim - - - 2040 2040 - -
+10 Optativas 01-02 OB OB Sim - - - 720 1140 - -
+4 Atividades Complementares Geradoras de Crédito 01-01 OP
+01-02 OP
+OP Sim - - - 0 240 - -
+11 Optativas Gerais 01-02 OB OB Sim - - - 480 1140 - -
+7 Núcleo Geral 01-01 OB
+01-02 OB
+OB Não Livre Sim Não 60 180 - -
+Grupos de atividades:
+Tipos de atividades
+08/12/2024 10.42.21 Página 10 de 11
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCódigo Descrição
+DIG DISCIPLINA GRADUAÇÃO
+04G Participação em eventos
+03G Inici cient, projeto extensão ou pesq
+10G Estágio curricular
+12G Empresa Júnior
+11G Outros
+07G Discussões temáticas
+Não há regras curriculares.
+Regras curriculares
+08/12/2024 10.42.21 Página 11 de 11
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de Graduação

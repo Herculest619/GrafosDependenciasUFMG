@@ -1,0 +1,235 @@
+{
+    "schemaVersion": 2,
+    "generatedAt": "2026-11-05T14:38:35.993Z",
+    "courses": [
+        {
+            "id": "ciencia-da-computacao",
+            "name": "Ciência da Computação",
+            "variant": null,
+            "unit": "DCC — ICEx",
+            "campus": "Pampulha",
+            "shift": "Diurno",
+            "degree": "Bacharelado",
+            "layout": "versao",
+            "curriculum": "02001 · D-20192",
+            "source": {
+                "kind": "siga-versao-curricular",
+                "url": "https://dcc.ufmg.br/wp-content/uploads/versao_curricular_bcc_20241208.pdf",
+                "retrievedAt": "2026-11-05T11:19:32-03:00",
+                "note": null
+            },
+            "note": null,
+            "percursos": [
+                {
+                    "id": "01-01",
+                    "name": "BACH./NÚCLEO COMP./NÚCLEO AVANÇADO/NÚCLEO GERAL"
+                },
+                {
+                    "id": "01-02",
+                    "name": "BACH./NÚCLEO AVANÇADO/NÚCLEO GERAL"
+                }
+            ],
+            "stats": {
+                "disciplines": 35,
+                "edges": 25,
+                "periods": 10,
+                "optionalSlots": 17,
+                "totalHours": 3240
+            },
+            "file": "data/courses/ciencia-da-computacao.json"
+        },
+        {
+            "id": "ciencia-de-dados",
+            "name": "Ciência de Dados",
+            "variant": null,
+            "unit": "DCC — ICEx",
+            "campus": "Pampulha",
+            "shift": "Vespertino",
+            "degree": "Bacharelado",
+            "layout": "percurso",
+            "curriculum": "02011 · V-20241",
+            "source": {
+                "kind": "siga-versao-curricular",
+                "url": "https://dcc.ufmg.br/wp-content/uploads/versao_curricular_BCD_2025.pdf",
+                "retrievedAt": "2026-11-05T11:19:32-03:00",
+                "note": null
+            },
+            "note": null,
+            "percursos": [
+                {
+                    "id": "01-01",
+                    "name": "BACHARELADO/NÚCLEO AVANÇADO/NÚCLEO GERAL"
+                }
+            ],
+            "stats": {
+                "disciplines": 39,
+                "edges": 36,
+                "periods": 9,
+                "optionalSlots": 11,
+                "totalHours": 3000
+            },
+            "file": "data/courses/ciencia-de-dados.json"
+        },
+        {
+            "id": "engenharia-de-computacao",
+            "name": "Engenharia de Computação",
+            "variant": null,
+            "unit": "DCC — ICEx / Escola de Engenharia",
+            "campus": "Pampulha",
+            "shift": "Vespertino",
+            "degree": "Bacharelado",
+            "layout": "versao",
+            "curriculum": "02101 · V-20251",
+            "source": {
+                "kind": "siga-versao-curricular",
+                "url": "https://dcc.ufmg.br/wp-content/uploads/versao_curricular_bec_2025.pdf",
+                "retrievedAt": "2026-11-05T11:19:32-03:00",
+                "note": null
+            },
+            "note": null,
+            "percursos": [
+                {
+                    "id": "01-01",
+                    "name": "BACHARELADO/N. GERAL/N. AVANÇADO"
+                },
+                {
+                    "id": "01-02",
+                    "name": "BACHARELADO/N. AVANÇADO/N. COMPLEMENTAR"
+                }
+            ],
+            "stats": {
+                "disciplines": 52,
+                "edges": 41,
+                "periods": 10,
+                "optionalSlots": 10,
+                "totalHours": 3600
+            },
+            "file": "data/courses/engenharia-de-computacao.json"
+        },
+        {
+            "id": "fisica-bacharelado",
+            "name": "Física",
+            "variant": "Bacharelado",
+            "unit": "ICEx — Departamento de Física",
+            "campus": "Pampulha",
+            "shift": "Diurno",
+            "degree": "Bacharelado",
+            "curriculum": "Versão não registrada na fonte legada",
+            "source": {
+                "kind": "legacy-json",
+                "url": null,
+                "retrievedAt": null,
+                "note": "Convertido do JSON do projeto original (importado de PDF do Siga em 2025); carga horária e optativas não estão disponíveis nesta fonte."
+            },
+            "note": null,
+            "percursos": [
+                {
+                    "id": "padrao",
+                    "name": "Matriz curricular (fonte legada)"
+                }
+            ],
+            "stats": {
+                "disciplines": 31,
+                "edges": 38,
+                "periods": 7,
+                "optionalSlots": 0,
+                "totalHours": null
+            },
+            "file": "data/courses/fisica-bacharelado.json"
+        },
+        {
+            "id": "fisica-licenciatura-diurno",
+            "name": "Física",
+            "variant": "Licenciatura — Diurno",
+            "unit": "ICEx — Departamento de Física",
+            "campus": "Pampulha",
+            "shift": "Diurno",
+            "degree": "Licenciatura",
+            "curriculum": "Versão não registrada na fonte legada",
+            "source": {
+                "kind": "legacy-json",
+                "url": null,
+                "retrievedAt": null,
+                "note": "Convertido do JSON do projeto original (importado de PDF do Siga em 2025); carga horária e optativas não estão disponíveis nesta fonte."
+            },
+            "note": null,
+            "percursos": [
+                {
+                    "id": "padrao",
+                    "name": "Matriz curricular (fonte legada)"
+                }
+            ],
+            "stats": {
+                "disciplines": 41,
+                "edges": 49,
+                "periods": 9,
+                "optionalSlots": 0,
+                "totalHours": null
+            },
+            "file": "data/courses/fisica-licenciatura-diurno.json"
+        },
+        {
+            "id": "fisica-licenciatura-noturno",
+            "name": "Física",
+            "variant": "Licenciatura — Noturno",
+            "unit": "ICEx — Departamento de Física",
+            "campus": "Pampulha",
+            "shift": "Noturno",
+            "degree": "Licenciatura",
+            "curriculum": "Versão não registrada na fonte legada",
+            "source": {
+                "kind": "legacy-json",
+                "url": null,
+                "retrievedAt": null,
+                "note": "Convertido do JSON do projeto original (importado de PDF do Siga em 2025); carga horária e optativas não estão disponíveis nesta fonte."
+            },
+            "note": null,
+            "percursos": [
+                {
+                    "id": "padrao",
+                    "name": "Matriz curricular (fonte legada)"
+                }
+            ],
+            "stats": {
+                "disciplines": 41,
+                "edges": 48,
+                "periods": 10,
+                "optionalSlots": 0,
+                "totalHours": null
+            },
+            "file": "data/courses/fisica-licenciatura-noturno.json"
+        },
+        {
+            "id": "sistemas-de-informacao",
+            "name": "Sistemas de Informação",
+            "variant": null,
+            "unit": "DCC — ICEx",
+            "campus": "Pampulha",
+            "shift": "Noturno",
+            "degree": "Bacharelado",
+            "layout": "percurso",
+            "curriculum": "02009 · N-2019/9",
+            "source": {
+                "kind": "siga-versao-curricular",
+                "url": "https://dcc.ufmg.br/wp-content/uploads/versao_curricular_bsi_20250102.pdf",
+                "retrievedAt": "2026-11-05T11:19:32-03:00",
+                "note": null
+            },
+            "note": null,
+            "percursos": [
+                {
+                    "id": "01-01",
+                    "name": "BACHARELADO/ FORMAÇÃO LIVRE"
+                }
+            ],
+            "stats": {
+                "disciplines": 35,
+                "edges": 16,
+                "periods": 9,
+                "optionalSlots": 13,
+                "totalHours": 3000
+            },
+            "file": "data/courses/sistemas-de-informacao.json"
+        }
+    ]
+}

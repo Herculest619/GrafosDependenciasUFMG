@@ -1,0 +1,329 @@
+Configuração Curricular
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+Relatório de percurso curricular
+Pró-reitoria de Graduação
+Curso:
+Situação:
+Versão curricular:SISTEMAS DE INFORMAÇÃO N-2019/9
+VigenteIdentificador: 01-01
+Nome: BACHARELADO/ FORMAÇÃO LIVRE
+Formação Complementar: Nome: -Não Possui
+Disponibilidade nas subdivisões do curso:
+Subdivisão de Curso Disponível É versão para vinculação
+de ingressantes Modalidade Educacional
+02009PD001/Presencial/NOTURNO Sim Sim Presencial
+Regras gerais:
+Número de semestres para integralização Matrícula no semestre Regras adicionais
+Padrão Mínimo Máximo Carga horária mínima Carga horária máxima
+Período para opção de
+vinculação Pré-requisitos para opção de
+vinculação Integralização
+Carga horária mínima para
+integralização
+9 8 15 210 - 1 - - 3000
+Atividades acadêmicas e carga horária adicional por período
+Pró-reitoria de Graduação
+RELATÓRIO DE PERCURSO CURRICULAR
+Página 1 de 902/01/2025 11.17.361º PERÍODO
+Atividades acadêmicas obrigatórias no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - CAD103 - ADMINISTRACAO TGA 4 60 0 60 N 1 OB - -
+DIG - DCC044 - FUNDAMENTOS DE SISTEMAS DE INFORMACAO 2 30 0 30 N 1 OB - -
+DIG - DCC203 - PROGRAMAÇÃO E DESENVOLVIMENTO DE SOFTWARE I 4 60 0 60 N 1 OB - -
+DIG - DCC638 - INTRODUÇÃO À LÓGICA COMPUTACIONAL 4 60 0 60 N 1 OB - -
+DIG - MAT038 - GEOMETRIA ANALITICA E ALGEBRA LINEAR 4 60 0 60 N 1 OB - -
+2º PERÍODO
+Atividades acadêmicas obrigatórias no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - DCC204 - PROGRAMAÇÃO E DESENVOLVIMENTO DE SOFTWARE II 4 60 0 60 N 1 OB DCC203 -
+DIG - DCC216 - MATEMÁTICA DISCRETA 4 60 0 60 N 1 OB - -
+DIG - DCC639 - ÁLGEBRA LINEAR COMPUTACIONAL 4 60 0 60 N 1 OB MAT038 -
+DIG - ECN101 - ECONOMIA A I 4 60 0 60 N 1 OB - -
+DIG - MAT001 - CALCULO DIFERENCIAL E INTEGRAL I 6 90 0 90 N 1 OB - -
+3º PERÍODO
+Atividades acadêmicas obrigatórias no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - DCC011 - INTRODUÇÃO A BANCO DE DADOS 4 60 0 60 N 1 OB - -
+DIG - DCC114 - INTRODUÇÃO AOS SISTEMAS LÓGICOS 4 60 0 60 N 1 OB DCC216 -
+DIG - DCC205 - ESTRUTURAS DE DADOS 4 60 0 60 N 1 OB DCC204 -
+DIG - EST031 - ESTATISTICA E PROBABILIDADES 4 60 0 60 N 1 OB - -
+DIG - MAT039 - CÁLCULO DIFERENCIAL E INTEGRAL II 4 60 0 60 N 1 OB MAT001 -
+Pró-reitoria de Graduação
+RELATÓRIO DE PERCURSO CURRICULAR
+Página 2 de 902/01/2025 11.17.36Atividades acadêmicas obrigatórias no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - DCC011 - INTRODUÇÃO A BANCO DE DADOS 4 60 0 60 N 1 OB - -
+DIG - DCC114 - INTRODUÇÃO AOS SISTEMAS LÓGICOS 4 60 0 60 N 1 OB DCC216 -
+DIG - DCC205 - ESTRUTURAS DE DADOS 4 60 0 60 N 1 OB DCC204 -
+DIG - EST031 - ESTATISTICA E PROBABILIDADES 4 60 0 60 N 1 OB - -
+DIG - MAT039 - CÁLCULO DIFERENCIAL E INTEGRAL II 4 60 0 60 N 1 OB MAT001 -
+4º PERÍODO
+Atividades acadêmicas obrigatórias no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - CAD163 - ADMINISTRAÇÃO DE RECURSOS HUMANOS 4 60 0 60 N 1 OB CAD103 -
+DIG - DCC006 - ORGANIZAÇÃO DE COMPUTADORES I 4 60 0 60 N 1 OB DCC114 -
+DIG - DCC206 - ALGORITMOS I 4 60 0 60 N 1 OB DCC216, DCC205 -
+DIG - TGI004 - USUÁRIOS DA INFORMAÇÃO 4 30 30 60 N 1 OB - -
+Carga horária adicional do período
+Grupo de Atividades: Carga Horária
+Optativas 120
+5º PERÍODO
+Atividades acadêmicas obrigatórias no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - CAD004 - ADMINISTRAÇÃO DA PRODUÇÃO 4 60 0 60 N 1 OB CAD103 -
+DIG - CIC010 - INTRODUÇÃO À CONTABILIDADE 4 60 0 60 N 1 OB CAD103 -
+DIG - DCC024 - LINGUAGENS DE PROGRAMACAO 4 60 0 60 N 1 OB - -
+Pró-reitoria de Graduação
+RELATÓRIO DE PERCURSO CURRICULAR
+Página 3 de 902/01/2025 11.17.36Atividades acadêmicas obrigatórias no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - DCC194 - INTERAÇÃO HUMANO-COMPUTADOR 4 60 0 60 N 1 OB - -
+DIG - OTI071 - ORGANIZAÇÃO E TRATAMENTO DA INFORMAÇÃO 4 60 0 60 N 1 OB - -
+Carga horária adicional do período
+Grupo de Atividades: Carga Horária
+Optativas 60
+6º PERÍODO
+Atividades acadêmicas obrigatórias no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - CAD153 - ADMINISTRAÇÃO DE CUSTOS 4 60 0 60 N 1 OB CIC010 -
+DIG - DCC603 - ENGENHARIA DE SOFTWARE 4 60 0 60 N 1 OB - -
+DIG - DCC605 - SISTEMAS OPERACIONAIS 4 60 0 60 N 1 OB - -
+Carga horária adicional do período
+Grupo de Atividades: Carga Horária
+Optativas 180
+7º PERÍODO
+Atividades acadêmicas obrigatórias no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - CAD167 - ADMINISTRAÇÃO FINANCEIRA 4 60 0 60 N 1 OB CAD153 -
+DIG - DCC023 - REDES DE COMPUTADORES 4 60 0 60 N 1 OB - -
+Pró-reitoria de Graduação
+RELATÓRIO DE PERCURSO CURRICULAR
+Página 4 de 902/01/2025 11.17.36Atividades acadêmicas obrigatórias no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - DCC072 - ENGENHARIA DE SOFTWARE II 4 60 0 60 N 1 OB DCC603 -
+DIG - DCC636 - ÉTICA NA COMPUTAÇÃO 2 30 0 30 N 1 OB - -
+Carga horária adicional do período
+Grupo de Atividades: Carga Horária
+Optativas 120
+8º PERÍODO
+Atividades acadêmicas obrigatórias no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - CAD164 - ADMINISTRAÇÃO MERCADOLÓGICA 4 60 0 60 N 1 OB CAD103 -
+DIG - DCC046 - MONOGRAFIA EM SISTEMAS DE INFORMAÇÃO I 6 90 0 90 N 1 OB - -
+DIG - DCC637 - COMPUTAÇÃO E SOCIEDADE 2 30 0 30 N 1 OB - -
+Carga horária adicional do período
+Grupo de Atividades: Carga Horária
+Formação Livre 60
+Optativas 120
+Pró-reitoria de Graduação
+RELATÓRIO DE PERCURSO CURRICULAR
+Página 5 de 902/01/2025 11.17.369º PERÍODO
+Atividades acadêmicas obrigatórias no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - DCC073 - MONOGRAFIA EM SISTEMAS DE INFORMAÇÃO II 6 90 0 90 N 1 OB DCC046 -
+Carga horária adicional do período
+Grupo de Atividades: Carga Horária
+Formação Livre 60
+Optativas 180
+Atividades de estágio curricular obrigatório
+Não existem atividades acadêmicas cadastradas.
+Observações:
+Obs.: As atividades obrigatórias de Estágio Curricular Obrigatório com período sugerido serão listadas apenas em seus respectivos períodos, na seção 'Atividades acadêmicas e carga horária adicional por período'.
+Atividades acadêmicas optativas no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - DCC007 - ORGANIZAÇÃO DE COMPUTADORES II 4 60 0 60 N 3 OB DCC006 -
+DIG - DCC008 - SOFTWARE BASICO 4 60 0 60 N 3 OB - -
+DIG - DCC014 - SISTEMA DE TEMPO REAL 4 60 0 60 N 3 OB - -
+DIG - DCC027 - COMPUTAÇÃO GRÁFICA 4 60 0 60 N 3 OB - -
+DIG - DCC028 - INTELIGENCIA ARTIFICIAL 4 60 0 60 N 3 OB - -
+DIG - DCC029 - PROCESSAMENTOS DIGITAL DE IMAGENS 4 60 0 60 N 3 OB - -
+DIG - DCC041 - INTRODUÇÃO À ROBÓTICA 4 60 0 60 N 3 OB - -
+Atividades optativas no percurso
+Pró-reitoria de Graduação
+RELATÓRIO DE PERCURSO CURRICULAR
+Página 6 de 902/01/2025 11.17.36Atividades acadêmicas optativas no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - DCC042 - ROBÓTICA MÓVEL 4 60 0 60 N 3 OB - -
+DIG - DCC049 - TOPICOS EM SISTEMAS DE INFORMACAO 4 60 0 60 S 3 OB - -
+DIG - DCC053 - COMPILADORES I 4 60 0 60 N 3 OB DCC129 -
+DIG - DCC054 - COMPILADORES II 4 60 0 60 N 3 OB DCC053 -
+DIG - DCC056 - ENGENHARIA DE APLICACAO EM REDE 4 60 0 60 N 3 OB DCC023 -
+DIG - DCC057 - MINERACAO DE DADOS 4 60 0 60 N 3 OB - -
+DIG - DCC058 - PROJETOS E CONCEITOS DE SISTEMAS PARALELOS E
+DISTRIBUÍDOS 4 60 0 60 N 3 OB - -
+DIG - DCC059 - SEMANTICA FORMAL 4 60 0 60 N 3 OB DCC024 -
+DIG - DCC068 - TÓPICOS ESPECIAIS EM INFORMÁTICA I 1 15 0 15 S 3 OB - -
+DIG - DCC069 - TÓPICOS ESPECIAIS EM INFORMÁTICA II 2 30 0 30 S 3 OB - -
+DIG - DCC070 - TÓPICOS ESPECIAIS EM INFORMÁTICA III 3 45 0 45 S 3 OB - -
+DIG - DCC071 - TÓPICOS ESPECIAIS EM INFORMÁTICA IV 4 60 0 60 S 3 OB - -
+DIG - DCC129 - FUNDAMENTOS DA TEORIA DA COMPUTAÇÃO 4 60 0 60 N 3 OB - -
+DIG - DCC186 - ALGORITMOS PARA BIOINFORMÁTICA I 4 60 0 60 N 3 OB - -
+DIG - DCC187 - ALGORITMOS PARA BIOINFORMATICA II 4 60 0 60 N 3 OB - -
+DIG - DCC188 - ANALISE E MODELAGEM DE DESEMP. SIST.COMP 4 60 0 60 N 3 OB - -
+DIG - DCC189 - ARMAZÉNS DE DADOS 4 60 0 60 N 3 OB - -
+DIG - DCC190 - BIBLIOTECAS DIGITAIS 4 60 0 60 N 3 OB - -
+DIG - DCC191 - COMPUTAÇÃO NATURAL 4 60 0 60 N 3 OB - -
+DIG - DCC192 - DESENVOLVIMENTO DE JOGOS DIGITAIS 4 60 0 60 N 3 OB - -
+DIG - DCC193 - ENGENHARIA DE USABILIDADE 4 60 0 60 N 3 OB - -
+DIG - DCC195 - MÉTODOS QUANTIT. DE PESQ. EXPERIMENTAL EM
+CIÊNCIA COMPUTAÇÃO 4 60 0 60 N 3 OB - -
+DIG - DCC196 - MODELAGEM DE PROCESSOS DE NEGOCIO 4 60 0 60 N 3 OB - -
+DIG - DCC197 - PROCESSAMENTO DIGITAL DE SOM E VIDEO 4 60 0 60 N 3 OB - -
+DIG - DCC198 - REDES COMPLEXAS EM COMP.: MODELAGEM,
+ALGORITMOS E APLICAÇÕES 4 60 0 60 N 3 OB - -
+DIG - DCC199 - TEORIA DOS GRAFOS 4 60 0 60 N 3 OB - -
+DIG - DCC207 - ALGORITMOS II 4 60 0 60 N 3 OB - -
+DIG - ICE019 - PARTICIPACAO EM EVENTOS I 1 15 0 15 S 3 OB - -
+DIG - ICE025 - INICIACAO CIENTIFICA 4 60 0 60 S 3 OB - -
+DIG - ICE026 - ESTAGIO 4 0 60 60 S 3 OB - -
+DIG - ICE027 - PARTICIPACAO EM EMPRESA JUNIOR 1 0 15 15 S 3 OB - -
+DIG - ICE028 - EMPREENDENDORISMO 1 15 0 15 S 3 OB - -
+DIG - ICE029 - DISCUSSOES TEMATICAS 1 15 0 15 S 3 OB - -
+Pró-reitoria de Graduação
+RELATÓRIO DE PERCURSO CURRICULAR
+Página 7 de 902/01/2025 11.17.36Atividades acadêmicas optativas no percurso
+Carga Horária Grupo(s) de atividades ao(s) qual(quais) pertence
+Pré-requisitosAtividade Acadêmica Créditos
+Teórica Prática Total
+Conteúdo
+variável
+Grupo Natureza
+do grupo Atividades Adicionais
+DIG - ICE035 - ATIVIDADES PRATICAS INTEGRADORAS 6 90 0 90 S 3 OB - -
+DIG - LET223 - FUNDAMENTOS DE LIBRAS 4 60 0 60 N 3 OB - -
+DIG - MAT034 - ÁLGEBRA A 4 60 0 60 N 3 OB - -
+Quadro de integralização
+Semestres
+Carga horária de
+matrícula por semestre Carga horária em
+atividades obrigatórias
+Carga horária em
+atividades optativas
+Carga horária em estágio
+obrigatório
+Carga horária em
+atividades de formação
+complementar
+preestabelecida
+Carga horária em
+atividades de formação
+complementar aberta
+Carga horária em
+atividades de formação
+livre
+Mínimo Padrão Máximo Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima
+Total (Carga
+horária mínima
+para
+integralização)
+8 9 15 210 - 2100 2100 780 780 0 0 0 0 0 0 120 120 3000
+Propriedades do grupo não predefinido Carga Horária Regras
+Permite atividades
+Grupo
+Identificador Nome
+Natureza
+no
+percurso
+Natureza
+do Grupo Predef.
+Tipo de formação
+Do próprio curso Do próprio percurso
+Mínima Máxima Pré-requisitos Integralização
+Formação Livre2 OB OB Não Livre Não Não 120 120 - -
+Obrigatórias1 OB OB Sim - - - 2100 2100 - -
+Optativas3 OB OB Sim - - - 780 780 - -
+Grupos de atividades
+Código Descrição
+DIG DISCIPLINA GRADUAÇÃO
+Tipos de atividades
+Não há regras curriculares.
+Regras curriculares
+Pró-reitoria de Graduação
+RELATÓRIO DE PERCURSO CURRICULAR
+Página 8 de 902/01/2025 11.17.36Pró-reitoria de Graduação
+RELATÓRIO DE PERCURSO CURRICULAR
+Página 9 de 902/01/2025 11.17.36

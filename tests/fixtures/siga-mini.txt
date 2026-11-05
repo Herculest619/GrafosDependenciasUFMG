@@ -1,0 +1,176 @@
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+Configuração Curricular
+Pró-reitoria de Graduação
+Relatório de versão curricular
+Liberada
+D-20192
+Situação:
+Carga horária mínima para mudança de opção de vinculação: -
+Versão curricular:02001 - CURSO DE TESTE
+Curso:
+Período mínimo para mudança de opção de vinculação: 1
+Disponibilidade nas subdivisões do curso:
+Percurso padrão
+Subdivisão de Curso
+É versão para
+vinculação de
+ingressantes
+Modalidade
+Educacional
+Identificador Nome
+02001PD001/Presencial/DIURNO Sim Presencial 01-02 BACH./NÚCLEO AVANÇADO/NÚCLEO GERAL
+Observações:
+-
+Percursos curriculares que compõem a versão:
+Identificador Nome
+01 CURSO DE TESTE-BACHARELADO - (M)
+01-01 ---BACH./NÚCLEO COMP./NÚCLEO AVANÇADO/NÚCLEO GERAL
+01-02 ---BACH./NÚCLEO AVANÇADO/NÚCLEO GERAL
+Atividades acadêmicas:
+08/12/2024 10.42.20 Página 1 de 3
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoTabela organizada por sugestão de período definido na versão curricular
+1º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - TST100 - INTRODUÇÃO AO CURSO 4 4 60 60 0 01-01 - 2 OB OB -
+01-02 - 2 OB OB -
+DIG - TST101 - PROGRAMAÇÃO E DESENVOLVIMENTO DE SOFTWARE I 4 4 60 30 30 01-01 - 2 OB OB -
+01-02 - 2 OB OB -
+2º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - TST102 - ESTRUTURAS DE DADOS 4 4 60 45 15 01-01 - 2 OB OB TST101
+01-02 - 2 OB OB TST101
+08/12/2024 10.42.20 Página 2 de 3
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de Graduação3º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - TST103 - PROJETOS E CONCEITOS DE SISTEMAS PARALELOS E
+DISTRIBUÍDOS 4 4 60 60 0 01-01 - 2 OB OB TST102, TST100
+01-02 - 2 OB OB TST102, TST100
+Carga horária adicional do período
+Percurso Grupo de atividades Carga Horária
+01-01 6002001-D-20192-3 - Optativas
+01-02 12002001-D-20192-10 - Optativas
+ATIVIDADES DE ESTÁGIO CURRICULAR OBRIGATÓRIO:
+Não existem atividades acadêmicas de estágio curricular obrigatório.
+08/12/2024 10.42.20 Página 3 de 3
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoATIVIDADES SEM PERÍODO SUGERIDO:
+Carga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - TST200 - TÓPICOS AVANÇADOS 60 60 0 01-01 5 OP OP TST102
+01-02 11 OP OP TST102
+DIG - TST201 - TÓPICOS EM FORMAÇÃO COMPLEMENTAR 30 30 0 01-01 8 OP OP -
+01-02 8 OP OP -
+Quadro de integralização
+Semestres
+Carga horária de
+matrícula por
+semestre
+Carga horária em
+atividades
+obrigatória
+Carga horária em
+atividades optativa
+Carga horária em
+estágio obrigatório
+Carga horária em
+atividades de formação
+complementar
+preestabelecida
+Carga horária em
+atividades de
+formação
+complementar aberta
+Carga horária em
+atividades de
+formação livrePercurso
+Mínimo Padrão Máximo Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima
+Total (Carga horária
+mínima para
+integralização)
+01-01 8 10 17 195 360 2040 2040 660 780 0 0 0 0 360 360 60 180 3240
+01-02 8 10 17 195 360 2040 2040 1020 1140 0 0 0 0 0 0 60 180 3240
+Propriedades do grupo não predefinido Carga
+Horária Regras
+Permite atividades
+Grupo
+NomeIdentificador
+Percursos
+Identificador
+Natureza
+no
+percurso
+Natureza do
+Grupo Predef.
+Tipo de formação Do
+próprio
+curso
+Do próprio
+percurso
+Mín. Máx. Pré-requisitos Integralização
+8 Núcleo Avançado 01-01 OP
+01-02 OP
+OP Sim - - - 0 300 - -
+3 Optativas 01-01 OB OB Sim - - - 360 780 - -
+Grupos de atividades:
+Tipos de atividades
+Código Descrição
+DIG DISCIPLINA GRADUAÇÃO
+Regras curriculares
+Não há regras curriculares.
