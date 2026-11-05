@@ -52,7 +52,7 @@ function baseOptions() {
             dragNodes: true,
             tooltipDelay: 150,
             zoomView: true,
-            navigationButtons: true,
+            navigationButtons: false,
             keyboard: false,
         },
         nodes: {
@@ -150,11 +150,18 @@ function mountNetwork() {
     network = new Network(container.value, { nodes: nodesSet, edges: edgesSet }, baseOptions())
 
     network.on('click', (params) => {
-        if (!params.nodes.length) return
-        const nodeId = params.nodes[0]
+        // O evento "click" do vis-network traz params.nodes apenas quando há seleção;
+        // como os nós não são selecionáveis, fazemos o hit-test pelo ponteiro.
+        const nodeId = network.getNodeAt(params.pointer.DOM)
+        if (nodeId === undefined || nodeId === null) return
         if (String(nodeId).startsWith('__level_')) return
         emit('toggle', nodeId)
     })
+
+    // expõe a instância para depuração/ testes e2e: abra a página com ?debug=1
+    if (typeof window !== 'undefined' && window.location.search.includes('debug')) {
+        window.__graphNetwork = network
+    }
 
     scheduleInitialView(0)
 }
@@ -189,9 +196,8 @@ function fitAll() {
 }
 
 /**
- * Câmera inicial: começa nos primeiros períodos com zoom legível.
- * Se o grafo inteiro couber na tela, mostra tudo; senão alinha à esquerda
- * (o usuário arrasta/usa os botões de navegação para o restante).
+ * Câmera inicial: começa nos primeiros períodos com zoom 100% (texto nítido).
+ * O grafo inteiro pode ser visto pelo botão "Ajustar".
  */
 function goToStart() {
     if (!network || !container.value) return
@@ -202,30 +208,15 @@ function goToStart() {
     for (const level of levels) rowsByLevel.set(level, (rowsByLevel.get(level) ?? 0) + 1)
 
     const minX = Math.min(...levels) * LEVEL_SPACING
-    const maxX = Math.max(...levels) * LEVEL_SPACING
     const minY = HEADER_OFFSET
     const maxY = (Math.max(...rowsByLevel.values()) - 1) * ROW_SPACING
-
     const width = container.value.clientWidth
-    const height = container.value.clientHeight
-    const graphWidth = maxX - minX + 320
-    const graphHeight = maxY - minY + 120
-    const fitScale = Math.min(width / graphWidth, height / graphHeight)
+    const scale = 1
 
-    if (fitScale >= 0.75) {
-        network.moveTo({
-            scale: Math.min(fitScale, 1),
-            position: { x: (minX + maxX) / 2, y: (minY + maxY) / 2 },
-            animation: false,
-        })
-        return
-    }
-
-    const scale = 0.8
     network.moveTo({
         scale,
         position: {
-            x: minX - 180 + width / 2 / scale,
+            x: minX - 140 + width / 2 / scale,
             y: (minY + maxY) / 2,
         },
         animation: false,

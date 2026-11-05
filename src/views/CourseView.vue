@@ -59,6 +59,10 @@ const nextPeriod = computed(() =>
 
 const disciplinesByCode = computed(() => state.course?.disciplines ?? {})
 
+const hasOptionalSlots = computed(() =>
+    (state.course?.percursos ?? []).some((percurso) => (percurso.optionalSlots ?? []).length > 0)
+)
+
 const suggestions = computed(() => {
     const term = search.value.trim()
     if (term.length < 2 || !graph.value) return []
@@ -243,7 +247,10 @@ function prerequisiteLabel(code) {
                         </label>
 
                         <div class="flex flex-wrap items-center gap-2">
-                            <label class="inline-flex cursor-pointer items-center gap-2 text-sm">
+                            <label
+                                v-if="hasOptionalSlots"
+                                class="inline-flex cursor-pointer items-center gap-2 text-sm"
+                            >
                                 <input
                                     v-model="showOptionalSlots"
                                     type="checkbox"
@@ -251,6 +258,12 @@ function prerequisiteLabel(code) {
                                 />
                                 Mostrar optativas
                             </label>
+                            <span
+                                v-else
+                                class="inline-flex items-center gap-2 text-xs text-amber-600 dark:text-amber-400"
+                            >
+                                Esta matriz não tem optativas mapeadas
+                            </span>
                             <div class="ml-auto flex gap-2">
                                 <button
                                     v-if="viewMode === 'graph'"
@@ -337,7 +350,8 @@ function prerequisiteLabel(code) {
                         <p class="mt-3 text-xs text-gray-500 dark:text-gray-400">
                             Clique em uma disciplina para marcar/desmarcar. Você pode marcar mesmo
                             sem os pré-requisitos (“quebra”) para simular cenários. Cada coluna é um
-                            período sugerido.
+                            período sugerido. Arraste para navegar e use o scroll (ou pinça) para
+                            dar zoom; “Ajustar” mostra o grafo inteiro.
                         </p>
                     </section>
                 </aside>
