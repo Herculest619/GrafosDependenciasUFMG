@@ -25,11 +25,24 @@ const COLORS = {
     slot: { background: '#c4b5fd', border: '#7c3aed' },
 }
 
+/**
+ * Repete a cor de estado em hover/highlight. Sem isso o vis-network aplica o
+ * destaque padrão (fundo branco) ao passar o mouse ou ao arrastar o nó, e a cor
+ * de "já cursada"/"pode cursar" parece sumir.
+ */
+function paint(color) {
+    return {
+        ...color,
+        hover: { background: color.background, border: color.border },
+        highlight: { background: color.background, border: color.border },
+    }
+}
+
 function colorFor(node) {
     if (node.kind === 'slot') {
-        return props.status.get(node.id) === 'taken' ? COLORS.taken : COLORS.slot
+        return paint(props.status.get(node.id) === 'taken' ? COLORS.taken : COLORS.slot)
     }
-    return COLORS[props.status.get(node.id)] ?? COLORS.blocked
+    return paint(COLORS[props.status.get(node.id)] ?? COLORS.blocked)
 }
 
 function labelColor() {
@@ -49,7 +62,7 @@ function baseOptions() {
         interaction: {
             hover: true,
             selectable: false,
-            dragNodes: false,
+            dragNodes: true,
             tooltipDelay: 150,
             zoomView: true,
             navigationButtons: false,
@@ -110,7 +123,7 @@ function nodePositions(nodes) {
             title: node.title,
             x: level * LEVEL_SPACING,
             y: index * ROW_SPACING,
-            fixed: { x: true, y: true },
+            fixed: { x: true },
         }
     })
     return [...levelHeaders(nodes), ...items]
@@ -159,9 +172,16 @@ function mountNetwork() {
         emit('toggle', nodeId)
     })
 
-    // Nós não são arrastáveis (cada coluna é um período): evitar que o vis-network
-    // deixe o nó em estado de seleção/destaque ao arrastar.
+    // O arrasto vertical é permitido (para reorganizar dentro do período), mas o
+    // vis-network seleciona o nó durante o gesto e guarda a posição só no modelo
+    // interno. Gravamos a posição no DataSet e limpamos a seleção para a cor de
+    // estado continuar valendo.
     network.on('dragEnd', () => {
+        const positions = network.getPositions()
+        const changed = Object.entries(positions)
+            .filter(([id]) => !String(id).startsWith('__level_'))
+            .map(([id, point]) => ({ id, x: point.x, y: point.y }))
+        if (changed.length) nodesSet.update(changed)
         network.unselectAll()
         refreshColors()
     })
