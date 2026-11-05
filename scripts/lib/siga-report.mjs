@@ -113,9 +113,17 @@ export function detectLayout(text) {
     return 'versao'
 }
 
+// Identificador de percurso: "01-01" (numérico) ou "R-01" (alguns cursos, ex. Museologia)
+const PERCURSO_ID_SOURCE = '(?:\\d{2}-\\d{2}|[A-Z]{1,2}-\\d{2})'
+
 function splitSegments(rest) {
-    return rest
-        .split(/(?=\b\d{2}-\d{2}\b)/)
+    const marker = '\u0001'
+    const withMarkers = String(rest).replace(
+        new RegExp(`(^|\\s)(${PERCURSO_ID_SOURCE})(?=\\s)`, 'g'),
+        `$1${marker}$2`
+    )
+    return withMarkers
+        .split(marker)
         .map((segment) => segment.trim())
         .filter(Boolean)
 }
@@ -134,7 +142,7 @@ function toNumber(token) {
 
 /** Interpreta um segmento de percurso (layout "versão curricular"). */
 export function parsePercursoSegment(segment) {
-    const match = segment.match(/^(\d{2}-\d{2})\s+(.*)$/)
+    const match = segment.match(new RegExp(`^(${PERCURSO_ID_SOURCE})\\s+(.*)$`))
     if (!match) return null
     const percursoId = match[1]
     let rest = match[2].trim()
@@ -146,30 +154,39 @@ export function parsePercursoSegment(segment) {
     }
 
     const tokens = rest.split(/\s+/)
-    const picks = []
-    while (tokens.length && picks.length < 3) {
-        const token = tokens[0]
-        if (token === '-' || /^\d+$/.test(token) || /^(OB|OP)$/i.test(token)) {
-            picks.push(tokens.shift())
-        } else {
-            break
-        }
-    }
-    while (picks.length < 3) picks.push('-')
 
-    const [group, natureGroup, naturePercurso] = picks
+    // Colunas fixas: [grupo] [natureza no grupo] [natureza no percurso] pré-requisitos.
+    // O "grupo" pode ser um número ("4"), um identificador completo
+    // ("13002-D-20141-1") ou "-".
+    const isNature = (token) => /^(OB|OP)$/i.test(token)
+    let group = null
+    if (tokens.length && !isNature(tokens[0])) {
+        const token = tokens.shift()
+        group = token === '-' ? null : token
+    }
+    let natureGroup = null
+    let naturePercurso = null
+    if (tokens.length && (isNature(tokens[0]) || tokens[0] === '-')) {
+        const token = tokens.shift()
+        natureGroup = token === '-' ? null : token.toUpperCase()
+    }
+    if (tokens.length && (isNature(tokens[0]) || tokens[0] === '-')) {
+        const token = tokens.shift()
+        naturePercurso = token === '-' ? null : token.toUpperCase()
+    }
+
     return {
         percursoId,
         suggestion,
-        group: group === '-' ? null : group,
-        natureGroup: natureGroup === '-' ? null : natureGroup.toUpperCase(),
-        naturePercurso: naturePercurso === '-' ? null : naturePercurso.toUpperCase(),
+        group,
+        natureGroup,
+        naturePercurso,
         prereqs: parsePrereqs(tokens.join(' ')),
     }
 }
 
 /** Layout "versão curricular": TIPO - CÓD - NOME cMin cMax CHTotal CHTeo CHPra + segmentos por percurso. */
-function parseActivityVersaoPeriod(line, warnings) {
+function parseActivityVersaoPeriod(line, context, warnings) {
     const lineMatch = line.match(ACTIVITY_START)
     if (!lineMatch) return null
     const [, type, code, rest] = lineMatch
@@ -198,7 +215,7 @@ function parseActivityVersaoPeriod(line, warnings) {
 }
 
 /** Layout "versão curricular" / "sem período sugerido": 5 campos numéricos no período, 3 no bloco de optativas. */
-function parseActivityVersaoUnscheduled(line, warnings) {
+function parseActivityVersaoUnscheduled(line, context, warnings) {
     const lineMatch = line.match(ACTIVITY_START)
     if (!lineMatch) return null
     const [, type, code, rest] = lineMatch
@@ -349,7 +366,7 @@ function parseHeader(headerLines, layout) {
 
     const percursos = []
     if (layout === 'percurso') {
-        const idMatch = header.match(/Identificador:\s*(\d{2}-\d{2})/)
+        const idMatch = header.match(new RegExp(`Identificador:\\s*(${PERCURSO_ID_SOURCE})`))
         const nameMatch = header.match(/Nome:\s*([^\n]+)/)
         if (idMatch) {
             percursos.push({
@@ -359,7 +376,7 @@ function parseHeader(headerLines, layout) {
         }
     } else {
         for (const line of headerLines.map(normalizeLine)) {
-            const match = line.match(/^(\d{2}-\d{2})\s+-{0,4}(.+)$/)
+            const match = line.match(new RegExp(`^(${PERCURSO_ID_SOURCE})\\s+-{0,4}(.+)$`))
             if (!match) continue
             const name = match[2].replace(/^\s*-+\s*/, '').trim()
             if (!name || /^\(M\)$/.test(name)) continue
@@ -385,7 +402,7 @@ function parseIntegralizacao(lines, header) {
     const rows = []
 
     const numbered = /^((?:\d+\s+|-\s+){17}(?:\d+|-))$/
-    const withPercurso = /^(\d{2}-\d{2})\s+((?:[\d-]+\s+){17}[\d-]+)$/
+    const withPercurso = new RegExp(`^(${PERCURSO_ID_SOURCE})\\s+((?:[\\d-]+\\s+){17}[\\d-]+)$`)
 
     for (const rawLine of lines) {
         const line = normalizeLine(rawLine)
@@ -450,9 +467,12 @@ function parseRegrasGerais(lines) {
 function parseGroupNames(lines, layout) {
     const names = new Map()
 
-    const versaoAdditionalHours = /^(\d{2}-\d{2})\s+(\S+)-(\d{1,2})\s+-\s+(.+)$/
-    const versaoProperties =
-        /^(\d{1,2})\s+([A-Za-zÀ-Úà-ú][A-Za-zÀ-Úà-ú .]+?)\s+\d{2}-\d{2}\s+(?:OB|OP)\b/
+    const versaoAdditionalHours = new RegExp(
+        `^(${PERCURSO_ID_SOURCE})\\s+(\\S+)-(\\d{1,2})\\s+-\\s+(.+)$`
+    )
+    const versaoProperties = new RegExp(
+        `^(\\d{1,2})\\s+([A-Za-zÀ-Úà-ú][A-Za-zÀ-Úà-ú .]+?)\\s+${PERCURSO_ID_SOURCE}\\s+(?:OB|OP)\\b`
+    )
     const percursoProperties = /^(.+?)(\d{1,2})\s+(?:OB|OP)\s+(?:OB|OP)\s+(?:Sim|N[ãa]o)?\s*/
 
     for (const rawLine of lines) {

@@ -258,7 +258,8 @@ export function buildSigaCourse(parsed, options) {
     }, 0)
 
     const stats = {
-        disciplines: Object.values(disciplines).filter((discipline) => discipline.scheduled).length,
+        // números do percurso padrão (primeiro) — é o que a página abre por padrão
+        disciplines: graph.stats.disciplines,
         edges: graph.stats.edges,
         periods: Math.max(
             ...course.percursos.map((percurso) => percurso.periods.at(-1)?.number ?? 0),

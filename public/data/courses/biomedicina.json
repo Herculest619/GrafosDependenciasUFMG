@@ -1,0 +1,4273 @@
+{
+    "schemaVersion": 2,
+    "id": "biomedicina",
+    "meta": {
+        "id": "biomedicina",
+        "name": "Biomedicina",
+        "variant": null,
+        "unit": "Faculdade de Farmácia",
+        "campus": "Pampulha",
+        "shift": "Noturno",
+        "degree": "Bacharelado",
+        "layout": "versao",
+        "curriculum": "18001 · N-20262",
+        "source": {
+            "kind": "siga-versao-curricular",
+            "url": "https://www.farmacia.ufmg.br/wp-content/uploads/2026/04/N-20262.pdf",
+            "retrievedAt": "2026-11-05T12:34:25-03:00",
+            "note": null
+        },
+        "note": null
+    },
+    "generatedAt": "2026-11-05T15:39:16.777Z",
+    "disciplines": {
+        "ACT080": {
+            "code": "ACT080",
+            "name": "INTRODUÇÃO À BIOMEDICINA",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "EST083": {
+            "code": "EST083",
+            "name": "BIOESTATISTICA BASICA F",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MOF009": {
+            "code": "MOF009",
+            "name": "ANATOMIA HUMANA BASICA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 15,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MOF143": {
+            "code": "MOF143",
+            "name": "CITOLOGIA E HISTOLOGIA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "QUI203": {
+            "code": "QUI203",
+            "name": "QUIMICA GERAL F",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "QUI204": {
+            "code": "QUI204",
+            "name": "QUIMICA GERAL EXPERIMENTAL F",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "BIG157": {
+            "code": "BIG157",
+            "name": "GENÉTICA F",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "BIQ050": {
+            "code": "BIQ050",
+            "name": "BIOQUIMICA CELULAR F",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 75,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "BIQ602": {
+            "code": "BIQ602",
+            "name": "IMUNOLOGIA BASICA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [
+                "MOF143"
+            ],
+            "scheduled": true
+        },
+        "FIB618": {
+            "code": "FIB618",
+            "name": "BIOFÍSICA B",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MOF008": {
+            "code": "MOF008",
+            "name": "EMBRIOLOGIA GERAL",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "FIB619": {
+            "code": "FIB619",
+            "name": "FISIOLOGIA F",
+            "type": "DIG",
+            "credits": 6,
+            "hours": {
+                "total": 90,
+                "theory": 75,
+                "practice": 15
+            },
+            "prereqs": [
+                "MOF143",
+                "FIB618",
+                "MOF009"
+            ],
+            "scheduled": true
+        },
+        "QUI095": {
+            "code": "QUI095",
+            "name": "INTRODUÇÃO À QUÍMICA ORGÂNICA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "QUI203",
+                "QUI204"
+            ],
+            "scheduled": true
+        },
+        "QUI297": {
+            "code": "QUI297",
+            "name": "QUÍMICA ANALÍTICA EXPERIMENTAL F",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [
+                "QUI203",
+                "QUI204"
+            ],
+            "scheduled": true
+        },
+        "QUI298": {
+            "code": "QUI298",
+            "name": "QUÍMICA ANALÍTICA F",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "QUI203",
+                "QUI204"
+            ],
+            "scheduled": true
+        },
+        "BIQ058": {
+            "code": "BIQ058",
+            "name": "BIOLOGIA MOLECULAR F",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "BIQ050"
+            ],
+            "scheduled": true
+        },
+        "FAR122": {
+            "code": "FAR122",
+            "name": "FARMACOLOGIA BÁSICA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [
+                "FIB618",
+                "FIB619",
+                "BIQ050"
+            ],
+            "scheduled": true
+        },
+        "MIC123": {
+            "code": "MIC123",
+            "name": "MICROBIOLOGIA BÁSICA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [
+                "MOF143",
+                "BIQ050"
+            ],
+            "scheduled": true
+        },
+        "PAG011": {
+            "code": "PAG011",
+            "name": "PATOLOGIA GERAL F",
+            "type": "DIG",
+            "credits": 6,
+            "hours": {
+                "total": 90,
+                "theory": 45,
+                "practice": 45
+            },
+            "prereqs": [
+                "BIQ602",
+                "FIB619"
+            ],
+            "scheduled": true
+        },
+        "PAR106": {
+            "code": "PAR106",
+            "name": "PARASITOLOGIA HUMANA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [
+                "MOF143",
+                "BIQ602"
+            ],
+            "scheduled": true
+        },
+        "ACT017": {
+            "code": "ACT017",
+            "name": "BIOLOGIA MOLECULAR APLICADA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [
+                "BIG157",
+                "BIQ058"
+            ],
+            "scheduled": true
+        },
+        "ACT026": {
+            "code": "ACT026",
+            "name": "ETICA E LEGISLACAO BIOMEDICA",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "ACT080"
+            ],
+            "scheduled": true
+        },
+        "ACT140": {
+            "code": "ACT140",
+            "name": "BIOQUÍMICA CLÍNICA I",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 45,
+                "practice": 30
+            },
+            "prereqs": [
+                "BIQ050"
+            ],
+            "scheduled": true
+        },
+        "ACT605": {
+            "code": "ACT605",
+            "name": "IMUNOLOGIA CLINICA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [
+                "BIQ602"
+            ],
+            "scheduled": true
+        },
+        "ACT081": {
+            "code": "ACT081",
+            "name": "TOXICOLOGIA AMBIENTAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [
+                "FAR122"
+            ],
+            "scheduled": true
+        },
+        "ACT141": {
+            "code": "ACT141",
+            "name": "BACTERIOLOGIA CLÍNICA",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 45,
+                "practice": 30
+            },
+            "prereqs": [
+                "MIC123"
+            ],
+            "scheduled": true
+        },
+        "ACT142": {
+            "code": "ACT142",
+            "name": "BIOQUÍMICA CLÍNICA II",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 45,
+                "practice": 30
+            },
+            "prereqs": [
+                "ACT140",
+                "QUI095"
+            ],
+            "scheduled": true
+        },
+        "FAS135": {
+            "code": "FAS135",
+            "name": "EPIDEMIOLOGIA",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "EST083"
+            ],
+            "scheduled": true
+        },
+        "ACT045": {
+            "code": "ACT045",
+            "name": "HEMATOLOGIA CLINICA",
+            "type": "DIG",
+            "credits": 7,
+            "hours": {
+                "total": 105,
+                "theory": 45,
+                "practice": 60
+            },
+            "prereqs": [
+                "FIB619"
+            ],
+            "scheduled": true
+        },
+        "ACT143": {
+            "code": "ACT143",
+            "name": "PARASITOLOGIA CLÍNICA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [
+                "PAR106",
+                "ACT605"
+            ],
+            "scheduled": true
+        },
+        "ALM139": {
+            "code": "ALM139",
+            "name": "MÉTODOS ANALÍTICOS APLICADOS A ALIMENTOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [
+                "QUI297",
+                "MIC123",
+                "QUI298"
+            ],
+            "scheduled": true
+        },
+        "FAS012": {
+            "code": "FAS012",
+            "name": "POLITICAS DE SAUDE",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "FAS135"
+            ],
+            "scheduled": true
+        },
+        "ACT016": {
+            "code": "ACT016",
+            "name": "RADIOISOTOPOS EM DIAGNOSTICO",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [
+                "QUI203"
+            ],
+            "scheduled": true
+        },
+        "ACT018": {
+            "code": "ACT018",
+            "name": "GESTAO DA QUALIDADE NO LAB. CLINICO",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "ACT141",
+                "ACT142",
+                "ACT045"
+            ],
+            "scheduled": true
+        },
+        "ACT072": {
+            "code": "ACT072",
+            "name": "MICOLOGIA CLINICA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [
+                "MIC123"
+            ],
+            "scheduled": true
+        },
+        "ACT082": {
+            "code": "ACT082",
+            "name": "ATIVIDADE INTEGRADORA",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "ACT142",
+                "ACT045"
+            ],
+            "scheduled": true
+        },
+        "ACT602": {
+            "code": "ACT602",
+            "name": "CITOLOGIA CLINICA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [
+                "PAG011"
+            ],
+            "scheduled": true
+        },
+        "ACT144": {
+            "code": "ACT144",
+            "name": "ESTÁGIO EM CIÊNCIAS BIOMÉDICAS I",
+            "type": "ETG",
+            "credits": 22,
+            "hours": {
+                "total": 330,
+                "theory": 30,
+                "practice": 300
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ACT086": {
+            "code": "ACT086",
+            "name": "MONOGRAFIA DE CONCLUSÃO DE CURSO",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ACT145": {
+            "code": "ACT145",
+            "name": "ESTÁGIO EM CIÊNCIAS BIOMÉDICAS II",
+            "type": "ETG",
+            "credits": 21,
+            "hours": {
+                "total": 315,
+                "theory": 30,
+                "practice": 285
+            },
+            "prereqs": [
+                "ACT141",
+                "ACT142",
+                "ACT045"
+            ],
+            "scheduled": true
+        },
+        "ACT067": {
+            "code": "ACT067",
+            "name": "TOXICOLOGIA FORENSE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [
+                "FAR122"
+            ],
+            "scheduled": false
+        },
+        "ACT073": {
+            "code": "ACT073",
+            "name": "BIOTECNOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [
+                "BIQ058"
+            ],
+            "scheduled": false
+        },
+        "ACT087": {
+            "code": "ACT087",
+            "name": "REPRODUÇÃO HUMANA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "MOF143"
+            ],
+            "scheduled": false
+        },
+        "ACT134": {
+            "code": "ACT134",
+            "name": "IMAGENS BIOMÉDICAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ACT135": {
+            "code": "ACT135",
+            "name": "SAÚDE DE POPULAÇÕES VULNERABILIZADAS I",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ACT136": {
+            "code": "ACT136",
+            "name": "SAÚDE DE POPULAÇÕES VULNERABILIZADAS II",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "ACT135"
+            ],
+            "scheduled": false
+        },
+        "ACT138": {
+            "code": "ACT138",
+            "name": "TOXICOLOGIA SOCIAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ACT139": {
+            "code": "ACT139",
+            "name": "VACINAS E IMUNIZAÇÕES",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ACT146": {
+            "code": "ACT146",
+            "name": "BANCO DE SANGUE E ANÁLISES IMUNO-HEMATOLÓGICAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "BIQ602"
+            ],
+            "scheduled": false
+        },
+        "ACT147": {
+            "code": "ACT147",
+            "name": "CITOLOGIA CLÍNICA APLICADA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [
+                "ACT602"
+            ],
+            "scheduled": false
+        },
+        "ACT148": {
+            "code": "ACT148",
+            "name": "FISIOPATOLOGIA DAS DOENÇAS HEPÁTICAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ACT149": {
+            "code": "ACT149",
+            "name": "FISIOPATOLOGIA DAS DOENÇAS RENAIS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ACT150": {
+            "code": "ACT150",
+            "name": "VIROLOGIA CLÍNICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "BIQ602"
+            ],
+            "scheduled": false
+        },
+        "ACT151": {
+            "code": "ACT151",
+            "name": "MICOLOGIA CLÍNICA APLICADA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 0,
+                "practice": 60
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ACT152": {
+            "code": "ACT152",
+            "name": "ORGANIZAÇÃO DE EVENTOS E CURSOS DE EXTENSÃO",
+            "type": "EVG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ACT153": {
+            "code": "ACT153",
+            "name": "PARTICIPAÇÃO EM GESTÃO DE CENTRO ACADÊMICO",
+            "type": "PGG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ACT154": {
+            "code": "ACT154",
+            "name": "PSEUDOCIÊNCIAS E OUTRAS LOROTAS EM SAÚDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "ACT026"
+            ],
+            "scheduled": false
+        },
+        "ACT155": {
+            "code": "ACT155",
+            "name": "SAÚDE E SEXUALIDADE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ACT156": {
+            "code": "ACT156",
+            "name": "TÓPICOS AVANÇADOS EM BIOMEDICINA I",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ACT157": {
+            "code": "ACT157",
+            "name": "TÓPICOS AVANÇADOS EM BIOMEDICINA II",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ACT158": {
+            "code": "ACT158",
+            "name": "TÓPICOS AVANÇADOS EM BIOMEDICINA III",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ACT159": {
+            "code": "ACT159",
+            "name": "TÓPICOS AVANÇADOS EM BIOMEDICINA IV",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ACT160": {
+            "code": "ACT160",
+            "name": "TÓPICOS AVANÇADOS EM BIOMEDICINA V",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 75,
+                "theory": 75,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ACT161": {
+            "code": "ACT161",
+            "name": "TÓPICOS AVANÇADOS EM BIOMEDICINA VI",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 90,
+                "theory": 90,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ACT162": {
+            "code": "ACT162",
+            "name": "TÓPICOS AVANÇADOS EM BIOMEDICINA VII",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 105,
+                "theory": 105,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ACT163": {
+            "code": "ACT163",
+            "name": "TÓPICOS AVANÇADOS EM BIOMEDICINA VIII",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 120,
+                "theory": 120,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ACT165": {
+            "code": "ACT165",
+            "name": "TÉCNICAS DE DIAGNÓSTICO MORFOLÓGICO APLICADAS À ONCOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [
+                "PAG011"
+            ],
+            "scheduled": false
+        },
+        "ACT166": {
+            "code": "ACT166",
+            "name": "INTEGRAÇÃO PROFISSIONAL COMPLEMENTAR",
+            "type": "ETG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ALM020": {
+            "code": "ALM020",
+            "name": "ANALISE SENSORIAL DE ALIMENTOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 15,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ALM021": {
+            "code": "ALM021",
+            "name": "ALIMENTOS FUNCIONAIS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ALM032": {
+            "code": "ALM032",
+            "name": "MICROBIOLOGIA INDUSTRIAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ALM039": {
+            "code": "ALM039",
+            "name": "BIOTECNOLOGIA NA PROD. BEB. E ALIMENTOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ALM124": {
+            "code": "ALM124",
+            "name": "GARANTIA DA QUALIDADE DE ALIMENTOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ALM125": {
+            "code": "ALM125",
+            "name": "ALTERAÇÕES QUÍMICAS E BIOQUÍMICAS DE ALIMENTOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [
+                "QUI095"
+            ],
+            "scheduled": false
+        },
+        "ALM126": {
+            "code": "ALM126",
+            "name": "BROMATOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 90,
+                "theory": 75,
+                "practice": 15
+            },
+            "prereqs": [
+                "QUI297",
+                "QUI298"
+            ],
+            "scheduled": false
+        },
+        "ALM128": {
+            "code": "ALM128",
+            "name": "ANÁLISE BROMATOLÓGICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [
+                "ALM126"
+            ],
+            "scheduled": false
+        },
+        "ALM133": {
+            "code": "ALM133",
+            "name": "CIÊNCIA E TECNOLOGIA DE PANIFICAÇÃO: EXTENSÃO UNIVERSITÁRIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ALM137": {
+            "code": "ALM137",
+            "name": "TECNOLOGIA DE ALIMENTOS E SAÚDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ALM138": {
+            "code": "ALM138",
+            "name": "TOXICOLOGIA DE ALIMENTOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "BIG033": {
+            "code": "BIG033",
+            "name": "EVOLUCAO II",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "BIG036": {
+            "code": "BIG036",
+            "name": "GENETICA DE POPULACOES",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "BIG053": {
+            "code": "BIG053",
+            "name": "CITOGENETICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "BIG155": {
+            "code": "BIG155",
+            "name": "EVOLUCAO I",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "BIG156": {
+            "code": "BIG156",
+            "name": "GESTÃO AMBIENTAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "BIG618": {
+            "code": "BIG618",
+            "name": "GENETICA DE MICRORGANISMOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "BIQ053": {
+            "code": "BIQ053",
+            "name": "BIOQUIMICA DE PROTEINAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAD009": {
+            "code": "CAD009",
+            "name": "ADMINISTRAÇÃO DE RECURSOS MATERIAIS E PATRIMONIAIS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAD048": {
+            "code": "CAD048",
+            "name": "COMPORTAMENTO HUMANO NAS ORGANIZACOES",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAD050": {
+            "code": "CAD050",
+            "name": "MARKETING ESTRATEGICO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAD059": {
+            "code": "CAD059",
+            "name": "EMPREENDEDORISMO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAD072": {
+            "code": "CAD072",
+            "name": "GESTAO ESTRATEGICA DE RECURSOS HUMANOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAD163": {
+            "code": "CAD163",
+            "name": "ADMINISTRAÇÃO DE RECURSOS HUMANOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "CAD048"
+            ],
+            "scheduled": false
+        },
+        "CAD167": {
+            "code": "CAD167",
+            "name": "ADMINISTRAÇÃO FINANCEIRA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAD189": {
+            "code": "CAD189",
+            "name": "TEORIA DA ADMINISTRAÇÃO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAD195": {
+            "code": "CAD195",
+            "name": "ADMINISTRACAO DA PRODUCAO E OPERACOES",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CIC010": {
+            "code": "CIC010",
+            "name": "INTRODUÇÃO À CONTABILIDADE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DAA003": {
+            "code": "DAA003",
+            "name": "ANTROPOLOGIA BRASILEIRA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DAA005": {
+            "code": "DAA005",
+            "name": "ANTROPOLOGIA BIOLÓGICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCP026": {
+            "code": "DCP026",
+            "name": "MOVIMENTOS SOCIAIS E SOCIEDADE CIVIL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCP053": {
+            "code": "DCP053",
+            "name": "GENERO E POLITICAS PUBLICAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCP069": {
+            "code": "DCP069",
+            "name": "DIREITOS E CIDADANIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCP071": {
+            "code": "DCP071",
+            "name": "DEMOCRACIA E PARTICIPACAO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCP074": {
+            "code": "DCP074",
+            "name": "CORRUPCAO,DEMOCRACIA E INTERESSE PUBLICO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DCP079": {
+            "code": "DCP079",
+            "name": "GESTAO PUB.COM FOCO EM DIREITOS HUMANOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECN140": {
+            "code": "ECN140",
+            "name": "INTRODUÇÃO À ECONOMIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "EMI028": {
+            "code": "EMI028",
+            "name": "SAUDE E GENERO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "EMI036": {
+            "code": "EMI036",
+            "name": "SAUDE REPRODUTIVA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ESA011": {
+            "code": "ESA011",
+            "name": "SISTEMA DE ABASTECIMENTO DE AGUA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ESA013": {
+            "code": "ESA013",
+            "name": "QUALIDADE DA AGUA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ESA017": {
+            "code": "ESA017",
+            "name": "SANEAMENTO E ESTUDOS AMBIENTAIS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ESA119": {
+            "code": "ESA119",
+            "name": "GERENCIAMENTO RESIDUOS SOLIDOS URBANOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ESA123": {
+            "code": "ESA123",
+            "name": "DIAG. E AVAL. DA POLUICAO ATMOSFERICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ESA128": {
+            "code": "ESA128",
+            "name": "LEGISL. GESTAO DE SANEAM.E MEIO AMBIENTE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ESA135": {
+            "code": "ESA135",
+            "name": "SANEAMENTO AMBIENTAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ESA138": {
+            "code": "ESA138",
+            "name": "CIÊNCIAS AMBIENTAIS E CONTROLE DA POLUIÇÃO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAF080": {
+            "code": "FAF080",
+            "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À PESQUISA I",
+            "type": "03G",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAF081": {
+            "code": "FAF081",
+            "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À PESQUISA II",
+            "type": "03G",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAF082": {
+            "code": "FAF082",
+            "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À PESQUISA III",
+            "type": "03G",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 0,
+                "practice": 45
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAF083": {
+            "code": "FAF083",
+            "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À PESQUISA IV",
+            "type": "03G",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 0,
+                "practice": 60
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAF084": {
+            "code": "FAF084",
+            "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À EXTENSÃO I",
+            "type": "03G",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAF085": {
+            "code": "FAF085",
+            "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À EXTENSÃO II",
+            "type": "03G",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAF086": {
+            "code": "FAF086",
+            "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À EXTENSÃO III",
+            "type": "03G",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 0,
+                "practice": 45
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAF087": {
+            "code": "FAF087",
+            "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À EXTENSÃO IV",
+            "type": "03G",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 0,
+                "practice": 60
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAF088": {
+            "code": "FAF088",
+            "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À DOCÊNCIA I",
+            "type": "02G",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAF089": {
+            "code": "FAF089",
+            "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À DOCÊNCIA II",
+            "type": "02G",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAF090": {
+            "code": "FAF090",
+            "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À DOCÊNCIA III",
+            "type": "02G",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 0,
+                "practice": 45
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAF091": {
+            "code": "FAF091",
+            "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À DOCÊNCIA IV",
+            "type": "02G",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 0,
+                "practice": 60
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAF092": {
+            "code": "FAF092",
+            "name": "PARTICIPAÇÃO EM EVENTOS",
+            "type": "04G",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAF129": {
+            "code": "FAF129",
+            "name": "TÓPICOS EM CIÊNCIAS BIOMÉDICAS I",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAF130": {
+            "code": "FAF130",
+            "name": "TÓPICOS EM CIÊNCIAS BIOMÉDICAS II",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAF131": {
+            "code": "FAF131",
+            "name": "TÓPICOS EM CIÊNCIAS BIOMÉDICAS III",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAF132": {
+            "code": "FAF132",
+            "name": "TÓPICOS EM CIÊNCIAS BIOMÉDICAS IV",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAF133": {
+            "code": "FAF133",
+            "name": "TÓPICOS EM EXTENSÃO UNIVERSITÁRIA I: BIOMEDICINA E COMUNIDAD",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAF134": {
+            "code": "FAF134",
+            "name": "TÓPICOS EM EXTENSÃO UNIVERSITÁRIA II: BIOMEDICINA E COMUNIDA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAF135": {
+            "code": "FAF135",
+            "name": "TÓPICOS EM EXTENSÃO UNIVERSITÁRIA III: BIOMEDICINA E COMUNID",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAF136": {
+            "code": "FAF136",
+            "name": "TÓPICOS EM EXTENSÃO UNIVERSITÁRIA IV: BIOMEDICINA E COMUNIDA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FIB025": {
+            "code": "FIB025",
+            "name": "SIST DE REGULACAO CONTROLE EM FISIOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FIS093": {
+            "code": "FIS093",
+            "name": "FUNDAMENTOS DE FISICA F",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEE015": {
+            "code": "GEE015",
+            "name": "ECOLOGIA HUMANA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 75,
+                "theory": 45,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GES004": {
+            "code": "GES004",
+            "name": "EDUCAÇÃO NA SAÚDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GES005": {
+            "code": "GES005",
+            "name": "AUDITORIA EM SERVIÇOS DE SAÚDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GES006": {
+            "code": "GES006",
+            "name": "DIREITO DO CONSUMIDOR NA SAÚDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GES011": {
+            "code": "GES011",
+            "name": "MODELOS DE ATENÇÃO À SAÚDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GES012": {
+            "code": "GES012",
+            "name": "SAÚDE SUPLEMENTAR",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GES013": {
+            "code": "GES013",
+            "name": "SISTEMAS DE INFORMAÇÃO EM SAÚDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GES014": {
+            "code": "GES014",
+            "name": "PROCESSO DE TRABALHO E TECNOLOGIAS EM SAÚDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GES015": {
+            "code": "GES015",
+            "name": "VIGILÂNCIA EM SAÚDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GES016": {
+            "code": "GES016",
+            "name": "PLANEJAMENTO , PROGRAMAÇÃO E AVALIAÇÃO EM SAÚDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GES018": {
+            "code": "GES018",
+            "name": "GESTÃO DA QUALIDADE EM SAÚDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GES020": {
+            "code": "GES020",
+            "name": "GESTÃO DE RISCOS NAS ORGANIZAÇÕES DE SAÚDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GES026": {
+            "code": "GES026",
+            "name": "GERENCIAMENTO DE RESÍDUOS DE SERVIÇOS DE SAÚDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GES027": {
+            "code": "GES027",
+            "name": "RELAÇÕES DE PODER E CONFLITO NAS ORGANIZAÇÕES DE SAÚDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GES028": {
+            "code": "GES028",
+            "name": "PLANEJAMENTO ESTRATÉGICO EM ORGANIZAÇÕES DE SAÚDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GES029": {
+            "code": "GES029",
+            "name": "ACREDITAÇÃO DE SERVIÇOS DE SAÚDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GES030": {
+            "code": "GES030",
+            "name": "AVALIAÇÃO EM SERVIÇOS DE SAÚDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GES036": {
+            "code": "GES036",
+            "name": "COMUNICAÇÃO NAS ORGANIZAÇÕES DE SAÚDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GES037": {
+            "code": "GES037",
+            "name": "GESTÃO DA INOVAÇÃO EM SAÚDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GES038": {
+            "code": "GES038",
+            "name": "FINANCIAMENTO EM SAÚDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GES039": {
+            "code": "GES039",
+            "name": "ATENÇÃO PRIMÁRIA À SAÚDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GES040": {
+            "code": "GES040",
+            "name": "RISCOS OCUPACIONAIS DA SAÚDE DOS TRABALHADORES",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GES041": {
+            "code": "GES041",
+            "name": "GESTÃO DA CULTURA E DA MUDANÇA NAS ORGANIZAÇÕES DE SAÚDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GES044": {
+            "code": "GES044",
+            "name": "GESTÃO DE COMPETÊNCIAS NAS ORGANIZAÇÕES DE SAÚDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GES045": {
+            "code": "GES045",
+            "name": "ELABORAÇÃO E GESTÃO DE PROJETOS DE INTERVENÇÃO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICB055": {
+            "code": "ICB055",
+            "name": "BIOINFORMATICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "LET223": {
+            "code": "LET223",
+            "name": "FUNDAMENTOS DE LIBRAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MAT130": {
+            "code": "MAT130",
+            "name": "MATEMATICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MIC016": {
+            "code": "MIC016",
+            "name": "BIOLOGIA DE VIRUS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 22,
+                "practice": 8
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MIC020": {
+            "code": "MIC020",
+            "name": "MICROBIOLOGIA AMBIENTAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MOF144": {
+            "code": "MOF144",
+            "name": "NEUROANATOMIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [
+                "MOF008",
+                "MOF009"
+            ],
+            "scheduled": false
+        },
+        "PFA181": {
+            "code": "PFA181",
+            "name": "A QUÍMICA DA CÉLULA - BASE MOLECULAR DA VIDA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "SOA091": {
+            "code": "SOA091",
+            "name": "CULTURA E AMBIENTE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "SOA168": {
+            "code": "SOA168",
+            "name": "ANTROPOLOGIA CULTURAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "UNI003": {
+            "code": "UNI003",
+            "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "UNI040": {
+            "code": "UNI040",
+            "name": "INGLÊS PARA FINS ACADÊMICOS I",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "UNI041": {
+            "code": "UNI041",
+            "name": "INGLÊS PARA FINS ACADÊMICOS II",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "UNI040"
+            ],
+            "scheduled": false
+        },
+        "UNI042": {
+            "code": "UNI042",
+            "name": "INGLÊS PARA FINS ACADÊMICOS III",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "UNI041"
+            ],
+            "scheduled": false
+        },
+        "UNI043": {
+            "code": "UNI043",
+            "name": "INGLÊS PARA FINS ACADÊMICOS IV",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "UNI042"
+            ],
+            "scheduled": false
+        },
+        "UNI044": {
+            "code": "UNI044",
+            "name": "INGLÊS PARA FINS ACADÊMICOS V",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "UNI043"
+            ],
+            "scheduled": false
+        }
+    },
+    "percursos": [
+        {
+            "id": "01-01",
+            "name": "BACHARELADO/NÚCLEO GERAL/NÚCLEO AVANÇADO",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "ACT080",
+                        "EST083",
+                        "MOF009",
+                        "MOF143",
+                        "QUI203",
+                        "QUI204"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "BIG157",
+                        "BIQ050",
+                        "BIQ602",
+                        "FIB618",
+                        "MOF008"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "FIB619",
+                        "QUI095",
+                        "QUI297",
+                        "QUI298"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "BIQ058",
+                        "FAR122",
+                        "MIC123",
+                        "PAG011",
+                        "PAR106"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "ACT017",
+                        "ACT026",
+                        "ACT140",
+                        "ACT605"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "ACT081",
+                        "ACT141",
+                        "ACT142",
+                        "FAS135"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "ACT045",
+                        "ACT143",
+                        "ALM139",
+                        "FAS012"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "ACT016",
+                        "ACT018",
+                        "ACT072",
+                        "ACT082",
+                        "ACT602"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 9,
+                    "codes": [
+                        "ACT144"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 10,
+                    "codes": [
+                        "ACT086",
+                        "ACT145"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-01-01-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-06",
+                    "label": "Optativa 6",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-07",
+                    "label": "Optativa 7",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "ACT067",
+                    "group": "10",
+                    "prereqs": [
+                        "FAR122"
+                    ]
+                },
+                {
+                    "code": "ACT073",
+                    "group": "10",
+                    "prereqs": [
+                        "BIQ058"
+                    ]
+                },
+                {
+                    "code": "ACT087",
+                    "group": "10",
+                    "prereqs": [
+                        "MOF143"
+                    ]
+                },
+                {
+                    "code": "ACT134",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT135",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT136",
+                    "group": "10",
+                    "prereqs": [
+                        "ACT135"
+                    ]
+                },
+                {
+                    "code": "ACT138",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT139",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT146",
+                    "group": "11",
+                    "prereqs": [
+                        "BIQ602"
+                    ]
+                },
+                {
+                    "code": "ACT147",
+                    "group": "10",
+                    "prereqs": [
+                        "ACT602"
+                    ]
+                },
+                {
+                    "code": "ACT148",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT149",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT150",
+                    "group": "10",
+                    "prereqs": [
+                        "BIQ602"
+                    ]
+                },
+                {
+                    "code": "ACT151",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT152",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT153",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT154",
+                    "group": "11",
+                    "prereqs": [
+                        "ACT026"
+                    ]
+                },
+                {
+                    "code": "ACT155",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT156",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT157",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT158",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT159",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT160",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT161",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT162",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT163",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT165",
+                    "group": "10",
+                    "prereqs": [
+                        "PAG011"
+                    ]
+                },
+                {
+                    "code": "ACT166",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "ALM020",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ALM021",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ALM032",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ALM039",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ALM124",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ALM125",
+                    "group": "10",
+                    "prereqs": [
+                        "QUI095"
+                    ]
+                },
+                {
+                    "code": "ALM126",
+                    "group": "10",
+                    "prereqs": [
+                        "QUI297",
+                        "QUI298"
+                    ]
+                },
+                {
+                    "code": "ALM128",
+                    "group": "10",
+                    "prereqs": [
+                        "ALM126"
+                    ]
+                },
+                {
+                    "code": "ALM133",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ALM137",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ALM138",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "BIG033",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "BIG036",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "BIG053",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "BIG155",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "BIG156",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "BIG618",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "BIQ053",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAD009",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAD048",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAD050",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAD059",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAD072",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAD163",
+                    "group": "10",
+                    "prereqs": [
+                        "CAD048"
+                    ]
+                },
+                {
+                    "code": "CAD167",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAD189",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAD195",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "CIC010",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "DAA003",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "DAA005",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCP026",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCP053",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCP069",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCP071",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCP074",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCP079",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECN140",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "EMI028",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "EMI036",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ESA011",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ESA013",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ESA017",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ESA119",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ESA123",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ESA128",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ESA135",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ESA138",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF080",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF081",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF082",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF083",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF084",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF085",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF086",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF087",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF088",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF089",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF090",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF091",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF092",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF129",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF130",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF131",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF132",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF133",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF134",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF135",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF136",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "FIB025",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "FIS093",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEE015",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES004",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES005",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES006",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES011",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES012",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES013",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES014",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES015",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES016",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES018",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES020",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES026",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES027",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES028",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES029",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES030",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES036",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES037",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES038",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES039",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES040",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES041",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES044",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES045",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICB055",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "LET223",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "MAT130",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "MIC016",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "MIC020",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "MOF144",
+                    "group": "10",
+                    "prereqs": [
+                        "MOF008",
+                        "MOF009"
+                    ]
+                },
+                {
+                    "code": "PFA181",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "SOA091",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "SOA168",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "UNI003",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "UNI040",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "UNI041",
+                    "group": "10",
+                    "prereqs": [
+                        "UNI040"
+                    ]
+                },
+                {
+                    "code": "UNI042",
+                    "group": "10",
+                    "prereqs": [
+                        "UNI041"
+                    ]
+                },
+                {
+                    "code": "UNI043",
+                    "group": "10",
+                    "prereqs": [
+                        "UNI042"
+                    ]
+                },
+                {
+                    "code": "UNI044",
+                    "group": "10",
+                    "prereqs": [
+                        "UNI043"
+                    ]
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "01-01",
+                "semesters": {
+                    "min": 10,
+                    "standard": 10,
+                    "max": 17
+                },
+                "enrollmentHours": {
+                    "min": 195,
+                    "max": 480
+                },
+                "obligatoryHours": {
+                    "min": 1965,
+                    "max": 1965
+                },
+                "optionalHours": {
+                    "min": 420,
+                    "max": 420
+                },
+                "stageHours": {
+                    "min": 645,
+                    "max": 645
+                },
+                "complementaryPresetHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryOpenHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "freeHours": {
+                    "min": 180,
+                    "max": 180
+                },
+                "totalHours": 3210
+            }
+        },
+        {
+            "id": "01-02",
+            "name": "BACHARELADO/NÚCLEO GERAL/NÚCLEO COMPLEMENTAR/NÚCLEO AVANÇADO",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "ACT080",
+                        "EST083",
+                        "MOF009",
+                        "MOF143",
+                        "QUI203",
+                        "QUI204"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "BIG157",
+                        "BIQ050",
+                        "BIQ602",
+                        "FIB618",
+                        "MOF008"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "FIB619",
+                        "QUI095",
+                        "QUI297",
+                        "QUI298"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "BIQ058",
+                        "FAR122",
+                        "MIC123",
+                        "PAG011",
+                        "PAR106"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "ACT017",
+                        "ACT026",
+                        "ACT140",
+                        "ACT605"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "ACT081",
+                        "ACT141",
+                        "ACT142",
+                        "FAS135"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "ACT045",
+                        "ACT143",
+                        "ALM139",
+                        "FAS012"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "ACT016",
+                        "ACT018",
+                        "ACT072",
+                        "ACT082",
+                        "ACT602"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 9,
+                    "codes": [
+                        "ACT144"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 10,
+                    "codes": [
+                        "ACT086",
+                        "ACT145"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-01-02-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "ACT067",
+                    "group": "15",
+                    "prereqs": [
+                        "FAR122"
+                    ]
+                },
+                {
+                    "code": "ACT073",
+                    "group": "15",
+                    "prereqs": [
+                        "BIQ058"
+                    ]
+                },
+                {
+                    "code": "ACT087",
+                    "group": "15",
+                    "prereqs": [
+                        "MOF143"
+                    ]
+                },
+                {
+                    "code": "ACT134",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT135",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT136",
+                    "group": "15",
+                    "prereqs": [
+                        "ACT135"
+                    ]
+                },
+                {
+                    "code": "ACT138",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT139",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT146",
+                    "group": "11",
+                    "prereqs": [
+                        "BIQ602"
+                    ]
+                },
+                {
+                    "code": "ACT147",
+                    "group": "15",
+                    "prereqs": [
+                        "ACT602"
+                    ]
+                },
+                {
+                    "code": "ACT148",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT149",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT150",
+                    "group": "15",
+                    "prereqs": [
+                        "BIQ602"
+                    ]
+                },
+                {
+                    "code": "ACT151",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT152",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT153",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT154",
+                    "group": "11",
+                    "prereqs": [
+                        "ACT026"
+                    ]
+                },
+                {
+                    "code": "ACT155",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT156",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT157",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT158",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT159",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT160",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT161",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT162",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT163",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ACT165",
+                    "group": "15",
+                    "prereqs": [
+                        "PAG011"
+                    ]
+                },
+                {
+                    "code": "ACT166",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "ALM020",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ALM021",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ALM032",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ALM039",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ALM124",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ALM125",
+                    "group": "15",
+                    "prereqs": [
+                        "QUI095"
+                    ]
+                },
+                {
+                    "code": "ALM126",
+                    "group": "15",
+                    "prereqs": [
+                        "QUI297",
+                        "QUI298"
+                    ]
+                },
+                {
+                    "code": "ALM128",
+                    "group": "15",
+                    "prereqs": [
+                        "ALM126"
+                    ]
+                },
+                {
+                    "code": "ALM133",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ALM137",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ALM138",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "BIG033",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "BIG036",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "BIG053",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "BIG155",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "BIG156",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "BIG618",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "BIQ053",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAD009",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAD048",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAD050",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAD059",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAD072",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAD163",
+                    "group": "15",
+                    "prereqs": [
+                        "CAD048"
+                    ]
+                },
+                {
+                    "code": "CAD167",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAD189",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAD195",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CIC010",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "DAA003",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "DAA005",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCP026",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCP053",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCP069",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCP071",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCP074",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCP079",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECN140",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "EMI028",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "EMI036",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ESA011",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ESA013",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ESA017",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ESA119",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ESA123",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ESA128",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ESA135",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ESA138",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF080",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF081",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF082",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF083",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF084",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF085",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF086",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF087",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF088",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF089",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF090",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF091",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF092",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF129",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF130",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF131",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF132",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF133",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF134",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF135",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAF136",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "FIB025",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "FIS093",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEE015",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES004",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES005",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES006",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES011",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES012",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES013",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES014",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES015",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES016",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES018",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES020",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES026",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES027",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES028",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES029",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES030",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES036",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES037",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES038",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES039",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES040",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES041",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES044",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "GES045",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICB055",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "LET223",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "MAT130",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "MIC016",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "MIC020",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "MOF144",
+                    "group": "15",
+                    "prereqs": [
+                        "MOF008",
+                        "MOF009"
+                    ]
+                },
+                {
+                    "code": "PFA181",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "SOA091",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "SOA168",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "UNI003",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "UNI040",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "UNI041",
+                    "group": "15",
+                    "prereqs": [
+                        "UNI040"
+                    ]
+                },
+                {
+                    "code": "UNI042",
+                    "group": "15",
+                    "prereqs": [
+                        "UNI041"
+                    ]
+                },
+                {
+                    "code": "UNI043",
+                    "group": "15",
+                    "prereqs": [
+                        "UNI042"
+                    ]
+                },
+                {
+                    "code": "UNI044",
+                    "group": "15",
+                    "prereqs": [
+                        "UNI043"
+                    ]
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "01-02",
+                "semesters": {
+                    "min": 10,
+                    "standard": 10,
+                    "max": 17
+                },
+                "enrollmentHours": {
+                    "min": 195,
+                    "max": 480
+                },
+                "obligatoryHours": {
+                    "min": 1965,
+                    "max": 1965
+                },
+                "optionalHours": {
+                    "min": 240,
+                    "max": 240
+                },
+                "stageHours": {
+                    "min": 645,
+                    "max": 645
+                },
+                "complementaryPresetHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryOpenHours": {
+                    "min": 300,
+                    "max": 300
+                },
+                "freeHours": {
+                    "min": 60,
+                    "max": 60
+                },
+                "totalHours": 3210
+            }
+        }
+    ]
+}

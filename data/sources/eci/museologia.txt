@@ -1,0 +1,650 @@
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+Configuração Curricular
+Pró-reitoria de Graduação
+Relatório de versão curricular
+Em análise
+M-20251
+Situação:
+Carga horária mínima para mudança de opção de vinculação: -
+Versão curricular:13003 - MUSEOLOGIACurso:
+Período mínimo para mudança de opção de vinculação: 4
+Disponibilidade nas subdivisões do curso:
+Percurso padrão
+Subdivisão de Curso
+É versão para
+vinculação de
+ingressantes
+Modalidade
+Educacional
+Identificador Nome
+13003PD001/Presencial/DIURNO Não Presencial R-01 BACHARELADO/NÚCLEO GERAL
+Observações:
+-
+Percursos curriculares que compõem a versão:
+Identificador Nome
+R-02 BACHARELADO/N. COMPLEMENTAR/N. AVANÇADO
+R-01 BACHARELADO/N. GERAL
+Atividades acadêmicas:
+24/08/2024 09.50.32 Página 1 de 13
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoTabela organizada por sugestão de período definido na versão curricular
+1º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - ECI257 - CULTURA E INFORMAÇÃO 4 4 60 60 0 R-01 - 1 OB OB -
+R-02 - 1 OB OB -
+DIG - ECI258 - ELABORAÇÃO E APRESENTAÇÃO DE TRABALHOS CIENTÍFICOS 4 4 60 60 0 R-01 - 1 OB OB -
+R-02 - 1 OB OB -
+DIG - ECI259 - HISTÓRIA DAS COLEÇÕES E DOS MUSEUS 4 4 60 60 0 R-01 - 1 OB OB -
+R-02 - 1 OB OB -
+DIG - ECI260 - INTRODUÇÃO À MUSEOLOGIA 4 4 60 60 0 R-01 - 1 OB OB -
+R-02 - 1 OB OB -
+DIG - ECI261 - LABORATÓRIO DE EXPERIMENTAÇÃO MUSEOLÓGICA 4 4 60 30 30 R-01 - 1 OB OB -
+R-02 - 1 OB OB -
+2º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - ECI099 - DOCUMENTACAO MUSEOLOGICA 4 4 60 30 30 R-01 - 1 OB OB -
+R-02 - 1 OB OB -
+DIG - ECI262 - EDUCAÇÃO E MEDIAÇÃO CULTURAL EM MUSEUS 4 4 60 30 30 R-01 - 1 OB OB -
+R-02 - 1 OB OB -
+DIG - ECI263 - ESTUDOS DA CULTURA BRASILEIRA 4 4 60 60 0 R-01 - 1 OB OB -
+R-02 - 1 OB OB -
+DIG - ECI264 - MEMÓRIA E PATRIMÔNIO CULTURAL 4 4 60 30 30 R-01 - 1 OB OB -
+R-02 - 1 OB OB -
+DIG - ECI265 - MUSEOLOGIA I 4 4 60 60 0 R-01 - 1 OB OB -
+R-02 - 1 OB OB -
+24/08/2024 09.50.32 Página 2 de 13
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de Graduação3º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - APL174 - ARTE E MUSEALIZACAO I 4 4 60 60 0 R-01 - 1 OB OB -
+R-02 - 1 OB OB -
+DIG - ECI096 - PATRIMONIO CULT.M.MODERNO CONTEMPORANEO 4 4 60 60 0 R-01 - 1 OB OB -
+R-02 - 1 OB OB -
+DIG - ECI266 - ESTUDOS DE PÚBLICO 4 4 60 30 30 R-01 - 1 OB OB -
+R-02 - 1 OB OB -
+DIG - ECI267 - EXPOGRAFIA I 4 4 60 30 30 R-01 - 1 OB OB -
+R-02 - 1 OB OB -
+DIG - ECI268 - MUSEOLOGIA II 4 4 60 60 0 R-01 - 1 OB OB ECI265
+R-02 - 1 OB OB ECI265
+4º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - APL175 - ARTE E MUSEALIZACAO II 4 4 60 60 0 R-01 - 1 OB OB APL174
+R-02 - 1 OB OB APL174
+DIG - ECI269 - EXPOGRAFIA II 4 4 60 30 30 R-01 - 1 OB OB ECI267
+R-02 - 1 OB OB ECI267
+DIG - ECI270 - GESTÃO DE ACERVOS 4 4 60 30 30 R-01 - 1 OB OB -
+R-02 - 1 OB OB -
+DIG - ECI271 - PESQUISA HISTÓRICA EM MUSEUS 4 4 60 30 30 R-01 - 1 OB OB -
+R-02 - 1 OB OB -
+Carga horária adicional do período
+Percurso Grupo de atividades Carga Horária
+R-01 6013003-M-20251-10 - Optativas
+R-02 6013003-M-20251-3 - Núcleo Complementar
+24/08/2024 09.50.32 Página 3 de 13
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de Graduação5º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - APL178 - CONSERVACAO E MUSEUS I 4 4 60 30 30 R-01 - 1 OB OB -
+R-02 - 1 OB OB -
+DIG - APL207 - EXPOSIÇÃO CURRICULAR I 4 4 60 30 30 R-01 - 1 OB OB -
+R-02 - 1 OB OB -
+DIG - ECI272 - OBJETO MUSEOLÓGICO E CULTURA MATERIAL 4 4 60 60 0 R-01 - 1 OB OB -
+R-02 - 1 OB OB -
+Carga horária adicional do período
+Percurso Grupo de atividades Carga Horária
+R-01 12013003-M-20251-10 - Optativas
+R-02 12013003-M-20251-3 - Núcleo Complementar
+6º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - APL179 - CONSERVACAO E MUSEUS II 4 4 60 30 30 R-01 - 1 OB OB APL178
+R-02 - 1 OB OB APL178
+DIG - APL208 - EXPOSIÇÃO CURRICULAR II 4 4 60 30 30 R-01 - 1 OB OB APL207
+R-02 - 1 OB OB APL207
+ETG - ECI273 - ESTÁGIO A 4 4 60 30 30 R-01 - 9 OB OB -
+R-02 - 9 OB OB -
+DIG - ECI274 - GESTÃO DE MUSEUS 4 4 60 60 0 R-01 - 1 OB OB -
+R-02 - 1 OB OB -
+Carga horária adicional do período
+Percurso Grupo de atividades Carga Horária
+R-01 6013003-M-20251-10 - Optativas
+R-02 6013003-M-20251-3 - Núcleo Complementar
+24/08/2024 09.50.32 Página 4 de 13
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de Graduação7º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - ECI275 - ELABORAÇÃO DE PROJETO DE PESQUISA 2 2 30 15 15 R-01 - 1 OB OB -
+R-02 - 1 OB OB -
+ETG - ECI276 - ESTÁGIO B 6 6 90 15 75 R-01 - 9 OB OB ECI273
+R-02 - 9 OB OB ECI273
+DIG - ECI277 - PLANO MUSEOLÓGICO 4 4 60 30 30 R-01 - 1 OB OB -
+R-02 - 1 OB OB -
+Carga horária adicional do período
+Percurso Grupo de atividades Carga Horária
+R-01 6013003-M-20251-6 - Núcleo Geral
+6013003-M-20251-10 - Optativas
+R-02 6013003-M-20251-12 - Núcleo Avançado
+6013003-M-20251-3 - Núcleo Complementar
+8º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+ETG - ECI278 - ESTÁGIO C 4 4 60 15 45 R-01 - 9 OB OB ECI276
+R-02 - 9 OB OB ECI276
+DIG - ECI279 - ELABORAÇÃO DE TRABALHO DE CONCLUSÃO DE CURSO 4 4 60 15 45 R-01 - 1 OB OB ECI275
+R-02 - 1 OB OB ECI275
+DIG - ECI280 - FUNDAMENTOS DA CIÊNCIA DA INFORMAÇÃO 4 4 60 60 0 R-01 - 1 OB OB -
+R-02 - 1 OB OB -
+Carga horária adicional do período
+Percurso Grupo de atividades Carga Horária
+R-01 12013003-M-20251-10 - Optativas
+R-02 12013003-M-20251-13 - Optativas
+24/08/2024 09.50.32 Página 5 de 13
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoATIVIDADES DE ESTÁGIO CURRICULAR OBRIGATÓRIO:
+Não existem atividades acadêmicas de estágio curricular obrigatório.
+ATIVIDADES SEM PERÍODO SUGERIDO:
+Carga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - APL096 - TOPICOS EM CONSERVACAO-RESTAURACAO 15 15 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - APL097 - TOPICOS EM CONSERVACAO-RESTAURACAO A 30 30 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - APL098 - TOPICOS EM CONSERVACAO RESTAURACAO B 45 45 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - APL099 - TOPICOS EM CONSERVACAO-RESTAURACAO C 60 60 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - APL184 - ORGANIZACAO E GERENCIAM. DE EXPOSICOES 60 60 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - APL189 - TOPICOS EM CURADORIA A 15 15 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - APL190 - TOPICOS EM CURADORIA B 30 30 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - APL191 - TOPICOS EM CURADORIA C 45 45 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - APL192 - TOPICOS EM CURADORIA D 60 60 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - APL197 - TOPICOS EM HISTORIA DA ARTE A 15 15 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - APL198 - TOPICOS EM HISTORIA DA ARTE B 30 30 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - APL199 - TOPICOS EM HISTORIA DA ARTE C 45 45 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - APL200 - TOPICOS EM HISTORIA DA ARTE D 60 60 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI035 - TOPICOS EM TECNOLOGIA DA INFORMACAO A 15 15 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI036 - TOPICOS EM TECNOLOGIA DA INFORMACAO B 30 30 0 R-01 5 OP OP -
+R-02 14 OP OP -
+24/08/2024 09.50.32 Página 6 de 13
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - ECI037 - TOPICOS EM TECNOLOGIA DA INFORMACAO C 45 45 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI038 - TOPICOS EM TECNOLOGIA DA INFORMACAO D 60 60 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI113 - DIFUSAO CULTURAL EM MUSEUS 60 60 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI117 - PLANEJAMENTO DA EXPOSICAO MUSEOLOGICA 60 60 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI119 - TOP. CONHEC. MUSEAL E DIFUSAO CULTURAL A 15 15 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI120 - TOP. CONHEC. MUSEAL E DIFUSAO CULTURAL B 30 30 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI121 - TOP. CONHEC. MUSEAL E DIFUSAO CULTURAL C 45 45 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI122 - TOP. CONHEC. MUSEAL E DIFUSAO CULTURAL D 60 60 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI281 - TÓPICOS EM MUSEOLOGIA A 15 15 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI282 - TÓPICOS EM MUSEOLOGIA B 30 30 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI283 - TÓPICOS EM MUSEOLOGIA C 45 45 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI284 - TÓPICOS EM MUSEOLOGIA D 60 60 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI285 - TÓPICOS EM MUSEOLOGIA SOCIAL A 15 15 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI286 - TÓPICOS EM MUSEOLOGIA SOCIAL B 30 30 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI287 - TÓPICOS EM MUSEOLOGIA SOCIAL C 45 45 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI288 - TÓPICOS EM MUSEOLOGIA SOCIAL D 60 60 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI289 - TÓPICOS EM AVALIAÇÃO DE PÚBLICO A 15 15 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI290 - TÓPICOS EM AVALIAÇÃO DE PÚBLICO B 30 30 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI291 - TÓPICOS EM AVALIAÇÃO DE PÚBLICO C 45 45 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI292 - TÓPICOS EM AVALIAÇÃO DE PÚBLICO D 60 60 0 R-01 5 OP OP -
+R-02 14 OP OP -
+24/08/2024 09.50.33 Página 7 de 13
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - ECI293 - TÓPICOS EM ESTUDO DE PÚBLICO A 15 15 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI294 - TÓPICOS EM ESTUDO DE PÚBLICO B 30 30 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI295 - TÓPICOS EM ESTUDO DE PÚBLICO C 45 45 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI296 - TÓPICOS EM ESTUDO DE PÚBLICO D 60 60 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI297 - TÓPICOS EM TIPOLOGIA DE MUSEUS A 15 15 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI298 - TÓPICOS EM TIPOLOGIA DE MUSEUS B 30 30 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI299 - TÓPICOS EM TIPOLOGIA DE MUSEUS C 45 45 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI300 - TÓPICOS EM TIPOLOGA DE MUSEUS D 60 60 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI301 - TÓPICOS EM GESTÃO DE ACERVOS A 15 15 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI302 - TÓPICOS EM GESTÃO DE ACERVOS B 30 30 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI303 - TÓPICOS EM GESTÃO DE ACERVOS C 45 45 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI304 - TÓPICOS EM GESTÃO DE ACERVOS D 60 60 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI305 - TÓPICOS EM PESQUISA E HISTÓRIA A 15 15 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI306 - TÓPICOS EM PESQUISA E HISTÓRIA B 30 30 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI307 - TÓPICOS EM PESQUISA E HISTÓRIA C 45 45 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI308 - TÓPICOS EM PESQUISA E HISTÓRIA D 60 60 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI309 - TÓPICOS EM ELABORAÇÃO DE PROJETOS CULTURAIS A 15 15 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI310 - TÓPICOS EM ELABORAÇÃO DE PROJETOS CULTURAIS B 30 30 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI311 - TÓPICOS EM ELABORAÇÃO DE PROJETOS CULTURAIS C 45 45 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI312 - TÓPICOS EM ELABORAÇÃO DE PROJETOS CULTURAIS D 60 60 0 R-01 5 OP OP -
+R-02 14 OP OP -
+24/08/2024 09.50.33 Página 8 de 13
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - ECI313 - TÓPICOS EM EDUCAÇÃO EM MUSEUS A 15 15 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI314 - TÓPICOS EM EDUCAÇÃO EM MUSEUS B 30 30 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI315 - TÓPICOS EM EDUCAÇÃO EM MUSEUS C 45 45 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI316 - TÓPICOS EM EDUCAÇÃO EM MUSEUS D 60 60 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI317 - TÓPICOS EM PATRIMÔNIO A 15 15 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI318 - TÓPICOS EM PATRIMÔNIO B 30 30 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI319 - TÓPICOS EM PATRIMÔNIO C 45 45 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI320 - TÓPICOS EM PATRIMÔNIO D 60 60 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI321 - TÓPICOS EM DOCUMENTAÇÃO MUSEOLÓGICA A 15 15 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI322 - TÓPICOS EM DOCUMENTAÇÃO MUSEOLÓGICA B 30 30 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI323 - TÓPICOS EM DOCUMENTAÇÃO MUSEOLÓGICA C 45 45 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI324 - TÓPICOS EM DOCUMENTAÇÃO MUSEOLÓGICA D 60 60 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI325 - TÓPICOS EM MUSEUS E DIVULGAÇÃO CIENTÍFICA A 15 15 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI326 - TÓPICOS EM MUSEUS E DIVULGAÇÃO CIENTÍFICA B 30 30 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI327 - TÓPICOS EM MUSEUS E DIVULGAÇÃO CIENTÍFICA C 45 45 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI328 - TÓPICOS EM MUSEUS E DIVULGAÇÃO CIENTÍFICA D 60 60 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI329 - TÓPICOS EM EXPOGRAFIA A 15 15 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI330 - TÓPICOS EM EXPOGRAFIA B 30 30 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI331 - TÓPICOS EM EXPOGRAFIA C 45 45 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI332 - TÓPICOS EM EXPOGRAFIA D 60 60 0 R-01 5 OP OP -
+R-02 14 OP OP -
+24/08/2024 09.50.33 Página 9 de 13
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - ECI333 - TÓPICOS PESQUISA CIÊNCIA DA INFORMAÇÃO A 15 15 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI334 - TÓPICOS PESQUISA CIÊNCIA DA INFORMAÇÃO B 30 30 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI335 - TÓPICOS PESQUISA CIÊNCIA DA INFORMAÇÃO C 45 45 0 R-01 5 OP OP -
+R-02 14 OP OP -
+DIG - ECI336 - TÓPICOS PESQUISA CIÊNCIA DA INFORMAÇÃO D 60 60 0 R-01 5 OP OP -
+R-02 14 OP OP -
+PJG - ECI337 - INICIAÇÃO A DOCÊNCIA A 15 15 0 R-01 11 OP OP -
+R-02 15 OP OP -
+PJG - ECI338 - INICIAÇÃO A DOCÊNCIA B 30 30 0 R-01 11 OP OP -
+R-02 15 OP OP -
+PJG - ECI339 - INICIAÇÃO A DOCÊNCIA C 45 45 0 R-01 11 OP OP -
+R-02 15 OP OP -
+PJG - ECI340 - INICIAÇÃO A DOCÊNCIA D 60 60 0 R-01 11 OP OP -
+R-02 15 OP OP -
+PJG - ECI341 - INICIAÇÃO A EXTENSÃO A 15 0 15 R-01 11 OP OP -
+R-02 15 OP OP -
+PJG - ECI342 - INICIAÇÃO A EXTENSÃO B 30 0 30 R-01 11 OP OP -
+R-02 15 OP OP -
+PJG - ECI343 - INICIAÇÃO A EXTENSÃO C 45 0 45 R-01 11 OP OP -
+R-02 15 OP OP -
+PJG - ECI344 - INICIAÇÃO A EXTENSÃO D 60 0 60 R-01 11 OP OP -
+R-02 15 OP OP -
+PJG - ECI345 - INICIAÇÃO A PESQUISA A 15 15 0 R-01 11 OP OP -
+R-02 15 OP OP -
+PJG - ECI346 - INICIAÇÃO A PESQUISA B 30 30 0 R-01 11 OP OP -
+R-02 15 OP OP -
+PJG - ECI347 - INICIAÇÃO A PESQUISA C 45 45 0 R-01 11 OP OP -
+R-02 15 OP OP -
+PJG - ECI348 - INICIAÇÃO A PESQUISA D 60 60 0 R-01 11 OP OP -
+R-02 15 OP OP -
+EVG - ECI349 - PARTICIPAÇÃO EM EVENTOS A 15 15 0 R-01 11 OP OP -
+R-02 15 OP OP -
+EVG - ECI350 - PARTICIPAÇÃO EM EVENTOS B 30 30 0 R-01 11 OP OP -
+R-02 15 OP OP -
+EVG - ECI351 - PARTICIPAÇÃO EM EVENTOS C 45 45 0 R-01 11 OP OP -
+R-02 15 OP OP -
+EVG - ECI352 - PARTICIPAÇÃO EM EVENTOS D 60 60 0 R-01 11 OP OP -
+R-02 15 OP OP -
+24/08/2024 09.50.33 Página 10 de 13
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+PGG - ECI353 - PUBLICAÇÕES A 15 15 0 R-01 11 OP OP -
+R-02 15 OP OP -
+PGG - ECI354 - PUBLICAÇÕES B 30 30 0 R-01 11 OP OP -
+R-02 15 OP OP -
+PGG - ECI355 - PUBLICAÇÕES C 45 45 0 R-01 11 OP OP -
+R-02 15 OP OP -
+PGG - ECI356 - PUBLICAÇÕES D 60 60 0 R-01 11 OP OP -
+R-02 15 OP OP -
+ETG - ECI357 - ESTÁGIO NÃO OBRIGATÓRIO A 15 0 15 R-01 11 OP OP -
+R-02 15 OP OP -
+ETG - ECI358 - ESTÁGIO NÃO OBRIGATÓRIO B 30 0 30 R-01 11 OP OP -
+R-02 15 OP OP -
+ETG - ECI359 - ESTÁGIO NÃO OBRIGATÓRIO C 45 0 45 R-01 11 OP OP -
+R-02 15 OP OP -
+ETG - ECI360 - ESTÁGIO NÃO OBRIGATÓRIO D 60 0 60 R-01 11 OP OP -
+R-02 15 OP OP -
+EVG - ECI361 - CURSOS DE CURTA DURAÇÃO A 15 15 0 R-01 11 OP OP -
+R-02 15 OP OP -
+EVG - ECI362 - CURSOS DE CURTA DURAÇÃO B 30 30 0 R-01 11 OP OP -
+R-02 15 OP OP -
+EVG - ECI363 - CURSOS DE CURTA DURAÇÃO C 45 45 0 R-01 11 OP OP -
+R-02 15 OP OP -
+EVG - ECI364 - CURSOS DE CURTA DURAÇÃO D 60 60 0 R-01 11 OP OP -
+R-02 15 OP OP -
+PJG - ECI365 - INICIAÇÃO A CURADORIA A 15 15 0 R-01 11 OP OP -
+R-02 15 OP OP -
+PJG - ECI366 - INICIAÇÃO A CURADORIA B 30 30 0 R-01 11 OP OP -
+R-02 15 OP OP -
+PJG - ECI367 - INICIAÇÃO A CURADORIA C 45 45 0 R-01 11 OP OP -
+R-02 15 OP OP -
+PJG - ECI368 - INICIAÇÃO A CURADORIA D 60 60 0 R-01 11 OP OP -
+R-02 15 OP OP -
+DIG - ECI369 - TÓPICOS AVANÇADOS A 15 15 0 R-02 12 OP OP -
+DIG - ECI370 - TÓPICOS AVANÇADOS B 30 30 0 R-02 12 OP OP -
+DIG - ECI371 - TÓPICOS AVANÇADOS C 45 45 0 R-02 12 OP OP -
+DIG - ECI372 - TÓPICOS AVANÇADOS D 60 60 0 R-02 12 OP OP -
+DIG - LET223 - FUNDAMENTOS DE LIBRAS 60 60 0 R-01 5 OP OP -
+R-02 14 OP OP -
+24/08/2024 09.50.33 Página 11 de 13
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoQuadro de integralização
+Semestres
+Carga horária de
+matrícula por
+semestre
+Carga horária em
+atividades
+obrigatória
+Carga horária em
+atividades optativa
+Carga horária em
+estágio obrigatório
+Carga horária em
+atividades de formação
+complementar
+preestabelecida
+Carga horária em
+atividades de
+formação
+complementar aberta
+Carga horária em
+atividades de
+formação livrePercurso
+Mínimo Padrão Máximo Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima
+Total (Carga horária
+mínima para
+integralização)
+R-01 8 8 14 180 - 1710 1710 420 420 210 210 0 0 0 0 60 60 2400
+R-02 8 8 14 180 - 1710 1710 180 180 210 210 0 0 300 300 0 0 2400
+Propriedades do grupo não predefinido Carga
+Horária Regras
+Permite atividades
+Grupo
+NomeIdentificador
+Percursos
+Identificador
+Natureza
+no
+percurso
+Natureza do
+Grupo Predef.
+Tipo de formação Do
+próprio
+curso
+Do próprio
+percurso
+Mín. Máx. Pré-requisitos Integralização
+3 Núcleo Complementar R-02 OB OB Não Complementar aberta Não Não 300 300 - -
+7 Núcleo Específico R-01 OB OB Sim - - - 2340 2340 - -
+9 Estágio Curricular R-01 OB
+R-02 OB
+EC Sim - - - 210 210 - -
+1 Obrigatórias R-01 OB
+R-02 OB
+OB Sim - - - 1710 1710 - -
+10 Optativas R-01 OB OB Sim - - - 420 420 - -
+5 Optativas Gerais R-01 OB OB Sim - - - 300 420 - -
+11 Atividades Acadêmicas Complementares R-01 OP OP Sim - - - 0 120 - -
+8 Núcleo Específico R-02 OB OB Sim - - - 2100 2100 - -
+9 Estágio Curricular R-01 OB
+R-02 OB
+EC Sim - - - 210 210 - -
+1 Obrigatórias R-01 OB
+R-02 OB
+OB Sim - - - 1710 1710 - -
+13 Optativas R-02 OB OB Sim - - - 180 180 - -
+12 Núcleo Avançado R-02 OB OB Sim - - - 60 60 - -
+14 Optativas Gerais R-02 OB OB Sim - - - 90 120 - -
+15 Atividades Acadêmicas Complementares R-02 OP OP Sim - - - 0 30 - -
+6 Núcleo Geral R-01 OB OB Não Livre Não Não 60 60 - -
+Grupos de atividades:
+24/08/2024 09.50.33 Página 12 de 13
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCódigo Descrição
+DIG DISCIPLINA GRADUAÇÃO
+PJG PROJETO
+EVG EVENTO
+PGG PROGRAMA
+ETG ESTÁGIO
+Tipos de atividades
+Não há regras curriculares.
+Regras curriculares
+24/08/2024 09.50.33 Página 13 de 13
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de Graduação

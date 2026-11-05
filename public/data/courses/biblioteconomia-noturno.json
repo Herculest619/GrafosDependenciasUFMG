@@ -1,0 +1,5265 @@
+{
+    "schemaVersion": 2,
+    "id": "biblioteconomia-noturno",
+    "meta": {
+        "id": "biblioteconomia-noturno",
+        "name": "Biblioteconomia",
+        "variant": "Noturno",
+        "unit": "ECI — Escola de Ciência da Informação",
+        "campus": "Pampulha",
+        "shift": "Noturno",
+        "degree": "Bacharelado",
+        "layout": "versao",
+        "curriculum": "13002 · N-20141",
+        "source": {
+            "kind": "siga-versao-curricular",
+            "url": "https://graduacoes.eci.ufmg.br/wp-content/uploads/2023/11/Biblioteconomia-GRADE-CURRICULAR-NOTURNO-2014_1.pdf",
+            "retrievedAt": "2026-11-05T12:34:25-03:00",
+            "note": null
+        },
+        "note": null
+    },
+    "generatedAt": "2026-11-05T15:39:16.842Z",
+    "disciplines": {
+        "CAD103": {
+            "code": "CAD103",
+            "name": "ADMINISTRACAO TGA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "DCC601": {
+            "code": "DCC601",
+            "name": "INTRODUCAO A INFORMATICA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "OTI072": {
+            "code": "OTI072",
+            "name": "FUNDAMENTOS DA ORGANIZACAO DA INFORMACAO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "OTI077": {
+            "code": "OTI077",
+            "name": "INT.BIBLIOTEC.,ARQUIVOLOGIA E MUSEOLOGIA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "TGI002": {
+            "code": "TGI002",
+            "name": "CULTURA E INFORMACAO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "OTI073": {
+            "code": "OTI073",
+            "name": "ANALISE DE ASSUNTO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "OTI078": {
+            "code": "OTI078",
+            "name": "ELAB. E APRES. DO TRABALHO CIENTIFICO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "TGI030": {
+            "code": "TGI030",
+            "name": "FUNDAMENTOS DA CIENCIA DA INFORMACAO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "TGI031": {
+            "code": "TGI031",
+            "name": "GESTAO DE UNIDADES DE INFORMACAO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "TGI032": {
+            "code": "TGI032",
+            "name": "INTRODUCAO A BANCOS DE DADOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "OTI074": {
+            "code": "OTI074",
+            "name": "LINGUAGENS DE INDEXACAO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [
+                "OTI073"
+            ],
+            "scheduled": true
+        },
+        "OTI079": {
+            "code": "OTI079",
+            "name": "CATALOGACAO DESCRITIVA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "OTI080": {
+            "code": "OTI080",
+            "name": "INTRODUCAO AS FONTES DE INFORMACAO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "TGI004": {
+            "code": "TGI004",
+            "name": "USUARIOS DA INFORMACAO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "TGI033": {
+            "code": "TGI033",
+            "name": "METODOS E TECNICAS DE PESQUISA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "OTI081": {
+            "code": "OTI081",
+            "name": "SISTEMAS DE RECUPERACAO DA INFORMACAO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "OTI082": {
+            "code": "OTI082",
+            "name": "FONTES INF.PESQUISADORES E PROFISSIONAIS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "TGI034": {
+            "code": "TGI034",
+            "name": "MEMORIA E PATRIMONIO CULTURAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "TGI035": {
+            "code": "TGI035",
+            "name": "PLANEJ.EM UNID. E SISTEMAS INFORMACAO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "TGI046": {
+            "code": "TGI046",
+            "name": "FORMACAO E DESENVOLVIMENTO DO ACERVO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "OTI083": {
+            "code": "OTI083",
+            "name": "SISTEMAS DE CLASSIFICACAO: CDD",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [
+                "OTI073"
+            ],
+            "scheduled": true
+        },
+        "OTI084": {
+            "code": "OTI084",
+            "name": "ACESSO A FONTES DE INF. EM MEIO DIGITAL",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "OTI087": {
+            "code": "OTI087",
+            "name": "BIBLIOTECAS, ARQUIVOS E MUSEUS DIGITAIS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "OTI088": {
+            "code": "OTI088",
+            "name": "COMPETENCIA INFORMACIONAL",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "TGI036": {
+            "code": "TGI036",
+            "name": "PRESERVACAO DO ACERVO",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "TGI047": {
+            "code": "TGI047",
+            "name": "LEITURA E FORMACAO DO LEITOR",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "OTI051": {
+            "code": "OTI051",
+            "name": "SERVICOS DE DISSEMINACAO DA INFORMACAO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "OTI085": {
+            "code": "OTI085",
+            "name": "SISTEMAS DE CLASSIFICACAO: CDU",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [
+                "OTI073"
+            ],
+            "scheduled": true
+        },
+        "OTI086": {
+            "code": "OTI086",
+            "name": "ORGANIZACAO BIBLIOGRAFICA NACIONAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ECI155": {
+            "code": "ECI155",
+            "name": "Estágio Supervisionado em Biblioteconomia",
+            "type": "DIG",
+            "credits": 16,
+            "hours": {
+                "total": 240,
+                "theory": 40,
+                "practice": 200
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "APL058": {
+            "code": "APL058",
+            "name": "CONSERVACAO PREVENTIVA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 75,
+                "theory": 45,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "APL066": {
+            "code": "APL066",
+            "name": "CONSERVACAO DE PAPEL I",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 15,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "APL074": {
+            "code": "APL074",
+            "name": "RESTAURACAO DE LIVROS E DOCUMENTOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 75,
+                "theory": 30,
+                "practice": 45
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI035": {
+            "code": "ECI035",
+            "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI036": {
+            "code": "ECI036",
+            "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI037": {
+            "code": "ECI037",
+            "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI038": {
+            "code": "ECI038",
+            "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI039": {
+            "code": "ECI039",
+            "name": "TOPICOS EM COMPETENCIA INFORMACIONAL A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI040": {
+            "code": "ECI040",
+            "name": "TOPICOS EM COMPETENCIA INFORMACIONAL B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI041": {
+            "code": "ECI041",
+            "name": "TOPICOS EM COMPETENCIA INFORMACIONAL C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI042": {
+            "code": "ECI042",
+            "name": "TOPICOS EM COMPETENCIA INFORMACIONAL D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI043": {
+            "code": "ECI043",
+            "name": "TOPICOS EM ONTOLOGIAS A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI044": {
+            "code": "ECI044",
+            "name": "TOPICOS EM ONTOLOGIAS B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI045": {
+            "code": "ECI045",
+            "name": "TOPICOS EM ONTOLOGIAS C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI046": {
+            "code": "ECI046",
+            "name": "TOPICOS EM ONTOLOGIAS D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI156": {
+            "code": "ECI156",
+            "name": "Iniciação à Pesquisa A",
+            "type": "03G",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI157": {
+            "code": "ECI157",
+            "name": "Iniciação a Pesquisa B",
+            "type": "03G",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI158": {
+            "code": "ECI158",
+            "name": "Iniciação à Pesquisa C",
+            "type": "03G",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI159": {
+            "code": "ECI159",
+            "name": "Iniciação à Pesquisa D",
+            "type": "03G",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI160": {
+            "code": "ECI160",
+            "name": "Iniciação à Docência A",
+            "type": "02G",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI161": {
+            "code": "ECI161",
+            "name": "Iniciação à Docência B",
+            "type": "02G",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI162": {
+            "code": "ECI162",
+            "name": "Iniciação à Docência C",
+            "type": "02G",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI163": {
+            "code": "ECI163",
+            "name": "Iniciação à Docência D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI164": {
+            "code": "ECI164",
+            "name": "Iniciação à Extensão A",
+            "type": "03G",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI165": {
+            "code": "ECI165",
+            "name": "Iniciação à Extensão B",
+            "type": "03G",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI166": {
+            "code": "ECI166",
+            "name": "Iniciação à Extensão C",
+            "type": "03G",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI167": {
+            "code": "ECI167",
+            "name": "Iniciação à Extensão D",
+            "type": "03G",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI168": {
+            "code": "ECI168",
+            "name": "Participação em Eventos A",
+            "type": "04G",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI169": {
+            "code": "ECI169",
+            "name": "Participação em Eventos B",
+            "type": "04G",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI170": {
+            "code": "ECI170",
+            "name": "Participação em Eventos C",
+            "type": "04G",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI171": {
+            "code": "ECI171",
+            "name": "Participação em Eventos D",
+            "type": "04G",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI172": {
+            "code": "ECI172",
+            "name": "Oficinas A",
+            "type": "11G",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI173": {
+            "code": "ECI173",
+            "name": "Oficinas B",
+            "type": "11G",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI174": {
+            "code": "ECI174",
+            "name": "Oficinas C",
+            "type": "11G",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI175": {
+            "code": "ECI175",
+            "name": "Oficinas D",
+            "type": "11G",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI176": {
+            "code": "ECI176",
+            "name": "Estágio Curricular A",
+            "type": "01G",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI177": {
+            "code": "ECI177",
+            "name": "Estágio Curricular B",
+            "type": "01G",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI178": {
+            "code": "ECI178",
+            "name": "Estágio Curricular C",
+            "type": "01G",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 0,
+                "practice": 45
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI179": {
+            "code": "ECI179",
+            "name": "Estágio Curricular D",
+            "type": "01G",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 0,
+                "practice": 60
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI180": {
+            "code": "ECI180",
+            "name": "Vivência Profissional Complementar A",
+            "type": "09G",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI181": {
+            "code": "ECI181",
+            "name": "Vivência Profissional Complementar B",
+            "type": "09G",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI182": {
+            "code": "ECI182",
+            "name": "Vivência Profissional Complementar C",
+            "type": "09G",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 0,
+                "practice": 45
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI183": {
+            "code": "ECI183",
+            "name": "Vivência Profissional Complementar D",
+            "type": "09G",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 0,
+                "practice": 60
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI184": {
+            "code": "ECI184",
+            "name": "Publicações (Artigos, Capítulos, Livros) A",
+            "type": "05G",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI185": {
+            "code": "ECI185",
+            "name": "Publicações ( Artigos, Capítulos, Livrros) B",
+            "type": "05G",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI186": {
+            "code": "ECI186",
+            "name": "Publicações (Artigos, Capítulos, Livros) C",
+            "type": "05G",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI187": {
+            "code": "ECI187",
+            "name": "Publicações (Artigos, Capítulos, Livros) D",
+            "type": "05G",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI188": {
+            "code": "ECI188",
+            "name": "Monografia A",
+            "type": "11G",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI189": {
+            "code": "ECI189",
+            "name": "Monografia B",
+            "type": "11G",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI190": {
+            "code": "ECI190",
+            "name": "Monografia C",
+            "type": "11G",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI191": {
+            "code": "ECI191",
+            "name": "Monografia D",
+            "type": "11G",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI192": {
+            "code": "ECI192",
+            "name": "Seminários A",
+            "type": "06G",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI193": {
+            "code": "ECI193",
+            "name": "Seminários B",
+            "type": "06G",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI194": {
+            "code": "ECI194",
+            "name": "Seminários C",
+            "type": "06G",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI195": {
+            "code": "ECI195",
+            "name": "Seminários D",
+            "type": "06G",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "LET223": {
+            "code": "LET223",
+            "name": "FUNDAMENTOS DE LIBRAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI089": {
+            "code": "OTI089",
+            "name": "REPRESENTACAO DA INFORMACAO DIGITAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI090": {
+            "code": "OTI090",
+            "name": "AVALIACAO DE SISTEMAS DE INFORMACAO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI091": {
+            "code": "OTI091",
+            "name": "CONSTRUCAO DE LINGUAGENS DE INDEXACAO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI092": {
+            "code": "OTI092",
+            "name": "INTRODUCAO A BIBLIOMETRIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI093": {
+            "code": "OTI093",
+            "name": "PESQUISA EM CIENCIA DA INFORMACAO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI094": {
+            "code": "OTI094",
+            "name": "PRATICA EM CLASSIFICACAO: CDD",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI095": {
+            "code": "OTI095",
+            "name": "PRATICA EM CLASSIFICACAO: CDU",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI096": {
+            "code": "OTI096",
+            "name": "TOP. CATALOG. CLASSIFICACAO INFORMACAO A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI097": {
+            "code": "OTI097",
+            "name": "TOP. CATALOG. CLASSIFICACAO INFORMACAO B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI098": {
+            "code": "OTI098",
+            "name": "TOP. CATALOG. CLASSIFICACAO INFORMACAO C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI099": {
+            "code": "OTI099",
+            "name": "TOP.CATALOG. CLASSIFICACAO INFORMACAO D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI100": {
+            "code": "OTI100",
+            "name": "TOPICOS EM INDEXACAO DA INFORMACAO A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI101": {
+            "code": "OTI101",
+            "name": "TOPICOS EM INDEXACAO DA INFORMACAO B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI102": {
+            "code": "OTI102",
+            "name": "TOPICOS EM INDEXACAO DA INFORMACAO C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI103": {
+            "code": "OTI103",
+            "name": "TOPICOS EM INDEXACAO DA INFORMACAO D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI104": {
+            "code": "OTI104",
+            "name": "TOP. SERVICOS COMUNIDADES ESPECIFICAS A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI105": {
+            "code": "OTI105",
+            "name": "TOP. SERVICOS COMUNIDADES ESPECIFICAS B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI106": {
+            "code": "OTI106",
+            "name": "TOP. SERVICOS COMUNIDADES ESPECIFICAS C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI107": {
+            "code": "OTI107",
+            "name": "TOP. SERVICOS COMUNIDADES ESPECIFICAS D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI108": {
+            "code": "OTI108",
+            "name": "TOP. USO DA TEC. ORG. TRAT. INFORMACAO A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI109": {
+            "code": "OTI109",
+            "name": "TOP. USO TEC. ORG. TRAT. INFORMACAO B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI110": {
+            "code": "OTI110",
+            "name": "TOP. USO TEC. ORG. TRAT. INFORMACAO C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI111": {
+            "code": "OTI111",
+            "name": "TOP.USO TEC. ORG.TRAT. INFORMACAO D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI112": {
+            "code": "OTI112",
+            "name": "USO FONTES INFORMACAO AREAS ESPECIFICAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI113": {
+            "code": "OTI113",
+            "name": "SERVICOS ESPECIFICOS DE INFORMACAO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI114": {
+            "code": "OTI114",
+            "name": "TOP.EM FONTES INFORM.AREAS ESPECIFICAS A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI115": {
+            "code": "OTI115",
+            "name": "TOP.EM FONTES INFORM.AREAS ESPECIFICAS B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI116": {
+            "code": "OTI116",
+            "name": "TOP.FONTES DE INFORM.AREAS ESPECIFICAS C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OTI117": {
+            "code": "OTI117",
+            "name": "TOP.FONTES INFORM.EM AREAS ESPECIFICAS D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "PSI601": {
+            "code": "PSI601",
+            "name": "PSICOLOGIA SOCIAL I",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "PSI605": {
+            "code": "PSI605",
+            "name": "PSICOLOGIA GERAL I",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TGI037": {
+            "code": "TGI037",
+            "name": "GESTAO DA INFORMACAO E DO CONHECIMENTO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TGI038": {
+            "code": "TGI038",
+            "name": "INFORMACAO E CIDADANIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TGI039": {
+            "code": "TGI039",
+            "name": "INFORMACAO E DEMOCRACIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TGI040": {
+            "code": "TGI040",
+            "name": "SOCIEDADE DA INFORMACAO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TGI041": {
+            "code": "TGI041",
+            "name": "TOPICOS EM GEST.DA INF.E DO CONHECIMENTO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TGI048": {
+            "code": "TGI048",
+            "name": "GESTAO DE CONTEUDO NA WEB",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TGI049": {
+            "code": "TGI049",
+            "name": "INTELIGENCIA COMPETITIVA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TGI050": {
+            "code": "TGI050",
+            "name": "TOPICOS EM GESTAO DA INF. CONHECIMENTO A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TGI051": {
+            "code": "TGI051",
+            "name": "TOPICOS GESTAO INFORMACAO CONHECIMENTO B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TGI052": {
+            "code": "TGI052",
+            "name": "TOPICOS GESTAO INFORMACAO CONHECIMENTO C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TGI053": {
+            "code": "TGI053",
+            "name": "TOPICOS GESTAO INFORMACAO CONHECIMENTO D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TGI054": {
+            "code": "TGI054",
+            "name": "TOPICOS GESTAO UNIDADES DE INFORMACAO A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TGI055": {
+            "code": "TGI055",
+            "name": "TOPICOS GESTAO UNIDADES DE INFORMACAO B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TGI056": {
+            "code": "TGI056",
+            "name": "TOPICOS GESTAO UNIDADES DE INFORMACAO C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TGI057": {
+            "code": "TGI057",
+            "name": "TOPICOS GESTAO UNIDADES DE INFORMACAO D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TGI058": {
+            "code": "TGI058",
+            "name": "TOPICOS EM INFORMACAO E CULTURA A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TGI059": {
+            "code": "TGI059",
+            "name": "TOPICOS EM INFORMACAO E CULTURA B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TGI060": {
+            "code": "TGI060",
+            "name": "TOPICOS EM INFORMACAO E CULTURA C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TGI061": {
+            "code": "TGI061",
+            "name": "TOPICOS EM INFORMACAO E CULTURA D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TGI062": {
+            "code": "TGI062",
+            "name": "TOPICOS EM USUARIOS DA INFORMACAO A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TGI063": {
+            "code": "TGI063",
+            "name": "TOPICOS EM USUARIOS DA INFORMACAO B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TGI064": {
+            "code": "TGI064",
+            "name": "TOPICOS EM USUARIOS DA INFORMACAO C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TGI065": {
+            "code": "TGI065",
+            "name": "TOPICOS EM USUARIOS DA INFORMACAO D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        }
+    },
+    "percursos": [
+        {
+            "id": "01-01",
+            "name": "BIBLIOTECONOMIA/BACHARELADO",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "CAD103",
+                        "DCC601",
+                        "OTI072",
+                        "OTI077",
+                        "TGI002"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "OTI073",
+                        "OTI078",
+                        "TGI030",
+                        "TGI031",
+                        "TGI032"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "OTI074",
+                        "OTI079",
+                        "OTI080",
+                        "TGI004",
+                        "TGI033"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "OTI081",
+                        "OTI082",
+                        "TGI034",
+                        "TGI035",
+                        "TGI046"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "OTI083",
+                        "OTI084",
+                        "OTI087",
+                        "OTI088",
+                        "TGI036",
+                        "TGI047"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "OTI051",
+                        "OTI085",
+                        "OTI086"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "ECI155"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-01-01-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-06",
+                    "label": "Optativa 6",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-07",
+                    "label": "Optativa 7",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-08",
+                    "label": "Optativa 8",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "ECI035",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI036",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI037",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI038",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI039",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI040",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI041",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI042",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI043",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI044",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI045",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI046",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI156",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI157",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI158",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI159",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI160",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI161",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI162",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI163",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI164",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI165",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI166",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI167",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI168",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI169",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI170",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI171",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI172",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI173",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI174",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI175",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI176",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI177",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI178",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI179",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI180",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI181",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI182",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI183",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI184",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI185",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI186",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI187",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI188",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI189",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI190",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI191",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI192",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI193",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI194",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI195",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "LET223",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI089",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI090",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI091",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI092",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI093",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI094",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI095",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI096",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI097",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI098",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI099",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI100",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI101",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI102",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI103",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI104",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI105",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI106",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI107",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI108",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI109",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI110",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI111",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI112",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI113",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI114",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI115",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI116",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI117",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI037",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI038",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI039",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI040",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI041",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI048",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI049",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI050",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI051",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI052",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI053",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI054",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI055",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI056",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI057",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI058",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI059",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI060",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI061",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI062",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI063",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI064",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI065",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "01-01",
+                "semesters": {
+                    "min": 8,
+                    "standard": 8,
+                    "max": 14
+                },
+                "enrollmentHours": {
+                    "min": 180,
+                    "max": null
+                },
+                "obligatoryHours": {
+                    "min": 1650,
+                    "max": 1650
+                },
+                "optionalHours": {
+                    "min": 450,
+                    "max": 450
+                },
+                "stageHours": {
+                    "min": 240,
+                    "max": 240
+                },
+                "complementaryPresetHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryOpenHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "freeHours": {
+                    "min": 60,
+                    "max": 60
+                },
+                "totalHours": 2400
+            }
+        },
+        {
+            "id": "01-02",
+            "name": "BIBLIOTECONOMIA/BACH/F.C.PRESERV. BENS CULT. ARTES",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "CAD103",
+                        "DCC601",
+                        "OTI072",
+                        "OTI077",
+                        "TGI002"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "OTI073",
+                        "OTI078",
+                        "TGI030",
+                        "TGI031",
+                        "TGI032"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "OTI074",
+                        "OTI079",
+                        "OTI080",
+                        "TGI004",
+                        "TGI033"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "OTI081",
+                        "OTI082",
+                        "TGI034",
+                        "TGI035",
+                        "TGI046"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "OTI083",
+                        "OTI084",
+                        "OTI087",
+                        "OTI088",
+                        "TGI036",
+                        "TGI047"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "OTI051",
+                        "OTI085",
+                        "OTI086"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "ECI155"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-01-02-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "APL058",
+                    "group": "13002-N-20141-7",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL066",
+                    "group": "13002-N-20141-7",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL074",
+                    "group": "13002-N-20141-7",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI035",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI036",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI037",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI038",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI039",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI040",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI041",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI042",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI043",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI044",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI045",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI046",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI156",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI157",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI158",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI159",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI160",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI161",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI162",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI163",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI164",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI165",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI166",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI167",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI168",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI169",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI170",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI171",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI172",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI173",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI174",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI175",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI176",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI177",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI178",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI179",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI180",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI181",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI182",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI183",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI184",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI185",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI186",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI187",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI188",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI189",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI190",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI191",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI192",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI193",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI194",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI195",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "LET223",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI089",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI090",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI091",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI092",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI093",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI094",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI095",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI096",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI097",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI098",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI099",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI100",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI101",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI102",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI103",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI104",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI105",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI106",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI107",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI108",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI109",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI110",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI111",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI112",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI113",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI114",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI115",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI116",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI117",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI037",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI038",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI039",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI040",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI041",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI048",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI049",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI050",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI051",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI052",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI053",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI054",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI055",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI056",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI057",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI058",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI059",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI060",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI061",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI062",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI063",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI064",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI065",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "01-02",
+                "semesters": {
+                    "min": 8,
+                    "standard": 8,
+                    "max": 14
+                },
+                "enrollmentHours": {
+                    "min": 180,
+                    "max": null
+                },
+                "obligatoryHours": {
+                    "min": 1650,
+                    "max": 1650
+                },
+                "optionalHours": {
+                    "min": 255,
+                    "max": 255
+                },
+                "stageHours": {
+                    "min": 240,
+                    "max": 240
+                },
+                "complementaryPresetHours": {
+                    "min": 195,
+                    "max": 195
+                },
+                "complementaryOpenHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "freeHours": {
+                    "min": 60,
+                    "max": 60
+                },
+                "totalHours": 2400
+            }
+        },
+        {
+            "id": "01-03",
+            "name": "BIBLIOTECONOMIA/BACH/FORMACAO COMPL. EM PSICOLOGIA",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "CAD103",
+                        "DCC601",
+                        "OTI072",
+                        "OTI077",
+                        "TGI002"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "OTI073",
+                        "OTI078",
+                        "TGI030",
+                        "TGI031",
+                        "TGI032"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "OTI074",
+                        "OTI079",
+                        "OTI080",
+                        "TGI004",
+                        "TGI033"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "OTI081",
+                        "OTI082",
+                        "TGI034",
+                        "TGI035",
+                        "TGI046"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "OTI083",
+                        "OTI084",
+                        "OTI087",
+                        "OTI088",
+                        "TGI036",
+                        "TGI047"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "OTI051",
+                        "OTI085",
+                        "OTI086"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "ECI155"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-01-03-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-03-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-03-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-03-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-03-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-03-06",
+                    "label": "Optativa 6",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "ECI035",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI036",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI037",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI038",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI039",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI040",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI041",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI042",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI043",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI044",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI045",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI046",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI156",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI157",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI158",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI159",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI160",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI161",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI162",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI163",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI164",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI165",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI166",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI167",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI168",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI169",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI170",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI171",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI172",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI173",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI174",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI175",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI176",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI177",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI178",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI179",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI180",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI181",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI182",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI183",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI184",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI185",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI186",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI187",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI188",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI189",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI190",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI191",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI192",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI193",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI194",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI195",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "LET223",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI089",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI090",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI091",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI092",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI093",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI094",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI095",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI096",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI097",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI098",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI099",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI100",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI101",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI102",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI103",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI104",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI105",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI106",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI107",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI108",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI109",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI110",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI111",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI112",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI113",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI114",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI115",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI116",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI117",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "PSI601",
+                    "group": "13002-N-20141-10",
+                    "prereqs": []
+                },
+                {
+                    "code": "PSI605",
+                    "group": "13002-N-20141-10",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI037",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI038",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI039",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI040",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI041",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI048",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI049",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI050",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI051",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI052",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI053",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI054",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI055",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI056",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI057",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI058",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI059",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI060",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI061",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI062",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI063",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI064",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI065",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "01-03",
+                "semesters": {
+                    "min": 8,
+                    "standard": 8,
+                    "max": 14
+                },
+                "enrollmentHours": {
+                    "min": 180,
+                    "max": null
+                },
+                "obligatoryHours": {
+                    "min": 1650,
+                    "max": 1650
+                },
+                "optionalHours": {
+                    "min": 330,
+                    "max": 330
+                },
+                "stageHours": {
+                    "min": 240,
+                    "max": 240
+                },
+                "complementaryPresetHours": {
+                    "min": 120,
+                    "max": 120
+                },
+                "complementaryOpenHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "freeHours": {
+                    "min": 60,
+                    "max": 60
+                },
+                "totalHours": 2400
+            }
+        },
+        {
+            "id": "01-04",
+            "name": "BIBLIOTECONOMIA/BACH/FORMACAO COMPLEMENTAR ABERTA1",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "CAD103",
+                        "DCC601",
+                        "OTI072",
+                        "OTI077",
+                        "TGI002"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "OTI073",
+                        "OTI078",
+                        "TGI030",
+                        "TGI031",
+                        "TGI032"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "OTI074",
+                        "OTI079",
+                        "OTI080",
+                        "TGI004",
+                        "TGI033"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "OTI081",
+                        "OTI082",
+                        "TGI034",
+                        "TGI035",
+                        "TGI046"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "OTI083",
+                        "OTI084",
+                        "OTI087",
+                        "OTI088",
+                        "TGI036",
+                        "TGI047"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "OTI051",
+                        "OTI085",
+                        "OTI086"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "ECI155"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-01-04-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-04-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-04-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-04-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-04-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-04-06",
+                    "label": "Optativa 6",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "ECI035",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI036",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI037",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI038",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI039",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI040",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI041",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI042",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI043",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI044",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI045",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI046",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI156",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI157",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI158",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI159",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI160",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI161",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI162",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI163",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI164",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI165",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI166",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI167",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI168",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI169",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI170",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI171",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI172",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI173",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI174",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI175",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI176",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI177",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI178",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI179",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI180",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI181",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI182",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI183",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI184",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI185",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI186",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI187",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI188",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI189",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI190",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI191",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI192",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI193",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI194",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI195",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "LET223",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI089",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI090",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI091",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI092",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI093",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI094",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI095",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI096",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI097",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI098",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI099",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI100",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI101",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI102",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI103",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI104",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI105",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI106",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI107",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI108",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI109",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI110",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI111",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI112",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI113",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI114",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI115",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI116",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI117",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI037",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI038",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI039",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI040",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI041",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI048",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI049",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI050",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI051",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI052",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI053",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI054",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI055",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI056",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI057",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI058",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI059",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI060",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI061",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI062",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI063",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI064",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI065",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "01-04",
+                "semesters": {
+                    "min": 8,
+                    "standard": 8,
+                    "max": 14
+                },
+                "enrollmentHours": {
+                    "min": 180,
+                    "max": null
+                },
+                "obligatoryHours": {
+                    "min": 1650,
+                    "max": 1650
+                },
+                "optionalHours": {
+                    "min": 330,
+                    "max": 330
+                },
+                "stageHours": {
+                    "min": 240,
+                    "max": 240
+                },
+                "complementaryPresetHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryOpenHours": {
+                    "min": 120,
+                    "max": 120
+                },
+                "freeHours": {
+                    "min": 60,
+                    "max": 60
+                },
+                "totalHours": 2400
+            }
+        },
+        {
+            "id": "01-05",
+            "name": "BIBLIOTECONOMIA/BACH/FORMACAO COMPLEMENTAR ABERTA2",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "CAD103",
+                        "DCC601",
+                        "OTI072",
+                        "OTI077",
+                        "TGI002"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "OTI073",
+                        "OTI078",
+                        "TGI030",
+                        "TGI031",
+                        "TGI032"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "OTI074",
+                        "OTI079",
+                        "OTI080",
+                        "TGI004",
+                        "TGI033"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "OTI081",
+                        "OTI082",
+                        "TGI034",
+                        "TGI035",
+                        "TGI046"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "OTI083",
+                        "OTI084",
+                        "OTI087",
+                        "OTI088",
+                        "TGI036",
+                        "TGI047"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "OTI051",
+                        "OTI085",
+                        "OTI086"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "ECI155"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-01-05-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-05-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "ECI035",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI036",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI037",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI038",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI039",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI040",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI041",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI042",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI043",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI044",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI045",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI046",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI156",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI157",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI158",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI159",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI160",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI161",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI162",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI163",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI164",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI165",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI166",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI167",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI168",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI169",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI170",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI171",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI172",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI173",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI174",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI175",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI176",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI177",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI178",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI179",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI180",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI181",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI182",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI183",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI184",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI185",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI186",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI187",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI188",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI189",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI190",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI191",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI192",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI193",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI194",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI195",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "LET223",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI089",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI090",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI091",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI092",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI093",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI094",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI095",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI096",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI097",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI098",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI099",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI100",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI101",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI102",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI103",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI104",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI105",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI106",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI107",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI108",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI109",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI110",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI111",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI112",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI113",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI114",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI115",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI116",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "OTI117",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI037",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI038",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI039",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI040",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI041",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI048",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI049",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI050",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI051",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI052",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI053",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI054",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI055",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI056",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI057",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI058",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI059",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI060",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI061",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI062",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI063",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI064",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                },
+                {
+                    "code": "TGI065",
+                    "group": "13002-N-20141-4",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "01-05",
+                "semesters": {
+                    "min": 8,
+                    "standard": 8,
+                    "max": 14
+                },
+                "enrollmentHours": {
+                    "min": 180,
+                    "max": null
+                },
+                "obligatoryHours": {
+                    "min": 1650,
+                    "max": 1650
+                },
+                "optionalHours": {
+                    "min": 90,
+                    "max": 90
+                },
+                "stageHours": {
+                    "min": 240,
+                    "max": 240
+                },
+                "complementaryPresetHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryOpenHours": {
+                    "min": 360,
+                    "max": 360
+                },
+                "freeHours": {
+                    "min": 60,
+                    "max": 60
+                },
+                "totalHours": 2400
+            }
+        }
+    ]
+}

@@ -23,30 +23,50 @@ Grafo de um curso (Engenharia de Computação):
 
 ## Estado atual
 
-| Curso | Fonte | Períodos | Disciplinas | Pré-requisitos | Optativas | Carga total |
-|---|---|---|---|---|---|---|
-| Ciência da Computação | Siga — versão curricular D-20192 | 10 | 35 | 25 | 11–17 slots | 3.240 h |
-| Sistemas de Informação | Siga — percurso curricular N-2019/9 | 9 | 35 | 16 | 13 slots | 3.000 h |
-| Engenharia de Computação | Siga — versão curricular V-20251 | 10 | 52 | 41 | 10 slots | 3.600 h |
-| Ciência de Dados | Siga — percurso curricular V-20241 | 9 | 39 | 36 | 11 slots | 3.000 h |
-| Física — Bacharelado | JSON legado (Siga 2025) | 7 | 31 | 38 | não mapeadas | — |
-| Física — Licenciatura (diurno) | JSON legado (Siga 2025) | 9 | 41 | 49 | não mapeadas | — |
-| Física — Licenciatura (noturno) | JSON legado (Siga 2025) | 10 | 41 | 48 | não mapeadas | — |
+**16 cursos** publicados (de ~100 da UFMG), cobrindo 5 unidades:
+
+| Unidade | Curso | Versão curricular | Períodos | Disciplinas | Pré-requisitos | Optativas | Carga total |
+|---|---|---|---|---|---|---|---|
+| DCC — ICEx | Ciência da Computação | 02001 · D-20192 | 10 | 35 | 25 | 11–17 slots | 3.240 h |
+| DCC — ICEx | Sistemas de Informação | 02009 · N-2019/9 | 9 | 35 | 16 | 13 slots | 3.000 h |
+| DCC — ICEx / Eng. | Engenharia de Computação | 02101 · V-20251 | 10 | 52 | 41 | 10 slots | 3.600 h |
+| DCC — ICEx | Ciência de Dados | 02011 · V-20241 | 9 | 39 | 36 | 11 slots | 3.000 h |
+| ICEx — Física | Física — Bacharelado | fonte legada | 7 | 31 | 38 | não mapeadas | — |
+| ICEx — Física | Física — Licenciatura (diurno) | fonte legada | 9 | 41 | 49 | não mapeadas | — |
+| ICEx — Física | Física — Licenciatura (noturno) | fonte legada | 10 | 41 | 48 | não mapeadas | — |
+| Farmácia | Farmácia — Diurno | 18002 · D-20252 | 10 | 66 | 92 | 9 slots | 4.170 h |
+| Farmácia | Farmácia — Noturno | 18002 · N-20252 | 12 | 66 | 92 | 9 slots | 4.170 h |
+| Farmácia | Biomedicina | 18001 · N-20262 | 10 | 40 | 48 | 7 slots | 3.210 h |
+| ECI | Biblioteconomia — Diurno | 13002 · D-20141 | 8 | 30 | 3 | 8 slots | 2.400 h |
+| ECI | Biblioteconomia — Noturno | 13002 · N-20141 | 8 | 30 | 3 | 8 slots | 2.400 h |
+| ECI | Arquivologia | 13001 · N-20151 | 8 | 31 | 6 | 5 slots | 2.400 h |
+| ECI | Museologia | 13003 · M-20251 | 8 | 32 | 8 | 7 slots | 2.400 h |
+| FAE | Pedagogia — Diurno | 14006 · D-20191 | 9 | 41 | 0 | 13 slots | 3.240 h |
+| FAE | Pedagogia — Noturno | 14006 · N-20191 | 9 | 41 | 0 | 13 slots | 3.240 h |
 
 A UFMG tem **100 cursos de graduação**. Os dados de matriz curricular são publicados
 curso a curso (não existe API pública unificada), então a cobertura cresce de forma
-incremental — veja [Adicionar um curso](#adicionar-um-curso).
+incremental — veja [Adicionar um curso](#adicionar-um-curso) e
+[Cobertura e próximos passos](#cobertura-e-próximos-passos).
+
+Observações sobre os dados:
+
+- Pedagogia **não tem pré-requisitos** na matriz oficial (0 arestas é o dado real);
+- cursos com vários percursos (Farmácia 3, Biblioteconomia 5, Pedagogia 6, Museologia 2)
+  abrem no percurso padrão e permitem alternar na página do curso;
+- Física veio do JSON legado: sem carga horária e sem optativas mapeadas.
 
 O parser entende os dois formatos de relatório do Siga:
 
 - **"Relatório de versão curricular"** — uma linha por percurso dentro de cada período
-  (usado em Ciência da Computação e Engenharia de Computação);
+  (DCC, Farmácia, ECI, FAE);
 - **"Relatório de percurso curricular"** — um percurso por documento, colunas fixas
-  (usado em Sistemas de Informação e Ciência de Dados).
+  (Sistemas de Informação e Ciência de Dados).
 
 Também trata os artefatos comuns da extração: cabeçalhos/rodapés colados nas linhas,
-nomes e listas de pré-requisitos quebrados em duas linhas e blocos duplicados na virada
-de página.
+nomes e listas de pré-requisitos quebrados em duas linhas, blocos duplicados na virada
+de página, identificadores de percurso não numéricos (`R-01`, `02-01`) e a coluna de
+grupo com identificador completo (`13002-D-20141-1`).
 
 ## Como funciona
 
@@ -134,24 +154,65 @@ Decisões de modelagem:
 - **Progresso** fica no `localStorage`, separado por curso:
   `grafos-ufmg:v3:<slug>`.
 
-## Desenvolvimento
+## Como rodar e testar localmente
+
+Pré-requisitos: **Node.js 20+** (o projeto usa `node --test`) e npm.
 
 ```sh
+# 1) instalar dependências (só na primeira vez)
 npm install
-npm run dev        # http://localhost:5173
+
+# 2) subir o servidor de desenvolvimento
+npm run dev
+```
+
+Abra **http://localhost:5173/GrafosDependenciasUFMG/** — atenção ao caminho com o nome do
+repositório: o Vite está configurado com `base: '/GrafosDependenciasUFMG/'` por causa do
+GitHub Pages. Abrir só `http://localhost:5173/` mostra página em branco.
+
+A primeira execução pode demorar ~20 s (otimização de dependências do Vite); depois o hot
+reload é imediato. Se a porta 5173 estiver ocupada: `npm run dev -- --port 5200`.
+
+O que deve aparecer:
+
+1. catálogo com os cursos publicados (hoje: Física ×3, Ciência da Computação, Sistemas de
+   Informação, Engenharia de Computação, Ciência de Dados);
+2. ao abrir um curso, o grafo com uma coluna por período, nós cinza/verde/azul e os slots
+   "Optativa 1..N" na última coluna;
+3. clique em um nó para marcar/desmarcar — o progresso fica em `localStorage` e é salvo por
+   curso (sobrevive a recarregar a página).
+
+Testar o build de produção (é o que o GitHub Pages serve):
+
+```sh
 npm run build      # gera dist/
+npm run preview    # http://localhost:4173/GrafosDependenciasUFMG/
+```
+
+Rodar as verificações antes de commitar:
+
+```sh
 npm run check      # testes + validação dos dados + checagem dos componentes
 npm run lint
 ```
 
 O `npm run check` roda três verificações independentes:
 
-1. `npm test` — 46 testes (`node --test`) das regras de grafo/progresso, do parser dos
-   relatórios, da conversão para JSON v2 e da integridade dos dados publicados;
+1. `npm test` — 62 testes (`node --test`) das regras de grafo/progresso, do parser dos
+   relatórios (incluindo regressão sobre os 13 relatórios oficiais versionados), da
+   conversão para JSON v2 e da integridade dos dados publicados;
 2. `npm run data:validate` — IDs duplicados, arestas órfãs, ciclos, pré-requisito em
    período posterior, faixas de carga horária e divergência entre o manifesto e os JSONs;
 3. `npm run check:sfc` — compila os componentes Vue (`@vue/compiler-sfc`) e confere os
    imports relativos, sem depender do Vite.
+
+Dicas de diagnóstico:
+
+- **página em branco** → confira a URL com `/GrafosDependenciasUFMG/`;
+- **erro 404 em `data/courses.json`** → rode `npm run data:build` (os JSONs de `public/data`
+  são versionados, mas essa é a forma de regenerar);
+- **aviso de `esbuild`/`npm install`** em ambientes restritos → `npm install --ignore-scripts`;
+- **quer inspecionar uma fonte de dados** → `node scripts/inspect-source.mjs data/sources/dcc/bcc.txt`.
 
 No CI (`.github/workflows/deploy.yml`) esses passos rodam antes do build e do deploy no
 GitHub Pages, junto com o `lint`.
@@ -173,8 +234,11 @@ npm run data:fetch      # baixa o PDF do Siga e extrai o texto (precisa de pdfto
    pdftotext -layout relatorio.pdf data/sources/dcc/novo-curso.txt
    ```
    (ou `npm run data:fetch -- --url <url-do-pdf> --out data/sources/.../*.txt`)
-3. Registre a origem em `data/sources/sources.json`.
-4. Inclua o arquivo em `COURSES` no topo de `scripts/build-data.mjs`.
+3. Registre a origem: em `data/sources/sources.json` (uma entrada só) ou num
+   `data/sources/<unidade>/index.json` (formato usado nas unidades com vários cursos —
+   veja `data/sources/farmacia/index.json`).
+4. Inclua o arquivo em `COURSES` no topo de `scripts/build-data.mjs` (unidade e campus
+   vêm de `UNIT_DEFAULTS`; nome, grau e turno são lidos do próprio relatório).
 5. Rode `npm run data:build && npm run data:validate`.
 6. Abra um PR — o GitHub Actions roda `npm run check` e faz o deploy.
 
@@ -185,20 +249,31 @@ npm run data:fetch      # baixa o PDF do Siga e extrai o texto (precisa de pdfto
 
 A UFMG tem ~100 cursos de graduação e **não existe API pública única** com as matrizes:
 o dado autoritativo é gerado no Siga (autenticado). O levantamento de fontes está em
-[docs/RELATORIO_FONTES_UFMG.md](docs/RELATORIO_FONTES_UFMG.md). Resumo:
+[docs/RELATORIO_FONTES_UFMG.md](docs/RELATORIO_FONTES_UFMG.md). Resumo do que já foi
+varrido:
 
-- **~30% das unidades publicam os relatórios do Siga** nos próprios sites (DCC — 4 cursos,
-  já incluídos; Farmácia, ECI, FAE — dezenas de PDFs a explorar com a mesma receita);
+- **DCC** — 4 cursos publicados (relatórios no site da unidade);
+- **Farmácia** — 3 cursos publicados (Farmácia diurno/noturno e Biomedicina), 17 PDFs
+  avaliados e as versões antigas descartadas;
+- **ECI** — Biblioteconomia (diurno/noturno), Arquivologia e Museologia; 8 PDFs avaliados;
+- **FAE** — Pedagogia (diurno/noturno); Educação do Campo e FIEI **não publicam** matriz
+  no formato do Siga (FIEI bloqueia acesso automatizado — respeitado);
+- **~70 cursos restantes** (Engenharias, Saúde, Direito, Letras, ICEx/Matemática etc.)
+  dependem de relatório do Siga: pedido de dados à PROGRAD/DGI (LAI) ou contribuição de
+  quem tiver acesso.
+
+Outros aprendizados do levantamento:
+
 - **PPCs da PROGRAD não servem** como fonte: a matriz é anexo separado, sem códigos nem
   pré-requisitos na maioria dos casos;
 - **horários/oferta** não têm endpoint público global — por isso a antiga aba "Tabela de
   Horários" foi removida;
-- os cursos restantes dependem de pedido de dados à PROGRAD/DGI (LAI) ou de contribuição
-  de quem tiver acesso ao relatório do curso.
+- sites de unidade são heterogêneos (WordPress, Wix, IIS) e alguns bloqueiam crawl; a
+  receita que funcionou foi a REST de mídia do WordPress (`/wp-json/wp/v2/media?search=curricular`).
 
-Próximos passos naturais: colher Farmácia/ECI/FAE com o pipeline já existente; pedir a
-extração oficial à PROGRAD; e criar um fluxo de contribuição (upload do PDF do relatório →
-texto → `data:build` → PR).
+Próximos passos naturais: pedir a extração oficial à PROGRAD/DGI; varrer outras unidades
+WordPress com a mesma receita; e criar um fluxo de contribuição (upload do PDF do
+relatório → texto → `data:build` → PR).
 
 ## Limitações e avisos
 

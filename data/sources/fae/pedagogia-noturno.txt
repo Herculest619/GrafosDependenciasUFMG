@@ -1,0 +1,1536 @@
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+Configuração Curricular
+Pró-reitoria de Graduação
+Relatório de versão curricular
+Liberada
+N-20191
+Situação:
+Carga horária mínima para mudança de opção de vinculação: -
+Versão curricular:14006 - PEDAGOGIACurso:
+Período mínimo para mudança de opção de vinculação: 6
+Disponibilidade nas subdivisões do curso:
+Percurso padrão
+Subdivisão de Curso
+É versão para
+vinculação de
+ingressantes
+Modalidade
+Educacional
+Identificador Nome
+14006PN002/Presencial/NOTURNO Sim Presencial 02-02 LICENCIATURA / FL
+Observações:
+-
+Percursos curriculares que compõem a versão:
+Identificador Nome
+02 LICENCIATURA - (M)
+02-01 ---LICENCIATURA / FCA / FL
+02-04 ---LICENCIATURA / FCP EM ADM. DE SISTEMAS E INSTITUIÇÕES EDUCACIONAIS / FL
+02-03 ---LICENCIATURA / FCP EM CIÊNCIAS DA EDUCAÇÃO / FL
+02-06 ---LICENCIATURA / FCP EM EDUCADOR SOCIAL / FL
+02-05 ---LICENCIATURA / FCP EM EDUCAÇÃO DE JOVENS E ADULTOS / FL
+02-02 ---LICENCIATURA / FL
+21/05/2019 18.33.35 Página 1 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoAtividades acadêmicas:
+Tabela organizada por sugestão de período definido na versão curricular
+1º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - ADE058 - POLITICA EDUCACIONAL 4 4 60 60 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - CAE104 - SOCIOLOGIA DA EDUCACAO I 4 4 60 60 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - CAE111 - FILOSOFIA DA EDUCACAO I 4 4 60 60 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - CAE129 - PSICOLOGIA DA EDUCACAO I 4 4 60 60 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - CAE145 - METODOLOGIA DE PESQUISA EM EDUCACAO I 4 4 60 60 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+21/05/2019 18.33.35 Página 2 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de Graduação2º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - ADE043 - POLITICA E ADM.DOS SISTEMAS EDUCACIONAIS 2 2 30 30 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - CAE007 - ANTROPOLOGIA E EDUCACAO 4 4 60 60 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - CAE021 - FILOSOFIA DA EDUCACAO II 2 2 30 30 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - CAE022 - HISTORIA DA EDUCACAO I 2 2 30 30 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - CAE023 - SOCIOLOGIA DA EDUCACAO II 2 2 30 30 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - CAE130 - PSICOLOGIA DA EDUCACAO II 4 4 60 60 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+21/05/2019 18.33.35 Página 3 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCréditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - MTE213 - ARTE NO ENSINO FUNDAMENTAL 4 4 60 60 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+3º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - CAE053 - ESTÁGIO CURRICULAR DE INTRODUÇÃO AO CAMPO EDUCACIONAL 4 4 60 30 30 02-01 - 3 OB OB -
+02-02 - 3 OB OB -
+02-03 - 3 OB OB -
+02-04 - 3 OB OB -
+02-05 - 3 OB OB -
+02-06 - 3 OB OB -
+DIG - CAE109 - HISTORIA DA EDUCACAO II 4 4 60 60 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - CAE147 - ESTUDOS SOBRE A INFANCIA 4 4 60 60 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - MTE224 - ALFABETIZACAO E LETRAMENTO I 4 4 60 60 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+21/05/2019 18.33.35 Página 4 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCréditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - MTE243 - FUNDAMENTOS E METODOLOGIA DO ENSINO DA MATEMÁTICA I 4 4 60 15 45 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+4º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - ADE044 - TEORIAS DE CURRICULO 4 4 60 60 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - ADE045 - PROCESSOS EDUCATIVOS NAS ACOES COLETIVAS 2 2 30 30 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - ADE046 - ESCOLA E DIVERSIDADE: INTERFACES POLITIC 2 2 30 30 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - MTE212 - ALFABETIZACAO E LETRAMENTO II 4 4 60 60 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+21/05/2019 18.33.35 Página 5 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCréditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - MTE244 - FUNDAMENTOS E METODOLOGIA DO ENSINO DA MATEMÁTICA II 4 4 60 15 45 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+Carga horária adicional do período
+Percurso Grupo de atividades Carga Horária
+02-01 6014006-N-20191-6 - Atividades Acadêmico-Científico-Culturais
+02-02 6014006-N-20191-6 - Atividades Acadêmico-Científico-Culturais
+02-03 6014006-N-20191-6 - Atividades Acadêmico-Científico-Culturais
+02-04 6014006-N-20191-6 - Atividades Acadêmico-Científico-Culturais
+02-05 6014006-N-20191-6 - Atividades Acadêmico-Científico-Culturais
+02-06 6014006-N-20191-6 - Atividades Acadêmico-Científico-Culturais
+5º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - ADE049 - OBSERVATORIO DE CURRICULO: EDUCACA INFAN 2 2 30 30 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - ADE059 - ORGANIZACAO DA EDUCACAO INFANTIL 2 2 30 30 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+21/05/2019 18.33.35 Página 6 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCréditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - CAE148 - FUNDAMENTOS DA EDUCACAO INCLUSIVA 4 4 60 60 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - MTE245 - FUNDAMENTOS E METODOLOGIA DO ENSINO DE LÍNGUA
+PORTUGUESA
+4 4 60 15 45 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - MTE246 - FUNDAMENTOS E METODOLOGIA DO ENSINO DA GEOGRAFIA 4 4 60 15 45 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - MTE247 - FUNDAMENTOS E METODOLOGIA DO ENSINO DE CIÊNCIAS FÍSICAS 4 4 60 15 45 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+6º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - MTE068 - DIFICULDADES ENSINO-APREND DA LEIT E ESC 4 4 60 60 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+21/05/2019 18.33.35 Página 7 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCréditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - MTE215 - ESTAGIO CURRICULAR EM DOCENCIA NO ENS F. 8 8 120 30 90 02-01 - 3 OB OB -
+02-02 - 3 OB OB -
+02-03 - 3 OB OB -
+02-04 - 3 OB OB -
+02-05 - 3 OB OB -
+02-06 - 3 OB OB -
+DIG - MTE248 - DIDÁTICA 4 4 60 15 45 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - MTE249 - FUNDAMENTOS E METODOLOGIA DO ENSINO DA HISTÓRIA 4 4 60 15 45 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - MTE250 - FUNDAMENTOS E METODOLOGIA DO ENSINO DE CIÊNCIAS
+BIOLÓGICAS
+4 4 60 15 45 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+7º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - ADE048 - POLITICAS PUBLICAS,MOVM.SOCIAIS E CIDADA 4 4 60 60 0 02-05 - 14 OB OB -
+02-06 - 16 OB OB -
+DIG - CAE149 - METODOLOGIA DE PESQUISA EM EDUCACAO II 4 4 60 60 0 02-03 - 8 OB OB -
+DIG - CAE150 - SISTEMA DE AVALIACAO EDUCACIONAL 4 4 60 60 0 02-04 - 11 OB OB -
+21/05/2019 18.33.35 Página 8 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCréditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - LET223 - FUNDAMENTOS DE LIBRAS 4 4 60 60 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - MTE073 - ESTAGIO CURRICULAR EM EDUCACAO INFANTIL 8 8 120 30 90 02-01 - 3 OB OB -
+02-02 - 3 OB OB -
+02-03 - 3 OB OB -
+02-04 - 3 OB OB -
+02-05 - 3 OB OB -
+02-06 - 3 OB OB -
+DIG - MTE232 - ARTE NA EDUCACAO INFANTIL 4 4 60 60 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - MTE261 - DIDÁTICA DA EDUCAÇÃO INFANTIL 4 4 60 15 45 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+Carga horária adicional do período
+Percurso Grupo de atividades Carga Horária
+02-01 3014006-N-20191-6 - Atividades Acadêmico-Científico-Culturais
+6014006-N-20191-5 - Optativas
+02-02 3014006-N-20191-6 - Atividades Acadêmico-Científico-Culturais
+6014006-N-20191-7 - Optativas
+02-03 3014006-N-20191-6 - Atividades Acadêmico-Científico-Culturais
+02-04 3014006-N-20191-6 - Atividades Acadêmico-Científico-Culturais
+02-05 3014006-N-20191-6 - Atividades Acadêmico-Científico-Culturais
+02-06 3014006-N-20191-6 - Atividades Acadêmico-Científico-Culturais
+21/05/2019 18.33.35 Página 9 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de Graduação8º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - ADE029 - ESTÁGIO CURRICULAR EM GESTÃO DA ESCOLA E COORD.
+PEDAGÓGICA
+8 8 120 30 90 02-01 - 3 OB OB -
+02-02 - 3 OB OB -
+02-03 - 3 OB OB -
+02-04 - 3 OB OB -
+02-05 - 3 OB OB -
+02-06 - 3 OB OB -
+DIG - ADE047 - ORGANIZACAO DO ENSINO FUNDAMENTAL 2 2 30 30 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - ADE050 - OBSERVATORIO CURRICULO:ENSINO FUNDAMENTA 2 2 30 30 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - ADE052 - ECONOMIA E POLITICA FINANCIAMENTO ED.BAS 4 4 60 60 0 02-04 - 11 OB OB -
+DIG - CAE151 - FUNDAMENTOS TEORICO-METOD. EDUCACAO POPU 4 4 60 60 0 02-05 - 14 OB OB -
+02-06 - 16 OB OB -
+DIG - MTE214 - CORPO E EDUCACAO 4 4 60 60 0 02-01 - 19 OB OB -
+02-02 - 19 OB OB -
+02-03 - 19 OB OB -
+02-04 - 19 OB OB -
+02-05 - 19 OB OB -
+02-06 - 19 OB OB -
+DIG - MTE217 - METODOLOGIA DA ALF. DE JOVENS E ADULTOS 4 4 60 60 0 02-05 - 14 OB OB -
+Carga horária adicional do período
+Percurso Grupo de atividades Carga Horária
+02-01 12014006-N-20191-4 - F. C. Aberta
+3014006-N-20191-5 - Optativas
+02-02 15014006-N-20191-7 - Optativas
+02-03 12014006-N-20191-9 - F. C. Preestabelecida em Ciências da Educação (OP - G1)
+3014006-N-20191-10 - Optativas
+21/05/2019 18.33.35 Página 10 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga horária adicional do período
+Percurso Grupo de atividades Carga Horária
+02-04 6014006-N-20191-12 - F. C. Preestabelecida em Adm. de Sistemas e Instituições Educacionais (OP - G2)
+3014006-N-20191-13 - Optativas
+02-05 3014006-N-20191-15 - Optativas
+02-06 6014006-N-20191-17 - F. C. Preestabelecida em Educador Social (OP - G3)
+3014006-N-20191-18 - Optativas
+9º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - ADE026 - ORGANIZACAO DA EDUC DE JOVENS E ADULTOS 4 4 60 60 0 02-05 - 14 OB OB -
+DIG - ADE053 - PRATICA EM EDUCACAO DE JOVENS E ADULTOS 4 4 60 60 0 02-05 - 14 OB OB -
+DIG - ADE054 - TRAB. DOC. E RELACOES TRAB.NOS SIST.ENSI 4 4 60 60 0 02-04 - 11 OB OB -
+DIG - CAE152 - MONOGRAFIA NA AREA DE CIENCIAS EDUCACAO 4 4 60 60 0 02-03 - 8 OB OB -
+DIG - CAE153 - EDUCACAO SOCIAL 4 4 60 60 0 02-06 - 16 OB OB -
+DIG - MTE216 - PRATICA EM EDUCACAO SOCIAL 4 4 60 60 0 02-06 - 16 OB OB -
+Carga horária adicional do período
+Percurso Grupo de atividades Carga Horária
+02-01
+18014006-N-20191-4 - F. C. Aberta
+6014006-N-20191-2 - F. Livre
+6014006-N-20191-5 - Optativas
+02-02 6014006-N-20191-2 - F. Livre
+24014006-N-20191-7 - Optativas
+02-03
+6014006-N-20191-9 - F. C. Preestabelecida em Ciências da Educação (OP - G1)
+6014006-N-20191-2 - F. Livre
+12014006-N-20191-10 - Optativas
+02-04
+6014006-N-20191-12 - F. C. Preestabelecida em Adm. de Sistemas e Instituições Educacionais (OP - G2)
+6014006-N-20191-2 - F. Livre
+12014006-N-20191-13 - Optativas
+02-05 6014006-N-20191-2 - F. Livre
+12014006-N-20191-15 - Optativas
+02-06 6014006-N-20191-2 - F. Livre
+12014006-N-20191-18 - Optativas
+21/05/2019 18.33.35 Página 11 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de Graduação10º PERÍODO
+Carga horária adicional do período
+Percurso Grupo de atividades Carga Horária
+02-01
+12014006-N-20191-6 - Atividades Acadêmico-Científico-Culturais
+6014006-N-20191-2 - F. Livre
+12014006-N-20191-5 - Optativas
+02-02
+12014006-N-20191-6 - Atividades Acadêmico-Científico-Culturais
+6014006-N-20191-2 - F. Livre
+12014006-N-20191-7 - Optativas
+02-03
+12014006-N-20191-6 - Atividades Acadêmico-Científico-Culturais
+6014006-N-20191-2 - F. Livre
+12014006-N-20191-10 - Optativas
+02-04
+12014006-N-20191-6 - Atividades Acadêmico-Científico-Culturais
+6014006-N-20191-2 - F. Livre
+12014006-N-20191-13 - Optativas
+02-05
+12014006-N-20191-6 - Atividades Acadêmico-Científico-Culturais
+6014006-N-20191-2 - F. Livre
+12014006-N-20191-15 - Optativas
+02-06
+12014006-N-20191-6 - Atividades Acadêmico-Científico-Culturais
+6014006-N-20191-2 - F. Livre
+12014006-N-20191-18 - Optativas
+Observações:
+Não existem atividades acadêmicas cadastradas para o 10 período.
+ATIVIDADES DE ESTÁGIO CURRICULAR OBRIGATÓRIO:
+Não existem atividades acadêmicas de estágio curricular obrigatório.
+ATIVIDADES SEM PERÍODO SUGERIDO:
+Carga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+21/05/2019 18.33.35 Página 12 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - ADE026 - ORGANIZACAO DA EDUC DE JOVENS E ADULTOS 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 12 OP OP -
+02-06 18 OP OP -
+DIG - ADE048 - POLITICAS PUBLICAS,MOVM.SOCIAIS E CIDADA 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 12 OP OP -
+DIG - ADE052 - ECONOMIA E POLITICA FINANCIAMENTO ED.BAS 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - ADE053 - PRATICA EM EDUCACAO DE JOVENS E ADULTOS 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 12 OP OP -
+02-06 18 OP OP -
+DIG - ADE054 - TRAB. DOC. E RELACOES TRAB.NOS SIST.ENSI 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - ADE067 - ECONOMIA POLÍTICA E EDUCAÇÃO 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 12 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - ADE068 - GÊNEROS E SEXUALIDADES NOS CURRÍCULOS 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 12 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+21/05/2019 18.33.35 Página 13 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - ADE069 - GESTÃO EDUCACIONAL: AS ESCOLAS NOS SISTEMAS DE ENSINO 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 12 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - ADE070 - ORGANIZAÇÃO DE ESPAÇOS E AMBIENTES NA EDUCAÇÃO INFANTIL 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 12 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - ADE071 - TECNOLOGIAS DIGITAIS NA ESCOLA 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 12 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - ADE072 - TÓPICOS EM EDUCAÇÃO E RELAÇÕES ÉTNICO-RACIAIS 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 12 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - ADE073 - TÓPICOS EM EDUCAÇÃO ESPECIAL E INCLUSÃO 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 12 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - ADE074 - TÓPICOS EM GESTÃO DA EDUCAÇÃO B 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 12 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+21/05/2019 18.33.35 Página 14 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - ADE075 - TÓPICOS EM GESTÃO DA EDUCAÇÃO A 30 30 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 12 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - ADE076 - TÓPICOS EM GESTÃO DA EDUCAÇÃO C 30 30 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 12 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - ADE077 - TÓPICOS EM PENSAMENTO COMPUTACIONAL 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 12 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - ADE078 - TÓPICOS EM POLÍTICAS E EXPERIÊNCIAS EDUCATIVAS 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 12 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - ADE079 - TÓPICOS EM POLÍTICAS PÚBLICAS EM TECNOLOGIAS DA EDUCAÇÃO 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 12 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - ADE080 - TRABALHO E EDUCAÇÃO 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 12 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+21/05/2019 18.33.36 Página 15 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - CAE054 - A ESCOLA E SEUS SUJEITOS: COND. JUVENIL E DOCÊNCIA NO
+CINEMA
+60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE055 - A PRÁTICA EDUCATIVA EM TELA 30 30 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE056 - A PRÁTICA EDUCATIVA NO CINEMA 30 30 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE057 - ABORDAGENS SOCIOLÓGICAS DA ESCOLA E DA SALA DE AULA 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE058 - ANTROPOLOGIA E ARTE INDÍGENA 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE059 - CONSTITUIÇÃO SUBJETIVA DO ADOLESCENTE 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+21/05/2019 18.33.36 Página 16 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - CAE060 - DINÂMICA DA SALA DE AULA E PROCESSOS INCLUSIVOS 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE061 - EDUCAÇÃO E ESPIRITUALIDADE 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE062 - EDUCAÇÃO E SOCIALISMO 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE063 - EDUCAÇÃO, GÊNERO E SEXUALIDADE 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE064 - HISTÓRIA DA EDU. DOS SENTIDOS E DAS SENSIBILIDADES NA
+ESCOLA
+60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE065 - HISTÓRIA DA EDUCAÇÃO SOCIAL 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+21/05/2019 18.33.36 Página 17 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - CAE066 - HIST. DA INFÂNCIA: ESCOLA E TRABALHO NA EUROPA E AM. LATINA 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE067 - HISTÓRIA DAS PRÁTICAS EDUCATIVAS NO BRASIL COLONIAL 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE068 - HISTÓRIA DO CURRÍCULO E DOS SABERES ESCOLARES 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE069 - HISTÓRIAS E CULTURAS INDÍGENAS NO BRASIL 30 30 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE070 - JUVENTUDE, ESCOLA E IMPASSES CONTEMPORÂNEOS 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE071 - JUVENTUDES NA CONTEMPORANEIDADE 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+21/05/2019 18.33.36 Página 18 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - CAE072 - MEIO AMBIENTE E CULTURA: FUND. PARA UMA ECOLOGIA POLÍTICA 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE073 - METODOLOGIAS DE PESQUISA QUALITATIVA EM EDUCAÇÃO 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE074 - METODOLOGIAS DE PESQUISA QUANTITATIVA EM EDUCAÇÃO 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE075 - PROCESSOS DE APRENDIZAGEM DA CULTURA 30 30 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE076 - RELIGIÕES DE MATRIZ AFRICANA NO BRASIL 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE077 - TÓPICOS EM CIÊNCIAS DA EDUCAÇÃO B 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+21/05/2019 18.33.36 Página 19 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - CAE078 - TÓPICOS EM CIÊNCIAS DA EDUCAÇÃO A 30 30 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE079 - TÓPICOS EM CIÊNCIAS DA EDUCAÇÃO C 30 30 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE149 - METODOLOGIA DE PESQUISA EM EDUCACAO II 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE150 - SISTEMA DE AVALIACAO EDUCACIONAL 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE151 - FUNDAMENTOS TEORICO-METOD. EDUCACAO POPU 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+DIG - CAE152 - MONOGRAFIA NA AREA DE CIENCIAS EDUCACAO 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE153 - EDUCACAO SOCIAL 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+21/05/2019 18.33.36 Página 20 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - CAE161 - ESTATISTICA EDUCACIONAL 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE162 - RELACAO FAMILIA-ESCOLA:UMA PERSP.SOCIOL. 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE165 - EDUCACAO E MODERNIDADE 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - CAE167 - TOPICOS ESPECIAIS EM SOCIOL. DA EDUCACAO 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 9 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 17 OP OP -
+DIG - DIT121 - DIREITOS HUMANOS 30 30 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - FAE371 - TOPICOS EM EDUCACAO A 30 30 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+21/05/2019 18.33.36 Página 21 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - FAE480 - TOPICOS DE ENSINO A 15 15 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - FAE481 - TOPICOS DE ENSINO B 30 30 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - FAE482 - TOPICOS DE ENSINO C 45 45 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - FAE483 - TOPICOS DE ENSINO D 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+11G - FAE495 - ATIVIDADES TEÓRICO-PRÁTICAS ADICIONAIS I 15 15 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+11G - FAE496 - ATIVIDADES TEÓRICO-PRÁTICAS ADICIONAIS II 45 45 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+21/05/2019 18.33.36 Página 22 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+11G - FAE497 - ATIVIDADES TEÓRICO-PRÁTICAS ADICIONAIS III 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+11G - FAE498 - ATIVIDADES TEÓRICO-PRÁTICAS I 30 30 0 02-01 6 OP OP -
+02-02 6 OP OP -
+02-03 6 OP OP -
+02-04 6 OP OP -
+02-05 6 OP OP -
+02-06 6 OP OP -
+11G - FAE499 - ATIVIDADES TEÓRICO-PRÁTICAS II 60 60 0 02-01 6 OP OP -
+02-02 6 OP OP -
+02-03 6 OP OP -
+02-04 6 OP OP -
+02-05 6 OP OP -
+02-06 6 OP OP -
+11G - FAE500 - ATIVIDADES TEÓRICO-PRÁTICAS III 120 120 0 02-01 6 OP OP -
+02-02 6 OP OP -
+02-03 6 OP OP -
+02-04 6 OP OP -
+02-05 6 OP OP -
+02-06 6 OP OP -
+DIG - ICB001 - BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL 30 30 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - MTE216 - PRATICA EM EDUCACAO SOCIAL 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+DIG - MTE217 - METODOLOGIA DA ALF. DE JOVENS E ADULTOS 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-06 18 OP OP -
+21/05/2019 18.33.36 Página 23 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - MTE218 - TOPICOS EM EDUCACAO SOCIAL 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 17 OP OP -
+DIG - MTE220 - LEITURA E PRODUCAO DE GENEROS ACADEMICOS 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - MTE221 - A LEITURA LITERARIA 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - MTE269 - A EDUCAÇÃO DOS BEBÊS: A CONSTRUÇÃO DE PROPOSTAS
+PEDAGÓGICAS
+60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - MTE270 - LABORATÓRIO DE BRINQUEDOS E BRINCADEIRAS 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - MTE272 - LEITURA E ESCRITA NA CULTURA DIGITAL 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+21/05/2019 18.33.36 Página 24 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - MTE273 - PRÁT. PEDAG. NA EDUC. INFANTIL: APREN. INICIAL DA L. ESCRITA 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - MTE448 - TEORIAS PEDAGÓGICAS 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - MTE449 - TÓPICOS EM EDUCAÇÃO E LINGUAGEM 60 45 15 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - MTE450 - TÓPICOS EM ENSINO DE CIÊNCIAS 120 120 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - MTE451 - TÓPICOS EM LABORATÓRIO DE ALFABETIZAÇÃO E LETRAMENTO 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - MTE452 - TÓPICOS EM PROCESSO DE ENSINO B 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+21/05/2019 18.33.36 Página 25 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - MTE453 - TÓPICOS EM PROCESSO DE ENSINO A 30 30 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - MTE454 - TÓPICOS EM PROCESSO DE ENSINO C 30 30 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - MTE455 - TÓP. EM PROC. DE ENSINO: ALFAB. NA EDUC. DE JOVENS E
+ADULTOS
+60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+DIG - UNI103 - LIBRAS, SURDEZ E ALFABETIZAÇÃO: UMA INTRODUÇÃO 60 60 0 02-01 5 OP OP -
+02-02 7 OP OP -
+02-03 10 OP OP -
+02-04 13 OP OP -
+02-05 15 OP OP -
+02-06 18 OP OP -
+Quadro de integralização
+Semestres
+Carga horária de
+matrícula por
+semestre
+Carga horária em
+atividades
+obrigatória
+Carga horária em
+atividades optativa
+Carga horária em
+estágio obrigatório
+Carga horária em
+atividades de formação
+complementar
+preestabelecida
+Carga horária em
+atividades de
+formação
+complementar aberta
+Carga horária em
+atividades de
+formação livrePercurso
+Mínimo Padrão Máximo Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima
+Total (Carga horária
+mínima para
+integralização)
+02-01 10 10 17 195 480 1920 1920 480 480 420 420 0 0 300 300 120 120 3240
+02-02 10 10 17 195 480 1920 1920 780 780 420 420 0 0 0 0 120 120 3240
+02-03 10 10 17 195 480 1920 1920 480 480 420 420 300 300 0 0 120 120 3240
+02-04 10 10 17 195 480 1920 1920 480 480 420 420 300 300 0 0 120 120 3240
+02-05 10 10 17 195 480 1920 1920 480 480 420 420 300 300 0 0 120 120 3240
+02-06 10 10 17 195 480 1920 1920 480 480 420 420 300 300 0 0 120 120 3240
+21/05/2019 18.33.36 Página 26 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoPropriedades do grupo não predefinido Carga
+Horária Regras
+Permite atividades
+Grupo
+NomeIdentificador
+Percursos
+Identificador
+Natureza
+no
+percurso
+Natureza do
+Grupo Predef.
+Tipo de formação Do
+próprio
+curso
+Do próprio
+percurso
+Mín. Máx. Pré-requisitos Integralização
+3 Estágio Obrigatório 02-01 OB
+02-02 OB
+02-03 OB
+02-04 OB
+02-05 OB
+02-06 OB
+EC Sim - - - 420 420 - -
+4 F. C. Aberta 02-01 OB OB Não Complementar aberta Não Não 300 300 - -
+11 F. C. Preestabelecida em Adm. de Sistemas e Instituições
+Educacionais (OB)
+02-04 OB OB Sim Complementar
+preestabelecida
+- - 180 180 - -
+12 F. C. Preestabelecida em Adm. de Sistemas e Instituições
+Educacionais (OP - G2)
+02-04 OB OB Sim Complementar
+preestabelecida
+- - 120 120 - -
+8 F. C. Preestabelecida em Ciências da Educação (OB) 02-03 OB OB Sim Complementar
+preestabelecida
+- - 120 120 - -
+9 F. C. Preestabelecida em Ciências da Educação (OP - G1) 02-03 OB OB Sim Complementar
+preestabelecida
+- - 180 180 - -
+16 F. C. Preestabelecida em Educador Social (OB) 02-06 OB OB Sim Complementar
+preestabelecida
+- - 240 240 - -
+17 F. C. Preestabelecida em Educador Social (OP - G3) 02-06 OB OB Sim Complementar
+preestabelecida
+- - 60 60 - -
+14 F. C. Preestabelecida em Educação de Jovens e Adultos
+(OB)
+02-05 OB OB Sim Complementar
+preestabelecida
+- - 300 300 - -
+2 F. Livre 02-01 OB
+02-02 OB
+02-03 OB
+02-04 OB
+02-05 OB
+02-06 OB
+OB Não Livre Não Não 120 120 - -
+19 Obrigatórias 02-01 OB
+02-02 OB
+02-03 OB
+02-04 OB
+02-05 OB
+02-06 OB
+OB Sim - - - 1920 1920 - -
+10 Optativas 02-03 OB OB Sim - - - 480 480 - -
+Grupos de atividades:
+21/05/2019 18.33.36 Página 27 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoPropriedades do grupo não predefinido Carga
+Horária Regras
+Permite atividades
+Grupo
+NomeIdentificador
+Percursos
+Identificador
+Natureza
+no
+percurso
+Natureza do
+Grupo Predef.
+Tipo de formação Do
+próprio
+curso
+Do próprio
+percurso
+Mín. Máx. Pré-requisitos Integralização
+6 Atividades Acadêmico-Científico-Culturais 02-01 OB
+02-02 OB
+02-03 OB
+02-04 OB
+02-05 OB
+02-06 OB
+OB Sim - - - 210 210 - -
+13 Optativas 02-04 OB OB Sim - - - 480 480 - -
+6 Atividades Acadêmico-Científico-Culturais 02-01 OB
+02-02 OB
+02-03 OB
+02-04 OB
+02-05 OB
+02-06 OB
+OB Sim - - - 210 210 - -
+15 Optativas 02-05 OB OB Sim - - - 480 480 - -
+6 Atividades Acadêmico-Científico-Culturais 02-01 OB
+02-02 OB
+02-03 OB
+02-04 OB
+02-05 OB
+02-06 OB
+OB Sim - - - 210 210 - -
+18 Optativas 02-06 OB OB Sim - - - 480 480 - -
+6 Atividades Acadêmico-Científico-Culturais 02-01 OB
+02-02 OB
+02-03 OB
+02-04 OB
+02-05 OB
+02-06 OB
+OB Sim - - - 210 210 - -
+5 Optativas 02-01 OB OB Sim - - - 480 480 - -
+6 Atividades Acadêmico-Científico-Culturais 02-01 OB
+02-02 OB
+02-03 OB
+02-04 OB
+02-05 OB
+02-06 OB
+OB Sim - - - 210 210 - -
+7 Optativas 02-02 OB OB Sim - - - 780 780 - -
+21/05/2019 18.33.36 Página 28 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoPropriedades do grupo não predefinido Carga
+Horária Regras
+Permite atividades
+Grupo
+NomeIdentificador
+Percursos
+Identificador
+Natureza
+no
+percurso
+Natureza do
+Grupo Predef.
+Tipo de formação Do
+próprio
+curso
+Do próprio
+percurso
+Mín. Máx. Pré-requisitos Integralização
+6 Atividades Acadêmico-Científico-Culturais 02-01 OB
+02-02 OB
+02-03 OB
+02-04 OB
+02-05 OB
+02-06 OB
+OB Sim - - - 210 210 - -
+Código Descrição
+DIG DISCIPLINA GRADUAÇÃO
+11G Outros
+Tipos de atividades
+Não há regras curriculares.
+Regras curriculares
+21/05/2019 18.33.36 Página 29 de 29
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de Graduação

@@ -1,0 +1,186 @@
+[
+  {
+    "id": "farmacia",
+    "file": "farmacia.txt",
+    "title": "Farmácia 2025 2 Diurno",
+    "url": "https://www.farmacia.ufmg.br/wp-content/uploads/2025/08/Farmacia-2025-2-Diurno.pdf",
+    "format": "siga-versao-curricular",
+    "pages": 22,
+    "chars": 35226,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "farmacia-noturno",
+    "file": "farmacia-noturno.txt",
+    "title": "Farmácia 2025 2 Noturno",
+    "url": "https://www.farmacia.ufmg.br/wp-content/uploads/2025/08/Farmacia-2025-2-Noturno.pdf",
+    "format": "siga-versao-curricular",
+    "pages": 24,
+    "chars": 37084,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "biomedicina",
+    "file": "biomedicina.txt",
+    "title": "Matriz Curricular N-20262",
+    "url": "https://www.farmacia.ufmg.br/wp-content/uploads/2026/04/N-20262.pdf",
+    "format": "siga-versao-curricular",
+    "pages": 16,
+    "chars": 26562,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "farmacia-2018-diurno",
+    "file": null,
+    "title": "Matriz Curricular Diurno 2018",
+    "url": "https://www.farmacia.ufmg.br/wp-content/uploads/2019/05/FARM%C3%81CIA-D20181.pdf",
+    "format": "siga-versao-curricular",
+    "reason": "Versão anterior (D-20181), substituída pela versão vigente D-20252 (farmacia.txt)",
+    "pages": 15,
+    "chars": 25116,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "farmacia-2018-noturno",
+    "file": null,
+    "title": "Matriz Curricular Noturno 2018",
+    "url": "https://www.farmacia.ufmg.br/wp-content/uploads/2019/05/FARM%C3%81CIA-N20181.pdf",
+    "format": "siga-versao-curricular",
+    "reason": "Versão anterior (N-20181), substituída pela versão vigente N-20252 (farmacia-noturno.txt)",
+    "pages": 16,
+    "chars": 26171,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "biomedicina-n-20189",
+    "file": null,
+    "title": "Matriz curricular vigente (N-20189)",
+    "url": "https://www.farmacia.ufmg.br/wp-content/uploads/2024/11/Matriz-Curricular-BiomedicinaN-20189.pdf",
+    "format": "siga-versao-curricular",
+    "reason": "Versão anterior (N-20189), substituída pela N-20262 (biomedicina.txt)",
+    "pages": 17,
+    "chars": 23459,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "biomedicina-versao-n-20189",
+    "file": null,
+    "title": "Versão Curricular Biomedicina N-20189",
+    "url": "https://www.farmacia.ufmg.br/wp-content/uploads/2023/01/Versao-Curricular-Biomedicina-N-20189.pdf",
+    "format": "siga-versao-curricular",
+    "reason": "Duplicata da N-20189 (mesmo conteúdo), substituída pela N-20262",
+    "pages": 17,
+    "chars": 23459,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "biomedicina-n-20181",
+    "file": null,
+    "title": "Matriz curricular (versão N-20181)",
+    "url": "https://www.farmacia.ufmg.br/wp-content/uploads/2024/11/MatrizN-20181.pdf",
+    "format": "siga-versao-curricular",
+    "reason": "Versão anterior (N-20181) de Biomedicina, substituída pela N-20262",
+    "pages": 17,
+    "chars": 23544,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "biomedicina-2018-1",
+    "file": null,
+    "title": "Versão Curricular Biomedicina 2018-1",
+    "url": "https://www.farmacia.ufmg.br/wp-content/uploads/2015/11/Vers%C3%A3o-Curricular-Biomedicina-2018-1.pdf",
+    "format": "siga-versao-curricular",
+    "reason": "Versão anterior (2018-1) de Biomedicina, substituída pela N-20262",
+    "pages": 17,
+    "chars": 23522,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "biomedicina-n-20162",
+    "file": null,
+    "title": "Matriz curricular (versão N-20162)",
+    "url": "https://www.farmacia.ufmg.br/wp-content/uploads/2024/11/MatrizN-20162.pdf",
+    "format": "siga-versao-curricular",
+    "reason": "Versão anterior (N-20162) de Biomedicina, substituída pela N-20262",
+    "pages": 16,
+    "chars": 21938,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "biomedicina-ppc",
+    "file": null,
+    "title": "Projeto Pedagógico do Curso de Biomedicina (versão assinada)",
+    "url": "https://www.farmacia.ufmg.br/wp-content/uploads/2026/05/Projeto_pedagogico_assinado.pdf",
+    "format": "outro",
+    "reason": "Projeto pedagógico (281 páginas), não é relatório do Siga; extração do proxy truncada em 599744 caracteres",
+    "pages": 281,
+    "chars": 599744,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "grade-horarios-2025-diurno",
+    "file": null,
+    "title": "Diurno matriz 2025",
+    "url": "https://www.farmacia.ufmg.br/wp-content/uploads/2026/07/Diurno-matriz-2025.pdf",
+    "format": "outro",
+    "reason": "Grade de horários do mapa de oferta (2026/2) da matriz 2025, não é relatório do Siga",
+    "pages": 27,
+    "chars": 22197,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "grade-horarios-2025-noturno",
+    "file": null,
+    "title": "Noturno matriz 2025",
+    "url": "https://www.farmacia.ufmg.br/wp-content/uploads/2026/07/Noturno-matriz-2025.pdf",
+    "format": "outro",
+    "reason": "Grade de horários do mapa de oferta (2026/2) da matriz 2025, não é relatório do Siga",
+    "pages": 20,
+    "chars": 15508,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "representacao-curricular-2018-1-diurno",
+    "file": null,
+    "title": "Representação Curricular 2018 1 DIURNO",
+    "url": "https://www.farmacia.ufmg.br/wp-content/uploads/2018/07/Representa%C3%A7%C3%A3o-Curricular-2018-1-DIURNO.pdf",
+    "format": "outro",
+    "reason": "Representação curricular (disciplinas por semestre) sem pré-requisitos nem marcador \"º PERÍODO\"; matriz exportada, não é relatório do Siga",
+    "pages": 9,
+    "chars": 11971,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "representacao-curricular-2018-1-noturno",
+    "file": null,
+    "title": "Representação Curricular 2018 1 NOTURNO",
+    "url": "https://www.farmacia.ufmg.br/wp-content/uploads/2018/07/Representa%C3%A7%C3%A3o-Curricular-2018-1-NOTURNO.pdf",
+    "format": "outro",
+    "reason": "Representação curricular (disciplinas por semestre) sem pré-requisitos nem marcador \"º PERÍODO\"; matriz exportada, não é relatório do Siga",
+    "pages": 8,
+    "chars": 12045,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "representacao-curricular-2016-1x-diurno",
+    "file": null,
+    "title": "Representação Curricular do Curso de Farmácia - Subdivisão Farmácia Diurno (2016/1X)",
+    "url": "https://www.farmacia.ufmg.br/wp-content/uploads/2018/07/Repres.-Curr.-Diurno-20161X.pdf",
+    "format": "outro",
+    "reason": "Representação curricular em markdown (disciplinas por semestre) sem pré-requisitos nem \"º PERÍODO\"; não é relatório do Siga",
+    "pages": 6,
+    "chars": 13621,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "pre-requisitos-estagios-optativos-2025",
+    "file": null,
+    "title": "pré-requisitos de estágios optativos - matriz 2025",
+    "url": "https://www.farmacia.ufmg.br/wp-content/uploads/2026/10/pre-requisitos-de-estagios-optativos-matriz-2025.pdf",
+    "format": "outro",
+    "reason": "Documento auxiliar de 1 página com pré-requisitos apenas de estágios optativos; não é o relatório completo do Siga",
+    "pages": 1,
+    "chars": 680,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  }
+]

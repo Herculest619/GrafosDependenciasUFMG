@@ -1,7 +1,175 @@
 {
     "schemaVersion": 2,
-    "generatedAt": "2026-11-05T14:38:35.993Z",
+    "generatedAt": "2026-11-05T15:39:16.959Z",
     "courses": [
+        {
+            "id": "arquivologia",
+            "name": "Arquivologia",
+            "variant": null,
+            "unit": "ECI — Escola de Ciência da Informação",
+            "campus": "Pampulha",
+            "shift": "Noturno",
+            "degree": "Bacharelado",
+            "layout": "versao",
+            "curriculum": "13001 · N-20151",
+            "source": {
+                "kind": "siga-versao-curricular",
+                "url": "https://graduacoes.eci.ufmg.br/wp-content/uploads/2023/11/Arquivologia-Grade-curricular-N-20151.pdf",
+                "retrievedAt": "2026-11-05T12:34:25-03:00",
+                "note": null
+            },
+            "note": null,
+            "percursos": [
+                {
+                    "id": "01-01",
+                    "name": "BACHARELADO/FORMACAO COMPLEMENTAR ABERTA/F. LIVRE"
+                },
+                {
+                    "id": "01-02",
+                    "name": "BACHARELADO/FORMACAO LIVRE"
+                }
+            ],
+            "stats": {
+                "disciplines": 31,
+                "edges": 6,
+                "periods": 8,
+                "optionalSlots": 5,
+                "totalHours": 2400
+            },
+            "file": "data/courses/arquivologia.json"
+        },
+        {
+            "id": "biblioteconomia-diurno",
+            "name": "Biblioteconomia",
+            "variant": "Diurno",
+            "unit": "ECI — Escola de Ciência da Informação",
+            "campus": "Pampulha",
+            "shift": "Diurno",
+            "degree": "Bacharelado",
+            "layout": "versao",
+            "curriculum": "13002 · D-20141",
+            "source": {
+                "kind": "siga-versao-curricular",
+                "url": "https://graduacoes.eci.ufmg.br/wp-content/uploads/2023/11/Biblioteconomia-GRADE-CURRICULAR-DIURNO-2014_1.pdf",
+                "retrievedAt": "2026-11-05T12:34:25-03:00",
+                "note": null
+            },
+            "note": null,
+            "percursos": [
+                {
+                    "id": "01-03",
+                    "name": "BIBLIOTECONOMIA -BACHARELADO"
+                },
+                {
+                    "id": "01-04",
+                    "name": "BIBLIOTECONOMIA/BACH/F.C.PRESERV.BENS CULT. ARTES"
+                },
+                {
+                    "id": "01-05",
+                    "name": "BIBLIOTECONOMIA/BACH/FORMACAO COMPL. EM PSICOLOGIA"
+                },
+                {
+                    "id": "01-06",
+                    "name": "BIBLIOTECONOMIA/BACH/FORMACAO COMPLEMENTAR ABERTA1"
+                },
+                {
+                    "id": "01-07",
+                    "name": "BIBLIOTECONOMIA/BACH/FORMACAO COMPLEMENTAR ABERTA2"
+                }
+            ],
+            "stats": {
+                "disciplines": 30,
+                "edges": 3,
+                "periods": 8,
+                "optionalSlots": 8,
+                "totalHours": 2400
+            },
+            "file": "data/courses/biblioteconomia-diurno.json"
+        },
+        {
+            "id": "biblioteconomia-noturno",
+            "name": "Biblioteconomia",
+            "variant": "Noturno",
+            "unit": "ECI — Escola de Ciência da Informação",
+            "campus": "Pampulha",
+            "shift": "Noturno",
+            "degree": "Bacharelado",
+            "layout": "versao",
+            "curriculum": "13002 · N-20141",
+            "source": {
+                "kind": "siga-versao-curricular",
+                "url": "https://graduacoes.eci.ufmg.br/wp-content/uploads/2023/11/Biblioteconomia-GRADE-CURRICULAR-NOTURNO-2014_1.pdf",
+                "retrievedAt": "2026-11-05T12:34:25-03:00",
+                "note": null
+            },
+            "note": null,
+            "percursos": [
+                {
+                    "id": "01-01",
+                    "name": "BIBLIOTECONOMIA/BACHARELADO"
+                },
+                {
+                    "id": "01-02",
+                    "name": "BIBLIOTECONOMIA/BACH/F.C.PRESERV. BENS CULT. ARTES"
+                },
+                {
+                    "id": "01-03",
+                    "name": "BIBLIOTECONOMIA/BACH/FORMACAO COMPL. EM PSICOLOGIA"
+                },
+                {
+                    "id": "01-04",
+                    "name": "BIBLIOTECONOMIA/BACH/FORMACAO COMPLEMENTAR ABERTA1"
+                },
+                {
+                    "id": "01-05",
+                    "name": "BIBLIOTECONOMIA/BACH/FORMACAO COMPLEMENTAR ABERTA2"
+                }
+            ],
+            "stats": {
+                "disciplines": 30,
+                "edges": 3,
+                "periods": 8,
+                "optionalSlots": 8,
+                "totalHours": 2400
+            },
+            "file": "data/courses/biblioteconomia-noturno.json"
+        },
+        {
+            "id": "biomedicina",
+            "name": "Biomedicina",
+            "variant": null,
+            "unit": "Faculdade de Farmácia",
+            "campus": "Pampulha",
+            "shift": "Noturno",
+            "degree": "Bacharelado",
+            "layout": "versao",
+            "curriculum": "18001 · N-20262",
+            "source": {
+                "kind": "siga-versao-curricular",
+                "url": "https://www.farmacia.ufmg.br/wp-content/uploads/2026/04/N-20262.pdf",
+                "retrievedAt": "2026-11-05T12:34:25-03:00",
+                "note": null
+            },
+            "note": null,
+            "percursos": [
+                {
+                    "id": "01-01",
+                    "name": "BACHARELADO/NÚCLEO GERAL/NÚCLEO AVANÇADO"
+                },
+                {
+                    "id": "01-02",
+                    "name": "BACHARELADO/NÚCLEO GERAL/NÚCLEO COMPLEMENTAR/NÚCLEO AVANÇADO"
+                }
+            ],
+            "stats": {
+                "disciplines": 40,
+                "edges": 48,
+                "periods": 10,
+                "optionalSlots": 7,
+                "totalHours": 3210
+            },
+            "file": "data/courses/biomedicina.json"
+        },
         {
             "id": "ciencia-da-computacao",
             "name": "Ciência da Computação",
@@ -107,6 +275,86 @@
             "file": "data/courses/engenharia-de-computacao.json"
         },
         {
+            "id": "farmacia",
+            "name": "Farmácia",
+            "variant": "Diurno",
+            "unit": "Faculdade de Farmácia",
+            "campus": "Pampulha",
+            "shift": "Diurno",
+            "degree": "Bacharelado",
+            "layout": "versao",
+            "curriculum": "18002 · D-20252",
+            "source": {
+                "kind": "siga-versao-curricular",
+                "url": "https://www.farmacia.ufmg.br/wp-content/uploads/2025/08/Farmacia-2025-2-Diurno.pdf",
+                "retrievedAt": "2026-11-05T12:34:25-03:00",
+                "note": null
+            },
+            "note": null,
+            "percursos": [
+                {
+                    "id": "01-01",
+                    "name": "BACHARELADO / N. AVANÇADO"
+                },
+                {
+                    "id": "01-02",
+                    "name": "BACHARELADO / N. COMPLEMENTAR"
+                },
+                {
+                    "id": "01-03",
+                    "name": "BACHARELADO / N. GERAL"
+                }
+            ],
+            "stats": {
+                "disciplines": 66,
+                "edges": 92,
+                "periods": 10,
+                "optionalSlots": 9,
+                "totalHours": 4170
+            },
+            "file": "data/courses/farmacia.json"
+        },
+        {
+            "id": "farmacia-noturno",
+            "name": "Farmácia",
+            "variant": "Noturno",
+            "unit": "Faculdade de Farmácia",
+            "campus": "Pampulha",
+            "shift": "Noturno",
+            "degree": "Bacharelado",
+            "layout": "versao",
+            "curriculum": "18002 · N-20252",
+            "source": {
+                "kind": "siga-versao-curricular",
+                "url": "https://www.farmacia.ufmg.br/wp-content/uploads/2025/08/Farmacia-2025-2-Noturno.pdf",
+                "retrievedAt": "2026-11-05T12:34:25-03:00",
+                "note": null
+            },
+            "note": null,
+            "percursos": [
+                {
+                    "id": "01-01",
+                    "name": "BACHARELADO / N. AVANÇADO"
+                },
+                {
+                    "id": "01-02",
+                    "name": "BACHARELADO / N. COMPLEMENTAR"
+                },
+                {
+                    "id": "01-03",
+                    "name": "BACHARELADO / N. GERAL"
+                }
+            ],
+            "stats": {
+                "disciplines": 66,
+                "edges": 92,
+                "periods": 12,
+                "optionalSlots": 9,
+                "totalHours": 4170
+            },
+            "file": "data/courses/farmacia-noturno.json"
+        },
+        {
             "id": "fisica-bacharelado",
             "name": "Física",
             "variant": "Bacharelado",
@@ -198,6 +446,146 @@
                 "totalHours": null
             },
             "file": "data/courses/fisica-licenciatura-noturno.json"
+        },
+        {
+            "id": "museologia",
+            "name": "Museologia",
+            "variant": null,
+            "unit": "ECI — Escola de Ciência da Informação",
+            "campus": "Pampulha",
+            "shift": "Diurno",
+            "degree": "Bacharelado",
+            "layout": "versao",
+            "curriculum": "13003 · M-20251",
+            "source": {
+                "kind": "siga-versao-curricular",
+                "url": "https://graduacoes.eci.ufmg.br/wp-content/uploads/2025/06/Matriz-Curricular-do-Curso-de-Museologia-2025.1-1.pdf",
+                "retrievedAt": "2026-11-05T12:34:25-03:00",
+                "note": null
+            },
+            "note": null,
+            "percursos": [
+                {
+                    "id": "R-01",
+                    "name": "BACHARELADO/N. GERAL"
+                },
+                {
+                    "id": "R-02",
+                    "name": "BACHARELADO/N. COMPLEMENTAR/N. AVANÇADO"
+                }
+            ],
+            "stats": {
+                "disciplines": 32,
+                "edges": 8,
+                "periods": 8,
+                "optionalSlots": 7,
+                "totalHours": 2400
+            },
+            "file": "data/courses/museologia.json"
+        },
+        {
+            "id": "pedagogia-diurno",
+            "name": "Pedagogia",
+            "variant": "Diurno",
+            "unit": "FAE — Faculdade de Educação",
+            "campus": "Pampulha",
+            "shift": "Diurno",
+            "degree": "Licenciatura",
+            "layout": "versao",
+            "curriculum": "14006 · D-20191",
+            "source": {
+                "kind": "siga-versao-curricular",
+                "url": "https://www.fae.ufmg.br/wp-content/uploads/2024/12/Grade-Curricular-2019-Diurno-1.pdf",
+                "retrievedAt": "2026-11-05T12:34:25-03:00",
+                "note": null
+            },
+            "note": null,
+            "percursos": [
+                {
+                    "id": "02-01",
+                    "name": "LICENCIATURA / FCA / FL"
+                },
+                {
+                    "id": "02-02",
+                    "name": "LICENCIATURA / FL"
+                },
+                {
+                    "id": "02-03",
+                    "name": "LICENCIATURA / FCP EM CIÊNCIAS DA EDUCAÇÃO / FL"
+                },
+                {
+                    "id": "02-04",
+                    "name": "LICENCIATURA / FCP EM ADM. DE SISTEMAS E INSTITUIÇÕES EDUCACIONAIS / FL"
+                },
+                {
+                    "id": "02-05",
+                    "name": "LICENCIATURA / FCP EM EDUCAÇÃO DE JOVENS E ADULTOS / FL"
+                },
+                {
+                    "id": "02-06",
+                    "name": "LICENCIATURA / FCP EM EDUCADOR SOCIAL / FL"
+                }
+            ],
+            "stats": {
+                "disciplines": 41,
+                "edges": 0,
+                "periods": 9,
+                "optionalSlots": 13,
+                "totalHours": 3240
+            },
+            "file": "data/courses/pedagogia-diurno.json"
+        },
+        {
+            "id": "pedagogia-noturno",
+            "name": "Pedagogia",
+            "variant": "Noturno",
+            "unit": "FAE — Faculdade de Educação",
+            "campus": "Pampulha",
+            "shift": "Noturno",
+            "degree": "Licenciatura",
+            "layout": "versao",
+            "curriculum": "14006 · N-20191",
+            "source": {
+                "kind": "siga-versao-curricular",
+                "url": "https://www.fae.ufmg.br/wp-content/uploads/2024/12/Grade-Curricular-2019-Noturno-1.pdf",
+                "retrievedAt": "2026-11-05T12:34:25-03:00",
+                "note": null
+            },
+            "note": null,
+            "percursos": [
+                {
+                    "id": "02-01",
+                    "name": "LICENCIATURA / FCA / FL"
+                },
+                {
+                    "id": "02-02",
+                    "name": "LICENCIATURA / FL"
+                },
+                {
+                    "id": "02-03",
+                    "name": "LICENCIATURA / FCP EM CIÊNCIAS DA EDUCAÇÃO / FL"
+                },
+                {
+                    "id": "02-04",
+                    "name": "LICENCIATURA / FCP EM ADM. DE SISTEMAS E INSTITUIÇÕES EDUCACIONAIS / FL"
+                },
+                {
+                    "id": "02-05",
+                    "name": "LICENCIATURA / FCP EM EDUCAÇÃO DE JOVENS E ADULTOS / FL"
+                },
+                {
+                    "id": "02-06",
+                    "name": "LICENCIATURA / FCP EM EDUCADOR SOCIAL / FL"
+                }
+            ],
+            "stats": {
+                "disciplines": 41,
+                "edges": 0,
+                "periods": 9,
+                "optionalSlots": 13,
+                "totalHours": 3240
+            },
+            "file": "data/courses/pedagogia-noturno.json"
         },
         {
             "id": "sistemas-de-informacao",

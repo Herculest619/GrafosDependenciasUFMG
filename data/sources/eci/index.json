@@ -1,0 +1,86 @@
+[
+  {
+    "id": "museologia",
+    "file": "museologia.txt",
+    "title": "Matriz Curricular do Curso de Museologia 2025.1",
+    "url": "https://graduacoes.eci.ufmg.br/wp-content/uploads/2025/06/Matriz-Curricular-do-Curso-de-Museologia-2025.1-1.pdf",
+    "format": "siga-versao-curricular",
+    "pages": 13,
+    "chars": 19876,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "arquivologia",
+    "file": "arquivologia.txt",
+    "title": "Arquivologia - Grade curricular - N-20151",
+    "url": "https://graduacoes.eci.ufmg.br/wp-content/uploads/2023/11/Arquivologia-Grade-curricular-N-20151.pdf",
+    "format": "siga-versao-curricular",
+    "pages": 10,
+    "chars": 15624,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "biblioteconomia-diurno",
+    "file": "biblioteconomia-diurno.txt",
+    "title": "Biblioteconomia - GRADE CURRICULAR DIURNO 2014_1",
+    "url": "https://graduacoes.eci.ufmg.br/wp-content/uploads/2023/11/Biblioteconomia-GRADE-CURRICULAR-DIURNO-2014_1.pdf",
+    "format": "siga-versao-curricular",
+    "pages": 25,
+    "chars": 42334,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "biblioteconomia-noturno",
+    "file": "biblioteconomia-noturno.txt",
+    "title": "Biblioteconomia - GRADE CURRICULAR NOTURNO 2014_1",
+    "url": "https://graduacoes.eci.ufmg.br/wp-content/uploads/2023/11/Biblioteconomia-GRADE-CURRICULAR-NOTURNO-2014_1.pdf",
+    "format": "siga-versao-curricular",
+    "pages": 25,
+    "chars": 42402,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "museologia-2025-1-duplicata",
+    "file": null,
+    "title": "Matriz Curricular do Curso de Museologia 2025.1",
+    "url": "https://graduacoes.eci.ufmg.br/wp-content/uploads/2025/06/Matriz-Curricular-do-Curso-de-Museologia-2025.1.pdf",
+    "format": "siga-versao-curricular",
+    "reason": "Duplicata exata do PDF usado em museologia.txt (mesmo conteúdo, 19876 caracteres)",
+    "pages": 13,
+    "chars": 19876,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "museologia-2014",
+    "file": null,
+    "title": "Museologia - Grade Curricular 2014",
+    "url": "https://graduacoes.eci.ufmg.br/wp-content/uploads/2023/11/Museologia-Grade-Curricular-2014.pdf",
+    "format": "siga-versao-curricular",
+    "reason": "Versão anterior (2014), substituída pela M-20251 (museologia.txt)",
+    "pages": 13,
+    "chars": 24013,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "biblioteconomia-ppc",
+    "file": null,
+    "title": "PPC BIBLIOTECONOMIA",
+    "url": "https://graduacoes.eci.ufmg.br/wp-content/uploads/2024/04/PPC-BIBLIOTECONOMIA.pdf",
+    "format": "outro",
+    "reason": "Projeto pedagógico do curso (100 páginas), não é relatório do Siga; extração do proxy truncada em 215112 caracteres",
+    "pages": 100,
+    "chars": 215112,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "biblioteconomia-ementas",
+    "file": null,
+    "title": "Biblioteconomia - EMENTAS DE DISCIPLINAS",
+    "url": "https://graduacoes.eci.ufmg.br/wp-content/uploads/2023/11/Biblioteconomia-EMENTAS-DE-DISCIPLINAS.pdf",
+    "format": "outro",
+    "reason": "Ementário de disciplinas: sem \"Pré-requisitos\" estruturados, não é relatório do Siga",
+    "pages": 14,
+    "chars": 23801,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  }
+]

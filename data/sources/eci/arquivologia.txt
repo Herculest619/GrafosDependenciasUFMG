@@ -1,0 +1,525 @@
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+Configuração Curricular
+Pró-reitoria de Graduação
+Relatório de versão curricular
+Liberada
+N-20151
+Situação:
+Carga horária mínima para mudança de opção de vinculação: -
+Versão curricular:13001 - ARQUIVOLOGIACurso:
+Período mínimo para mudança de opção de vinculação: 1
+Disponibilidade nas subdivisões do curso:
+Percurso padrão
+Subdivisão de Curso
+É versão para
+vinculação de
+ingressantes
+Modalidade
+Educacional
+Identificador Nome
+13001PN001/Presencial/NOTURNO Sim Presencial 01-02 BACHARELADO/FORMACAO LIVRE
+Observações:
+-
+Percursos curriculares que compõem a versão:
+Identificador Nome
+01 BACHARELADO - (M)
+01-01 ---BACHARELADO/FORMACAO COMPLEMENTAR ABERTA/F. LIVRE
+01-02 ---BACHARELADO/FORMACAO LIVRE
+Atividades acadêmicas:
+10/03/2016 14.18.12 Página 1 de 10
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoTabela organizada por sugestão de período definido na versão curricular
+1º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - ECI240 - INTRODUÇÃO À ARQUIVOLOGIA 4 4 60 60 0 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+DIG - ECI242 - FORMAÇÃO DAS INSTITUIÇÕES DO BRASIL CONTEMPORÂNEO 4 4 60 60 0 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+DIG - OTI118 - PRODUÇÃO DOS REGISTROS DO CONHECIMENTO 4 4 60 60 0 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+DIG - OTI119 - ELABORAÇÃO E APRESENTAÇÃO DE TRABALHOS CIENTÍFICOS 4 4 60 60 0 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+DIG - TGI028 - INTRODUCAO A INFORMATICA 4 4 60 30 30 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+2º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - ECI246 - HISTÓRIA ADMINISTRATIVA DO BRASIL 4 4 60 60 0 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+DIG - ECI251 - FUNDAMENTOS DA ARQUIVOLOGIA 4 4 60 60 0 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+DIG - TGI002 - CULTURA E INFORMACAO 4 4 60 60 0 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+DIG - TGI029 - TEORIAS DA ORGANIZACAO 4 4 60 60 0 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+DIG - TGI032 - INTRODUCAO A BANCOS DE DADOS 4 4 60 30 30 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+10/03/2016 14.18.12 Página 2 de 10
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de Graduação3º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - ECI003 - ORGANIZACAO E METODOS APL.A ARQUIVOLOGIA 4 4 60 60 0 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+DIG - ECI244 - GESTÃO DE DOCUMENTOS ARQUIVÍSTICOS I 4 4 60 40 20 01-01 - 1 OB OB ECI251
+01-02 - 1 OB OB ECI251
+DIG - TGI033 - METODOS E TECNICAS DE PESQUISA 4 4 60 30 30 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+DIG - TGI034 - MEMORIA E PATRIMONIO CULTURAL 4 4 60 30 30 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+DIG - TGI073 - PRESERVAÇÃO DE ACERVOS 4 4 60 30 30 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+4º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - ECI245 - GESTÃO DE DOCUMENTOS ARQUIVÍSTICOS II 4 4 60 40 20 01-01 - 1 OB OB ECI244
+01-02 - 1 OB OB ECI244
+DIG - ECI252 - DIPLOMÁTICA 4 4 60 60 0 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+DIG - TGI072 - ESTUDOS DE USUÁRIOS DE ARQUIVO 4 4 60 30 30 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+Carga horária adicional do período
+Percurso Grupo de atividades Carga Horária
+01-01 6013001-N-20151-9 - F. LIVRE
+6013001-N-20151-4 - OPTATIVAS-BACH/FCA/FL
+01-02 6013001-N-20151-9 - F. LIVRE
+6013001-N-20151-11 - OPTATIVAS-BACH/FL
+10/03/2016 14.18.12 Página 3 de 10
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de Graduação5º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - ECI247 - ARQUIVOS PERMANENTES I 4 4 60 40 20 01-01 - 1 OB OB ECI251
+01-02 - 1 OB OB ECI251
+DIG - ECI248 - GESTÃO DE DOCUMENTOS ARQUIVÍSTICOS DIGITAIS 4 4 60 40 20 01-01 - 1 OB OB ECI245
+01-02 - 1 OB OB ECI245
+DIG - TGI074 - PROJ. E PLAN. DE INSTITUIÇÕES E SERVIÇOS ARQUIVÍSTICOS 4 4 60 40 20 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+Carga horária adicional do período
+Percurso Grupo de atividades Carga Horária
+01-01 6013001-N-20151-10 - F. C. ABERTA
+6013001-N-20151-4 - OPTATIVAS-BACH/FCA/FL
+01-02 12013001-N-20151-11 - OPTATIVAS-BACH/FL
+6º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - ECI020 - PALEOGRAFIA 4 4 60 60 0 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+DIG - ECI249 - ARQUIVOS PERMANENTES II 4 4 60 30 30 01-01 - 1 OB OB ECI247
+01-02 - 1 OB OB ECI247
+DIG - ECI253 - PLANEJAMENTO E GESTÃO DE REDES E SISTEMAS DE ARQUIVOS 4 4 60 40 20 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+DIG - TGI071 - AÇÃO CULTURAL E EDUCAÇÃO PATRIMONIAL 4 4 60 30 30 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+Carga horária adicional do período
+Percurso Grupo de atividades Carga Horária
+01-01 6013001-N-20151-10 - F. C. ABERTA
+01-02 6013001-N-20151-11 - OPTATIVAS-BACH/FL
+10/03/2016 14.18.12 Página 4 de 10
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de Graduação7º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - ECI241 - POLÍTICA E LEGISLAÇÃO ARQUIVÍSTICA 4 4 60 60 0 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+DIG - ECI243 - PESQUISA EM ARQUIVOLOGIA 4 4 60 60 0 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+DIG - ECI254 - ESTÁGIO SUPERVISIONADO EM ARQUIVOLOGIA A 8 8 120 0 120 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+Carga horária adicional do período
+Percurso Grupo de atividades Carga Horária
+01-01 6013001-N-20151-10 - F. C. ABERTA
+01-02 6013001-N-20151-11 - OPTATIVAS-BACH/FL
+8º PERÍODO
+Créditos Carga Horária
+Atividade Acadêmica
+Mín. Máx. Total Teórica Prática
+Percurso
+Sugestão
+de período
+específica
+do
+percurso
+Grupo
+Natureza
+no
+grupo
+Natureza
+no
+percurso
+Pré-requisitos
+DIG - ECI255 - ESTÁGIO SUPERVISIONADO EM ARQUIVOLOGIA B 8 8 120 0 120 01-01 - 1 OB OB ECI254
+01-02 - 1 OB OB ECI254
+DIG - OTI120 - ELABORAÇÃO DE PROJETOS DE FINANCIAMENTOS E FOMENTO 4 4 60 60 0 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+DIG - TGI030 - FUNDAMENTOS DA CIENCIA DA INFORMACAO 4 4 60 60 0 01-01 - 1 OB OB -
+01-02 - 1 OB OB -
+Carga horária adicional do período
+Percurso Grupo de atividades Carga Horária
+01-01 6013001-N-20151-10 - F. C. ABERTA
+01-02 6013001-N-20151-11 - OPTATIVAS-BACH/FL
+ATIVIDADES DE ESTÁGIO CURRICULAR OBRIGATÓRIO:
+10/03/2016 14.18.12 Página 5 de 10
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoNão existem atividades acadêmicas de estágio curricular obrigatório.
+ATIVIDADES SEM PERÍODO SUGERIDO:
+Carga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - ECI016 - AVALIACAO DE SISTEMAS DE INFORMACAO 60 30 30 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - ECI017 - DESCRICAO E ORGANIZACAO DE DOC.ESPECIAIS 60 30 30 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - ECI018 - GESTAO DE CONTEUDO NA WEB 60 30 30 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - ECI021 - TOPICOS EM ARQUIVOS ESPECIALIZADOS A 15 15 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - ECI022 - TOPICOS EM FUNCOES ARQUIVISTICAS A 15 15 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - ECI023 - TOPICOS EM NORMAS ARQUIVISTICAS A 15 15 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - ECI035 - TOPICOS EM TECNOLOGIA DA INFORMACAO A 15 15 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - ECI036 - TOPICOS EM TECNOLOGIA DA INFORMACAO B 30 30 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - ECI037 - TOPICOS EM TECNOLOGIA DA INFORMACAO C 45 45 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - ECI038 - TOPICOS EM TECNOLOGIA DA INFORMACAO D 60 60 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - ECI043 - TOPICOS EM ONTOLOGIAS A 15 15 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - ECI044 - TOPICOS EM ONTOLOGIAS B 30 30 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - ECI045 - TOPICOS EM ONTOLOGIAS C 45 45 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - ECI046 - TOPICOS EM ONTOLOGIAS D 60 60 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - ECI087 - TOPICOS EM ARQUIVOS ESPECIALIZADOS B 30 30 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - ECI088 - TOPICOS EM ARQUIVOS ESPECIALIZADOS C 45 45 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - ECI089 - TOPICOS EM ARQUIVOS ESPECIALIZADOS D 60 60 0 01-01 4 OP OP -
+01-02 11 OP OP -
+10/03/2016 14.18.12 Página 6 de 10
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - ECI090 - TOPICOS EM FUNCOES ARQUIVISTIVAS B 30 30 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - ECI091 - TOPICOS EM FUNCOES ARQUIVISTICAS C 45 45 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - ECI092 - TOPICOS EM FUNCOES ARQUIVISTICAS D 60 60 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - ECI093 - TOPICOS EM NORMAS ARQUIVISTICAS B 30 30 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - ECI094 - TOPICOS EM NORMAS ARQUIVISTICAS C 45 45 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - ECI095 - TOPICOS EM NORMAS ARQUIVISTICAS D 60 60 0 01-01 4 OP OP -
+01-02 11 OP OP -
+04G - ECI197 - PARTICIPAÇÃO EM EVENTOS A 15 15 0 01-01 4 OP OP -
+01-02 11 OP OP -
+03G - ECI198 - INICIAÇÃO À PESQUISA A 15 15 0 01-01 4 OP OP -
+01-02 11 OP OP -
+03G - ECI199 - INICIAÇÃO À PESQUISA B 30 30 0 01-01 4 OP OP -
+01-02 11 OP OP -
+02G - ECI200 - INICIAÇÃO À DOCÊNCIA A 15 15 0 01-01 4 OP OP -
+01-02 11 OP OP -
+02G - ECI201 - INICIAÇÃO À DOCÊNCIA B 30 30 0 01-01 4 OP OP -
+01-02 11 OP OP -
+03G - ECI202 - INICIAÇÃO À EXTENSÃO A 15 15 0 01-01 4 OP OP -
+01-02 11 OP OP -
+03G - ECI203 - INICIAÇÃO À EXTENSÃO B 30 30 0 01-01 4 OP OP -
+01-02 11 OP OP -
+01G - ECI204 - ESTÁGIO CURRICULAR B 30 30 0 01-01 4 OP OP -
+01-02 11 OP OP -
+01G - ECI205 - ESTÁGIO CUURICULAR D 60 60 0 01-01 4 OP OP -
+01-02 11 OP OP -
+09G - ECI206 - VIVÊNCIA PROFISSIONAL COMPLEMENTAR B 30 30 0 01-01 4 OP OP -
+01-02 11 OP OP -
+09G - ECI207 - VIVÊNCIA PROFISSIONAL COMPLEMENTAR D 60 60 0 01-01 4 OP OP -
+01-02 11 OP OP -
+05G - ECI208 - PUBLICAÇÕES A 15 15 0 01-01 4 OP OP -
+01-02 11 OP OP -
+05G - ECI209 - PUBLICAÇÕES B 30 30 0 01-01 4 OP OP -
+01-02 11 OP OP -
+07G - ECI211 - DISCUSSÕES TEMÁTICAS A 15 15 0 01-01 4 OP OP -
+01-02 11 OP OP -
+10/03/2016 14.18.12 Página 7 de 10
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - ECI250 - MONOGRAFIA 60 60 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - ECI256 - NOTARIADO 120 0 120 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - LET223 - FUNDAMENTOS DE LIBRAS 60 60 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - OTI075 - PESQUISA EM CIENCIA DA INFORMACAO 60 30 30 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - OTI100 - TOPICOS EM INDEXACAO DA INFORMACAO A 15 15 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - OTI101 - TOPICOS EM INDEXACAO DA INFORMACAO B 30 30 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - OTI102 - TOPICOS EM INDEXACAO DA INFORMACAO C 45 45 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - OTI103 - TOPICOS EM INDEXACAO DA INFORMACAO D 60 60 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - TGI037 - GESTAO DA INFORMACAO E DO CONHECIMENTO 60 60 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - TGI038 - INFORMACAO E CIDADANIA 60 60 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - TGI039 - INFORMACAO E DEMOCRACIA 60 60 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - TGI040 - SOCIEDADE DA INFORMACAO 60 60 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - TGI044 - TOPICOS EM PRESERVACAO E CONSERVACAO A 15 15 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - TGI050 - TOPICOS EM GESTAO DA INF. CONHECIMENTO A 15 15 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - TGI051 - TOPICOS GESTAO INFORMACAO CONHECIMENTO B 30 30 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - TGI052 - TOPICOS GESTAO INFORMACAO CONHECIMENTO C 45 45 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - TGI053 - TOPICOS GESTAO INFORMACAO CONHECIMENTO D 60 60 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - TGI054 - TOPICOS GESTAO UNIDADES DE INFORMACAO A 15 15 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - TGI055 - TOPICOS GESTAO UNIDADES DE INFORMACAO B 30 30 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - TGI056 - TOPICOS GESTAO UNIDADES DE INFORMACAO C 45 45 0 01-01 4 OP OP -
+01-02 11 OP OP -
+10/03/2016 14.18.12 Página 8 de 10
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoCarga Horária
+Atividade Acadêmica
+Total Teórica Prática
+Percurso Grupo Natureza
+no Grupo
+Natureza
+no
+Percurso
+Pré-requisito
+DIG - TGI057 - TOPICOS GESTAO UNIDADES DE INFORMACAO D 60 60 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - TGI058 - TOPICOS EM INFORMACAO E CULTURA A 15 15 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - TGI059 - TOPICOS EM INFORMACAO E CULTURA B 30 30 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - TGI060 - TOPICOS EM INFORMACAO E CULTURA C 45 45 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - TGI061 - TOPICOS EM INFORMACAO E CULTURA D 60 60 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - TGI062 - TOPICOS EM USUARIOS DA INFORMACAO A 15 15 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - TGI063 - TOPICOS EM USUARIOS DA INFORMACAO B 30 30 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - TGI064 - TOPICOS EM USUARIOS DA INFORMACAO C 45 45 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - TGI065 - TOPICOS EM USUARIOS DA INFORMACAO D 60 60 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - TGI067 - TOPICOS EM PRESERVACAO E CONSERVACAO B 30 30 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - TGI068 - TOPICOS EM PRESERVACAO E CONSERVACAO C 45 45 0 01-01 4 OP OP -
+01-02 11 OP OP -
+DIG - TGI069 - TOPICOS EM PRESERVACAO E CONSERVACAO D 60 60 0 01-01 4 OP OP -
+01-02 11 OP OP -
+Quadro de integralização
+Semestres
+Carga horária de
+matrícula por
+semestre
+Carga horária em
+atividades
+obrigatória
+Carga horária em
+atividades optativa
+Carga horária em
+estágio obrigatório
+Carga horária em
+atividades de formação
+complementar
+preestabelecida
+Carga horária em
+atividades de
+formação
+complementar aberta
+Carga horária em
+atividades de
+formação livrePercurso
+Mínimo Padrão Máximo Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima Mínima Máxima
+Total (Carga horária
+mínima para
+integralização)
+01-01 8 8 14 180 - 1980 1980 60 120 0 0 0 0 240 240 60 120 2400
+01-02 8 8 14 180 - 1980 1980 300 360 0 0 0 0 0 0 60 120 2400
+Grupos de atividades:
+10/03/2016 14.18.12 Página 9 de 10
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de GraduaçãoPropriedades do grupo não predefinido Carga
+Horária Regras
+Permite atividades
+Grupo
+NomeIdentificador
+Percursos
+Identificador
+Natureza
+no
+percurso
+Natureza do
+Grupo Predef.
+Tipo de formação Do
+próprio
+curso
+Do próprio
+percurso
+Mín. Máx. Pré-requisitos Integralização
+10 F. C. ABERTA 01-01 OB OB Não Complementar aberta Não Não 240 240 - -
+9 F. LIVRE 01-01 OB
+01-02 OB
+OB Não Livre Não Não 60 120 - -
+1 OBRIGATÓRIAS 01-01 OB
+01-02 OB
+OB Sim - - - 1980 1980 - -
+4 OPTATIVAS-BACH/FCA/FL 01-01 OB OB Sim - - - 60 120 - -
+11 OPTATIVAS-BACH/FL 01-02 OB OB Sim - - - 300 360 - -
+Código Descrição
+DIG DISCIPLINA GRADUAÇÃO
+04G Participação em eventos
+03G Inici cient, projeto extensão ou pesq
+02G Iniciação a docência ou monitoria
+01G Estágio optativo
+09G Vivência profissional complementar
+05G Publicação
+07G Discussões temáticas
+Tipos de atividades
+Não há regras curriculares.
+Regras curriculares
+10/03/2016 14.18.12 Página 10 de 10
+RELATÓRIO DE VERSÃO CURRICULAR
+Pró-reitoria de Graduação

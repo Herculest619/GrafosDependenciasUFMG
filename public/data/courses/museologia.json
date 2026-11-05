@@ -1,0 +1,3423 @@
+{
+    "schemaVersion": 2,
+    "id": "museologia",
+    "meta": {
+        "id": "museologia",
+        "name": "Museologia",
+        "variant": null,
+        "unit": "ECI — Escola de Ciência da Informação",
+        "campus": "Pampulha",
+        "shift": "Diurno",
+        "degree": "Bacharelado",
+        "layout": "versao",
+        "curriculum": "13003 · M-20251",
+        "source": {
+            "kind": "siga-versao-curricular",
+            "url": "https://graduacoes.eci.ufmg.br/wp-content/uploads/2025/06/Matriz-Curricular-do-Curso-de-Museologia-2025.1-1.pdf",
+            "retrievedAt": "2026-11-05T12:34:25-03:00",
+            "note": null
+        },
+        "note": null
+    },
+    "generatedAt": "2026-11-05T15:39:16.878Z",
+    "disciplines": {
+        "ECI257": {
+            "code": "ECI257",
+            "name": "CULTURA E INFORMAÇÃO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ECI258": {
+            "code": "ECI258",
+            "name": "ELABORAÇÃO E APRESENTAÇÃO DE TRABALHOS CIENTÍFICOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ECI259": {
+            "code": "ECI259",
+            "name": "HISTÓRIA DAS COLEÇÕES E DOS MUSEUS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ECI260": {
+            "code": "ECI260",
+            "name": "INTRODUÇÃO À MUSEOLOGIA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ECI261": {
+            "code": "ECI261",
+            "name": "LABORATÓRIO DE EXPERIMENTAÇÃO MUSEOLÓGICA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ECI099": {
+            "code": "ECI099",
+            "name": "DOCUMENTACAO MUSEOLOGICA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ECI262": {
+            "code": "ECI262",
+            "name": "EDUCAÇÃO E MEDIAÇÃO CULTURAL EM MUSEUS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ECI263": {
+            "code": "ECI263",
+            "name": "ESTUDOS DA CULTURA BRASILEIRA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ECI264": {
+            "code": "ECI264",
+            "name": "MEMÓRIA E PATRIMÔNIO CULTURAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ECI265": {
+            "code": "ECI265",
+            "name": "MUSEOLOGIA I",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "APL174": {
+            "code": "APL174",
+            "name": "ARTE E MUSEALIZACAO I",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ECI096": {
+            "code": "ECI096",
+            "name": "PATRIMONIO CULT.M.MODERNO CONTEMPORANEO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ECI266": {
+            "code": "ECI266",
+            "name": "ESTUDOS DE PÚBLICO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ECI267": {
+            "code": "ECI267",
+            "name": "EXPOGRAFIA I",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ECI268": {
+            "code": "ECI268",
+            "name": "MUSEOLOGIA II",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "ECI265"
+            ],
+            "scheduled": true
+        },
+        "APL175": {
+            "code": "APL175",
+            "name": "ARTE E MUSEALIZACAO II",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "APL174"
+            ],
+            "scheduled": true
+        },
+        "ECI269": {
+            "code": "ECI269",
+            "name": "EXPOGRAFIA II",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [
+                "ECI267"
+            ],
+            "scheduled": true
+        },
+        "ECI270": {
+            "code": "ECI270",
+            "name": "GESTÃO DE ACERVOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ECI271": {
+            "code": "ECI271",
+            "name": "PESQUISA HISTÓRICA EM MUSEUS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "APL178": {
+            "code": "APL178",
+            "name": "CONSERVACAO E MUSEUS I",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "APL207": {
+            "code": "APL207",
+            "name": "EXPOSIÇÃO CURRICULAR I",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ECI272": {
+            "code": "ECI272",
+            "name": "OBJETO MUSEOLÓGICO E CULTURA MATERIAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "APL179": {
+            "code": "APL179",
+            "name": "CONSERVACAO E MUSEUS II",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [
+                "APL178"
+            ],
+            "scheduled": true
+        },
+        "APL208": {
+            "code": "APL208",
+            "name": "EXPOSIÇÃO CURRICULAR II",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [
+                "APL207"
+            ],
+            "scheduled": true
+        },
+        "ECI273": {
+            "code": "ECI273",
+            "name": "ESTÁGIO A",
+            "type": "ETG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ECI274": {
+            "code": "ECI274",
+            "name": "GESTÃO DE MUSEUS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ECI275": {
+            "code": "ECI275",
+            "name": "ELABORAÇÃO DE PROJETO DE PESQUISA",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ECI276": {
+            "code": "ECI276",
+            "name": "ESTÁGIO B",
+            "type": "ETG",
+            "credits": 6,
+            "hours": {
+                "total": 90,
+                "theory": 15,
+                "practice": 75
+            },
+            "prereqs": [
+                "ECI273"
+            ],
+            "scheduled": true
+        },
+        "ECI277": {
+            "code": "ECI277",
+            "name": "PLANO MUSEOLÓGICO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ECI278": {
+            "code": "ECI278",
+            "name": "ESTÁGIO C",
+            "type": "ETG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [
+                "ECI276"
+            ],
+            "scheduled": true
+        },
+        "ECI279": {
+            "code": "ECI279",
+            "name": "ELABORAÇÃO DE TRABALHO DE CONCLUSÃO DE CURSO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [
+                "ECI275"
+            ],
+            "scheduled": true
+        },
+        "ECI280": {
+            "code": "ECI280",
+            "name": "FUNDAMENTOS DA CIÊNCIA DA INFORMAÇÃO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "APL096": {
+            "code": "APL096",
+            "name": "TOPICOS EM CONSERVACAO-RESTAURACAO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "APL097": {
+            "code": "APL097",
+            "name": "TOPICOS EM CONSERVACAO-RESTAURACAO A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "APL098": {
+            "code": "APL098",
+            "name": "TOPICOS EM CONSERVACAO RESTAURACAO B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "APL099": {
+            "code": "APL099",
+            "name": "TOPICOS EM CONSERVACAO-RESTAURACAO C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "APL184": {
+            "code": "APL184",
+            "name": "ORGANIZACAO E GERENCIAM. DE EXPOSICOES",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "APL189": {
+            "code": "APL189",
+            "name": "TOPICOS EM CURADORIA A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "APL190": {
+            "code": "APL190",
+            "name": "TOPICOS EM CURADORIA B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "APL191": {
+            "code": "APL191",
+            "name": "TOPICOS EM CURADORIA C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "APL192": {
+            "code": "APL192",
+            "name": "TOPICOS EM CURADORIA D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "APL197": {
+            "code": "APL197",
+            "name": "TOPICOS EM HISTORIA DA ARTE A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "APL198": {
+            "code": "APL198",
+            "name": "TOPICOS EM HISTORIA DA ARTE B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "APL199": {
+            "code": "APL199",
+            "name": "TOPICOS EM HISTORIA DA ARTE C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "APL200": {
+            "code": "APL200",
+            "name": "TOPICOS EM HISTORIA DA ARTE D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI035": {
+            "code": "ECI035",
+            "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI036": {
+            "code": "ECI036",
+            "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI037": {
+            "code": "ECI037",
+            "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI038": {
+            "code": "ECI038",
+            "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI113": {
+            "code": "ECI113",
+            "name": "DIFUSAO CULTURAL EM MUSEUS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI117": {
+            "code": "ECI117",
+            "name": "PLANEJAMENTO DA EXPOSICAO MUSEOLOGICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI119": {
+            "code": "ECI119",
+            "name": "TOP. CONHEC. MUSEAL E DIFUSAO CULTURAL A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI120": {
+            "code": "ECI120",
+            "name": "TOP. CONHEC. MUSEAL E DIFUSAO CULTURAL B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI121": {
+            "code": "ECI121",
+            "name": "TOP. CONHEC. MUSEAL E DIFUSAO CULTURAL C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI122": {
+            "code": "ECI122",
+            "name": "TOP. CONHEC. MUSEAL E DIFUSAO CULTURAL D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI281": {
+            "code": "ECI281",
+            "name": "TÓPICOS EM MUSEOLOGIA A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI282": {
+            "code": "ECI282",
+            "name": "TÓPICOS EM MUSEOLOGIA B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI283": {
+            "code": "ECI283",
+            "name": "TÓPICOS EM MUSEOLOGIA C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI284": {
+            "code": "ECI284",
+            "name": "TÓPICOS EM MUSEOLOGIA D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI285": {
+            "code": "ECI285",
+            "name": "TÓPICOS EM MUSEOLOGIA SOCIAL A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI286": {
+            "code": "ECI286",
+            "name": "TÓPICOS EM MUSEOLOGIA SOCIAL B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI287": {
+            "code": "ECI287",
+            "name": "TÓPICOS EM MUSEOLOGIA SOCIAL C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI288": {
+            "code": "ECI288",
+            "name": "TÓPICOS EM MUSEOLOGIA SOCIAL D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI289": {
+            "code": "ECI289",
+            "name": "TÓPICOS EM AVALIAÇÃO DE PÚBLICO A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI290": {
+            "code": "ECI290",
+            "name": "TÓPICOS EM AVALIAÇÃO DE PÚBLICO B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI291": {
+            "code": "ECI291",
+            "name": "TÓPICOS EM AVALIAÇÃO DE PÚBLICO C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI292": {
+            "code": "ECI292",
+            "name": "TÓPICOS EM AVALIAÇÃO DE PÚBLICO D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI293": {
+            "code": "ECI293",
+            "name": "TÓPICOS EM ESTUDO DE PÚBLICO A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI294": {
+            "code": "ECI294",
+            "name": "TÓPICOS EM ESTUDO DE PÚBLICO B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI295": {
+            "code": "ECI295",
+            "name": "TÓPICOS EM ESTUDO DE PÚBLICO C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI296": {
+            "code": "ECI296",
+            "name": "TÓPICOS EM ESTUDO DE PÚBLICO D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI297": {
+            "code": "ECI297",
+            "name": "TÓPICOS EM TIPOLOGIA DE MUSEUS A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI298": {
+            "code": "ECI298",
+            "name": "TÓPICOS EM TIPOLOGIA DE MUSEUS B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI299": {
+            "code": "ECI299",
+            "name": "TÓPICOS EM TIPOLOGIA DE MUSEUS C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI300": {
+            "code": "ECI300",
+            "name": "TÓPICOS EM TIPOLOGA DE MUSEUS D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI301": {
+            "code": "ECI301",
+            "name": "TÓPICOS EM GESTÃO DE ACERVOS A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI302": {
+            "code": "ECI302",
+            "name": "TÓPICOS EM GESTÃO DE ACERVOS B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI303": {
+            "code": "ECI303",
+            "name": "TÓPICOS EM GESTÃO DE ACERVOS C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI304": {
+            "code": "ECI304",
+            "name": "TÓPICOS EM GESTÃO DE ACERVOS D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI305": {
+            "code": "ECI305",
+            "name": "TÓPICOS EM PESQUISA E HISTÓRIA A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI306": {
+            "code": "ECI306",
+            "name": "TÓPICOS EM PESQUISA E HISTÓRIA B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI307": {
+            "code": "ECI307",
+            "name": "TÓPICOS EM PESQUISA E HISTÓRIA C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI308": {
+            "code": "ECI308",
+            "name": "TÓPICOS EM PESQUISA E HISTÓRIA D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI309": {
+            "code": "ECI309",
+            "name": "TÓPICOS EM ELABORAÇÃO DE PROJETOS CULTURAIS A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI310": {
+            "code": "ECI310",
+            "name": "TÓPICOS EM ELABORAÇÃO DE PROJETOS CULTURAIS B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI311": {
+            "code": "ECI311",
+            "name": "TÓPICOS EM ELABORAÇÃO DE PROJETOS CULTURAIS C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI312": {
+            "code": "ECI312",
+            "name": "TÓPICOS EM ELABORAÇÃO DE PROJETOS CULTURAIS D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI313": {
+            "code": "ECI313",
+            "name": "TÓPICOS EM EDUCAÇÃO EM MUSEUS A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI314": {
+            "code": "ECI314",
+            "name": "TÓPICOS EM EDUCAÇÃO EM MUSEUS B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI315": {
+            "code": "ECI315",
+            "name": "TÓPICOS EM EDUCAÇÃO EM MUSEUS C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI316": {
+            "code": "ECI316",
+            "name": "TÓPICOS EM EDUCAÇÃO EM MUSEUS D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI317": {
+            "code": "ECI317",
+            "name": "TÓPICOS EM PATRIMÔNIO A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI318": {
+            "code": "ECI318",
+            "name": "TÓPICOS EM PATRIMÔNIO B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI319": {
+            "code": "ECI319",
+            "name": "TÓPICOS EM PATRIMÔNIO C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI320": {
+            "code": "ECI320",
+            "name": "TÓPICOS EM PATRIMÔNIO D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI321": {
+            "code": "ECI321",
+            "name": "TÓPICOS EM DOCUMENTAÇÃO MUSEOLÓGICA A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI322": {
+            "code": "ECI322",
+            "name": "TÓPICOS EM DOCUMENTAÇÃO MUSEOLÓGICA B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI323": {
+            "code": "ECI323",
+            "name": "TÓPICOS EM DOCUMENTAÇÃO MUSEOLÓGICA C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI324": {
+            "code": "ECI324",
+            "name": "TÓPICOS EM DOCUMENTAÇÃO MUSEOLÓGICA D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI325": {
+            "code": "ECI325",
+            "name": "TÓPICOS EM MUSEUS E DIVULGAÇÃO CIENTÍFICA A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI326": {
+            "code": "ECI326",
+            "name": "TÓPICOS EM MUSEUS E DIVULGAÇÃO CIENTÍFICA B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI327": {
+            "code": "ECI327",
+            "name": "TÓPICOS EM MUSEUS E DIVULGAÇÃO CIENTÍFICA C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI328": {
+            "code": "ECI328",
+            "name": "TÓPICOS EM MUSEUS E DIVULGAÇÃO CIENTÍFICA D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI329": {
+            "code": "ECI329",
+            "name": "TÓPICOS EM EXPOGRAFIA A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI330": {
+            "code": "ECI330",
+            "name": "TÓPICOS EM EXPOGRAFIA B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI331": {
+            "code": "ECI331",
+            "name": "TÓPICOS EM EXPOGRAFIA C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI332": {
+            "code": "ECI332",
+            "name": "TÓPICOS EM EXPOGRAFIA D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI333": {
+            "code": "ECI333",
+            "name": "TÓPICOS PESQUISA CIÊNCIA DA INFORMAÇÃO A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI334": {
+            "code": "ECI334",
+            "name": "TÓPICOS PESQUISA CIÊNCIA DA INFORMAÇÃO B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI335": {
+            "code": "ECI335",
+            "name": "TÓPICOS PESQUISA CIÊNCIA DA INFORMAÇÃO C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI336": {
+            "code": "ECI336",
+            "name": "TÓPICOS PESQUISA CIÊNCIA DA INFORMAÇÃO D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI337": {
+            "code": "ECI337",
+            "name": "INICIAÇÃO A DOCÊNCIA A",
+            "type": "PJG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI338": {
+            "code": "ECI338",
+            "name": "INICIAÇÃO A DOCÊNCIA B",
+            "type": "PJG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI339": {
+            "code": "ECI339",
+            "name": "INICIAÇÃO A DOCÊNCIA C",
+            "type": "PJG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI340": {
+            "code": "ECI340",
+            "name": "INICIAÇÃO A DOCÊNCIA D",
+            "type": "PJG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI341": {
+            "code": "ECI341",
+            "name": "INICIAÇÃO A EXTENSÃO A",
+            "type": "PJG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI342": {
+            "code": "ECI342",
+            "name": "INICIAÇÃO A EXTENSÃO B",
+            "type": "PJG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI343": {
+            "code": "ECI343",
+            "name": "INICIAÇÃO A EXTENSÃO C",
+            "type": "PJG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 0,
+                "practice": 45
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI344": {
+            "code": "ECI344",
+            "name": "INICIAÇÃO A EXTENSÃO D",
+            "type": "PJG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 0,
+                "practice": 60
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI345": {
+            "code": "ECI345",
+            "name": "INICIAÇÃO A PESQUISA A",
+            "type": "PJG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI346": {
+            "code": "ECI346",
+            "name": "INICIAÇÃO A PESQUISA B",
+            "type": "PJG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI347": {
+            "code": "ECI347",
+            "name": "INICIAÇÃO A PESQUISA C",
+            "type": "PJG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI348": {
+            "code": "ECI348",
+            "name": "INICIAÇÃO A PESQUISA D",
+            "type": "PJG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI349": {
+            "code": "ECI349",
+            "name": "PARTICIPAÇÃO EM EVENTOS A",
+            "type": "EVG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI350": {
+            "code": "ECI350",
+            "name": "PARTICIPAÇÃO EM EVENTOS B",
+            "type": "EVG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI351": {
+            "code": "ECI351",
+            "name": "PARTICIPAÇÃO EM EVENTOS C",
+            "type": "EVG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI352": {
+            "code": "ECI352",
+            "name": "PARTICIPAÇÃO EM EVENTOS D",
+            "type": "EVG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI353": {
+            "code": "ECI353",
+            "name": "PUBLICAÇÕES A",
+            "type": "PGG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI354": {
+            "code": "ECI354",
+            "name": "PUBLICAÇÕES B",
+            "type": "PGG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI355": {
+            "code": "ECI355",
+            "name": "PUBLICAÇÕES C",
+            "type": "PGG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI356": {
+            "code": "ECI356",
+            "name": "PUBLICAÇÕES D",
+            "type": "PGG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI357": {
+            "code": "ECI357",
+            "name": "ESTÁGIO NÃO OBRIGATÓRIO A",
+            "type": "ETG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI358": {
+            "code": "ECI358",
+            "name": "ESTÁGIO NÃO OBRIGATÓRIO B",
+            "type": "ETG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI359": {
+            "code": "ECI359",
+            "name": "ESTÁGIO NÃO OBRIGATÓRIO C",
+            "type": "ETG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 0,
+                "practice": 45
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI360": {
+            "code": "ECI360",
+            "name": "ESTÁGIO NÃO OBRIGATÓRIO D",
+            "type": "ETG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 0,
+                "practice": 60
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI361": {
+            "code": "ECI361",
+            "name": "CURSOS DE CURTA DURAÇÃO A",
+            "type": "EVG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI362": {
+            "code": "ECI362",
+            "name": "CURSOS DE CURTA DURAÇÃO B",
+            "type": "EVG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI363": {
+            "code": "ECI363",
+            "name": "CURSOS DE CURTA DURAÇÃO C",
+            "type": "EVG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI364": {
+            "code": "ECI364",
+            "name": "CURSOS DE CURTA DURAÇÃO D",
+            "type": "EVG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI365": {
+            "code": "ECI365",
+            "name": "INICIAÇÃO A CURADORIA A",
+            "type": "PJG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI366": {
+            "code": "ECI366",
+            "name": "INICIAÇÃO A CURADORIA B",
+            "type": "PJG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI367": {
+            "code": "ECI367",
+            "name": "INICIAÇÃO A CURADORIA C",
+            "type": "PJG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI368": {
+            "code": "ECI368",
+            "name": "INICIAÇÃO A CURADORIA D",
+            "type": "PJG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI369": {
+            "code": "ECI369",
+            "name": "TÓPICOS AVANÇADOS A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI370": {
+            "code": "ECI370",
+            "name": "TÓPICOS AVANÇADOS B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI371": {
+            "code": "ECI371",
+            "name": "TÓPICOS AVANÇADOS C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ECI372": {
+            "code": "ECI372",
+            "name": "TÓPICOS AVANÇADOS D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "LET223": {
+            "code": "LET223",
+            "name": "FUNDAMENTOS DE LIBRAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        }
+    },
+    "percursos": [
+        {
+            "id": "R-01",
+            "name": "BACHARELADO/N. GERAL",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "ECI257",
+                        "ECI258",
+                        "ECI259",
+                        "ECI260",
+                        "ECI261"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "ECI099",
+                        "ECI262",
+                        "ECI263",
+                        "ECI264",
+                        "ECI265"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "APL174",
+                        "ECI096",
+                        "ECI266",
+                        "ECI267",
+                        "ECI268"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "APL175",
+                        "ECI269",
+                        "ECI270",
+                        "ECI271"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "APL178",
+                        "APL207",
+                        "ECI272"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "APL179",
+                        "APL208",
+                        "ECI273",
+                        "ECI274"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "ECI275",
+                        "ECI276",
+                        "ECI277"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "ECI278",
+                        "ECI279",
+                        "ECI280"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-R-01-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-R-01-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-R-01-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-R-01-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-R-01-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-R-01-06",
+                    "label": "Optativa 6",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-R-01-07",
+                    "label": "Optativa 7",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "APL096",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL097",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL098",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL099",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL184",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL189",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL190",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL191",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL192",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL197",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL198",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL199",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL200",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI035",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI036",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI037",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI038",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI113",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI117",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI119",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI120",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI121",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI122",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI281",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI282",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI283",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI284",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI285",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI286",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI287",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI288",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI289",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI290",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI291",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI292",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI293",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI294",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI295",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI296",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI297",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI298",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI299",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI300",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI301",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI302",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI303",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI304",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI305",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI306",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI307",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI308",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI309",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI310",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI311",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI312",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI313",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI314",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI315",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI316",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI317",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI318",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI319",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI320",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI321",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI322",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI323",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI324",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI325",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI326",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI327",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI328",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI329",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI330",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI331",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI332",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI333",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI334",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI335",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI336",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI337",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI338",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI339",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI340",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI341",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI342",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI343",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI344",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI345",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI346",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI347",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI348",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI349",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI350",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI351",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI352",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI353",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI354",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI355",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI356",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI357",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI358",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI359",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI360",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI361",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI362",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI363",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI364",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI365",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI366",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI367",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI368",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "LET223",
+                    "group": "5",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "R-01",
+                "semesters": {
+                    "min": 8,
+                    "standard": 8,
+                    "max": 14
+                },
+                "enrollmentHours": {
+                    "min": 180,
+                    "max": null
+                },
+                "obligatoryHours": {
+                    "min": 1710,
+                    "max": 1710
+                },
+                "optionalHours": {
+                    "min": 420,
+                    "max": 420
+                },
+                "stageHours": {
+                    "min": 210,
+                    "max": 210
+                },
+                "complementaryPresetHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryOpenHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "freeHours": {
+                    "min": 60,
+                    "max": 60
+                },
+                "totalHours": 2400
+            }
+        },
+        {
+            "id": "R-02",
+            "name": "BACHARELADO/N. COMPLEMENTAR/N. AVANÇADO",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "ECI257",
+                        "ECI258",
+                        "ECI259",
+                        "ECI260",
+                        "ECI261"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "ECI099",
+                        "ECI262",
+                        "ECI263",
+                        "ECI264",
+                        "ECI265"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "APL174",
+                        "ECI096",
+                        "ECI266",
+                        "ECI267",
+                        "ECI268"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "APL175",
+                        "ECI269",
+                        "ECI270",
+                        "ECI271"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "APL178",
+                        "APL207",
+                        "ECI272"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "APL179",
+                        "APL208",
+                        "ECI273",
+                        "ECI274"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "ECI275",
+                        "ECI276",
+                        "ECI277"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "ECI278",
+                        "ECI279",
+                        "ECI280"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-R-02-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-R-02-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-R-02-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "APL096",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL097",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL098",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL099",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL184",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL189",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL190",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL191",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL192",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL197",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL198",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL199",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "APL200",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI035",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI036",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI037",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI038",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI113",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI117",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI119",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI120",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI121",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI122",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI281",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI282",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI283",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI284",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI285",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI286",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI287",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI288",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI289",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI290",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI291",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI292",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI293",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI294",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI295",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI296",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI297",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI298",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI299",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI300",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI301",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI302",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI303",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI304",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI305",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI306",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI307",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI308",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI309",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI310",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI311",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI312",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI313",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI314",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI315",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI316",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI317",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI318",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI319",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI320",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI321",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI322",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI323",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI324",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI325",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI326",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI327",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI328",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI329",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI330",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI331",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI332",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI333",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI334",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI335",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI336",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI337",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI338",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI339",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI340",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI341",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI342",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI343",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI344",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI345",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI346",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI347",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI348",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI349",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI350",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI351",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI352",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI353",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI354",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI355",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI356",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI357",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI358",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI359",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI360",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI361",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI362",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI363",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI364",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI365",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI366",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI367",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI368",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI369",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI370",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI371",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "ECI372",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "LET223",
+                    "group": "14",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "R-02",
+                "semesters": {
+                    "min": 8,
+                    "standard": 8,
+                    "max": 14
+                },
+                "enrollmentHours": {
+                    "min": 180,
+                    "max": null
+                },
+                "obligatoryHours": {
+                    "min": 1710,
+                    "max": 1710
+                },
+                "optionalHours": {
+                    "min": 180,
+                    "max": 180
+                },
+                "stageHours": {
+                    "min": 210,
+                    "max": 210
+                },
+                "complementaryPresetHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryOpenHours": {
+                    "min": 300,
+                    "max": 300
+                },
+                "freeHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "totalHours": 2400
+            }
+        }
+    ]
+}

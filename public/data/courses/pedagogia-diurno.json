@@ -1,0 +1,5072 @@
+{
+    "schemaVersion": 2,
+    "id": "pedagogia-diurno",
+    "meta": {
+        "id": "pedagogia-diurno",
+        "name": "Pedagogia",
+        "variant": "Diurno",
+        "unit": "FAE — Faculdade de Educação",
+        "campus": "Pampulha",
+        "shift": "Diurno",
+        "degree": "Licenciatura",
+        "layout": "versao",
+        "curriculum": "14006 · D-20191",
+        "source": {
+            "kind": "siga-versao-curricular",
+            "url": "https://www.fae.ufmg.br/wp-content/uploads/2024/12/Grade-Curricular-2019-Diurno-1.pdf",
+            "retrievedAt": "2026-11-05T12:34:25-03:00",
+            "note": null
+        },
+        "note": null
+    },
+    "generatedAt": "2026-11-05T15:39:16.899Z",
+    "disciplines": {
+        "ADE058": {
+            "code": "ADE058",
+            "name": "POLITICA EDUCACIONAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CAE104": {
+            "code": "CAE104",
+            "name": "SOCIOLOGIA DA EDUCACAO I",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CAE111": {
+            "code": "CAE111",
+            "name": "FILOSOFIA DA EDUCACAO I",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CAE129": {
+            "code": "CAE129",
+            "name": "PSICOLOGIA DA EDUCACAO I",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CAE145": {
+            "code": "CAE145",
+            "name": "METODOLOGIA DE PESQUISA EM EDUCACAO I",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ADE043": {
+            "code": "ADE043",
+            "name": "POLITICA E ADM.DOS SISTEMAS EDUCACIONAIS",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CAE007": {
+            "code": "CAE007",
+            "name": "ANTROPOLOGIA E EDUCACAO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CAE021": {
+            "code": "CAE021",
+            "name": "FILOSOFIA DA EDUCACAO II",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CAE022": {
+            "code": "CAE022",
+            "name": "HISTORIA DA EDUCACAO I",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CAE023": {
+            "code": "CAE023",
+            "name": "SOCIOLOGIA DA EDUCACAO II",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CAE130": {
+            "code": "CAE130",
+            "name": "PSICOLOGIA DA EDUCACAO II",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MTE213": {
+            "code": "MTE213",
+            "name": "ARTE NO ENSINO FUNDAMENTAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CAE053": {
+            "code": "CAE053",
+            "name": "ESTÁGIO CURRICULAR DE INTRODUÇÃO AO CAMPO EDUCACIONAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CAE109": {
+            "code": "CAE109",
+            "name": "HISTORIA DA EDUCACAO II",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CAE147": {
+            "code": "CAE147",
+            "name": "ESTUDOS SOBRE A INFANCIA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MTE224": {
+            "code": "MTE224",
+            "name": "ALFABETIZACAO E LETRAMENTO I",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MTE243": {
+            "code": "MTE243",
+            "name": "FUNDAMENTOS E METODOLOGIA DO ENSINO DA MATEMÁTICA I",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ADE044": {
+            "code": "ADE044",
+            "name": "TEORIAS DE CURRICULO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ADE045": {
+            "code": "ADE045",
+            "name": "PROCESSOS EDUCATIVOS NAS ACOES COLETIVAS",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ADE046": {
+            "code": "ADE046",
+            "name": "ESCOLA E DIVERSIDADE: INTERFACES POLITIC",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MTE212": {
+            "code": "MTE212",
+            "name": "ALFABETIZACAO E LETRAMENTO II",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MTE214": {
+            "code": "MTE214",
+            "name": "CORPO E EDUCACAO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MTE244": {
+            "code": "MTE244",
+            "name": "FUNDAMENTOS E METODOLOGIA DO ENSINO DA MATEMÁTICA II",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ADE049": {
+            "code": "ADE049",
+            "name": "OBSERVATORIO DE CURRICULO: EDUCACA INFAN",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ADE059": {
+            "code": "ADE059",
+            "name": "ORGANIZACAO DA EDUCACAO INFANTIL",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CAE148": {
+            "code": "CAE148",
+            "name": "FUNDAMENTOS DA EDUCACAO INCLUSIVA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MTE245": {
+            "code": "MTE245",
+            "name": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE LÍNGUA PORTUGUESA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MTE246": {
+            "code": "MTE246",
+            "name": "FUNDAMENTOS E METODOLOGIA DO ENSINO DA GEOGRAFIA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MTE247": {
+            "code": "MTE247",
+            "name": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE CIÊNCIAS FÍSICAS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MTE068": {
+            "code": "MTE068",
+            "name": "DIFICULDADES ENSINO-APREND DA LEIT E ESC",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MTE215": {
+            "code": "MTE215",
+            "name": "ESTAGIO CURRICULAR EM DOCENCIA NO ENS F.",
+            "type": "DIG",
+            "credits": 8,
+            "hours": {
+                "total": 120,
+                "theory": 30,
+                "practice": 90
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MTE248": {
+            "code": "MTE248",
+            "name": "DIDÁTICA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MTE249": {
+            "code": "MTE249",
+            "name": "FUNDAMENTOS E METODOLOGIA DO ENSINO DA HISTÓRIA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MTE250": {
+            "code": "MTE250",
+            "name": "FUNDAMENTOS E METODOLOGIA DO ENSINO DE CIÊNCIAS BIOLÓGICAS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ADE048": {
+            "code": "ADE048",
+            "name": "POLITICAS PUBLICAS,MOVM.SOCIAIS E CIDADA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CAE149": {
+            "code": "CAE149",
+            "name": "METODOLOGIA DE PESQUISA EM EDUCACAO II",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CAE150": {
+            "code": "CAE150",
+            "name": "SISTEMA DE AVALIACAO EDUCACIONAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "LET223": {
+            "code": "LET223",
+            "name": "FUNDAMENTOS DE LIBRAS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MTE073": {
+            "code": "MTE073",
+            "name": "ESTAGIO CURRICULAR EM EDUCACAO INFANTIL",
+            "type": "DIG",
+            "credits": 8,
+            "hours": {
+                "total": 120,
+                "theory": 30,
+                "practice": 90
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MTE232": {
+            "code": "MTE232",
+            "name": "ARTE NA EDUCACAO INFANTIL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MTE261": {
+            "code": "MTE261",
+            "name": "DIDÁTICA DA EDUCAÇÃO INFANTIL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ADE029": {
+            "code": "ADE029",
+            "name": "ESTÁGIO CURRICULAR EM GESTÃO DA ESCOLA E COORD. PEDAGÓGICA",
+            "type": "DIG",
+            "credits": 8,
+            "hours": {
+                "total": 120,
+                "theory": 30,
+                "practice": 90
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ADE047": {
+            "code": "ADE047",
+            "name": "ORGANIZACAO DO ENSINO FUNDAMENTAL",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ADE050": {
+            "code": "ADE050",
+            "name": "OBSERVATORIO CURRICULO:ENSINO FUNDAMENTA",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ADE052": {
+            "code": "ADE052",
+            "name": "ECONOMIA E POLITICA FINANCIAMENTO ED.BAS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CAE151": {
+            "code": "CAE151",
+            "name": "FUNDAMENTOS TEORICO-METOD. EDUCACAO POPU",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MTE217": {
+            "code": "MTE217",
+            "name": "METODOLOGIA DA ALF. DE JOVENS E ADULTOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ADE026": {
+            "code": "ADE026",
+            "name": "ORGANIZACAO DA EDUC DE JOVENS E ADULTOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ADE053": {
+            "code": "ADE053",
+            "name": "PRATICA EM EDUCACAO DE JOVENS E ADULTOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ADE054": {
+            "code": "ADE054",
+            "name": "TRAB. DOC. E RELACOES TRAB.NOS SIST.ENSI",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CAE152": {
+            "code": "CAE152",
+            "name": "MONOGRAFIA NA AREA DE CIENCIAS EDUCACAO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CAE153": {
+            "code": "CAE153",
+            "name": "EDUCACAO SOCIAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MTE216": {
+            "code": "MTE216",
+            "name": "PRATICA EM EDUCACAO SOCIAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ADE067": {
+            "code": "ADE067",
+            "name": "ECONOMIA POLÍTICA E EDUCAÇÃO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ADE068": {
+            "code": "ADE068",
+            "name": "GÊNEROS E SEXUALIDADES NOS CURRÍCULOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ADE069": {
+            "code": "ADE069",
+            "name": "GESTÃO EDUCACIONAL: AS ESCOLAS NOS SISTEMAS DE ENSINO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ADE070": {
+            "code": "ADE070",
+            "name": "ORGANIZAÇÃO DE ESPAÇOS E AMBIENTES NA EDUCAÇÃO INFANTIL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ADE071": {
+            "code": "ADE071",
+            "name": "TECNOLOGIAS DIGITAIS NA ESCOLA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ADE072": {
+            "code": "ADE072",
+            "name": "TÓPICOS EM EDUCAÇÃO E RELAÇÕES ÉTNICO-RACIAIS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ADE073": {
+            "code": "ADE073",
+            "name": "TÓPICOS EM EDUCAÇÃO ESPECIAL E INCLUSÃO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ADE074": {
+            "code": "ADE074",
+            "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ADE075": {
+            "code": "ADE075",
+            "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ADE076": {
+            "code": "ADE076",
+            "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ADE077": {
+            "code": "ADE077",
+            "name": "TÓPICOS EM PENSAMENTO COMPUTACIONAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ADE078": {
+            "code": "ADE078",
+            "name": "TÓPICOS EM POLÍTICAS E EXPERIÊNCIAS EDUCATIVAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ADE079": {
+            "code": "ADE079",
+            "name": "TÓPICOS EM POLÍTICAS PÚBLICAS EM TECNOLOGIAS DA EDUCAÇÃO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ADE080": {
+            "code": "ADE080",
+            "name": "TRABALHO E EDUCAÇÃO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE054": {
+            "code": "CAE054",
+            "name": "A ESCOLA E SEUS SUJEITOS: COND. JUVENIL E DOCÊNCIA NO CINEMA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE055": {
+            "code": "CAE055",
+            "name": "A PRÁTICA EDUCATIVA EM TELA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE056": {
+            "code": "CAE056",
+            "name": "A PRÁTICA EDUCATIVA NO CINEMA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE057": {
+            "code": "CAE057",
+            "name": "ABORDAGENS SOCIOLÓGICAS DA ESCOLA E DA SALA DE AULA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE058": {
+            "code": "CAE058",
+            "name": "ANTROPOLOGIA E ARTE INDÍGENA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE059": {
+            "code": "CAE059",
+            "name": "CONSTITUIÇÃO SUBJETIVA DO ADOLESCENTE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE060": {
+            "code": "CAE060",
+            "name": "DINÂMICA DA SALA DE AULA E PROCESSOS INCLUSIVOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE061": {
+            "code": "CAE061",
+            "name": "EDUCAÇÃO E ESPIRITUALIDADE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE062": {
+            "code": "CAE062",
+            "name": "EDUCAÇÃO E SOCIALISMO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE063": {
+            "code": "CAE063",
+            "name": "EDUCAÇÃO, GÊNERO E SEXUALIDADE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE064": {
+            "code": "CAE064",
+            "name": "HISTÓRIA DA EDU. DOS SENTIDOS E DAS SENSIBILIDADES NA ESCOLA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE065": {
+            "code": "CAE065",
+            "name": "HISTÓRIA DA EDUCAÇÃO SOCIAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE066": {
+            "code": "CAE066",
+            "name": "HIST. DA INFÂNCIA: ESCOLA E TRABALHO NA EUROPA E AM. LATINA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE067": {
+            "code": "CAE067",
+            "name": "HISTÓRIA DAS PRÁTICAS EDUCATIVAS NO BRASIL COLONIAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE068": {
+            "code": "CAE068",
+            "name": "HISTÓRIA DO CURRÍCULO E DOS SABERES ESCOLARES",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE069": {
+            "code": "CAE069",
+            "name": "HISTÓRIAS E CULTURAS INDÍGENAS NO BRASIL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE070": {
+            "code": "CAE070",
+            "name": "JUVENTUDE, ESCOLA E IMPASSES CONTEMPORÂNEOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE071": {
+            "code": "CAE071",
+            "name": "JUVENTUDES NA CONTEMPORANEIDADE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE072": {
+            "code": "CAE072",
+            "name": "MEIO AMBIENTE E CULTURA: FUND. PARA UMA ECOLOGIA POLÍTICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE073": {
+            "code": "CAE073",
+            "name": "METODOLOGIAS DE PESQUISA QUALITATIVA EM EDUCAÇÃO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE074": {
+            "code": "CAE074",
+            "name": "METODOLOGIAS DE PESQUISA QUANTITATIVA EM EDUCAÇÃO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE075": {
+            "code": "CAE075",
+            "name": "PROCESSOS DE APRENDIZAGEM DA CULTURA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE076": {
+            "code": "CAE076",
+            "name": "RELIGIÕES DE MATRIZ AFRICANA NO BRASIL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE077": {
+            "code": "CAE077",
+            "name": "TÓPICOS EM CIÊNCIAS DA EDUCAÇÃO B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE078": {
+            "code": "CAE078",
+            "name": "TÓPICOS EM CIÊNCIAS DA EDUCAÇÃO A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE079": {
+            "code": "CAE079",
+            "name": "TÓPICOS EM CIÊNCIAS DA EDUCAÇÃO C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE161": {
+            "code": "CAE161",
+            "name": "ESTATISTICA EDUCACIONAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE162": {
+            "code": "CAE162",
+            "name": "RELACAO FAMILIA-ESCOLA:UMA PERSP.SOCIOL.",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE165": {
+            "code": "CAE165",
+            "name": "EDUCACAO E MODERNIDADE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CAE167": {
+            "code": "CAE167",
+            "name": "TOPICOS ESPECIAIS EM SOCIOL. DA EDUCACAO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "DIT121": {
+            "code": "DIT121",
+            "name": "DIREITOS HUMANOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAE371": {
+            "code": "FAE371",
+            "name": "TOPICOS EM EDUCACAO A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAE480": {
+            "code": "FAE480",
+            "name": "TOPICOS DE ENSINO A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAE481": {
+            "code": "FAE481",
+            "name": "TOPICOS DE ENSINO B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAE482": {
+            "code": "FAE482",
+            "name": "TOPICOS DE ENSINO C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAE483": {
+            "code": "FAE483",
+            "name": "TOPICOS DE ENSINO D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICB001": {
+            "code": "ICB001",
+            "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MTE218": {
+            "code": "MTE218",
+            "name": "TOPICOS EM EDUCACAO SOCIAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MTE220": {
+            "code": "MTE220",
+            "name": "LEITURA E PRODUCAO DE GENEROS ACADEMICOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MTE221": {
+            "code": "MTE221",
+            "name": "A LEITURA LITERARIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MTE269": {
+            "code": "MTE269",
+            "name": "A EDUCAÇÃO DOS BEBÊS: A CONSTRUÇÃO DE PROPOSTAS PEDAGÓGICAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MTE270": {
+            "code": "MTE270",
+            "name": "LABORATÓRIO DE BRINQUEDOS E BRINCADEIRAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MTE272": {
+            "code": "MTE272",
+            "name": "LEITURA E ESCRITA NA CULTURA DIGITAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MTE273": {
+            "code": "MTE273",
+            "name": "PRÁT. PEDAG. NA EDUC. INFANTIL: APREN. INICIAL DA L. ESCRITA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MTE448": {
+            "code": "MTE448",
+            "name": "TEORIAS PEDAGÓGICAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MTE449": {
+            "code": "MTE449",
+            "name": "TÓPICOS EM EDUCAÇÃO E LINGUAGEM",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MTE450": {
+            "code": "MTE450",
+            "name": "TÓPICOS EM ENSINO DE CIÊNCIAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 120,
+                "theory": 120,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MTE451": {
+            "code": "MTE451",
+            "name": "TÓPICOS EM LABORATÓRIO DE ALFABETIZAÇÃO E LETRAMENTO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MTE452": {
+            "code": "MTE452",
+            "name": "TÓPICOS EM PROCESSO DE ENSINO B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MTE453": {
+            "code": "MTE453",
+            "name": "TÓPICOS EM PROCESSO DE ENSINO A",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MTE454": {
+            "code": "MTE454",
+            "name": "TÓPICOS EM PROCESSO DE ENSINO C",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MTE455": {
+            "code": "MTE455",
+            "name": "TÓP. EM PROC. DE ENSINO: ALFAB. NA EDUC. DE JOVENS E ADULTOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "UNI103": {
+            "code": "UNI103",
+            "name": "LIBRAS, SURDEZ E ALFABETIZAÇÃO: UMA INTRODUÇÃO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        }
+    },
+    "percursos": [
+        {
+            "id": "02-01",
+            "name": "LICENCIATURA / FCA / FL",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "ADE058",
+                        "CAE104",
+                        "CAE111",
+                        "CAE129",
+                        "CAE145"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "ADE043",
+                        "CAE007",
+                        "CAE021",
+                        "CAE022",
+                        "CAE023",
+                        "CAE130",
+                        "MTE213"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "CAE053",
+                        "CAE109",
+                        "CAE147",
+                        "MTE224",
+                        "MTE243"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "ADE044",
+                        "ADE045",
+                        "ADE046",
+                        "MTE212",
+                        "MTE214",
+                        "MTE244"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "ADE049",
+                        "ADE059",
+                        "CAE148",
+                        "MTE245",
+                        "MTE246",
+                        "MTE247"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "MTE068",
+                        "MTE215",
+                        "MTE248",
+                        "MTE249",
+                        "MTE250"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "LET223",
+                        "MTE073",
+                        "MTE232",
+                        "MTE261"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "ADE029",
+                        "ADE047",
+                        "ADE050"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-02-01-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-01-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-01-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-01-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-01-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-01-06",
+                    "label": "Optativa 6",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-01-07",
+                    "label": "Optativa 7",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-01-08",
+                    "label": "Optativa 8",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "ADE026",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE048",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE052",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE053",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE054",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE067",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE068",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE069",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE070",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE071",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE072",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE073",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE074",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE075",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE076",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE077",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE078",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE079",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE080",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE054",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE055",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE056",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE057",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE058",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE059",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE060",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE061",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE062",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE063",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE064",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE065",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE066",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE067",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE068",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE069",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE070",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE071",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE072",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE073",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE074",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE075",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE076",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE077",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE078",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE079",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE149",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE150",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE151",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE152",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE153",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE161",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE162",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE165",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE167",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "DIT121",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE371",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE480",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE481",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE482",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE483",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICB001",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE216",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE217",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE218",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE220",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE221",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE269",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE270",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE272",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE273",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE448",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE449",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE450",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE451",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE452",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE453",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE454",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE455",
+                    "group": "17",
+                    "prereqs": []
+                },
+                {
+                    "code": "UNI103",
+                    "group": "17",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "02-01",
+                "semesters": {
+                    "min": 9,
+                    "standard": 9,
+                    "max": 15
+                },
+                "enrollmentHours": {
+                    "min": 225,
+                    "max": 480
+                },
+                "obligatoryHours": {
+                    "min": 1920,
+                    "max": 1920
+                },
+                "optionalHours": {
+                    "min": 480,
+                    "max": 480
+                },
+                "stageHours": {
+                    "min": 420,
+                    "max": 420
+                },
+                "complementaryPresetHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryOpenHours": {
+                    "min": 300,
+                    "max": 300
+                },
+                "freeHours": {
+                    "min": 120,
+                    "max": 120
+                },
+                "totalHours": 3240
+            }
+        },
+        {
+            "id": "02-02",
+            "name": "LICENCIATURA / FL",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "ADE058",
+                        "CAE104",
+                        "CAE111",
+                        "CAE129",
+                        "CAE145"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "ADE043",
+                        "CAE007",
+                        "CAE021",
+                        "CAE022",
+                        "CAE023",
+                        "CAE130",
+                        "MTE213"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "CAE053",
+                        "CAE109",
+                        "CAE147",
+                        "MTE224",
+                        "MTE243"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "ADE044",
+                        "ADE045",
+                        "ADE046",
+                        "MTE212",
+                        "MTE214",
+                        "MTE244"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "ADE049",
+                        "ADE059",
+                        "CAE148",
+                        "MTE245",
+                        "MTE246",
+                        "MTE247"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "MTE068",
+                        "MTE215",
+                        "MTE248",
+                        "MTE249",
+                        "MTE250"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "LET223",
+                        "MTE073",
+                        "MTE232",
+                        "MTE261"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "ADE029",
+                        "ADE047",
+                        "ADE050"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-02-02-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-02-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-02-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-02-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-02-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-02-06",
+                    "label": "Optativa 6",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-02-07",
+                    "label": "Optativa 7",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-02-08",
+                    "label": "Optativa 8",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-02-09",
+                    "label": "Optativa 9",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-02-10",
+                    "label": "Optativa 10",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-02-11",
+                    "label": "Optativa 11",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-02-12",
+                    "label": "Optativa 12",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-02-13",
+                    "label": "Optativa 13",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "ADE026",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE048",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE052",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE053",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE054",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE067",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE068",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE069",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE070",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE071",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE072",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE073",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE074",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE075",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE076",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE077",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE078",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE079",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE080",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE054",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE055",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE056",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE057",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE058",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE059",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE060",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE061",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE062",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE063",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE064",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE065",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE066",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE067",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE068",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE069",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE070",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE071",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE072",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE073",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE074",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE075",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE076",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE077",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE078",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE079",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE149",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE150",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE151",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE152",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE153",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE161",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE162",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE165",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE167",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "DIT121",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE371",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE480",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE481",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE482",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE483",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICB001",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE216",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE217",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE218",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE220",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE221",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE269",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE270",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE272",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE273",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE448",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE449",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE450",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE451",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE452",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE453",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE454",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE455",
+                    "group": "18",
+                    "prereqs": []
+                },
+                {
+                    "code": "UNI103",
+                    "group": "18",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "02-02",
+                "semesters": {
+                    "min": 9,
+                    "standard": 9,
+                    "max": 15
+                },
+                "enrollmentHours": {
+                    "min": 225,
+                    "max": 480
+                },
+                "obligatoryHours": {
+                    "min": 1920,
+                    "max": 1920
+                },
+                "optionalHours": {
+                    "min": 780,
+                    "max": 780
+                },
+                "stageHours": {
+                    "min": 420,
+                    "max": 420
+                },
+                "complementaryPresetHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryOpenHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "freeHours": {
+                    "min": 120,
+                    "max": 120
+                },
+                "totalHours": 3240
+            }
+        },
+        {
+            "id": "02-03",
+            "name": "LICENCIATURA / FCP EM CIÊNCIAS DA EDUCAÇÃO / FL",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "ADE058",
+                        "CAE104",
+                        "CAE111",
+                        "CAE129",
+                        "CAE145"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "ADE043",
+                        "CAE007",
+                        "CAE021",
+                        "CAE022",
+                        "CAE023",
+                        "CAE130",
+                        "MTE213"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "CAE053",
+                        "CAE109",
+                        "CAE147",
+                        "MTE224",
+                        "MTE243"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "ADE044",
+                        "ADE045",
+                        "ADE046",
+                        "MTE212",
+                        "MTE214",
+                        "MTE244"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "ADE049",
+                        "ADE059",
+                        "CAE148",
+                        "MTE245",
+                        "MTE246",
+                        "MTE247"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "MTE068",
+                        "MTE215",
+                        "MTE248",
+                        "MTE249",
+                        "MTE250"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "CAE149",
+                        "LET223",
+                        "MTE073",
+                        "MTE232",
+                        "MTE261"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "ADE029",
+                        "ADE047",
+                        "ADE050"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 9,
+                    "codes": [
+                        "CAE152"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-02-03-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-03-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-03-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-03-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-03-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-03-06",
+                    "label": "Optativa 6",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-03-07",
+                    "label": "Optativa 7",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-03-08",
+                    "label": "Optativa 8",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "ADE026",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE048",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE052",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE053",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE054",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE067",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE068",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE069",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE070",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE071",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE072",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE073",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE074",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE075",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE076",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE077",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE078",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE079",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE080",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE054",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE055",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE056",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE057",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE058",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE059",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE060",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE061",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE062",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE063",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE064",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE065",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE066",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE067",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE068",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE069",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE070",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE071",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE072",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE073",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE074",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE075",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE076",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE077",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE078",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE079",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE150",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE151",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE153",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE161",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE162",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE165",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE167",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "DIT121",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE371",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE480",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE481",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE482",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE483",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICB001",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE216",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE217",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE218",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE220",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE221",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE269",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE270",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE272",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE273",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE448",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE449",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE450",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE451",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE452",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE453",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE454",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE455",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "UNI103",
+                    "group": "13",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "02-03",
+                "semesters": {
+                    "min": 9,
+                    "standard": 9,
+                    "max": 15
+                },
+                "enrollmentHours": {
+                    "min": 225,
+                    "max": 480
+                },
+                "obligatoryHours": {
+                    "min": 1920,
+                    "max": 1920
+                },
+                "optionalHours": {
+                    "min": 480,
+                    "max": 480
+                },
+                "stageHours": {
+                    "min": 420,
+                    "max": 420
+                },
+                "complementaryPresetHours": {
+                    "min": 300,
+                    "max": 300
+                },
+                "complementaryOpenHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "freeHours": {
+                    "min": 120,
+                    "max": 120
+                },
+                "totalHours": 3240
+            }
+        },
+        {
+            "id": "02-04",
+            "name": "LICENCIATURA / FCP EM ADM. DE SISTEMAS E INSTITUIÇÕES EDUCACIONAIS / FL",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "ADE058",
+                        "CAE104",
+                        "CAE111",
+                        "CAE129",
+                        "CAE145"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "ADE043",
+                        "CAE007",
+                        "CAE021",
+                        "CAE022",
+                        "CAE023",
+                        "CAE130",
+                        "MTE213"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "CAE053",
+                        "CAE109",
+                        "CAE147",
+                        "MTE224",
+                        "MTE243"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "ADE044",
+                        "ADE045",
+                        "ADE046",
+                        "MTE212",
+                        "MTE214",
+                        "MTE244"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "ADE049",
+                        "ADE059",
+                        "CAE148",
+                        "MTE245",
+                        "MTE246",
+                        "MTE247"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "MTE068",
+                        "MTE215",
+                        "MTE248",
+                        "MTE249",
+                        "MTE250"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "CAE150",
+                        "LET223",
+                        "MTE073",
+                        "MTE232",
+                        "MTE261"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "ADE029",
+                        "ADE047",
+                        "ADE050",
+                        "ADE052"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 9,
+                    "codes": [
+                        "ADE054"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-02-04-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-04-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-04-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-04-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-04-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-04-06",
+                    "label": "Optativa 6",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-04-07",
+                    "label": "Optativa 7",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-04-08",
+                    "label": "Optativa 8",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "ADE026",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE048",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE053",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE067",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE068",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE069",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE070",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE071",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE072",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE073",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE074",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE075",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE076",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE077",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE078",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE079",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE080",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE054",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE055",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE056",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE057",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE058",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE059",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE060",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE061",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE062",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE063",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE064",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE065",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE066",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE067",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE068",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE069",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE070",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE071",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE072",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE073",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE074",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE075",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE076",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE077",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE078",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE079",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE149",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE151",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE152",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE153",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE161",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE162",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE165",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE167",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "DIT121",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE371",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE480",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE481",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE482",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE483",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICB001",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE216",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE217",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE218",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE220",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE221",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE269",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE270",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE272",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE273",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE448",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE449",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE450",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE451",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE452",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE453",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE454",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE455",
+                    "group": "14",
+                    "prereqs": []
+                },
+                {
+                    "code": "UNI103",
+                    "group": "14",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "02-04",
+                "semesters": {
+                    "min": 9,
+                    "standard": 9,
+                    "max": 15
+                },
+                "enrollmentHours": {
+                    "min": 225,
+                    "max": 480
+                },
+                "obligatoryHours": {
+                    "min": 1920,
+                    "max": 1920
+                },
+                "optionalHours": {
+                    "min": 480,
+                    "max": 480
+                },
+                "stageHours": {
+                    "min": 420,
+                    "max": 420
+                },
+                "complementaryPresetHours": {
+                    "min": 300,
+                    "max": 300
+                },
+                "complementaryOpenHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "freeHours": {
+                    "min": 120,
+                    "max": 120
+                },
+                "totalHours": 3240
+            }
+        },
+        {
+            "id": "02-05",
+            "name": "LICENCIATURA / FCP EM EDUCAÇÃO DE JOVENS E ADULTOS / FL",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "ADE058",
+                        "CAE104",
+                        "CAE111",
+                        "CAE129",
+                        "CAE145"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "ADE043",
+                        "CAE007",
+                        "CAE021",
+                        "CAE022",
+                        "CAE023",
+                        "CAE130",
+                        "MTE213"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "CAE053",
+                        "CAE109",
+                        "CAE147",
+                        "MTE224",
+                        "MTE243"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "ADE044",
+                        "ADE045",
+                        "ADE046",
+                        "MTE212",
+                        "MTE214",
+                        "MTE244"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "ADE049",
+                        "ADE059",
+                        "CAE148",
+                        "MTE245",
+                        "MTE246",
+                        "MTE247"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "MTE068",
+                        "MTE215",
+                        "MTE248",
+                        "MTE249",
+                        "MTE250"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "ADE048",
+                        "LET223",
+                        "MTE073",
+                        "MTE232",
+                        "MTE261"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "ADE029",
+                        "ADE047",
+                        "ADE050",
+                        "CAE151",
+                        "MTE217"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 9,
+                    "codes": [
+                        "ADE026",
+                        "ADE053"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-02-05-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-05-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-05-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-05-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-05-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-05-06",
+                    "label": "Optativa 6",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-05-07",
+                    "label": "Optativa 7",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-05-08",
+                    "label": "Optativa 8",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "ADE052",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE054",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE067",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE068",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE069",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE070",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE071",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE072",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE073",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE074",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE075",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE076",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE077",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE078",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE079",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE080",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE054",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE055",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE056",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE057",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE058",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE059",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE060",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE061",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE062",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE063",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE064",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE065",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE066",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE067",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE068",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE069",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE070",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE071",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE072",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE073",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE074",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE075",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE076",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE077",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE078",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE079",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE149",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE150",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE152",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE153",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE161",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE162",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE165",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE167",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "DIT121",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE371",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE480",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE481",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE482",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE483",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICB001",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE216",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE218",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE220",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE221",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE269",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE270",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE272",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE273",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE448",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE449",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE450",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE451",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE452",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE453",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE454",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE455",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "UNI103",
+                    "group": "15",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "02-05",
+                "semesters": {
+                    "min": 9,
+                    "standard": 9,
+                    "max": 15
+                },
+                "enrollmentHours": {
+                    "min": 225,
+                    "max": 480
+                },
+                "obligatoryHours": {
+                    "min": 1920,
+                    "max": 1920
+                },
+                "optionalHours": {
+                    "min": 480,
+                    "max": 480
+                },
+                "stageHours": {
+                    "min": 420,
+                    "max": 420
+                },
+                "complementaryPresetHours": {
+                    "min": 300,
+                    "max": 300
+                },
+                "complementaryOpenHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "freeHours": {
+                    "min": 120,
+                    "max": 120
+                },
+                "totalHours": 3240
+            }
+        },
+        {
+            "id": "02-06",
+            "name": "LICENCIATURA / FCP EM EDUCADOR SOCIAL / FL",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "ADE058",
+                        "CAE104",
+                        "CAE111",
+                        "CAE129",
+                        "CAE145"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "ADE043",
+                        "CAE007",
+                        "CAE021",
+                        "CAE022",
+                        "CAE023",
+                        "CAE130",
+                        "MTE213"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "CAE053",
+                        "CAE109",
+                        "CAE147",
+                        "MTE224",
+                        "MTE243"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "ADE044",
+                        "ADE045",
+                        "ADE046",
+                        "MTE212",
+                        "MTE214",
+                        "MTE244"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "ADE049",
+                        "ADE059",
+                        "CAE148",
+                        "MTE245",
+                        "MTE246",
+                        "MTE247"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "MTE068",
+                        "MTE215",
+                        "MTE248",
+                        "MTE249",
+                        "MTE250"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "ADE048",
+                        "LET223",
+                        "MTE073",
+                        "MTE232",
+                        "MTE261"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "ADE029",
+                        "ADE047",
+                        "ADE050",
+                        "CAE151"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 9,
+                    "codes": [
+                        "CAE153",
+                        "MTE216"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-02-06-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-06-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-06-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-06-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-06-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-06-06",
+                    "label": "Optativa 6",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-06-07",
+                    "label": "Optativa 7",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-06-08",
+                    "label": "Optativa 8",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "ADE026",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE052",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE053",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE054",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE067",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE068",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE069",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE070",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE071",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE072",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE073",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE074",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE075",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE076",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE077",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE078",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE079",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "ADE080",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE054",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE055",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE056",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE057",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE058",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE059",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE060",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE061",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE062",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE063",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE064",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE065",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE066",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE067",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE068",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE069",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE070",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE071",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE072",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE073",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE074",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE075",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE076",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE077",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE078",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE079",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE149",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE150",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE152",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE161",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE162",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE165",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "CAE167",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "DIT121",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE371",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE480",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE481",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE482",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE483",
+                    "group": "16",
+                    "prereqs": [
+                        "FAE495",
+                        "FAE496",
+                        "FAE497",
+                        "FAE498",
+                        "FAE499",
+                        "FAE500"
+                    ]
+                },
+                {
+                    "code": "ICB001",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE217",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE218",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE220",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE221",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE269",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE270",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE272",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE273",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE448",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE449",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE450",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE451",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE452",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE453",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE454",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE455",
+                    "group": "16",
+                    "prereqs": []
+                },
+                {
+                    "code": "UNI103",
+                    "group": "16",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "02-06",
+                "semesters": {
+                    "min": 9,
+                    "standard": 9,
+                    "max": 15
+                },
+                "enrollmentHours": {
+                    "min": 225,
+                    "max": 480
+                },
+                "obligatoryHours": {
+                    "min": 1920,
+                    "max": 1920
+                },
+                "optionalHours": {
+                    "min": 480,
+                    "max": 480
+                },
+                "stageHours": {
+                    "min": 420,
+                    "max": 420
+                },
+                "complementaryPresetHours": {
+                    "min": 300,
+                    "max": 300
+                },
+                "complementaryOpenHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "freeHours": {
+                    "min": 120,
+                    "max": 120
+                },
+                "totalHours": 3240
+            }
+        }
+    ]
+}

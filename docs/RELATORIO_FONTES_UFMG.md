@@ -104,3 +104,35 @@ Cidade, Turno, Área do Conhecimento, Modalidade, Unidade Acadêmica, Duração 
 - Matrizes antigas em PDF exportado de Word (Física 2015) **sem código nem pré-requisito**.
 - Buscadores bloqueados no ambiente (401/captcha/403) → descoberta depende de sitemap/REST.
 - `www.ufmg.br` tem megamenu de ~15 KB antes do conteúdo (usar REST `_fields` ou proxy de leitura).
+
+---
+
+## Atualização — coleta de Farmácia, ECI e FAE (2026-11)
+
+Varredura feita com a receita deste relatório (`wp-json/wp/v2/media?search=curricular`
++ proxy de leitura para extrair o texto do PDF). Resultado da triagem:
+
+| Unidade | Relatórios no formato Siga | Cursos publicados |
+|---|---|---|
+| DCC | 4 | Ciência da Computação, Sistemas de Informação, Engenharia de Computação, Ciência de Dados |
+| Farmácia | 3 (de 17 PDFs avaliados) | Farmácia diurno, Farmácia noturno, Biomedicina |
+| ECI | 4 (de 8 avaliados) | Biblioteconomia diurno/noturno, Arquivologia, Museologia |
+| FAE | 2 (de 5 avaliados) | Pedagogia diurno/noturno |
+
+Descartes típicos: versões curriculares antigas, duplicatas de upload, grade de horários
+do mapa de oferta, "representação curricular" (matriz exportada sem códigos nem
+pré-requisitos), pré-requisitos de estágios optativos, PPCs e ementários.
+
+Achados novos que o parser passou a suportar:
+
+- identificadores de percurso não numéricos (`R-01`/`R-02` na Museologia; `02-01`… na Pedagogia);
+- coluna "Grupo" com identificador completo (`13002-D-20141-1` na Biblioteconomia);
+- blocos de período duplicados na virada de página (Sistemas de Informação/Ciência de Dados);
+- rodapé colado no marcador de período (`... 11.17.361º PERÍODO`) e no cabeçalho.
+
+Cursos que **não** têm matriz pública no formato do Siga:
+
+- **Educação do Campo (FAE)**: páginas do curso não publicam matriz (só documento de estágio);
+- **FIEI (FAE)**: subsite responde 401 para a REST de mídia — acesso automatizado bloqueado;
+- **Física (ICEx)**: site do departamento só tem matrizes antigas (Word, sem códigos/pré-requisitos).
+

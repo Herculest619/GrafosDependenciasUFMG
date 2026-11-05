@@ -1,0 +1,55 @@
+[
+  {
+    "id": "pedagogia-diurno",
+    "file": "pedagogia-diurno.txt",
+    "title": "Grade Curricular 2019 Diurno (1)",
+    "url": "https://www.fae.ufmg.br/wp-content/uploads/2024/12/Grade-Curricular-2019-Diurno-1.pdf",
+    "format": "siga-versao-curricular",
+    "pages": 29,
+    "chars": 37484,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "pedagogia-noturno",
+    "file": "pedagogia-noturno.txt",
+    "title": "Grade Curricular 2019 Noturno (1)",
+    "url": "https://www.fae.ufmg.br/wp-content/uploads/2024/12/Grade-Curricular-2019-Noturno-1.pdf",
+    "format": "siga-versao-curricular",
+    "pages": 29,
+    "chars": 37720,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "pedagogia-2019-noturno-duplicata",
+    "file": null,
+    "title": "Grade-Curricular-2019-Noturno",
+    "url": "https://www.fae.ufmg.br/wp-content/uploads/2024/08/Grade-Curricular-2019-Noturno.pdf",
+    "format": "siga-versao-curricular",
+    "reason": "Duplicata exata do PDF usado em pedagogia-noturno.txt (mesmo conteúdo, 37720 caracteres)",
+    "pages": 29,
+    "chars": 37720,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "pedagogia-2013-diurno",
+    "file": null,
+    "title": "Grade Curricular 2013 Diurno (1)",
+    "url": "https://www.fae.ufmg.br/wp-content/uploads/2024/12/Grade-Curricular-2013-Diurno-1.pdf",
+    "format": "siga-versao-curricular",
+    "reason": "Versão anterior (D-2013), substituída pela D-20191 (pedagogia-diurno.txt)",
+    "pages": 30,
+    "chars": 39694,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  },
+  {
+    "id": "pedagogia-2013-noturno",
+    "file": null,
+    "title": "Grade Curricular 2013 Noturno (1)",
+    "url": "https://www.fae.ufmg.br/wp-content/uploads/2024/12/Grade-Curricular-2013-Noturno-1.pdf",
+    "format": "siga-versao-curricular",
+    "reason": "Versão anterior (N-2013), substituída pela N-20191 (pedagogia-noturno.txt)",
+    "pages": 30,
+    "chars": 39700,
+    "retrievedAt": "2026-11-05T12:34:25-03:00"
+  }
+]
