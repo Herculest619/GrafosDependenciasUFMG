@@ -1,6 +1,6 @@
 {
     "schemaVersion": 2,
-    "generatedAt": "2026-11-05T15:39:16.959Z",
+    "generatedAt": "2026-11-05T20:00:20.183Z",
     "courses": [
         {
             "id": "arquivologia",
@@ -386,6 +386,38 @@
             "file": "data/courses/fisica-bacharelado.json"
         },
         {
+            "id": "fisica-bacharelado-matriz-2013",
+            "name": "Física",
+            "variant": "Bacharelado · matriz 2013/1",
+            "unit": "ICEx — Departamento de Física",
+            "campus": "Pampulha",
+            "shift": "Diurno",
+            "degree": "Bacharelado",
+            "layout": "estrutura-curricular",
+            "curriculum": "Matriz 2013/1",
+            "source": {
+                "kind": "estrutura-curricular-pdf",
+                "url": "data/archives/EstrutCurricularBac20131.pdf",
+                "retrievedAt": "2026-11-05T19:39:52.551Z",
+                "note": "PDF fornecido pelo usuário em data/archives"
+            },
+            "note": "PDF de estrutura curricular fornecido em data/archives; versões de Formação Complementar Aberta não modeladas.",
+            "percursos": [
+                {
+                    "id": "padrao",
+                    "name": "Física Bacharelado – Formação Livre"
+                }
+            ],
+            "stats": {
+                "disciplines": 30,
+                "edges": 32,
+                "periods": 7,
+                "optionalSlots": 13,
+                "totalHours": 2400
+            },
+            "file": "data/courses/fisica-bacharelado-matriz-2013.json"
+        },
+        {
             "id": "fisica-licenciatura-diurno",
             "name": "Física",
             "variant": "Licenciatura — Diurno",
@@ -446,6 +478,38 @@
                 "totalHours": null
             },
             "file": "data/courses/fisica-licenciatura-noturno.json"
+        },
+        {
+            "id": "fisica-licenciatura-noturno-matriz-2018",
+            "name": "Física",
+            "variant": "Licenciatura · Noturno · matriz 2018",
+            "unit": "ICEx — Departamento de Física",
+            "campus": "Pampulha",
+            "shift": "Noturno",
+            "degree": "Licenciatura",
+            "layout": "estrutura-curricular",
+            "curriculum": "Matriz 2018 (noturno)",
+            "source": {
+                "kind": "estrutura-curricular-pdf",
+                "url": "data/archives/LicN2018.pdf",
+                "retrievedAt": "2026-11-05T19:39:52.557Z",
+                "note": "PDF fornecido pelo usuário em data/archives"
+            },
+            "note": "PDF de estrutura curricular fornecido em data/archives; versões de Formação Complementar Aberta não modeladas.",
+            "percursos": [
+                {
+                    "id": "padrao",
+                    "name": "Física Licenciatura – Formação Livre"
+                }
+            ],
+            "stats": {
+                "disciplines": 35,
+                "edges": 33,
+                "periods": 9,
+                "optionalSlots": 12,
+                "totalHours": 2805
+            },
+            "file": "data/courses/fisica-licenciatura-noturno-matriz-2018.json"
         },
         {
             "id": "museologia",

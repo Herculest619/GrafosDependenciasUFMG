@@ -23,7 +23,7 @@ Grafo de um curso (Engenharia de Computação):
 
 ## Estado atual
 
-**16 cursos** publicados (de ~100 da UFMG), cobrindo 5 unidades:
+**18 cursos** publicados (de ~100 da UFMG), cobrindo 5 unidades:
 
 | Unidade | Curso | Versão curricular | Períodos | Disciplinas | Pré-requisitos | Optativas | Carga total |
 |---|---|---|---|---|---|---|---|
@@ -34,6 +34,8 @@ Grafo de um curso (Engenharia de Computação):
 | ICEx — Física | Física — Bacharelado | fonte legada | 7 | 31 | 38 | não mapeadas | — |
 | ICEx — Física | Física — Licenciatura (diurno) | fonte legada | 9 | 41 | 49 | não mapeadas | — |
 | ICEx — Física | Física — Licenciatura (noturno) | fonte legada | 10 | 41 | 48 | não mapeadas | — |
+| ICEx — Física | Física — Bacharelado (matriz 2013/1) | PDF em `data/archives` | 7 | 30 | 32 | 13 slots | 2.400 h |
+| ICEx — Física | Física — Licenciatura Noturno (matriz 2018) | PDF em `data/archives` | 9 | 35 | 33 | 12 slots | 2.805 h |
 | Farmácia | Farmácia — Diurno | 18002 · D-20252 | 10 | 66 | 92 | 9 slots | 4.170 h |
 | Farmácia | Farmácia — Noturno | 18002 · N-20252 | 12 | 66 | 92 | 9 slots | 4.170 h |
 | Farmácia | Biomedicina | 18001 · N-20262 | 10 | 40 | 48 | 7 slots | 3.210 h |
@@ -54,14 +56,18 @@ Observações sobre os dados:
 - Pedagogia **não tem pré-requisitos** na matriz oficial (0 arestas é o dado real);
 - cursos com vários percursos (Farmácia 3, Biblioteconomia 5, Pedagogia 6, Museologia 2)
   abrem no percurso padrão e permitem alternar na página do curso;
-- Física veio do JSON legado: sem carga horária e sem optativas mapeadas.
+- os 3 cursos de Física "fonte legada" não têm carga horária nem optativas mapeadas;
+- as duas matrizes de Física em `data/archives` são versões antigas **com** carga horária
+  e pré-requisitos (úteis para quem está sob currículo antigo).
 
-O parser entende os dois formatos de relatório do Siga:
+O parser entende **três** formatos de documento:
 
-- **"Relatório de versão curricular"** — uma linha por percurso dentro de cada período
-  (DCC, Farmácia, ECI, FAE);
-- **"Relatório de percurso curricular"** — um percurso por documento, colunas fixas
-  (Sistemas de Informação e Ciência de Dados).
+- **"Relatório de versão curricular"** (Siga) — uma linha por percurso dentro de cada
+  período (DCC, Farmácia, ECI, FAE);
+- **"Relatório de percurso curricular"** (Siga) — um percurso por documento, colunas
+  fixas (Sistemas de Informação e Ciência de Dados);
+- **"Estrutura curricular"** (PDFs mais antigos, ex. Física 2013/2018) — blocos por
+  período com coluna de pré-requisito e grupos de optativas (G1/G2/G9).
 
 Também trata os artefatos comuns da extração: cabeçalhos/rodapés colados nas linhas,
 nomes e listas de pré-requisitos quebrados em duas linhas, blocos duplicados na virada
@@ -71,8 +77,9 @@ grupo com identificador completo (`13002-D-20141-1`).
 ## Como funciona
 
 ```
-data/sources/**            texto extraído dos relatórios oficiais (Siga/PROGRAD)
-        │  scripts/build-data.mjs
+data/archives/*.pdf        PDFs enviados manualmente (inbox de documentos)
+data/sources/**            texto extraído dos relatórios oficiais (Siga/PROGRAD/Estruturas)
+        │  scripts/build-data.mjs  (parseSigaReport | parseEstruturaCurricular | legado)
         ▼
 public/data/courses.json          catálogo (manifesto)
 public/data/courses/<slug>.json   um arquivo por curso (carregado sob demanda)
@@ -198,9 +205,9 @@ npm run lint
 
 O `npm run check` roda três verificações independentes:
 
-1. `npm test` — 62 testes (`node --test`) das regras de grafo/progresso, do parser dos
-   relatórios (incluindo regressão sobre os 13 relatórios oficiais versionados), da
-   conversão para JSON v2 e da integridade dos dados publicados;
+1. `npm test` — 66 testes (`node --test`) das regras de grafo/progresso, dos parsers
+   (incluindo regressão sobre os 13 relatórios oficiais do Siga e os 2 PDFs de estrutura
+   curricular de Física), da conversão para JSON v2 e da integridade dos dados publicados;
 2. `npm run data:validate` — IDs duplicados, arestas órfãs, ciclos, pré-requisito em
    período posterior, faixas de carga horária e divergência entre o manifesto e os JSONs;
 3. `npm run check:sfc` — compila os componentes Vue (`@vue/compiler-sfc`) e confere os
@@ -238,12 +245,15 @@ npm run data:fetch      # baixa o PDF do Siga e extrai o texto (precisa de pdfto
    `data/sources/<unidade>/index.json` (formato usado nas unidades com vários cursos —
    veja `data/sources/farmacia/index.json`).
 4. Inclua o arquivo em `COURSES` no topo de `scripts/build-data.mjs` (unidade e campus
-   vêm de `UNIT_DEFAULTS`; nome, grau e turno são lidos do próprio relatório).
+   vêm de `UNIT_DEFAULTS`; nome, grau e turno são lidos do próprio relatório). O `kind`
+   escolhe o parser: `siga`, `estrutura` (PDFs antigos com coluna de pré-requisito) ou
+   `legacy` (JSON do projeto original).
 5. Rode `npm run data:build && npm run data:validate`.
 6. Abra um PR — o GitHub Actions roda `npm run check` e faz o deploy.
 
-> Curso cujo PDF não existe publicamente? Envie o PDF/relatório para o projeto ou abra
-> uma issue: a extração é feita a partir do texto do relatório oficial.
+> PDFs enviados manualmente podem ficar em `data/archives/`; o texto extraído vai para
+> `data/sources/<unidade>/` e a origem é registrada no `index.json` da unidade. Foi assim
+> que entraram as matrizes antigas de Física (2013/1 e 2018).
 
 ## Cobertura e próximos passos
 

@@ -427,4 +427,154 @@ export function convertLegacyCourse(raw, options) {
     return { course, catalog, warnings }
 }
 
+/**
+ * Converte a saída de `parseEstruturaCurricular` (PDFs antigos de estrutura
+ * curricular, com carga horária e pré-requisitos) no JSON v2.
+ */
+export function buildEstruturaCourse(parsed, options) {
+    const warnings = [...(parsed.warnings ?? [])]
+    const disciplines = {}
+
+    const addDiscipline = (row, scheduled, group) => {
+        const existing = disciplines[row.code]
+        const hours = { total: row.hours, theory: null, practice: null }
+        if (!existing) {
+            disciplines[row.code] = {
+                code: row.code,
+                name: row.name,
+                type: null,
+                credits: row.credits,
+                hours,
+                prereqs: [...row.prereqs],
+                scheduled,
+                group: group ?? null,
+            }
+            return
+        }
+        // disciplina que aparece como obrigatória e também no grupo de optativas
+        if (scheduled) existing.scheduled = true
+        existing.prereqs = uniqueBy([...existing.prereqs, ...row.prereqs], (code) => code)
+        if (!existing.hours.total && row.hours) existing.hours = hours
+    }
+
+    for (const block of parsed.blocks ?? []) {
+        for (const row of block.rows) addDiscipline(row, true, null)
+    }
+    for (const [group, rows] of Object.entries(parsed.groups ?? {})) {
+        for (const row of rows) addDiscipline(row, false, group)
+    }
+
+    // pré-requisitos que caem fora da matriz do curso
+    const dropped = []
+    for (const discipline of Object.values(disciplines)) {
+        const kept = discipline.prereqs.filter(
+            (prereq) => prereq !== discipline.code && disciplines[prereq]
+        )
+        dropped.push(
+            ...discipline.prereqs
+                .filter((prereq) => prereq === discipline.code || !disciplines[prereq])
+                .map((prereq) => `${discipline.code}->${prereq}`)
+        )
+        discipline.prereqs = kept
+    }
+    if (dropped.length) {
+        warnings.push(
+            `${dropped.length} pré-requisito(s) fora da matriz ignorado(s): ${dropped
+                .slice(0, 8)
+                .join(', ')}`
+        )
+    }
+
+    const periods = (parsed.blocks ?? [])
+        .filter((block) => block.rows.length)
+        .map((block) => ({
+            number: block.number,
+            codes: block.rows.map((row) => row.code).sort(),
+            optional: [],
+        }))
+
+    const optionalHours = parsed.totals?.optionalHours ?? 0
+    const slotCount = Math.min(Math.ceil(optionalHours / 60), 24)
+    const optionalSlots = Array.from({ length: slotCount }, (_, index) => ({
+        id: `OPT-padrao-${String(index + 1).padStart(2, '0')}`,
+        label: `Optativa ${index + 1}`,
+        hours: 60,
+        group: Object.keys(parsed.groups ?? {}).find((group) => group === 'G1') ?? 'Optativas',
+    }))
+
+    const optionalPool = Object.entries(parsed.groups ?? {}).flatMap(([group, rows]) =>
+        rows.map((row) => ({ code: row.code, group, prereqs: row.prereqs }))
+    )
+
+    const degree = parsed.kind === 'licenciatura' ? 'Licenciatura' : 'Bacharelado'
+    const name = options.name ?? 'Física'
+    const id = options.id ?? slugify(`${name} ${degree} ${options.curriculum ?? ''}`)
+
+    const meta = {
+        id,
+        name,
+        variant: options.variant ?? null,
+        unit: options.unit ?? 'ICEx — Departamento de Física',
+        campus: options.campus ?? 'Pampulha',
+        shift: options.shift ?? parsed.shift ?? null,
+        degree,
+        layout: 'estrutura-curricular',
+        curriculum: options.curriculum ?? null,
+        source: {
+            kind: 'estrutura-curricular-pdf',
+            url: options.source?.url ?? null,
+            retrievedAt: options.source?.retrievedAt ?? null,
+            note: options.source?.note ?? null,
+        },
+        note:
+            options.note ??
+            'PDF de estrutura curricular fornecido em data/archives; versões de Formação Complementar Aberta não modeladas.',
+    }
+
+    const percurso = {
+        id: 'padrao',
+        name: parsed.versions?.[0] ?? 'Matriz curricular',
+        periods,
+        optionalSlots,
+        optionalPool,
+        prereqOverrides: {},
+        summary: {
+            obligatoryHours: {
+                min: parsed.totals?.obligatoryHours ?? 0,
+                max: parsed.totals?.obligatoryHours ?? 0,
+            },
+            optionalHours: { min: optionalHours, max: optionalHours },
+            freeHours: null,
+            totalHours: parsed.headerTotal?.hours ?? 0,
+        },
+    }
+
+    const course = {
+        schemaVersion: SCHEMA_VERSION,
+        id,
+        meta,
+        generatedAt: new Date().toISOString(),
+        disciplines,
+        percursos: [percurso],
+    }
+
+    const graph = buildGraph(course, { percursoId: percurso.id })
+    const stats = {
+        disciplines: graph.stats.disciplines,
+        edges: graph.stats.edges,
+        periods: periods.at(-1)?.number ?? 0,
+        optionalSlots: optionalSlots.length,
+        totalHours: parsed.headerTotal?.hours ?? null,
+    }
+
+    const catalog = {
+        ...meta,
+        percursos: [{ id: percurso.id, name: percurso.name }],
+        stats,
+        file: `data/courses/${id}.json`,
+    }
+
+    return { course, catalog, warnings }
+}
+
 export const __testables = { countOptionalSlots, prereqKey, uniqueBy, disciplineHours }

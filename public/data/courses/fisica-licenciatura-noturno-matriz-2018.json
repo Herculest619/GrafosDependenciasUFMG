@@ -1,0 +1,1432 @@
+{
+    "schemaVersion": 2,
+    "id": "fisica-licenciatura-noturno-matriz-2018",
+    "meta": {
+        "id": "fisica-licenciatura-noturno-matriz-2018",
+        "name": "Física",
+        "variant": "Licenciatura · Noturno · matriz 2018",
+        "unit": "ICEx — Departamento de Física",
+        "campus": "Pampulha",
+        "shift": "Noturno",
+        "degree": "Licenciatura",
+        "layout": "estrutura-curricular",
+        "curriculum": "Matriz 2018 (noturno)",
+        "source": {
+            "kind": "estrutura-curricular-pdf",
+            "url": "data/archives/LicN2018.pdf",
+            "retrievedAt": "2026-11-05T19:39:52.557Z",
+            "note": "PDF fornecido pelo usuário em data/archives"
+        },
+        "note": "PDF de estrutura curricular fornecido em data/archives; versões de Formação Complementar Aberta não modeladas."
+    },
+    "generatedAt": "2026-11-05T20:00:20.149Z",
+    "disciplines": {
+        "DCC001": {
+            "code": "DCC001",
+            "name": "Programação de Computadores",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": true,
+            "group": null
+        },
+        "FIS065": {
+            "code": "FIS065",
+            "name": "Fundamentos de Mecânica",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": true,
+            "group": null
+        },
+        "FIS151": {
+            "code": "FIS151",
+            "name": "Física Experimental Básica: Mecânica",
+            "type": null,
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": true,
+            "group": null
+        },
+        "MAT001": {
+            "code": "MAT001",
+            "name": "Cálculo Diferencial e Integral I",
+            "type": null,
+            "credits": 6,
+            "hours": {
+                "total": 90,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": true,
+            "group": null
+        },
+        "MAT038": {
+            "code": "MAT038",
+            "name": "Geometria Analítica e Álgebra Linear",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": true,
+            "group": null
+        },
+        "CAE001": {
+            "code": "CAE001",
+            "name": "Sociologia da Educação",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": true,
+            "group": null
+        },
+        "CAE002": {
+            "code": "CAE002",
+            "name": "Psicologia da Educação – Aprendizagem e Ensino",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": true,
+            "group": null
+        },
+        "FIS154": {
+            "code": "FIS154",
+            "name": "Física Experimental Básica: Termodinâmica",
+            "type": null,
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS065",
+                "FIS151"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "FIS152": {
+            "code": "FIS152",
+            "name": "Fund. de Mecânica dos Fluidos e Termodinâmica",
+            "type": null,
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS065",
+                "MAT001"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "MAT039": {
+            "code": "MAT039",
+            "name": "Cálculo Diferencial e Integral II",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MAT001"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "ADE003": {
+            "code": "ADE003",
+            "name": "Política Educacional",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": true,
+            "group": null
+        },
+        "FIS153": {
+            "code": "FIS153",
+            "name": "Física Experimental Básica: Eletromagnetismo",
+            "type": null,
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS065",
+                "FIS151"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "FIS069": {
+            "code": "FIS069",
+            "name": "Fundamentos de Eletromagnetismo",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS065",
+                "MAT039"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "MAT002": {
+            "code": "MAT002",
+            "name": "Cálculo Diferencial e Integral III",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MAT039"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "MTE101": {
+            "code": "MTE101",
+            "name": "Didática de Licenciatura",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": true,
+            "group": null
+        },
+        "FIS155": {
+            "code": "FIS155",
+            "name": "Física Experimental Básica: Ondas e Óptica",
+            "type": null,
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS069",
+                "FIS151"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "FIS086": {
+            "code": "FIS086",
+            "name": "Fundamentos de Oscilações, Ondas e Óptica",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS069"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "FIS090": {
+            "code": "FIS090",
+            "name": "Recursos Didáticos para o Ensino de Física A",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS065"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "MAT016": {
+            "code": "MAT016",
+            "name": "Equações Diferenciais C",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MAT039"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "FIS003": {
+            "code": "FIS003",
+            "name": "Evolução das Ideias da Física",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS086",
+                "FIS091"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "FIS073": {
+            "code": "FIS073",
+            "name": "Introdução à Física Quântica",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS086"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "FIS091": {
+            "code": "FIS091",
+            "name": "Fundamentos de Teoria da Relatividade",
+            "type": null,
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS069"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "FIS095": {
+            "code": "FIS095",
+            "name": "Recursos Didáticos para o Ensino de Física B",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS069",
+                "FIS090"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "LET223": {
+            "code": "LET223",
+            "name": "Fundamentos de Libras",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": true,
+            "group": null
+        },
+        "FIS074": {
+            "code": "FIS074",
+            "name": "Estrutura da Matéria I",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS073"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "FIS132": {
+            "code": "FIS132",
+            "name": "Metodologia do Ensino de Física",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS069"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "FIS143": {
+            "code": "FIS143",
+            "name": "Recursos Didáticos para o Ensino de Física C",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS086",
+                "FIS090"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "FIS089": {
+            "code": "FIS089",
+            "name": "Física Experimental AI",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS069"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "MTE229": {
+            "code": "MTE229",
+            "name": "Didática da Física I",
+            "type": null,
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS069"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "MTE230": {
+            "code": "MTE230",
+            "name": "Estágio em Ensino de Física I",
+            "type": null,
+            "credits": 8,
+            "hours": {
+                "total": 120,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS069"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "FIS094": {
+            "code": "FIS094",
+            "name": "Física Experimental AII",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS089"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "MTE234": {
+            "code": "MTE234",
+            "name": "Didática da Física II",
+            "type": null,
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MTE229"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "MTE235": {
+            "code": "MTE235",
+            "name": "Estágio em Ensino de Física II",
+            "type": null,
+            "credits": 9,
+            "hours": {
+                "total": 135,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MTE230"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "FIS144": {
+            "code": "FIS144",
+            "name": "Física Experimental AIII",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS094"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "MTE239": {
+            "code": "MTE239",
+            "name": "Estágio em Ensino de Física III",
+            "type": null,
+            "credits": 10,
+            "hours": {
+                "total": 150,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MTE235"
+            ],
+            "scheduled": true,
+            "group": null
+        },
+        "FIS004": {
+            "code": "FIS004",
+            "name": "Astronomia Geral",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS065"
+            ],
+            "scheduled": false,
+            "group": "G1"
+        },
+        "FIS034": {
+            "code": "FIS034",
+            "name": "Mecânica I",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS065"
+            ],
+            "scheduled": false,
+            "group": "G1"
+        },
+        "FIS075": {
+            "code": "FIS075",
+            "name": "Astronomia Fundamental",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS034"
+            ],
+            "scheduled": false,
+            "group": "G1"
+        },
+        "FIS036": {
+            "code": "FIS036",
+            "name": "Mecânica II",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS034"
+            ],
+            "scheduled": false,
+            "group": "G1"
+        },
+        "FIS118": {
+            "code": "FIS118",
+            "name": "Métodos da Física Teórica A",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G1"
+        },
+        "FIS119": {
+            "code": "FIS119",
+            "name": "Métodos da Física Teórica B",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MAT002"
+            ],
+            "scheduled": false,
+            "group": "G1"
+        },
+        "FIS006": {
+            "code": "FIS006",
+            "name": "Astrofísica Estelar",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS073"
+            ],
+            "scheduled": false,
+            "group": "G1"
+        },
+        "FIS037": {
+            "code": "FIS037",
+            "name": "Eletromagnetismo I",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS069",
+                "MAT002"
+            ],
+            "scheduled": false,
+            "group": "G1"
+        },
+        "FIS007": {
+            "code": "FIS007",
+            "name": "Astrofísica Galáctica",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS073"
+            ],
+            "scheduled": false,
+            "group": "G1"
+        },
+        "FIS039": {
+            "code": "FIS039",
+            "name": "Eletromagnetismo II",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS037"
+            ],
+            "scheduled": false,
+            "group": "G1"
+        },
+        "FIS040": {
+            "code": "FIS040",
+            "name": "Física Experimental Avançada",
+            "type": null,
+            "credits": 6,
+            "hours": {
+                "total": 90,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS144"
+            ],
+            "scheduled": false,
+            "group": "G1"
+        },
+        "FIS076": {
+            "code": "FIS076",
+            "name": "Estrutura da Matéria II",
+            "type": null,
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS074"
+            ],
+            "scheduled": false,
+            "group": "G1"
+        },
+        "FIS120": {
+            "code": "FIS120",
+            "name": "Física Quântica I",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS073"
+            ],
+            "scheduled": false,
+            "group": "G1"
+        },
+        "FIS126": {
+            "code": "FIS126",
+            "name": "Termodinâmica",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS073"
+            ],
+            "scheduled": false,
+            "group": "G1"
+        },
+        "FIS147": {
+            "code": "FIS147",
+            "name": "Fundamentos de Física Nuclear e de Partículas",
+            "type": null,
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS074"
+            ],
+            "scheduled": false,
+            "group": "G1"
+        },
+        "FIS009": {
+            "code": "FIS009",
+            "name": "Introdução à Física Estatística",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS126"
+            ],
+            "scheduled": false,
+            "group": "G1"
+        },
+        "FIS042": {
+            "code": "FIS042",
+            "name": "Introdução à Física de Partículas",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS147"
+            ],
+            "scheduled": false,
+            "group": "G1"
+        },
+        "FIS121": {
+            "code": "FIS121",
+            "name": "Física Quântica II",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS120"
+            ],
+            "scheduled": false,
+            "group": "G1"
+        },
+        "FIS123": {
+            "code": "FIS123",
+            "name": "Óptica",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS037"
+            ],
+            "scheduled": false,
+            "group": "G1"
+        },
+        "FIS127": {
+            "code": "FIS127",
+            "name": "Introdução à Física do Estado Sólido",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS074"
+            ],
+            "scheduled": false,
+            "group": "G1"
+        },
+        "COL001": {
+            "code": "COL001",
+            "name": "Palestras de Física",
+            "type": null,
+            "credits": 1,
+            "hours": {
+                "total": 15,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G9"
+        },
+        "QUI003": {
+            "code": "QUI003",
+            "name": "Química Geral B",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G9"
+        },
+        "QUI019": {
+            "code": "QUI019",
+            "name": "Química Geral Experimental",
+            "type": null,
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G9"
+        },
+        "DCC034": {
+            "code": "DCC034",
+            "name": "Cálculo Numérico",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "DCC001",
+                "MAT001"
+            ],
+            "scheduled": false,
+            "group": "G9"
+        },
+        "MAT244": {
+            "code": "MAT244",
+            "name": "Introd. Geometria Diferencial",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MAT002"
+            ],
+            "scheduled": false,
+            "group": "G9"
+        },
+        "MAT243": {
+            "code": "MAT243",
+            "name": "Análise I",
+            "type": null,
+            "credits": 6,
+            "hours": {
+                "total": 90,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MAT002"
+            ],
+            "scheduled": false,
+            "group": "G9"
+        },
+        "MAT246": {
+            "code": "MAT246",
+            "name": "Introd. Equações Diferenciais Ordinárias",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MAT016"
+            ],
+            "scheduled": false,
+            "group": "G9"
+        },
+        "MAT247": {
+            "code": "MAT247",
+            "name": "Introd. Equações Diferenciais Parciais",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MAT016"
+            ],
+            "scheduled": false,
+            "group": "G9"
+        },
+        "MAT245": {
+            "code": "MAT245",
+            "name": "Análise II",
+            "type": null,
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MAT243"
+            ],
+            "scheduled": false,
+            "group": "G9"
+        }
+    },
+    "percursos": [
+        {
+            "id": "padrao",
+            "name": "Física Licenciatura – Formação Livre",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "DCC001",
+                        "FIS065",
+                        "FIS151",
+                        "MAT001",
+                        "MAT038"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "CAE001",
+                        "CAE002",
+                        "FIS152",
+                        "FIS154",
+                        "MAT039"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "ADE003",
+                        "FIS069",
+                        "FIS153",
+                        "MAT002",
+                        "MTE101"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "FIS086",
+                        "FIS090",
+                        "FIS155",
+                        "MAT016"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "FIS003",
+                        "FIS073",
+                        "FIS091",
+                        "FIS095",
+                        "LET223"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "FIS074",
+                        "FIS132",
+                        "FIS143"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "FIS089",
+                        "MTE229",
+                        "MTE230"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "FIS094",
+                        "MTE234",
+                        "MTE235"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 9,
+                    "codes": [
+                        "FIS144",
+                        "MTE239"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-padrao-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "G1"
+                },
+                {
+                    "id": "OPT-padrao-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "G1"
+                },
+                {
+                    "id": "OPT-padrao-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "G1"
+                },
+                {
+                    "id": "OPT-padrao-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "G1"
+                },
+                {
+                    "id": "OPT-padrao-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "G1"
+                },
+                {
+                    "id": "OPT-padrao-06",
+                    "label": "Optativa 6",
+                    "hours": 60,
+                    "group": "G1"
+                },
+                {
+                    "id": "OPT-padrao-07",
+                    "label": "Optativa 7",
+                    "hours": 60,
+                    "group": "G1"
+                },
+                {
+                    "id": "OPT-padrao-08",
+                    "label": "Optativa 8",
+                    "hours": 60,
+                    "group": "G1"
+                },
+                {
+                    "id": "OPT-padrao-09",
+                    "label": "Optativa 9",
+                    "hours": 60,
+                    "group": "G1"
+                },
+                {
+                    "id": "OPT-padrao-10",
+                    "label": "Optativa 10",
+                    "hours": 60,
+                    "group": "G1"
+                },
+                {
+                    "id": "OPT-padrao-11",
+                    "label": "Optativa 11",
+                    "hours": 60,
+                    "group": "G1"
+                },
+                {
+                    "id": "OPT-padrao-12",
+                    "label": "Optativa 12",
+                    "hours": 60,
+                    "group": "G1"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "FIS004",
+                    "group": "G1",
+                    "prereqs": [
+                        "FIS065"
+                    ]
+                },
+                {
+                    "code": "FIS034",
+                    "group": "G1",
+                    "prereqs": [
+                        "FIS065",
+                        "MAT015"
+                    ]
+                },
+                {
+                    "code": "FIS075",
+                    "group": "G1",
+                    "prereqs": [
+                        "FIS034"
+                    ]
+                },
+                {
+                    "code": "FIS036",
+                    "group": "G1",
+                    "prereqs": [
+                        "FIS034"
+                    ]
+                },
+                {
+                    "code": "FIS118",
+                    "group": "G1",
+                    "prereqs": [
+                        "MAT015"
+                    ]
+                },
+                {
+                    "code": "FIS119",
+                    "group": "G1",
+                    "prereqs": [
+                        "MAT002"
+                    ]
+                },
+                {
+                    "code": "FIS006",
+                    "group": "G1",
+                    "prereqs": [
+                        "FIS073"
+                    ]
+                },
+                {
+                    "code": "FIS037",
+                    "group": "G1",
+                    "prereqs": [
+                        "FIS069",
+                        "MAT002"
+                    ]
+                },
+                {
+                    "code": "FIS007",
+                    "group": "G1",
+                    "prereqs": [
+                        "FIS073"
+                    ]
+                },
+                {
+                    "code": "FIS039",
+                    "group": "G1",
+                    "prereqs": [
+                        "FIS037"
+                    ]
+                },
+                {
+                    "code": "FIS040",
+                    "group": "G1",
+                    "prereqs": [
+                        "FIS144"
+                    ]
+                },
+                {
+                    "code": "FIS076",
+                    "group": "G1",
+                    "prereqs": [
+                        "FIS074"
+                    ]
+                },
+                {
+                    "code": "FIS120",
+                    "group": "G1",
+                    "prereqs": [
+                        "FIS073"
+                    ]
+                },
+                {
+                    "code": "FIS126",
+                    "group": "G1",
+                    "prereqs": [
+                        "FIS073"
+                    ]
+                },
+                {
+                    "code": "FIS147",
+                    "group": "G1",
+                    "prereqs": [
+                        "FIS074"
+                    ]
+                },
+                {
+                    "code": "FIS009",
+                    "group": "G1",
+                    "prereqs": [
+                        "FIS126"
+                    ]
+                },
+                {
+                    "code": "FIS042",
+                    "group": "G1",
+                    "prereqs": [
+                        "FIS147"
+                    ]
+                },
+                {
+                    "code": "FIS121",
+                    "group": "G1",
+                    "prereqs": [
+                        "FIS120"
+                    ]
+                },
+                {
+                    "code": "FIS123",
+                    "group": "G1",
+                    "prereqs": [
+                        "FIS037"
+                    ]
+                },
+                {
+                    "code": "FIS127",
+                    "group": "G1",
+                    "prereqs": [
+                        "FIS074"
+                    ]
+                },
+                {
+                    "code": "COL001",
+                    "group": "G9",
+                    "prereqs": []
+                },
+                {
+                    "code": "QUI003",
+                    "group": "G9",
+                    "prereqs": []
+                },
+                {
+                    "code": "QUI019",
+                    "group": "G9",
+                    "prereqs": []
+                },
+                {
+                    "code": "DCC034",
+                    "group": "G9",
+                    "prereqs": [
+                        "DCC001",
+                        "MAT001"
+                    ]
+                },
+                {
+                    "code": "QUI003",
+                    "group": "G9",
+                    "prereqs": [
+                        "FIS066",
+                        "QUI003"
+                    ]
+                },
+                {
+                    "code": "MAT244",
+                    "group": "G9",
+                    "prereqs": [
+                        "MAT002"
+                    ]
+                },
+                {
+                    "code": "MAT016",
+                    "group": "G9",
+                    "prereqs": [
+                        "MAT040"
+                    ]
+                },
+                {
+                    "code": "MAT243",
+                    "group": "G9",
+                    "prereqs": [
+                        "MAT002"
+                    ]
+                },
+                {
+                    "code": "MAT246",
+                    "group": "G9",
+                    "prereqs": [
+                        "MAT016"
+                    ]
+                },
+                {
+                    "code": "MAT247",
+                    "group": "G9",
+                    "prereqs": [
+                        "MAT016"
+                    ]
+                },
+                {
+                    "code": "MAT245",
+                    "group": "G9",
+                    "prereqs": [
+                        "MAT243"
+                    ]
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "obligatoryHours": {
+                    "min": 2115,
+                    "max": 2115
+                },
+                "optionalHours": {
+                    "min": 690,
+                    "max": 690
+                },
+                "freeHours": null,
+                "totalHours": 2805
+            }
+        }
+    ]
+}

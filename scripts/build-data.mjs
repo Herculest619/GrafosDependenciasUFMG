@@ -10,7 +10,8 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { dirname, join, relative } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
-import { buildSigaCourse, convertLegacyCourse } from './lib/course-json.mjs'
+import { buildEstruturaCourse, buildSigaCourse, convertLegacyCourse } from './lib/course-json.mjs'
+import { parseEstruturaCurricular } from './lib/estrutura-curricular.mjs'
 import { parseSigaReport } from './lib/siga-report.mjs'
 import { validateCourse } from './lib/validate.mjs'
 
@@ -25,6 +26,7 @@ const UNIT_DEFAULTS = {
     farmacia: { unit: 'Faculdade de Farmácia', campus: 'Pampulha' },
     eci: { unit: 'ECI — Escola de Ciência da Informação', campus: 'Pampulha' },
     fae: { unit: 'FAE — Faculdade de Educação', campus: 'Pampulha' },
+    fisica: { unit: 'ICEx — Departamento de Física', campus: 'Pampulha' },
 }
 
 function unitDefaults(file) {
@@ -204,6 +206,32 @@ const COURSES = [
             shift: 'Noturno',
         },
     },
+    {
+        kind: 'estrutura',
+        file: 'fisica/fisica-bacharelado-matriz-2013.txt',
+        sourceId: 'fisica/fisica-bacharelado-matriz-2013',
+        options: {
+            id: 'fisica-bacharelado-matriz-2013',
+            name: 'Física',
+            variant: 'Bacharelado · matriz 2013/1',
+            degree: 'Bacharelado',
+            shift: 'Diurno',
+            curriculum: 'Matriz 2013/1',
+        },
+    },
+    {
+        kind: 'estrutura',
+        file: 'fisica/fisica-licenciatura-noturno-matriz-2018.txt',
+        sourceId: 'fisica/fisica-licenciatura-noturno-matriz-2018',
+        options: {
+            id: 'fisica-licenciatura-noturno-matriz-2018',
+            name: 'Física',
+            variant: 'Licenciatura · Noturno · matriz 2018',
+            degree: 'Licenciatura',
+            shift: 'Noturno',
+            curriculum: 'Matriz 2018 (noturno)',
+        },
+    },
 ]
 
 function readJson(path, fallback = null) {
@@ -222,7 +250,7 @@ function loadSourceMetadata() {
     for (const entry of main) map.set(entry.id, entry)
 
     // Índices por unidade (Farmácia, ECI, FAE): ids prefixados com o diretório
-    for (const unit of ['farmacia', 'eci', 'fae']) {
+    for (const unit of ['farmacia', 'eci', 'fae', 'fisica']) {
         const index = readJson(join(SOURCES_DIR, unit, 'index.json'), []) ?? []
         for (const entry of index) {
             if (!entry?.id) continue
@@ -253,9 +281,25 @@ function buildOne(config, sources) {
         return convertLegacyCourse(raw, config.options)
     }
 
-    const text = readFileSync(sourcePath, 'utf8')
-    const parsed = parseSigaReport(text)
     const sourceEntry = config.sourceId ? sources.get(config.sourceId) : null
+    const text = readFileSync(sourcePath, 'utf8')
+
+    if (config.kind === 'estrutura') {
+        const parsed = parseEstruturaCurricular(text)
+        const options = {
+            ...unitDefaults(config.file),
+            ...config.options,
+            source: {
+                kind: 'estrutura-curricular-pdf',
+                url: sourceEntry?.pdf ? `data/archives/${sourceEntry.pdf}` : null,
+                retrievedAt: sourceEntry?.retrievedAt ?? null,
+                note: sourceEntry?.source ?? null,
+            },
+        }
+        return buildEstruturaCourse(parsed, options)
+    }
+
+    const parsed = parseSigaReport(text)
     const options = {
         ...unitDefaults(config.file),
         ...config.options,

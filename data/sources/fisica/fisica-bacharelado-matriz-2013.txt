@@ -1,0 +1,135 @@
+                               CURSO DE FÍSICA DA UFMG
+                        ESTRUTURA CURRICULAR DO BACHARELADO
+
+       Versão Física Bacharelado – Formação Livre
+    DISCIPLINAS OBRIGATÓRIAS                                     111 créditos (1665 h)
+    DISCIPLINAS OPTATIVAS DO GRUPO G1                            Mínimo 16 créditos (240 h)
+    ATIVIDADES ACADÊMICAS DO GRUPO G4                            Mínimo 6 créditos
+    DISC. OPT. ou ATIVIDADES DO GRUPO G1 + G4 + G9               Mínimo 45 créditos
+    FORMAÇÃO LIVRE                                               4 créditos (60 h)
+    TOTAL                                                        160 créditos (~ 2400 h)
+
+       Versão Física Bacharelado – Formação Complementar Aberta I – Formação Livre
+    DISCIPLINAS OBRIGATÓRIAS                               111 créditos (1665 h)
+    DISCIPLINAS OPTATIVAS DO GRUPO G1                      Mínimo 16 créditos (240 h)
+    ATIVIDADES ACADÊMICAS DO GRUPO G4                      Mínimo 6 créditos
+    FORMAÇÃO COMPLEMENTAR ABERTA                           12 créditos (180 h)
+    DISC. OPT. ou ATIV. DO GRUPO G1 + G4 + FCA + G9        Mínimo 45 créditos
+    FORMAÇÃO LIVRE                                         4 créditos (60 h)
+    TOTAL                                                  160 créditos (~ 2400 h)
+
+       Versão Física Bacharelado – Formação Complementar Aberta II – Formação Livre
+    DISCIPLINAS OBRIGATÓRIAS                               111 créditos (1665 h)
+    DISCIPLINAS OPTATIVAS DO GRUPO G1                      Mínimo 16 créditos (240 h)
+    ATIVIDADES ACADÊMICAS DO GRUPO G4                      Mínimo 6 créditos
+    FORMAÇÃO COMPLEMENTAR ABERTA                           24 créditos (360 h)
+    DISC. OPT. ou ATIV. DO GRUPO G1 + G4 + FCA + G9        Mínimo 46 créditos
+    FORMAÇÃO LIVRE                                         3 créditos (60 h)
+    TOTAL                                                  160 créditos (~ 2400 h)
+
+FORMAÇÃO COMPLEMENTAR ABERTA é um conjunto de disciplinas que o aluno propõe sobre
+uma área, além da Física, na qual ele gostaria de ter uma formação - exemplos: Matemática, Estatística,
+Filosofia, Educação Física, Biofísica, Geofísica, Física Médica. Essa FORMAÇÃO pode ser mais curta –
+nível I com 12 créditos – ou mais longa – nível II com 24 créditos.
+                              DISCIPLINAS OBRIGATÓRIAS
+SEM CÓDIGO     DISCIPLINA                                      CRÉDITOS       PRÉ-REQUISITO
+    DCC001     Programação de Computadores                        4 (60 h)         -/-/-/-/
+    FIS054     Introdução à Física Experimental                   3 (45 h)         -/-/-/-/
+    MAT001     Cálculo Diferencial e Integral I                   6 (90 h)         -/-/-/-/
+ 1
+    MAT038     Geometria Analítica e Álgebra Linear               4 (60 h)         -/-/-/-/
+                 SUGESTÃO DE CRÉDITOS DE OPTATIVAS               01 (15 h)
+                     N. DE CRÉDITOS DE OBRIGATÓRIAS             17 (255 h)
+     DCC034    Cálculo Numérico                                   4 (60 h)    DCC001 / MAT001
+     FIS055    Física Experimental MT                             3 (45 h)        FIS054
+     FIS065    Fundamentos de Mecânica                            4 (60 h)       MAT001
+ 2   FIS066    Fundamentos de Termodinâmica                       2 (30h)        MAT001
+     MAT039 Cálculo Diferencial e Integral II                     4 (60 h)       MAT001
+                 SUGESTÃO DE CRÉDITOS DE OPTATIVAS               04 (60 h)
+                     N. DE CRÉDITOS DE OBRIGATÓRIAS             17 (255 h)
+     FIS060    Física Experimental EO                             3 (45 h)         FIS054
+     FIS069    Fundamentos de Eletromagnetismo                    4 (60 h)    FIS065 / MAT039
+     MAT002 Cálculo Diferencial e Integral III                    4 (60 h)        MAT039
+ 3
+     MAT015 Equações Diferenciais A                               4 (60 h)        MAT039
+                 SUGESTÃO DE CRÉDITOS DE OPTATIVAS               04 (60 h)
+                     N. DE CRÉDITOS DE OBRIGATÓRIAS             15 (225 h)
+     FIS034    Mecânica I                                         4 (60 h)    FIS054 / MAT015
+     FIS086    Fundamentos de Oscilações, Ondas e Óptica          4 (60 h)         FIS069
+     FIS089    Física Experimental AI                             4 (60 h)     FIS060 / FIS069
+ 4   FIS091    Fundamentos de Teoria da Relatividade              2 (30h)          FIS069
+     MAT016 Equações Diferenciais B                               4 (60 h)        MAT015
+                 SUGESTÃO DE CRÉDITOS DE OPTATIVAS               04 (60 h)
+                     N. DE CRÉDITOS DE OBRIGATÓRIAS             18 (270 h)
+     FIS003    Evolução das Ideias da Física                      4 (60 h)     FIS086 / FIS091
+     FIS036    Mecânica II                                        4 (60 h)         FIS034
+     FIS073    Introdução à Física Quântica                       4 (60 h)         FIS086
+ 5
+     FIS094    Física Experimental AII                            4 (60 h)         FIS089
+     FIS118    Métodos da Física Teórica A                        4 (60 h)        MAT015
+                     N. DE CRÉDITOS DE OBRIGATÓRIAS             20 (300 h)
+     FIS037    Eletromagnetismo I                                 4 (60 h)    FIS069 / MAT002
+     FIS074    Estrutura da Matéria I                             4 (60 h)         FIS073
+ 6   FIS144    Física Experimental AIII                           4 (60 h)         FIS094
+                 SUGESTÃO DE CRÉDITOS DE OPTATIVAS              08 (120 h)
+                     N. DE CRÉDITOS DE OBRIGATÓRIAS             12 (180 h)
+     FIS076    Estrutura da Matéria II                            2 (30h)          FIS074
+     FIS120    Física Quântica I                                  4 (60 h)         FIS073
+     FIS126    Termodinâmica                                      4 (60 h)         FIS073
+ 7
+     FIS147    Fundamentos de Física Nuclear e de Partículas      2 (30h)          FIS074
+                 SUGESTÃO DE CRÉDITOS DE OPTATIVAS              08 (120 h)
+                     N. DE CRÉDITOS DE OBRIGATÓRIAS             12 (180 h)
+                 SUGESTÃO DE CRÉDITOS DE OPTATIVAS              20 (300 h)
+ 8
+                     N. DE CRÉDITOS DE OBRIGATÓRIAS                  0
+                 N. TOTAL DE CRÉDITOS DE OPTATIVAS              49 (735 h)
+            N. TOTAL DE CRÉDITOS DE OBRIGATÓRIAS               111 (1665 h)
+                     DISCIPLINAS OPTATIVAS DO GRUPO G1
+SEM* CÓDIGO DISCIPLINA                                   CRÉDITOS                     PRÉ-REQUISITO
+  3  FIS148 Fund. de Mecânica de Sólidos e Fluidos         2 (30h)                          FIS065
+  4  FIS090 Recursos Didáticos para o Ensino de Física A  4 (60 h)                      FIS055 / FIS065
+     FIS075 Astronomia Fundamental                        4 (60 h)                          FIS034
+  5  FIS095 Recursos Didáticos para o Ensino de Física B  4 (60 h)                      FIS069 / FIS090
+     FIS119 Métodos da Física Teórica B                   4 (60 h)                         MAT002
+     FIS006 Astrofísica Estelar                           4 (60 h)                          FIS073
+  6
+     FIS143 Recursos Didáticos para o Ensino de Física C  4 (60 h)                   FIS060/FIS086/FIS090
+     FIS007 Astrofísica Galáctica                         4 (60 h)                          FIS073
+  7  FIS039 Eletromagnetismo II                           4 (60 h)                          FIS037
+     FIS040 Física Experimental Avançada                  6 (90 h)                          FIS144
+     FIS009 Introdução à Física Estatística               4 (60 h)                          FIS126
+     FIS042 Introdução à Física de Partículas             4 (60 h)                          FIS147
+  8  FIS121 Física Quântica II                            4 (60 h)                          FIS120
+     FIS123 Óptica                                        4 (60 h)                          FIS037
+     FIS127 Introdução à Física do Estado Sólido          4 (60 h)                          FIS074
+Além dessas, os Tópicos em Física que têm ementa variável e podem ser de 1 a 4 créditos.
+SEM* - indicação de a partir de que semestre essa disciplina pode ser cursada.
+
+                             ATIVIDADES ACADÊMICAS DO GRUPO G4
+               ATIVIDADE                                       CRÉDITOS         MÁXIMO
+               Estudo Orientado                                   1 ou 2             6
+               Participação Em Eventos                            1 ou 2             6
+               Iniciação à Pesquisa, à Docência e à Extensão    max 4/sem           16
+               Monografia                                         4 ou 8          4 ou 8
+               Vivência Profissional                            max 4/sem           12
+              No Bacharelado, o aluno deve fazer, no mínimo, 6 créditos e, no máximo, 29 créditos.
+
+                              DISCIPLINAS OPTATIVAS DO GRUPO G9
+Todos os créditos em disciplinas do grupo G1 ou de atividades do grupo G4 que estiverem além do mínimo
+exigido entram neste grupo. Além disso, estas outras disciplinas também pertencem a este grupo.
+SEM* CÓDIGO DISCIPLINA                                                   CRÉDITOS PRÉ-REQUISITO
+  1      COL001      Palestras de Física                                    1 (15 h)            -/-/-/-/
+  1      LET223      Fundamentos de Libras                                  4 (60 h)            -/-/-/-/
+  1      QUI003      Química Geral B                                        4 (60 h)            -/-/-/-/
+  1      QUI019      Química Geral Experimental                             2 (30 h)            -/-/-/-/
+  3      FIS004      Astronomia Geral                                       4 (60 h)            FIS065
+  3      QUI003      Físico-Química II                                      4 (60 h)      FIS066 / QUI003
+  4      MAT607      Introd. Geometria   Diferencial                        6 (90 h)          MAT002
+  5      MAT003 Análise I                                                  8 (120 h)            -/-/-/-/
+  5      MAT006 Introd. Equações Diferenciais Ordinárias                    6 (90 h)          MAT016
+  5      MAT010 Introd. Equações Diferenciais Parciais                      6 (90 h)          MAT016
+  6      MAT004 Análise II                                                  6 (90 h)          MAT003
+Além dessas, os Tópicos Especiais que têm ementa variável e podem ser de 1 a 4 créditos.
+SEM* - indicação de a partir de que semestre essa disciplina pode ser cursada.
+

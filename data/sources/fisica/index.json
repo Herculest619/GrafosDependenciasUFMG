@@ -1,0 +1,26 @@
+[
+    {
+        "id": "fisica-bacharelado-matriz-2013",
+        "file": "fisica-bacharelado-matriz-2013.txt",
+        "pdf": "EstrutCurricularBac20131.pdf",
+        "title": "Física — Bacharelado (matriz 2013/1)",
+        "source": "PDF fornecido pelo usuário em data/archives",
+        "format": "estrutura-curricular",
+        "retrievedAt": "2026-11-05T19:39:52.551Z",
+        "pages": 4,
+        "chars": 10673,
+        "sha256": "119b2ff8c439287846bccbcaf7cffd98c967406e4c6c6612529f0ec111379a4f"
+    },
+    {
+        "id": "fisica-licenciatura-noturno-matriz-2018",
+        "file": "fisica-licenciatura-noturno-matriz-2018.txt",
+        "pdf": "LicN2018.pdf",
+        "title": "Física — Licenciatura Noturno (matriz 2018)",
+        "source": "PDF fornecido pelo usuário em data/archives",
+        "format": "estrutura-curricular",
+        "retrievedAt": "2026-11-05T19:39:52.557Z",
+        "pages": 4,
+        "chars": 11099,
+        "sha256": "b105e93b2bb2a2064394b2ad8871cfffec4b4bc889a1e11ce7ff84cd2de6ab27"
+    }
+]
