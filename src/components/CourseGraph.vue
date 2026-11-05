@@ -49,7 +49,7 @@ function baseOptions() {
         interaction: {
             hover: true,
             selectable: false,
-            dragNodes: true,
+            dragNodes: false,
             tooltipDelay: 150,
             zoomView: true,
             navigationButtons: false,
@@ -110,7 +110,7 @@ function nodePositions(nodes) {
             title: node.title,
             x: level * LEVEL_SPACING,
             y: index * ROW_SPACING,
-            fixed: { x: true },
+            fixed: { x: true, y: true },
         }
     })
     return [...levelHeaders(nodes), ...items]
@@ -154,8 +154,16 @@ function mountNetwork() {
         // como os nós não são selecionáveis, fazemos o hit-test pelo ponteiro.
         const nodeId = network.getNodeAt(params.pointer.DOM)
         if (nodeId === undefined || nodeId === null) return
+        network.unselectAll()
         if (String(nodeId).startsWith('__level_')) return
         emit('toggle', nodeId)
+    })
+
+    // Nós não são arrastáveis (cada coluna é um período): evitar que o vis-network
+    // deixe o nó em estado de seleção/destaque ao arrastar.
+    network.on('dragEnd', () => {
+        network.unselectAll()
+        refreshColors()
     })
 
     // expõe a instância para depuração/ testes e2e: abra a página com ?debug=1
@@ -204,8 +212,15 @@ function goToStart() {
 
     const nodes = props.graph.nodes
     const levels = nodes.map((node) => Number(node.level) || 1)
+    // O centro vertical considera só as disciplinas: uma coluna de optativas
+    // grande (ex.: 13 slots) não deve empurrar os períodos para fora da tela.
+    const disciplineLevels = nodes
+        .filter((node) => node.kind !== 'slot')
+        .map((node) => Number(node.level) || 1)
     const rowsByLevel = new Map()
-    for (const level of levels) rowsByLevel.set(level, (rowsByLevel.get(level) ?? 0) + 1)
+    for (const level of disciplineLevels.length ? disciplineLevels : levels) {
+        rowsByLevel.set(level, (rowsByLevel.get(level) ?? 0) + 1)
+    }
 
     const minX = Math.min(...levels) * LEVEL_SPACING
     const minY = HEADER_OFFSET
