@@ -1,0 +1,969 @@
+                             UNIVERSIDADE FEDERAL DE MINAS GERAIS
+                             Configuração Curricular
+                             Pró-reitoria de Graduação
+
+                                                                                Relatório de versão curricular
+
+
+Curso:         24006 - ZOOTECNIA                                                                              Versão curricular:       D-20261
+
+
+Situação:      Em análise
+
+
+Carga horária mínima para mudança de opção de vinculação:                 -                                   Período mínimo para mudança de opção de vinculação:   -
+
+
+
+
+Disponibilidade nas subdivisões do curso:
+
+    Não há dados cadastrados.
+
+
+
+Observações:
+
+-
+
+
+
+
+Percursos curriculares que compõem a versão:
+
+                  Identificador                                                                                    Nome
+
+    01                                      BACHARELADO - (M)
+    01-02                                   ---BACHARELADO/N. COMPLEMENTAR/N. GERAL
+    01-01                                   ---BACHARELADO/N. GERAL
+    01-04                                   ---BACHARELADO/N.AVANÇADO/N.GERAL
+
+
+
+
+Atividades acadêmicas:
+Tabela organizada por sugestão de período definido na versão curricular
+
+                                                                                      RELATÓRIO DE VERSÃO CURRICULAR
+
+18/09/2025 18.53.44                                                                                                                                                     Página 1 de 18
+Pró-reitoria de Graduação
+  1º PERÍODO
+
+                                                                                                          Sugestão
+                                                        Créditos       Carga Horária
+                                                                                                         de período           Natureza Natureza
+                                  Atividade Acadêmica                                         Percurso   específica   Grupo      no       no      Pré-requisitos
+                                                                                                             do                grupo   percurso
+                                                        Mín. Máx.   Total   Teórica Prática
+                                                                                                          percurso
+   DIG - ICA220 - FUNDAMENTOS DE QUIMICA                 4    4      60       30      30       01-01         -          1        OB       OB             -
+                                                                                               01-02         -          1        OB       OB             -
+                                                                                               01-04         -          1        OB       OB             -
+   DIG - ICA221 - DESENHO TECNICO                        3    3      45       15      30       01-01         -          1        OB       OB             -
+                                                                                               01-02         -          1        OB       OB             -
+                                                                                               01-04         -          1        OB       OB             -
+   DIG - ICA260 - CITOLOGIA                              3    3      45       30      15       01-01         -          1        OB       OB             -
+                                                                                               01-02         -          1        OB       OB             -
+                                                                                               01-04         -          1        OB       OB             -
+   DIG - ICA718 - INTRODUÇÃO À ZOOTECNIA                 2    2      30       30       0       01-01         -          1        OB       OB             -
+                                                                                               01-02         -          1        OB       OB             -
+                                                                                               01-04         -          1        OB       OB             -
+   DIG - ICA719 - ECOLOGIA BÁSICA                        3    3      45       30      15       01-01         -          1        OB       OB             -
+                                                                                               01-02         -          1        OB       OB             -
+                                                                                               01-04         -          1        OB       OB             -
+   DIG - ICA720 - ETOLOGIA E BEM-ESTAR ANIMAL            3    3      45       45       0       01-01         -          1        OB       OB             -
+                                                                                               01-02         -          1        OB       OB             -
+                                                                                               01-04         -          1        OB       OB             -
+
+
+
+  2º PERÍODO
+
+                                                                                                          Sugestão
+                                                        Créditos       Carga Horária
+                                                                                                         de período           Natureza Natureza
+                                  Atividade Acadêmica                                         Percurso   específica   Grupo      no       no      Pré-requisitos
+                                                                                                             do                grupo   percurso
+                                                        Mín. Máx.   Total   Teórica Prática
+                                                                                                          percurso
+   DIG - ICA001 - CALCULO I                              4    4      60       60       0       01-01         -          1        OB       OB             -
+                                                                                               01-02         -          1        OB       OB             -
+                                                                                               01-04         -          1        OB       OB             -
+   DIG - ICA224 - MICROBIOLOGIA                          4    4      60       45      15       01-01         -          1        OB       OB             -
+                                                                                               01-02         -          1        OB       OB             -
+                                                                                               01-04         -          1        OB       OB             -
+   DIG - ICA225 - BIOQUIMICA GERAL                       4    4      60       45      15       01-01         -          1        OB       OB             -
+                                                                                               01-02         -          1        OB       OB             -
+                                                                                               01-04         -          1        OB       OB             -
+
+
+
+
+                                                                  RELATÓRIO DE VERSÃO CURRICULAR
+
+18/09/2025 18.53.44                                                                                                                                Página 2 de 18
+Pró-reitoria de Graduação
+                                                                                                                Sugestão
+                                                             Créditos        Carga Horária
+                                                                                                               de período           Natureza Natureza
+                                   Atividade Acadêmica                                              Percurso   específica   Grupo      no       no           Pré-requisitos
+                                                                                                                   do                grupo   percurso
+                                                             Mín. Máx.    Total   Teórica Prática
+                                                                                                                percurso
+   DIG - ICA262 - HISTOLOGIA E EMBRIOLOGIA                    4    4        60      30      30       01-01         -          1        OB       OB              ICA260
+                                                                                                     01-02         -          1        OB       OB              ICA260
+                                                                                                     01-04         -          1        OB       OB              ICA260
+   DIG - ICA721 - ANATOMIA DOS ANIMAIS DOMÉSTICOS             5    5        75      45      30       01-01         -          1        OB       OB              ICA260
+                                                                                                     01-02         -          1        OB       OB              ICA260
+                                                                                                     01-04         -          1        OB       OB              ICA260
+   DIG - ICA722 - SISTEMÁTICA DAS ESPERMATÓFITAS              3    3        45      15      30       01-01         -          1        OB       OB                  -
+                                                                                                     01-02         -          1        OB       OB                  -
+                                                                                                     01-04         -          1        OB       OB                  -
+
+
+
+  3º PERÍODO
+
+                                                                                                                Sugestão
+                                                             Créditos        Carga Horária
+                                                                                                               de período           Natureza Natureza
+                                   Atividade Acadêmica                                              Percurso   específica   Grupo      no       no           Pré-requisitos
+                                                                                                                   do                grupo   percurso
+                                                             Mín. Máx.    Total   Teórica Prática
+                                                                                                                percurso
+   DIG - ICA249 - FISIOLOGIA VEGETAL                          4    4        60      30      30       01-01         -          1        OB       OB                  -
+                                                                                                     01-02         -          1        OB       OB                  -
+                                                                                                     01-04         -          1        OB       OB                  -
+   DIG - ICA723 - FISIOLOGIA ANIMAL BÁSICA                    4    4        60      60       0       01-01         -          1        OB       OB              ICA721
+                                                                                                     01-02         -          1        OB       OB              ICA721
+                                                                                                     01-04         -          1        OB       OB              ICA721
+   DIG - ICA724 - PARASITOLOGIA APLICADA À ZOOTECNIA          4    4        60      30      30       01-01         -          1        OB       OB                  -
+                                                                                                     01-02         -          1        OB       OB                  -
+                                                                                                     01-04         -          1        OB       OB                  -
+   DIG - ICA725 - HIGIENE ANIMAL                              4    4        60      45      15       01-01         -          1        OB       OB                  -
+                                                                                                     01-02         -          1        OB       OB                  -
+                                                                                                     01-04         -          1        OB       OB                  -
+   DIG - ICA726 - ECONOMIA RURAL                              3    3        45      45       0       01-01         -          1        OB       OB                  -
+                                                                                                     01-02         -          1        OB       OB                  -
+                                                                                                     01-04         -          1        OB       OB                  -
+   DIG - ICA747 - ANÁLISE DE ALIMENTOS PARA ANIMAIS           3    3        45      15      30       01-01         -          1        OB       OB                  -
+                                                                                                     01-02         -          1        OB       OB                  -
+                                                                                                     01-04         -          1        OB       OB                  -
+
+
+
+                                                                    Carga horária adicional do período
+
+             Percurso                                                    Grupo de atividades                                                     Carga Horária
+   01-01                       24006-D-20261-6 - Optativas                                                                                              45
+
+                                                                       RELATÓRIO DE VERSÃO CURRICULAR
+
+18/09/2025 18.53.44                                                                                                                                           Página 3 de 18
+Pró-reitoria de Graduação
+                                                                               Carga horária adicional do período
+
+             Percurso                                                               Grupo de atividades                                                     Carga Horária
+   01-02                       24006-D-20261-7 - Optativas                                                                                                         45
+   01-04                       24006-D-20261-8 - Optativas                                                                                                         45
+
+
+
+  4º PERÍODO
+
+                                                                                                                           Sugestão
+                                                                        Créditos        Carga Horária
+                                                                                                                          de período           Natureza Natureza
+                                 Atividade Acadêmica                                                           Percurso   específica   Grupo      no       no           Pré-requisitos
+                                                                                                                              do                grupo   percurso
+                                                                        Mín. Máx.    Total   Teórica Prática
+                                                                                                                           percurso
+   DIG - ICA201 - ESTATISTICA BASICA                                     4    4        60      45      15       01-01         -          1        OB       OB              ICA001
+                                                                                                                01-02         -          1        OB       OB              ICA001
+                                                                                                                01-04         -          1        OB       OB              ICA001
+   DIG - ICA232 - EXTENSAO RURAL                                         3    3        45      30      15       01-01         -          1        OB       OB                  -
+                                                                                                                01-02         -          1        OB       OB                  -
+                                                                                                                01-04         -          1        OB       OB                  -
+   DIG - ICA321 - MAQUINA E MECANIZACAO ACRIGOLA                         4    4        60      30      30       01-01         -          1        OB       OB                  -
+                                                                                                                01-02         -          1        OB       OB                  -
+                                                                                                                01-04         -          1        OB       OB                  -
+   DIG - ICA748 - FISIOLOGIA E BIOTECNOLOGIA DA REPRODUÇÃO ANIMAL        4    4        60      45      15       01-01         -          1        OB       OB      ICA721, ICA723, ICA260
+
+                                                                                                                01-02         -          1        OB       OB      ICA721, ICA723, ICA260
+
+                                                                                                                01-04         -          1        OB       OB      ICA721, ICA723, ICA260
+
+   DIG - ICA749 - INGREDIENTES E ADITIVOS                                2    2        30      30       0       01-01         -          1        OB       OB              ICA723
+                                                                                                                01-02         -          1        OB       OB              ICA723
+                                                                                                                01-04         -          1        OB       OB              ICA723
+   DIG - ICA750 - FISIOLOGIA DA DIGESTÃO                                 3    3        45      45       0       01-01         -          1        OB       OB              ICA723
+                                                                                                                01-02         -          1        OB       OB              ICA723
+                                                                                                                01-04         -          1        OB       OB              ICA723
+
+
+
+                                                                               Carga horária adicional do período
+
+             Percurso                                                               Grupo de atividades                                                     Carga Horária
+   01-01                       24006-D-20261-6 - Optativas                                                                                                         60
+                               24006-D-20261-15 - Núcleo Complementar                                                                                              30
+   01-02
+                               24006-D-20261-7 - Optativas                                                                                                         45
+   01-04                       24006-D-20261-8 - Optativas                                                                                                         60
+
+
+
+
+                                                                                  RELATÓRIO DE VERSÃO CURRICULAR
+
+18/09/2025 18.53.44                                                                                                                                                      Página 4 de 18
+Pró-reitoria de Graduação
+  5º PERÍODO
+
+                                                                                                                          Sugestão
+                                                                       Créditos        Carga Horária
+                                                                                                                         de período           Natureza Natureza
+                                Atividade Acadêmica                                                           Percurso   específica   Grupo      no       no           Pré-requisitos
+                                                                                                                             do                grupo   percurso
+                                                                       Mín. Máx.    Total   Teórica Prática
+                                                                                                                          percurso
+   DIG - ICA203 - ESTATISTICA EXPERIMENTAL                              4    4        60      45      15       01-01         -          1        OB       OB                  -
+                                                                                                               01-02         -          1        OB       OB                  -
+                                                                                                               01-04         -          1        OB       OB                  -
+   DIG - ICA265 - INSTALACOES ZOOTECNICAS                               3    3        45      30      15       01-01         -          1        OB       OB                  -
+                                                                                                               01-02         -          1        OB       OB                  -
+                                                                                                               01-04         -          1        OB       OB                  -
+   DIG - ICA727 - MANEJO E CONSERVAÇÃO DO SOLO E DA ÁGUA                3    3        45      30      15       01-01         -          1        OB       OB                  -
+                                                                                                               01-02         -          1        OB       OB                  -
+                                                                                                               01-04         -          1        OB       OB                  -
+   DIG - ICA751 - GENÉTICA BÁSICA                                       3    3        45      45       0       01-01         -          1        OB       OB              ICA201
+                                                                                                               01-02         -          1        OB       OB              ICA201
+                                                                                                               01-04         -          1        OB       OB              ICA201
+   DIG - ICA752 - NUTRIÇÃO ANIMAL BÁSICA                                3    3        45      45       0       01-01         -          1        OB       OB              ICA750
+                                                                                                               01-02         -          1        OB       OB              ICA750
+                                                                                                               01-04         -          1        OB       OB              ICA750
+   DIG - ICA753 - FERTILIDADE DO SOLO E NUTRIÇÃO MINERAL DE PLANTAS     4    4        60      30      30       01-01         -          1        OB       OB                  -
+                                                                                                               01-02         -          1        OB       OB                  -
+                                                                                                               01-04         -          1        OB       OB                  -
+
+
+
+                                                                              Carga horária adicional do período
+
+             Percurso                                                              Grupo de atividades                                                     Carga Horária
+   01-01                      24006-D-20261-6 - Optativas                                                                                                         90
+                              24006-D-20261-15 - Núcleo Complementar                                                                                              30
+   01-02
+                              24006-D-20261-7 - Optativas                                                                                                         45
+   01-04                      24006-D-20261-8 - Optativas                                                                                                         90
+
+
+
+  6º PERÍODO
+
+                                                                                                                          Sugestão
+                                                                       Créditos        Carga Horária
+                                                                                                                         de período           Natureza Natureza
+                                Atividade Acadêmica                                                           Percurso   específica   Grupo      no       no           Pré-requisitos
+                                                                                                                             do                grupo   percurso
+                                                                       Mín. Máx.    Total   Teórica Prática
+                                                                                                                          percurso
+   DIG - ICA204 - ADM.PLANEJAMENTO DESENVOLVIMENTO RURAL                3    3        45      30      15       01-01         -          1        OB       OB                  -
+                                                                                                               01-02         -          1        OB       OB                  -
+                                                                                                               01-04         -          1        OB       OB                  -
+
+                                                                                 RELATÓRIO DE VERSÃO CURRICULAR
+
+18/09/2025 18.53.44                                                                                                                                                     Página 5 de 18
+Pró-reitoria de Graduação
+                                                                                                                           Sugestão
+                                                                        Créditos        Carga Horária
+                                                                                                                          de período           Natureza Natureza
+                                 Atividade Acadêmica                                                           Percurso   específica   Grupo      no       no            Pré-requisitos
+                                                                                                                              do                grupo   percurso
+                                                                        Mín. Máx.    Total   Teórica Prática
+                                                                                                                           percurso
+   DIG - ICA270 - BIOCLIMATOLOGIA ANIMAL                                 3    3        45      30      15       01-01         -          1        OB       OB                   -
+                                                                                                                01-02         -          1        OB       OB                   -
+                                                                                                                01-04         -          1        OB       OB                   -
+   DIG - ICA279 - MELHORAMENTO ANIMAL I                                  3    3        45      30      15       01-01         -          1        OB       OB               ICA751
+                                                                                                                01-02         -          1        OB       OB               ICA751
+                                                                                                                01-04         -          1        OB       OB               ICA751
+   DIG - ICA728 - NUTRIÇÃO DE NÃO RUMINANTES                             5    5        75      75       0       01-01         -          1        OB       OB               ICA752
+                                                                                                                01-02         -          1        OB       OB               ICA752
+                                                                                                                01-04         -          1        OB       OB               ICA752
+   DIG - ICA754 - CULTURAS DE IMPORTÂNCIA ZOOTÉCNICA                     3    3        45      30      15       01-01         -          1        OB       OB                   -
+                                                                                                                01-02         -          1        OB       OB                   -
+                                                                                                                01-04         -          1        OB       OB                   -
+
+
+
+                                                                               Carga horária adicional do período
+
+             Percurso                                                               Grupo de atividades                                                     Carga Horária
+   01-01                       24006-D-20261-6 - Optativas                                                                                                         135
+                               24006-D-20261-15 - Núcleo Complementar                                                                                              60
+   01-02
+                               24006-D-20261-7 - Optativas                                                                                                         90
+   01-04                       24006-D-20261-8 - Optativas                                                                                                         135
+
+
+
+  7º PERÍODO
+
+                                                                                                                           Sugestão
+                                                                        Créditos        Carga Horária
+                                                                                                                          de período           Natureza Natureza
+                                 Atividade Acadêmica                                                           Percurso   específica   Grupo      no       no            Pré-requisitos
+                                                                                                                              do                grupo   percurso
+                                                                        Mín. Máx.    Total   Teórica Prática
+                                                                                                                           percurso
+   DIG - ICA272 - NUTRICAO DE RUMINANTES                                 5    5        75      45      30       01-01         -          1        OB       OB               ICA752
+                                                                                                                01-02         -          1        OB       OB               ICA752
+                                                                                                                01-04         -          1        OB       OB               ICA752
+   DIG - ICA273 - AVICULTURA                                             5    5        75      45      30       01-01         -          1        OB       OB               ICA728
+                                                                                                                01-02         -          1        OB       OB               ICA728
+                                                                                                                01-04         -          1        OB       OB               ICA728
+   DIG - ICA275 - FORRAGICULTURA                                         5    5        75      45      30       01-01         -          1        OB       OB                   -
+                                                                                                                01-02         -          1        OB       OB                   -
+                                                                                                                01-04         -          1        OB       OB                   -
+   DIG - ICA286 - MELHORAMENTO ANIMAL II                                 3    3        45      30      15       01-01         -          1        OB       OB               ICA279
+                                                                                                                01-02         -          1        OB       OB               ICA279
+                                                                                                                01-04         -          1        OB       OB               ICA279
+
+                                                                                  RELATÓRIO DE VERSÃO CURRICULAR
+
+18/09/2025 18.53.44                                                                                                                                                       Página 6 de 18
+Pró-reitoria de Graduação
+                                                                                                                             Sugestão
+                                                                          Créditos        Carga Horária
+                                                                                                                            de período           Natureza Natureza
+                                   Atividade Acadêmica                                                           Percurso   específica   Grupo      no       no            Pré-requisitos
+                                                                                                                                do                grupo   percurso
+                                                                          Mín. Máx.    Total   Teórica Prática
+                                                                                                                             percurso
+   DIG - ICA729 - SUINOCULTURA                                             5    5        75      45      30       01-01         -          1        OB       OB            ICA270, ICA728
+                                                                                                                  01-02         -          1        OB       OB            ICA270, ICA728
+                                                                                                                  01-04         -          1        OB       OB            ICA270, ICA728
+
+
+
+                                                                                 Carga horária adicional do período
+
+             Percurso                                                                 Grupo de atividades                                                     Carga Horária
+   01-01                         24006-D-20261-6 - Optativas                                                                                                         75
+                                 24006-D-20261-15 - Núcleo Complementar                                                                                              30
+   01-02
+                                 24006-D-20261-7 - Optativas                                                                                                         45
+   01-04                         24006-D-20261-8 - Optativas                                                                                                         75
+
+
+
+  8º PERÍODO
+
+                                                                                                                             Sugestão
+                                                                          Créditos        Carga Horária
+                                                                                                                            de período           Natureza Natureza
+                                   Atividade Acadêmica                                                           Percurso   específica   Grupo      no       no            Pré-requisitos
+                                                                                                                                do                grupo   percurso
+                                                                          Mín. Máx.    Total   Teórica Prática
+                                                                                                                             percurso
+   DIG - ICA281 - BOVINOCULTURA DE LEITE                                   5    5        75      45      30       01-01         -          1        OB       OB               ICA272
+                                                                                                                  01-02         -          1        OB       OB               ICA272
+                                                                                                                  01-04         -          1        OB       OB               ICA272
+   DIG - ICA730 - TECNOLOGIA DE PRODUTOS PARA ALIMENTAÇÃO ANIMAL           4    4        60      30      30       01-01         -          1        OB       OB                   -
+                                                                                                                  01-02         -          1        OB       OB                   -
+                                                                                                                  01-04         -          1        OB       OB                   -
+   DIG - ICA731 - BOVINOCULTURA DE CORTE                                   5    5        75      45      30       01-01         -          1        OB       OB               ICA272
+                                                                                                                  01-02         -          1        OB       OB               ICA272
+                                                                                                                  01-04         -          1        OB       OB               ICA272
+   DIG - ICA755 - COMUNICAÇÃO TÉCNICO-CIENTÍFICA EM ZOOTECNIA              2    2        30      30       0       01-01         -          1        OB       OB                   -
+                                                                                                                  01-02         -          1        OB       OB                   -
+                                                                                                                  01-04         -          1        OB       OB                   -
+
+
+
+                                                                                 Carga horária adicional do período
+
+             Percurso                                                                 Grupo de atividades                                                     Carga Horária
+   01-01                         24006-D-20261-6 - Optativas                                                                                                         150
+                                 24006-D-20261-15 - Núcleo Complementar                                                                                              60
+   01-02
+                                 24006-D-20261-7 - Optativas                                                                                                         90
+
+
+
+                                                                                    RELATÓRIO DE VERSÃO CURRICULAR
+
+18/09/2025 18.53.44                                                                                                                                                         Página 7 de 18
+Pró-reitoria de Graduação
+                                                                                       Carga horária adicional do período
+
+             Percurso                                                                       Grupo de atividades                                                     Carga Horária
+                             24006-D-20261-12 - Núcleo Avançado                                                                                                            45
+   01-04
+                             24006-D-20261-8 - Optativas                                                                                                                   105
+
+
+
+  9º PERÍODO
+
+                                                                                                                                   Sugestão
+                                                                                Créditos        Carga Horária
+                                                                                                                                  de período           Natureza Natureza
+                               Atividade Acadêmica                                                                     Percurso   específica   Grupo      no       no            Pré-requisitos
+                                                                                                                                      do                grupo   percurso
+                                                                                Mín. Máx.    Total   Teórica Prática
+                                                                                                                                   percurso
+   DIG - ICA216 - ELAB. AVAL.PROJETOS AGROPECUARIOS                              3    3        45      30      15       01-01         -          1        OB       OB                   -
+                                                                                                                        01-02         -          1        OB       OB                   -
+                                                                                                                        01-04         -          1        OB       OB                   -
+   DIG - ICA756 - FISIOLOGIA DO CRESC. ANIMAL E QUALIDADE DA CARNE E DO COURO    3    3        45      45       0       01-01         -          1        OB       OB                   -
+                                                                                                                        01-02         -          1        OB       OB                   -
+                                                                                                                        01-04         -          1        OB       OB                   -
+   DIG - ICA757 - AVALIAÇÃO DE IMPACTOS AMBIENTAIS EM ATIVIDADES ZOOTÉCNICAS     3    3        45      45       0       01-01         -          1        OB       OB                   -
+                                                                                                                        01-02         -          1        OB       OB                   -
+                                                                                                                        01-04         -          1        OB       OB                   -
+
+
+
+                                                                                       Carga horária adicional do período
+
+             Percurso                                                                       Grupo de atividades                                                     Carga Horária
+                             24006-D-20261-16 - Núcleo Geral                                                                                                               45
+   01-01
+                             24006-D-20261-6 - Optativas                                                                                                                   210
+                             24006-D-20261-15 - Núcleo Complementar                                                                                                        90
+   01-02                     24006-D-20261-16 - Núcleo Geral                                                                                                               45
+                             24006-D-20261-7 - Optativas                                                                                                                   105
+                             24006-D-20261-12 - Núcleo Avançado                                                                                                            45
+   01-04                     24006-D-20261-16 - Núcleo Geral                                                                                                               45
+                             24006-D-20261-8 - Optativas                                                                                                                   165
+
+
+
+
+                                                                                          RELATÓRIO DE VERSÃO CURRICULAR
+
+18/09/2025 18.53.44                                                                                                                                                               Página 8 de 18
+Pró-reitoria de Graduação
+  10º PERÍODO
+
+                                                                                                                                Sugestão
+                                                                           Créditos        Carga Horária
+                                                                                                                               de período                        Natureza Natureza
+                                  Atividade Acadêmica                                                               Percurso   específica         Grupo             no       no         Pré-requisitos
+                                                                                                                                   do                             grupo   percurso
+                                                                          Mín. Máx.     Total   Teórica Prática
+                                                                                                                                percurso
+   ETG - ICA732 - ESTÁGIO OBRIGATÓRIO I                                       6   6      90        0      90          01-01        -                14               OB         OB             -
+                                                                                                                      01-02        -                14               OB         OB             -
+                                                                                                                      01-04        -                14               OB         OB             -
+   ETG - ICA733 - ESTÁGIO OBRIGATÓRIO II                                   10     10     150       0      150         01-01        -                14               OB         OB             -
+                                                                                                                      01-02        -                14               OB         OB             -
+                                                                                                                      01-04        -                14               OB         OB             -
+   DIG - ICA758 - TRABALHO DE CURSO                                           1   1      15       15       0          01-01        -                1                OB         OB             -
+                                                                                                                      01-02        -                1                OB         OB             -
+                                                                                                                      01-04        -                1                OB         OB             -
+
+
+
+
+ATIVIDADES DE ESTÁGIO CURRICULAR OBRIGATÓRIO:
+ Não existem atividades acadêmicas de estágio curricular obrigatório.
+
+
+
+
+ATIVIDADES SEM PERÍODO SUGERIDO:
+
+                                                                          Carga Horária                                                                              Natureza
+                                                                                                                                                          Natureza
+                                Atividade Acadêmica                                                               Percurso                  Grupo                       no           Pré-requisito
+                                                                                                                                                          no Grupo
+                                                                                                                                                                     Percurso
+                                                                        Total Teórica Prática
+
+  DIG - ICA028 - GESTAO AMBIENTAL                                        45       45      0                        01-01                      2             OP            OP               -
+                                                                                                                   01-02                      4             OP            OP               -
+                                                                                                                   01-04                      5             OP            OP               -
+  DIG - ICA045 - SENSOREAMENTO REMOTO                                    45       30     15                        01-01                      2             OP            OP               -
+                                                                                                                   01-02                      4             OP            OP               -
+                                                                                                                   01-04                      5             OP            OP               -
+  DIG - ICA048 - USO MULTIPLO DO CERRADO                                 45       30     15                        01-01                      2             OP            OP               -
+                                                                                                                   01-02                      4             OP            OP               -
+                                                                                                                   01-04                      5             OP            OP               -
+  DIG - ICA118 - FUNDAMENTOS ECONOMICOS E SOCIAIS                        30       30      0                        01-01                      9             OP            OP            ICA603
+                                                                                                                   01-02                     11             OP            OP            ICA603
+                                                                                                                   01-04                      9             OP            OP            ICA603
+
+
+
+                                                                                      RELATÓRIO DE VERSÃO CURRICULAR
+
+18/09/2025 18.53.44                                                                                                                                                                       Página 9 de 18
+Pró-reitoria de Graduação
+                                                            Carga Horária                                                Natureza
+                                                                                                              Natureza
+                               Atividade Acadêmica                                      Percurso      Grupo                 no      Pré-requisito
+                                                                                                              no Grupo
+                                                                                                                         Percurso
+                                                          Total Teórica Prática
+
+ DIG - ICA215 - DESENV.E GESTAO DA AGRICULTURA FAMILIAR    45      30     15              01-01         2       OP          OP            -
+                                                                                          01-02         4       OP          OP            -
+                                                                                          01-04         5       OP          OP            -
+ DIG - ICA218 - ANATOMIA DAS ESPERMATOFITAS                45      15     30              01-01         2       OP          OP            -
+                                                                                          01-02         4       OP          OP            -
+                                                                                          01-04         5       OP          OP            -
+ DIG - ICA227 - PEDOLOGIA                                  60      45     15              01-01         2       OP          OP            -
+                                                                                          01-02         4       OP          OP            -
+                                                                                          01-04         5       OP          OP            -
+ DIG - ICA228 - HIDROLOGIA APLICADA A AGRICULTURA          45      30     15              01-01         2       OP          OP            -
+                                                                                          01-02         4       OP          OP            -
+                                                                                          01-04         5       OP          OP            -
+ DIG - ICA236 - AGROECOLOGIA                               45      30     15              01-01         2       OP          OP            -
+                                                                                          01-02         4       OP          OP            -
+                                                                                          01-04         5       OP          OP            -
+ DIG - ICA247 - ZOOLOGIA GERAL                             30      15     15              01-01         2       OP          OP            -
+                                                                                          01-02         4       OP          OP            -
+                                                                                          01-04         5       OP          OP            -
+ DIG - ICA252 - SOCIOLOGIA RURAL                           45      30     15              01-01         9       OP          OP         ICA402
+                                                                                          01-02        11       OP          OP         ICA402
+                                                                                          01-04         9       OP          OP         ICA402
+ DIG - ICA255 - DIREITO AMBIENTAL AGRARIO                  30      30      0              01-01         2       OP          OP            -
+                                                                                          01-02         4       OP          OP            -
+                                                                                          01-04         5       OP          OP            -
+ DIG - ICA256 - ECOTURISMO E TURISMO RURAL                 45      30     15              01-01         2       OP          OP            -
+                                                                                          01-02         4       OP          OP            -
+                                                                                          01-04         5       OP          OP            -
+ DIG - ICA263 - APICULTURA                                 30      15     15              01-01         2       OP          OP            -
+                                                                                          01-02         4       OP          OP            -
+                                                                                          01-04         5       OP          OP            -
+ DIG - ICA278 - CAPRINOCULTURA                             45      30     15              01-01         2       OP          OP            -
+                                                                                          01-02         4       OP          OP            -
+                                                                                          01-04         5       OP          OP            -
+ DIG - ICA285 - OVINOCULTURA                               45      30     15              01-01         2       OP          OP            -
+                                                                                          01-02         4       OP          OP            -
+                                                                                          01-04         5       OP          OP            -
+ DIG - ICA318 - IMUNOLOGIA APLICADA A ZOOTECNIA            45      30     15              01-01         2       OP          OP            -
+                                                                                          01-02         4       OP          OP            -
+                                                                                          01-04         5       OP          OP            -
+
+
+
+
+                                                                     RELATÓRIO DE VERSÃO CURRICULAR
+
+18/09/2025 18.53.44                                                                                                                    Página 10 de 18
+Pró-reitoria de Graduação
+                                                                      Carga Horária                                                Natureza
+                                                                                                                        Natureza
+                                Atividade Acadêmica                                               Percurso      Grupo                 no      Pré-requisito
+                                                                                                                        no Grupo
+                                                                                                                                   Percurso
+                                                                    Total Teórica Prática
+
+ DIG - ICA319 - FARMACOLOGIA APLICADA A ZOOTECNIA                    45      30     15              01-01         2       OP          OP            -
+                                                                                                    01-02         4       OP          OP            -
+                                                                                                    01-04         5       OP          OP            -
+ DIG - ICA364 - ETICA E RESPONSABILIDADE SOCIAL                      30      30      0              01-01         9       OP          OP         ICA402
+                                                                                                    01-02        11       OP          OP         ICA402
+                                                                                                    01-04         9       OP          OP         ICA402
+ DIG - ICA371 - ESTUDOS ANTROPOLOGICOS                               30      30      0              01-01         9       OP          OP            -
+                                                                                                    01-02        11       OP          OP            -
+                                                                                                    01-04         9       OP          OP            -
+ DIG - ICA402 - DIREITOS HUMANOS                                     60      60      0              01-01         9       OP          OP            -
+                                                                                                    01-02        11       OP          OP            -
+                                                                                                    01-04         9       OP          OP            -
+ DIG - ICA470 - BIOTECNOLOGIA                                        60      45     15              01-01         2       OP          OP            -
+                                                                                                    01-02         4       OP          OP            -
+                                                                                                    01-04         5       OP          OP            -
+ DIG - ICA575 - TECNOLOGIA DE PRODUTOS LÁCTEOS                       60      30     30              01-01         2       OP          OP            -
+                                                                                                    01-02         4       OP          OP            -
+                                                                                                    01-04         5       OP          OP            -
+ DIG - ICA603 - RELAÇÕES ÉTNICO-RACIAIS                              30      30      0              01-01         9       OP          OP            -
+                                                                                                    01-02        11       OP          OP            -
+                                                                                                    01-04         9       OP          OP            -
+ DIG - ICA604 - RELAÇÕES HUMANAS NO TRABALHO                         45      45      0              01-01         9       OP          OP         ICA603
+                                                                                                    01-02        11       OP          OP         ICA603
+                                                                                                    01-04         9       OP          OP         ICA603
+ DIG - ICA625 - HIGIENE EM INDÚSTRIA DE ALIMENTOS                    60      30     30              01-01         2       OP          OP            -
+                                                                                                    01-02         4       OP          OP            -
+                                                                                                    01-04         5       OP          OP            -
+ DIG - ICA630 - TECNOLOGIA DE CARNE, PESCADO E PRODUTOS DERIVADOS    60      30     30              01-01         2       OP          OP            -
+                                                                                                    01-02         4       OP          OP            -
+                                                                                                    01-04         5       OP          OP            -
+ DIG - ICA631 - EMBALAGENS DE ALIMENTOS                              60      30     30              01-01         2       OP          OP            -
+                                                                                                    01-02         4       OP          OP            -
+                                                                                                    01-04         5       OP          OP            -
+ DIG - ICA634 - ANÁLISE SENSORIAL DE ALIMENTOS                       45      15     30              01-01         2       OP          OP            -
+                                                                                                    01-02         4       OP          OP            -
+                                                                                                    01-04         5       OP          OP            -
+ DIG - ICA636 - GESTÃO DA QUALIDADE NA INDÚSTRIA DE ALIMENTOS        60      45     15              01-01         2       OP          OP            -
+                                                                                                    01-02         4       OP          OP            -
+                                                                                                    01-04         5       OP          OP            -
+
+
+
+
+                                                                               RELATÓRIO DE VERSÃO CURRICULAR
+
+18/09/2025 18.53.44                                                                                                                              Página 11 de 18
+Pró-reitoria de Graduação
+                                                                             Carga Horária                                                  Natureza
+                                                                                                                                 Natureza
+                              Atividade Acadêmica                                                          Percurso      Grupo                 no      Pré-requisito
+                                                                                                                                 no Grupo
+                                                                                                                                            Percurso
+                                                                           Total Teórica Prática
+
+ DIG - ICA644 - TECNOLOGIA DE OVOS E MEL                                    45      30     15                01-01         2       OP          OP            -
+                                                                                                             01-02         4       OP          OP            -
+                                                                                                             01-04         5       OP          OP            -
+ DIG - ICA734 - EXTERIOR E JULGAMENTO                                       60      45     15                01-01         2       OP          OP            -
+                                                                                                             01-02         4       OP          OP            -
+                                                                                                             01-04         5       OP          OP            -
+ DIG - ICA735 - EQUIDEOCULTURA                                              45      30     15                01-01         2       OP          OP         ICA752
+                                                                                                             01-02         4       OP          OP         ICA752
+                                                                                                             01-04         5       OP          OP         ICA752
+ DIG - ICA736 - CUNICULTURA                                                 30      30      0                01-01         2       OP          OP         ICA752
+                                                                                                             01-02         4       OP          OP         ICA752
+                                                                                                             01-04         5       OP          OP         ICA752
+ DIG - ICA737 - BUBALINOCULTURA                                             45      45      0                01-01         2       OP          OP            -
+                                                                                                             01-02         4       OP          OP            -
+                                                                                                             01-04         5       OP          OP            -
+ DIG - ICA738 - PRODUÇÃO E CONSERVAÇÃO DE ANIMAIS SILVESTRES                60      45     15                01-01         2       OP          OP            -
+                                                                                                             01-02         4       OP          OP            -
+                                                                                                             01-04         5       OP          OP            -
+ DIG - ICA739 - TÓPICOS ESPECIAIS EM ZOOTECNIA I                            45      0      45                01-01         2       OP          OP            -
+                                                                                                             01-02         4       OP          OP            -
+                                                                                                             01-04         5       OP          OP            -
+ DIG - ICA740 - TÓPICOS ESPECIAIS EM ZOOTECNIA II                           60      0      60                01-01         2       OP          OP            -
+                                                                                                             01-02         4       OP          OP            -
+                                                                                                             01-04         5       OP          OP            -
+ DIG - ICA741 - NUTRIÇÃO E MANEJO EM CONFINAMENTOS DE BOVINOS               45      30     15                01-01         2       OP          OP            -
+                                                                                                             01-02         4       OP          OP            -
+                                                                                                             01-04         5       OP          OP            -
+ DIG - ICA742 - MANEJO SUSTENTÁVEL DE PASTAGENS NO SEMIÁRIDO                45      45      0                01-01         2       OP          OP            -
+                                                                                                             01-02         4       OP          OP            -
+                                                                                                             01-04         5       OP          OP            -
+ DIG - ICA743 - TRATAMENTO E APROVEIT. DE RESÍDUOS DE ATIVID. ZOOTÉCNICA    45      30     15                01-01         2       OP          OP            -
+                                                                                                             01-02         4       OP          OP            -
+                                                                                                             01-04         5       OP          OP            -
+ DIG - ICA744 - MARKETING E AGRONEGÓCIO                                     45      30     15                01-01         2       OP          OP            -
+                                                                                                             01-02         4       OP          OP            -
+                                                                                                             01-04         5       OP          OP            -
+ DIG - ICA745 - COOPERATIVISMO AGRÍCOLA                                     45      45      0                01-01         2       OP          OP            -
+                                                                                                             01-02         4       OP          OP            -
+                                                                                                             01-04         5       OP          OP            -
+
+
+
+
+                                                                                        RELATÓRIO DE VERSÃO CURRICULAR
+
+18/09/2025 18.53.44                                                                                                                                       Página 12 de 18
+Pró-reitoria de Graduação
+                                                                             Carga Horária                                                  Natureza
+                                                                                                                                 Natureza
+                               Atividade Acadêmica                                                         Percurso      Grupo                 no          Pré-requisito
+                                                                                                                                 no Grupo
+                                                                                                                                            Percurso
+                                                                           Total Teórica Prática
+
+ DIG - ICA746 - PISCICULTURA                                                45      30     15                01-01         2       OP          OP             ICA728
+                                                                                                             01-02         4       OP          OP             ICA728
+                                                                                                             01-04         5       OP          OP             ICA728
+ DIG - ICA759 - REDAÇÃO CIENTÍFICA                                          30      15     15                01-01         2       OP          OP                -
+                                                                                                             01-02         4       OP          OP                -
+                                                                                                             01-04         5       OP          OP                -
+ DIG - ICA760 - NUTRIÇÃO, ALIMENTAÇÃO E FORMULAÇÃO DE RAÇÕES PARA           45      30     15                01-01         2       OP          OP      ICA270, ICA728, ICA729
+ SUÍNOS                                                                                                      01-02         4       OP          OP      ICA270, ICA728, ICA729
+                                                                                                             01-04         5       OP          OP      ICA270, ICA728, ICA729
+ DIG - ICA761 - NUTRIÇÃO, ALIMENTAÇÃO E FORMULAÇÃO DE RAÇÕES PARA AVES      45      30     15                01-01         2       OP          OP         ICA749, ICA273
+                                                                                                             01-02         4       OP          OP         ICA749, ICA273
+                                                                                                             01-04         5       OP          OP         ICA749, ICA273
+ DIG - ICA762 - BIOÉTICA NA PRODUÇÃO ANIMAL                                 30      30      0                01-01         2       OP          OP                -
+                                                                                                                           9       OP          OP                -
+                                                                                                             01-02        11       OP          OP                -
+                                                                                                                           4       OP          OP                -
+                                                                                                             01-04         5       OP          OP                -
+                                                                                                                           9       OP          OP                -
+ DIG - ICA763 - NUTRIÇÃO BÁSICA E ALIMENTAÇÃO DE CÃES E GATOS               45      45      0                01-01         2       OP          OP                -
+                                                                                                             01-02         4       OP          OP                -
+                                                                                                             01-04         5       OP          OP                -
+ DIG - ICA764 - NUTRIÇÃO AVANÇADA E ALIMENTAÇÃO DE CÃES E GATOS             45      45      0                01-01         2       OP          OP             ICA763
+                                                                                                             01-02         4       OP          OP             ICA763
+                                                                                                             01-04         5       OP          OP             ICA763
+ DIG - ICA765 - FORMULAÇÃO DE ALIMENTOS PARA CÃES E GATOS                   45      0      45                01-01         2       OP          OP             ICA763
+                                                                                                             01-02         4       OP          OP             ICA763
+                                                                                                             01-04         5       OP          OP             ICA763
+ DIG - ICA766 - EMBALAGEM E ROTULAGEM DE PRODUTOS PARA ANIMAIS DE ESTIM     30      15     15                01-01         2       OP          OP             ICA763
+                                                                                                             01-02         4       OP          OP             ICA763
+                                                                                                             01-04         5       OP          OP             ICA763
+ DIG - ICA767 - AVALIAÇÃO DE CARCAÇAS E QUALIDADE DA CARNE DE RUMINANTES    30      30      0                01-01         2       OP          OP                -
+                                                                                                             01-02         4       OP          OP                -
+                                                                                                             01-04         5       OP          OP                -
+ DIG - ICA768 - BOAS PRÁTICAS AGROPECUÁRIAS NA PRODUÇÃO DE LEITE            30      15     15                01-01         2       OP          OP                -
+                                                                                                             01-02         4       OP          OP                -
+                                                                                                             01-04         5       OP          OP                -
+ DIG - ICA769 - TOXICOLOGIA E PLANTAS TÓXICAS                               45      30     15                01-01         2       OP          OP                -
+                                                                                                             01-02         4       OP          OP                -
+                                                                                                             01-04         5       OP          OP                -
+
+
+
+
+                                                                                        RELATÓRIO DE VERSÃO CURRICULAR
+
+18/09/2025 18.53.45                                                                                                                                            Página 13 de 18
+Pró-reitoria de Graduação
+                                                                      Carga Horária                                                     Natureza
+                                                                                                                             Natureza
+                             Atividade Acadêmica                                                    Percurso         Grupo                 no      Pré-requisito
+                                                                                                                             no Grupo
+                                                                                                                                        Percurso
+                                                                    Total Teórica Prática
+
+ DIG - ICA770 - ENTOMOCULTURA                                        30      15     15                01-01            2       OP          OP            -
+                                                                                                      01-02            4       OP          OP            -
+                                                                                                      01-04            5       OP          OP            -
+ DIG - ICA771 - INGLÊS ACADÊMICO                                     45      45      0                01-01            2       OP          OP            -
+                                                                                                      01-02            4       OP          OP            -
+                                                                                                      01-04            5       OP          OP            -
+ DIG - ICA772 - ENDOCRINOLOGIA E FISIOLOGIA DA LACTAÇÃO              45      45      0                01-01            2       OP          OP         ICA750
+                                                                                                      01-02            4       OP          OP         ICA750
+                                                                                                      01-04            5       OP          OP         ICA750
+ PJG - ICA773 - FORMAÇÃO EM EXTENSÃO I                               60      0      60                01-01           13       OP          OP            -
+                                                                                                      01-02           13       OP          OP            -
+                                                                                                      01-04           13       OP          OP            -
+ PJG - ICA774 - FORMAÇÃO EM EXTENSÃO II                              90      0      90                01-01           13       OP          OP            -
+                                                                                                      01-02           13       OP          OP            -
+                                                                                                      01-04           13       OP          OP            -
+ PJG - ICA775 - FORMAÇÃO EM EXTENSÃO III                            105      0      105               01-01           13       OP          OP            -
+                                                                                                      01-02           13       OP          OP            -
+                                                                                                      01-04           13       OP          OP            -
+ PJG - ICA776 - FORMAÇÃO EM EXTENSÃO IV                             135      0      135               01-01           13       OP          OP            -
+                                                                                                      01-02           13       OP          OP            -
+                                                                                                      01-04           13       OP          OP            -
+ PGG - ICA777 - TÓPICOS COMPLEMENTARES I                             30      30      0                01-01            2       OP          OP            -
+                                                                                                      01-02            4       OP          OP            -
+                                                                                                      01-04            5       OP          OP            -
+ DIG - ICA778 - TÓPICOS AVANÇADOS EM ZOOTECNIA I                     30      30      0                01-04           12       OP          OP            -
+ DIG - ICA779 - TÓPICOS AVANÇADOS EM ZOOTECNIA II                    45      45      0                01-04           12       OP          OP            -
+ DIG - ICA780 - TÓPICOS AVANÇADOS EM ZOOTECNIA III                   60      60      0                01-04           12       OP          OP            -
+ PGG - ICA781 - TÓPICOS COMPLEMENTARES II                            45      45      0                01-01            2       OP          OP            -
+                                                                                                      01-02            4       OP          OP            -
+                                                                                                      01-04            5       OP          OP            -
+ PGG - ICA782 - TÓPICOS COMPLEMENTARES III                           60      60      0                01-01            2       OP          OP            -
+                                                                                                      01-02            4       OP          OP            -
+                                                                                                      01-04            5       OP          OP            -
+ DIG - ICA783 - TÓPICOS EAD EM ZOOTECNIA I                           30      30      0                01-01            2       OP          OP            -
+                                                                                                      01-02            4       OP          OP            -
+                                                                                                      01-04            5       OP          OP            -
+ DIG - ICA784 - TÓPICOS EAD EM ZOOTECNIA II                          45      45      0                01-01            2       OP          OP            -
+                                                                                                      01-02            4       OP          OP            -
+                                                                                                      01-04            5       OP          OP            -
+
+
+
+
+                                                                                 RELATÓRIO DE VERSÃO CURRICULAR
+
+18/09/2025 18.53.45                                                                                                                                   Página 14 de 18
+Pró-reitoria de Graduação
+
+                                     Marcadas de amarelo, já inseridas na planilha de oferta para plano de estudos
+                                                       Carga Horária                                                  Natureza
+                                                                                                           Natureza
+                              Atividade Acadêmica                                    Percurso      Grupo                 no      Pré-requisito
+                                                                                                           no Grupo
+                                                                                                                      Percurso
+                                                     Total Teórica Prática
+
+ DIG - ICA785 - TÓPICOS EAD EM ZOOTECNIA III          60      60      0                01-01         2       OP          OP            -
+                                                                                       01-02         4       OP          OP            -
+                                                                                       01-04         5       OP          OP            -
+ PJG - ICA786 - ATIVIDADES COMPLEMENTARES I           15      0      15                01-01         3       OP          OP            -
+                                                                                       01-02         3       OP          OP            -
+                                                                                       01-04         3       OP          OP            -
+ PJG - ICA787 - ATIVIDADES COMPLEMENTARES II          30      0      30                01-01         3       OP          OP            -
+                                                                                       01-02         3       OP          OP            -
+                                                                                       01-04         3       OP          OP            -
+ PJG - ICA788 - ATIVIDADES COMPLEMENTARES III         45      0      45                01-01         3       OP          OP            -
+                                                                                       01-02         3       OP          OP            -
+                                                                                       01-04         3       OP          OP            -
+ PJG - ICA789 - ATIVIDADES COMPLEMENTARES IV          60      0      60                01-01         3       OP          OP            -
+                                                                                       01-02         3       OP          OP            -
+                                                                                       01-04         3       OP          OP            -
+ DIG - ICA790 - EDUCAÇÃO E INTERPRETAÇÃO AMBIENTAL    45      30     15                01-01         2       OP          OP            -
+                                                                                       01-02         4       OP          OP            -
+                                                                                       01-04         5       OP          OP            -
+ DIG - ICA791 - INFORMÁTICA APLICADA À ZOOTECNIA      45      0      45                01-01         2       OP          OP            -
+                                                                                       01-02         4       OP          OP            -
+                                                                                       01-04         5       OP          OP            -
+ DIG - ICA792 - MATÉRIA ORGÂNICA DO SOLO              45      30     15                01-01         2       OP          OP            -
+                                                                                       01-02         4       OP          OP            -
+                                                                                       01-04         5       OP          OP            -
+ DIG - ICA793 - ADUBOS E ADUBAÇÃO                     60      30     30                01-01         2       OP          OP            -
+                                                                                       01-02         4       OP          OP            -
+                                                                                       01-04         5       OP          OP            -
+ DIG - ICA794 - MAPEAMENTO DIGITAL DE SOLOS           45      30     15                01-01         2       OP          OP            -
+                                                                                       01-02         4       OP          OP            -
+                                                                                       01-04         5       OP          OP            -
+ DIG - ICA795 - LABORATÓRIO DE BIOLOGIA MOLECULAR     60      15     45                01-01         2       OP          OP            -
+                                                                                       01-02         4       OP          OP            -
+                                                                                       01-04         5       OP          OP            -
+ DIG - ICA796 - SISTEMAS AGROFLORESTAIS               45      30     15                01-01         2       OP          OP            -
+                                                                                       01-02         4       OP          OP            -
+                                                                                       01-04         5       OP          OP            -
+ DIG - ICA797 - FORRAGICULTURA APLICADA               45      30     15                01-01         2       OP          OP            -
+                                                                                       01-02         4       OP          OP            -
+                                                                                       01-04         5       OP          OP            -
+
+
+
+
+                                                                  RELATÓRIO DE VERSÃO CURRICULAR
+
+18/09/2025 18.53.45                                                                                                                 Página 15 de 18
+Pró-reitoria de Graduação
+                                                                                            Carga Horária                                                                                               Natureza
+                                                                                                                                                                                           Natureza
+                             Atividade Acadêmica                                                                                Percurso                               Grupo                               no                 Pré-requisito
+                                                                                                                                                                                           no Grupo
+                                                                                                                                                                                                        Percurso
+                                                                                       Total Teórica Prática
+
+ DIG - LET223 - FUNDAMENTOS DE LIBRAS                                                    60      60       0                       01-01                                  2                       OP        OP                        -
+                                                                                                                                  01-02                                  4                       OP        OP                        -
+                                                                                                                                  01-04                                  5                       OP        OP                        -
+ DIG - UNI010 - TOPICOS EM CIENCIAS AGRARIAS                                             45      45       0                       01-01                                  2                       OP        OP                        -
+                                                                                                                                  01-02                                  4                       OP        OP                        -
+                                                                                                                                  01-04                                  5                       OP        OP                        -
+
+
+
+
+Quadro de integralização
+
+                                                                                                                                             Carga horária em   Carga horária em
+                                                               Carga horária de     Carga horária em Carga horária em Carga horária em atividades de formação    atividades de    Carga horária em
+                                        Semestres               matrícula por          atividades    atividades optativa estágio obrigatório  complementar         formação         atividades de                             Total (Carga horária
+              Percurso                                            semestre             obrigatória                                           preestabelecida  complementar aberta  formação livre                                mínima para
+                                                                                                                                                                                                                                integralização)
+
+                               Mínimo     Padrão      Máximo   Mínima   Máxima      Mínima     Máxima       Mínima   Máxima     Mínima     Máxima   Mínima      Máxima         Mínima      Máxima      Mínima      Máxima
+               01-01             10        10           17      225       480        2550       2550          765     765        240        240        0           0             0              0        45          45                  3600
+               01-02             10        10           17      225       480        2550       2550          465     465        240        240        0           0            300            300       45          45                  3600
+               01-04             10        10           17      225       480        2550       2550          765     765        240        240        0           0             0              0        45          45                  3600
+
+
+
+
+Grupos de atividades:
+
+                                                                                                                                                                                     Carga
+                                                                                                                                   Propriedades do grupo não predefinido                                                  Regras
+                                                                                                                                                                                     Horária
+                            Grupo                                                 Percursos
+
+                                                                                                       Natureza do                                         Permite atividades
+                                                                                                                      Predef.
+                                                                                                         Grupo
+                                                                                            Natureza                                Tipo de formação                        Mín.          Máx.        Pré-requisitos               Integralização
+   Identificador                        Nome                             Identificador         no                                                            Do Do próprio
+                                                                                            percurso                                                       próprio percurso
+                                                                                                                                                            curso
+        14                      Estágio Obrigatório                          01-01             OB             EC        Sim                   -               -        -    240           240                 -                            -
+                                                                             01-02             OB
+                                                                             01-04             OB
+        15                    Núcleo Complementar                            01-02             OB             OB       Não         Complementar aberta       Não        Não       300     300                 -                            -
+        16                         Núcleo Geral                              01-01             OB             OB       Não                  Livre            Não        Não          45    45                 -                            -
+                                                                             01-02             OB
+                                                                             01-04             OB
+
+
+
+
+                                                                                                    RELATÓRIO DE VERSÃO CURRICULAR
+
+18/09/2025 18.53.45                                                                                                                                                                                                                Página 16 de 18
+Pró-reitoria de Graduação
+                                                                                                                                                                       Carga
+                                                                                                                            Propriedades do grupo não predefinido                                  Regras
+                                                                                                                                                                       Horária
+                                   Grupo                                       Percursos
+
+                                                                                                    Natureza do                                  Permite atividades
+                                                                                                                  Predef.
+                                                                                                      Grupo
+                                                                                         Natureza                            Tipo de formação                      Mín. Máx.      Pré-requisitos            Integralização
+   Identificador                             Nome                        Identificador      no                                                      Do Do próprio
+                                                                                         percurso                                                 próprio percurso
+                                                                                                                                                   curso
+         1                                 Obrigatórias                      01-01         OB           OB          Sim              -               -        -    2550 2550            -                          -
+                                                                             01-02         OB
+                                                                             01-04         OB
+         6                                  Optativas                        01-01         OB           OB          Sim              -               -        -       765   765         -                          -
+         3                         Atividades Complementares                 01-01         OP           OP          Sim              -               -        -       0     60          -                          -
+                                                                             01-02         OP
+                                                                             01-04         OP
+         9                  Direitos Humanos e Relações Étnico-Raciais       01-01         OB           OB          Sim              -               -        -       120   120         -                          -
+                                                                             01-04         OB
+        13                           Formação em Extensão                    01-01         OB           OB          Sim              -               -        -       270   270         -                          -
+                                                                             01-02         OB
+                                                                             01-04         OB
+         2                               Optativas Gerais                    01-01         OB           OB          Sim              -               -        -       315   375         -                          -
+         7                                  Optativas                        01-02         OB           OB          Sim              -               -        -       465   465         -                          -
+         3                         Atividades Complementares                 01-01         OP           OP          Sim              -               -        -       0     60          -                          -
+                                                                             01-02         OP
+                                                                             01-04         OP
+        11                  Direitos Humanos e Relações Étnico-Raciais       01-02         OB           OB          Sim              -               -        -       90    90          -                          -
+        13                           Formação em Extensão                    01-01         OB           OB          Sim              -               -        -       270   270         -                          -
+                                                                             01-02         OB
+                                                                             01-04         OB
+         4                               Optativas Gerais                    01-02         OB           OB          Sim              -               -        -       45    105         -                          -
+         8                                  Optativas                        01-04         OB           OB          Sim              -               -        -       765   765         -                          -
+         3                         Atividades Complementares                 01-01         OP           OP          Sim              -               -        -       0     60          -                          -
+                                                                             01-02         OP
+                                                                             01-04         OP
+         9                  Direitos Humanos e Relações Étnico-Raciais       01-01         OB           OB          Sim              -               -        -       120   120         -                          -
+                                                                             01-04         OB
+        13                           Formação em Extensão                    01-01         OB           OB          Sim              -               -        -       270   270         -                          -
+                                                                             01-02         OB
+                                                                             01-04         OB
+        12                              Núcleo Avançado                      01-04         OB           OB          Sim              -               -        -       90    90          -                          -
+         5                               Optativas Gerais                    01-04         OB           OB          Sim              -               -        -       225   285         -                          -
+
+
+
+
+Tipos de atividades
+                                                                                                RELATÓRIO DE VERSÃO CURRICULAR
+
+18/09/2025 18.53.45                                                                                                                                                                                         Página 17 de 18
+Pró-reitoria de Graduação
+                            Código                                                           Descrição
+
+  DIG                                DISCIPLINA GRADUAÇÃO
+  PJG                                PROJETO
+  PGG                                PROGRAMA
+  ETG                                ESTÁGIO
+
+
+
+
+Regras curriculares
+ Não há regras curriculares.
+
+
+
+
+                                                            RELATÓRIO DE VERSÃO CURRICULAR
+
+18/09/2025 18.53.45                                                                                      Página 18 de 18
+Pró-reitoria de Graduação
+

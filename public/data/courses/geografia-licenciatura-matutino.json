@@ -1,0 +1,2453 @@
+{
+    "schemaVersion": 2,
+    "id": "geografia-licenciatura-matutino",
+    "meta": {
+        "id": "geografia-licenciatura-matutino",
+        "name": "Geografia",
+        "variant": "Licenciatura · Matutino",
+        "unit": "IGC — Instituto de Geociências",
+        "campus": "Pampulha",
+        "shift": "Matutino",
+        "degree": "Licenciatura",
+        "layout": "versao",
+        "curriculum": "04004 · M-20271",
+        "source": {
+            "kind": "siga-versao-curricular",
+            "url": "https://igc.ufmg.br/wp-content/uploads/2026/10/Versao-Curricular-M-20271_LICENCIATURA-EM-GEOGRAFIA.pdf",
+            "retrievedAt": "2026-11-05T20:54:30.541Z",
+            "note": null
+        },
+        "note": null
+    },
+    "generatedAt": "2026-11-05T21:02:20.714Z",
+    "disciplines": {
+        "CRT010": {
+            "code": "CRT010",
+            "name": "CARTOGRAFIA DE LICENCIATURA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "GEL078": {
+            "code": "GEL078",
+            "name": "FUNDAMENTOS DE GEOLOGIA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "GEO521": {
+            "code": "GEO521",
+            "name": "FORMAÇÃO SÓCIO-TERRITORIAL BRASILEIRA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "GEO522": {
+            "code": "GEO522",
+            "name": "HISTÓRIA DO PENSAMENTO GEOGRÁFICO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "LET223": {
+            "code": "LET223",
+            "name": "FUNDAMENTOS DE LIBRAS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MTE262": {
+            "code": "MTE262",
+            "name": "ESTÁGIO CURRICULAR SUPERVISIONADO I",
+            "type": "ETG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CAE001": {
+            "code": "CAE001",
+            "name": "SOCIOLOGIA DA EDUCAÇÃO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "GEO523": {
+            "code": "GEO523",
+            "name": "FUNDAMENTOS DA EXTENSÃO NA LICENCIATURA EM GEOGRAFIA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "GEO524": {
+            "code": "GEO524",
+            "name": "CLIMATOLOGIA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "GEO525": {
+            "code": "GEO525",
+            "name": "GEOGRAFIA DA POPULAÇÃO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "GEO526": {
+            "code": "GEO526",
+            "name": "GEOGRAFIA E EDUCAÇÃO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ADE003": {
+            "code": "ADE003",
+            "name": "POLÍTICA EDUCACIONAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "GEO527": {
+            "code": "GEO527",
+            "name": "GEOMORFOLOGIA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [
+                "GEL078"
+            ],
+            "scheduled": true
+        },
+        "GEO528": {
+            "code": "GEO528",
+            "name": "GEOGRAFIA ECONÔMICA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "GEO529": {
+            "code": "GEO529",
+            "name": "GEOGRAFIA URBANA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [
+                "GEO521"
+            ],
+            "scheduled": true
+        },
+        "MTE101": {
+            "code": "MTE101",
+            "name": "DIDÁTICA DE LICENCIATURA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CAE002": {
+            "code": "CAE002",
+            "name": "PSICOLOGIA DA EDUC.-APRENDIZAG. E ENSINO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "GEO530": {
+            "code": "GEO530",
+            "name": "PEDOLOGIA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "GEO531": {
+            "code": "GEO531",
+            "name": "GEOGRAFIA AGRÁRIA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [
+                "GEO521"
+            ],
+            "scheduled": true
+        },
+        "GEO532": {
+            "code": "GEO532",
+            "name": "HISTÓRIA DA GEOGRAFIA ESCOLAR",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "GEO522"
+            ],
+            "scheduled": true
+        },
+        "GEO533": {
+            "code": "GEO533",
+            "name": "PROJETOS DE EXTENSÃO EM GEOGRAFIA I",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [
+                "GEO523"
+            ],
+            "scheduled": true
+        },
+        "ADE066": {
+            "code": "ADE066",
+            "name": "GESTÃO ESCOLAR",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "FAE493": {
+            "code": "FAE493",
+            "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "GEO534": {
+            "code": "GEO534",
+            "name": "BIOGEOGRAFIA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [
+                "GEO524"
+            ],
+            "scheduled": true
+        },
+        "GEO535": {
+            "code": "GEO535",
+            "name": "GEOGRAFIA POLÍTICA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "GEO536": {
+            "code": "GEO536",
+            "name": "ESTÁGIO CURRICULAR SUPERVISIONADO II",
+            "type": "ETG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 45,
+                "practice": 30
+            },
+            "prereqs": [
+                "MTE262",
+                "GEO526"
+            ],
+            "scheduled": true
+        },
+        "GEO537": {
+            "code": "GEO537",
+            "name": "PROJETOS DE EXTENSÃO EM GEOGRAFIA II",
+            "type": "DIG",
+            "credits": 6,
+            "hours": {
+                "total": 90,
+                "theory": 45,
+                "practice": 45
+            },
+            "prereqs": [
+                "GEO523"
+            ],
+            "scheduled": true
+        },
+        "GEO538": {
+            "code": "GEO538",
+            "name": "LINGUAGENS NA REPRESENTAÇÃO ESPACIAL EM GEOGRAFIA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [
+                "CRT010"
+            ],
+            "scheduled": true
+        },
+        "GEO539": {
+            "code": "GEO539",
+            "name": "TEORIA DA GEOGRAFIA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [
+                "GEO522"
+            ],
+            "scheduled": true
+        },
+        "GEO540": {
+            "code": "GEO540",
+            "name": "ESPAÇO E INTERCULT. DOS POVOS ORIG. E AFRO-DIASPÓRICOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "GEO541": {
+            "code": "GEO541",
+            "name": "ESPAÇO, POLÍTICA E DIREITOS HUMANOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "GEO542": {
+            "code": "GEO542",
+            "name": "FORMAÇÃO E TRANSFORMAÇÃO DAS PAISAGENS BRASILEIRAS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [
+                "GEO529",
+                "GEO530",
+                "GEO531",
+                "GEO521",
+                "GEO534"
+            ],
+            "scheduled": true
+        },
+        "GEO543": {
+            "code": "GEO543",
+            "name": "ESPAÇO TEMPO E GLOBALIZAÇÃO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MTE263": {
+            "code": "MTE263",
+            "name": "ESTÁGIO CURRICULAR SUPERVISIONADO III",
+            "type": "ETG",
+            "credits": 6,
+            "hours": {
+                "total": 90,
+                "theory": 45,
+                "practice": 45
+            },
+            "prereqs": [
+                "GEO536",
+                "ADE003"
+            ],
+            "scheduled": true
+        },
+        "GEO544": {
+            "code": "GEO544",
+            "name": "QUESTÕES SOCIOAMBIENTAIS CONTEMPORÂNEAS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "GEO545": {
+            "code": "GEO545",
+            "name": "METODOLOGIA DA PESQUISA EM GEOGRAFIA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [
+                "GEO539"
+            ],
+            "scheduled": true
+        },
+        "GEO546": {
+            "code": "GEO546",
+            "name": "PRODUÇÃO E ANÁLISE DE MATERIAIS DIDÁTICOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [
+                "ADE003",
+                "FAE493",
+                "GEO537"
+            ],
+            "scheduled": true
+        },
+        "GEO547": {
+            "code": "GEO547",
+            "name": "ESTÁGIO CURRICULAR SUPERVISIONADO IV",
+            "type": "ETG",
+            "credits": 6,
+            "hours": {
+                "total": 90,
+                "theory": 30,
+                "practice": 60
+            },
+            "prereqs": [
+                "MTE263"
+            ],
+            "scheduled": true
+        },
+        "GEO548": {
+            "code": "GEO548",
+            "name": "TRABALHO DE CONCLUSÃO DE CURSO I",
+            "type": "DIG",
+            "credits": 1,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [
+                "GEO545"
+            ],
+            "scheduled": true
+        },
+        "GEO549": {
+            "code": "GEO549",
+            "name": "EDUCAÇÃO AMBIENTAL: TEORIA, CRÍTICA E PRÁTICAS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MTE264": {
+            "code": "MTE264",
+            "name": "ESTÁGIO CURRICULAR SUPERVISIONADO V",
+            "type": "ETG",
+            "credits": 6,
+            "hours": {
+                "total": 90,
+                "theory": 30,
+                "practice": 60
+            },
+            "prereqs": [
+                "GEO547"
+            ],
+            "scheduled": true
+        },
+        "GEO550": {
+            "code": "GEO550",
+            "name": "PROJETOS DE EXTENSÃO EM GEOGRAFIA III",
+            "type": "DIG",
+            "credits": 8,
+            "hours": {
+                "total": 120,
+                "theory": 45,
+                "practice": 75
+            },
+            "prereqs": [
+                "GEO523"
+            ],
+            "scheduled": true
+        },
+        "GEO551": {
+            "code": "GEO551",
+            "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [
+                "GEO548"
+            ],
+            "scheduled": true
+        },
+        "ADE074": {
+            "code": "ADE074",
+            "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CRT006": {
+            "code": "CRT006",
+            "name": "CARTOGRAFIA DIGITAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CRT017": {
+            "code": "CRT017",
+            "name": "GEOPROCESSAMENTO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAE481": {
+            "code": "FAE481",
+            "name": "TOPICOS DE ENSINO B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "FAE483": {
+            "code": "FAE483",
+            "name": "TOPICOS DE ENSINO D",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO294": {
+            "code": "GEO294",
+            "name": "FITOGEOGRAFIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO372": {
+            "code": "GEO372",
+            "name": "COLÓQUIOS EM GEOGRAFIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO502": {
+            "code": "GEO502",
+            "name": "GEOMORFOLOGIA CÁRSTICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [
+                "GEL078",
+                "GEO527"
+            ],
+            "scheduled": false
+        },
+        "GEO503": {
+            "code": "GEO503",
+            "name": "AMÉRICA LATINA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO504": {
+            "code": "GEO504",
+            "name": "GEOGRAFIA E RECURSOS HÍDRICOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO505": {
+            "code": "GEO505",
+            "name": "GEOGRAFIA CULTURAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO506": {
+            "code": "GEO506",
+            "name": "INSTRUMENTAÇÃO EM GEOMORFOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [
+                "GEO527"
+            ],
+            "scheduled": false
+        },
+        "GEO507": {
+            "code": "GEO507",
+            "name": "LEVANTAMENTO E AVALIAÇÃO DE SOLOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [
+                "GEO527"
+            ],
+            "scheduled": false
+        },
+        "GEO508": {
+            "code": "GEO508",
+            "name": "SOLOS E MEIO AMBIENTE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO509": {
+            "code": "GEO509",
+            "name": "TÓPICOS ESPECIAIS EM GEOGRAFIA I",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO510": {
+            "code": "GEO510",
+            "name": "TÓPICOS ESPECIAIS EM GEOGRAFIA II",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO511": {
+            "code": "GEO511",
+            "name": "GEOMORFOLOGIA E EDUCAÇÃO GEOGRÁFICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO512": {
+            "code": "GEO512",
+            "name": "GEOGRAFIA DE MINAS GERAIS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO513": {
+            "code": "GEO513",
+            "name": "CLIMATOLOGIA E ANÁLISE AMBIENTAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO514": {
+            "code": "GEO514",
+            "name": "GEOMORFOLOGIA FLUVIAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO519": {
+            "code": "GEO519",
+            "name": "SENSORIAMENTO REMOTO APLICADO AO ENSINO DE GEOGRAFIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO520": {
+            "code": "GEO520",
+            "name": "GEOMORFOLOGIA E DINÂMICA DE VERTENTES",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO552": {
+            "code": "GEO552",
+            "name": "TRATAMENTO E ANÁLISE DE DADOS ESPACIAIS NO ENS. DE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [
+                "CRT010"
+            ],
+            "scheduled": false
+        },
+        "GEO553": {
+            "code": "GEO553",
+            "name": "PEDOGEOMORFOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [
+                "GEO530",
+                "GEO527"
+            ],
+            "scheduled": false
+        },
+        "GEO554": {
+            "code": "GEO554",
+            "name": "ARTES E EXPERIÊNCIAS GEOGRÁFICAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO555": {
+            "code": "GEO555",
+            "name": "PRESSÕES E INTERVENÇÕES EM SISTEMAS HIDROGRÁFICOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO556": {
+            "code": "GEO556",
+            "name": "SOLOS ANTRÓPICOS E INTERAÇÕES SOCIOAMBIENTAIS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [
+                "GEO530"
+            ],
+            "scheduled": false
+        },
+        "GEO557": {
+            "code": "GEO557",
+            "name": "A CIDADE E O CINEMA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "GEO529"
+            ],
+            "scheduled": false
+        },
+        "GEO558": {
+            "code": "GEO558",
+            "name": "SISTEMAS ALIMENTARES, TERRITÓRIOS E AGROECOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [
+                "GEO531"
+            ],
+            "scheduled": false
+        },
+        "GEO559": {
+            "code": "GEO559",
+            "name": "CARTOGRAFIA ESCOLAR",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO560": {
+            "code": "GEO560",
+            "name": "PROJETO DE INICIAÇÃO CIENTÍFICA",
+            "type": "PJG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO561": {
+            "code": "GEO561",
+            "name": "PROJETO DE EXTENSÃO",
+            "type": "PJG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO562": {
+            "code": "GEO562",
+            "name": "INICIAÇÃO À DOCÊNCIA",
+            "type": "PGG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO563": {
+            "code": "GEO563",
+            "name": "AUTORIA DE PUBLICAÇÃO",
+            "type": "PJG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO564": {
+            "code": "GEO564",
+            "name": "COAUTORIA DE PUBLICAÇÃO",
+            "type": "PJG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO565": {
+            "code": "GEO565",
+            "name": "APRESENTAÇÃO OU ORGANIZAÇÃO DE EVENTOS",
+            "type": "EVG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO566": {
+            "code": "GEO566",
+            "name": "ATIVIDADE EM ENTIDADES ESTUDANTIS",
+            "type": "EVG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO567": {
+            "code": "GEO567",
+            "name": "ORGANIZAÇÃO E REPRESENTAÇÃO ESTUDANTIL",
+            "type": "EVG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO568": {
+            "code": "GEO568",
+            "name": "ESTÁGIO NÃO-OBRIGATÓRIO",
+            "type": "ETG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO569": {
+            "code": "GEO569",
+            "name": "PARTICIPAÇÃO EM EVENTOS ACADÊMICOS I",
+            "type": "EVG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEO570": {
+            "code": "GEO570",
+            "name": "PARTICIPAÇÃO EM EVENTOS ACADÊMICOS II",
+            "type": "EVG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "IGC034": {
+            "code": "IGC034",
+            "name": "TÓPICOS EM ESTUDOS AVANÇADOS IV",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MTE452": {
+            "code": "MTE452",
+            "name": "TÓPICOS EM PROCESSO DE ENSINO B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        }
+    },
+    "percursos": [
+        {
+            "id": "02-01",
+            "name": "LICENCIATURA/N. GERAL",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "CRT010",
+                        "GEL078",
+                        "GEO521",
+                        "GEO522",
+                        "LET223",
+                        "MTE262"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "CAE001",
+                        "GEO523",
+                        "GEO524",
+                        "GEO525",
+                        "GEO526"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "ADE003",
+                        "GEO527",
+                        "GEO528",
+                        "GEO529",
+                        "MTE101"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "CAE002",
+                        "GEO530",
+                        "GEO531",
+                        "GEO532",
+                        "GEO533"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "ADE066",
+                        "FAE493",
+                        "GEO534",
+                        "GEO535",
+                        "GEO536"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "GEO537",
+                        "GEO538",
+                        "GEO539",
+                        "GEO540"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "GEO541",
+                        "GEO542",
+                        "GEO543",
+                        "MTE263"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "GEO544",
+                        "GEO545",
+                        "GEO546",
+                        "GEO547"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 9,
+                    "codes": [
+                        "GEO548",
+                        "GEO549",
+                        "MTE264"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 10,
+                    "codes": [
+                        "GEO550",
+                        "GEO551"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-02-01-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-01-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-01-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-01-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-01-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-01-06",
+                    "label": "Optativa 6",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-01-07",
+                    "label": "Optativa 7",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "ADE074",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "CRT006",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "CRT017",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE481",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE483",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO294",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO372",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO502",
+                    "group": "11",
+                    "prereqs": [
+                        "GEL078",
+                        "GEO527"
+                    ]
+                },
+                {
+                    "code": "GEO503",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO504",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO505",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO506",
+                    "group": "11",
+                    "prereqs": [
+                        "GEO527"
+                    ]
+                },
+                {
+                    "code": "GEO507",
+                    "group": "11",
+                    "prereqs": [
+                        "GEO527"
+                    ]
+                },
+                {
+                    "code": "GEO508",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO509",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO510",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO511",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO512",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO513",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO514",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO519",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO520",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO552",
+                    "group": "11",
+                    "prereqs": [
+                        "CRT010"
+                    ]
+                },
+                {
+                    "code": "GEO553",
+                    "group": "11",
+                    "prereqs": [
+                        "GEO530",
+                        "GEO527"
+                    ]
+                },
+                {
+                    "code": "GEO554",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO555",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO556",
+                    "group": "11",
+                    "prereqs": [
+                        "GEO530"
+                    ]
+                },
+                {
+                    "code": "GEO557",
+                    "group": "11",
+                    "prereqs": [
+                        "GEO529"
+                    ]
+                },
+                {
+                    "code": "GEO558",
+                    "group": "11",
+                    "prereqs": [
+                        "GEO531"
+                    ]
+                },
+                {
+                    "code": "GEO559",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO560",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO561",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO562",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO563",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO564",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO565",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO566",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO567",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO568",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO569",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO570",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE452",
+                    "group": "10",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "02-01",
+                "semesters": {
+                    "min": 10,
+                    "standard": 10,
+                    "max": 17
+                },
+                "enrollmentHours": {
+                    "min": 195,
+                    "max": 480
+                },
+                "obligatoryHours": {
+                    "min": 2295,
+                    "max": 2295
+                },
+                "optionalHours": {
+                    "min": 420,
+                    "max": 420
+                },
+                "stageHours": {
+                    "min": 405,
+                    "max": 405
+                },
+                "complementaryPresetHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryOpenHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "freeHours": {
+                    "min": 105,
+                    "max": 105
+                },
+                "totalHours": 3225
+            }
+        },
+        {
+            "id": "02-02",
+            "name": "LICENCIATURA/N. COMPLEMENTAR/N. GERAL",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "CRT010",
+                        "GEL078",
+                        "GEO521",
+                        "GEO522",
+                        "LET223",
+                        "MTE262"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "CAE001",
+                        "GEO523",
+                        "GEO524",
+                        "GEO525",
+                        "GEO526"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "ADE003",
+                        "GEO527",
+                        "GEO528",
+                        "GEO529",
+                        "MTE101"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "CAE002",
+                        "GEO530",
+                        "GEO531",
+                        "GEO532",
+                        "GEO533"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "ADE066",
+                        "FAE493",
+                        "GEO534",
+                        "GEO535",
+                        "GEO536"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "GEO537",
+                        "GEO538",
+                        "GEO539",
+                        "GEO540"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "GEO541",
+                        "GEO542",
+                        "GEO543",
+                        "MTE263"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "GEO544",
+                        "GEO545",
+                        "GEO546",
+                        "GEO547"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 9,
+                    "codes": [
+                        "GEO548",
+                        "GEO549",
+                        "MTE264"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 10,
+                    "codes": [
+                        "GEO550",
+                        "GEO551"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-02-02-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-02-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-02-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "ADE074",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "CRT006",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "CRT017",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE481",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE483",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO294",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO372",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO502",
+                    "group": "12",
+                    "prereqs": [
+                        "GEL078",
+                        "GEO527"
+                    ]
+                },
+                {
+                    "code": "GEO503",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO504",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO505",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO506",
+                    "group": "12",
+                    "prereqs": [
+                        "GEO527"
+                    ]
+                },
+                {
+                    "code": "GEO507",
+                    "group": "12",
+                    "prereqs": [
+                        "GEO527"
+                    ]
+                },
+                {
+                    "code": "GEO508",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO509",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO510",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO511",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO512",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO513",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO514",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO519",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO520",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO552",
+                    "group": "12",
+                    "prereqs": [
+                        "CRT010"
+                    ]
+                },
+                {
+                    "code": "GEO553",
+                    "group": "12",
+                    "prereqs": [
+                        "GEO530",
+                        "GEO527"
+                    ]
+                },
+                {
+                    "code": "GEO554",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO555",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO556",
+                    "group": "12",
+                    "prereqs": [
+                        "GEO530"
+                    ]
+                },
+                {
+                    "code": "GEO557",
+                    "group": "12",
+                    "prereqs": [
+                        "GEO529"
+                    ]
+                },
+                {
+                    "code": "GEO558",
+                    "group": "12",
+                    "prereqs": [
+                        "GEO531"
+                    ]
+                },
+                {
+                    "code": "GEO559",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO560",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO561",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO562",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO563",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO564",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO565",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO566",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO567",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO568",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO569",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO570",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE452",
+                    "group": "10",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "02-02",
+                "semesters": {
+                    "min": 10,
+                    "standard": 10,
+                    "max": 17
+                },
+                "enrollmentHours": {
+                    "min": 195,
+                    "max": 480
+                },
+                "obligatoryHours": {
+                    "min": 2295,
+                    "max": 2295
+                },
+                "optionalHours": {
+                    "min": 180,
+                    "max": 180
+                },
+                "stageHours": {
+                    "min": 405,
+                    "max": 405
+                },
+                "complementaryPresetHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryOpenHours": {
+                    "min": 300,
+                    "max": 300
+                },
+                "freeHours": {
+                    "min": 45,
+                    "max": 45
+                },
+                "totalHours": 3225
+            }
+        },
+        {
+            "id": "02-03",
+            "name": "LICENCIATURA/N. AVANÇADO/N. GERAL",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "CRT010",
+                        "GEL078",
+                        "GEO521",
+                        "GEO522",
+                        "LET223",
+                        "MTE262"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "CAE001",
+                        "GEO523",
+                        "GEO524",
+                        "GEO525",
+                        "GEO526"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "ADE003",
+                        "GEO527",
+                        "GEO528",
+                        "GEO529",
+                        "MTE101"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "CAE002",
+                        "GEO530",
+                        "GEO531",
+                        "GEO532",
+                        "GEO533"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "ADE066",
+                        "FAE493",
+                        "GEO534",
+                        "GEO535",
+                        "GEO536"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "GEO537",
+                        "GEO538",
+                        "GEO539",
+                        "GEO540"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "GEO541",
+                        "GEO542",
+                        "GEO543",
+                        "MTE263"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "GEO544",
+                        "GEO545",
+                        "GEO546",
+                        "GEO547"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 9,
+                    "codes": [
+                        "GEO548",
+                        "GEO549",
+                        "MTE264"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 10,
+                    "codes": [
+                        "GEO550",
+                        "GEO551"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-02-03-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-03-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-03-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-03-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-03-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-03-06",
+                    "label": "Optativa 6",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-02-03-07",
+                    "label": "Optativa 7",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "ADE074",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "CRT006",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "CRT017",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE481",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "FAE483",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO294",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO372",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO502",
+                    "group": "12",
+                    "prereqs": [
+                        "GEL078",
+                        "GEO527"
+                    ]
+                },
+                {
+                    "code": "GEO503",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO504",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO505",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO506",
+                    "group": "12",
+                    "prereqs": [
+                        "GEO527"
+                    ]
+                },
+                {
+                    "code": "GEO507",
+                    "group": "12",
+                    "prereqs": [
+                        "GEO527"
+                    ]
+                },
+                {
+                    "code": "GEO508",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO509",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO510",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO511",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO512",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO513",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO514",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO519",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO520",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO552",
+                    "group": "12",
+                    "prereqs": [
+                        "CRT010"
+                    ]
+                },
+                {
+                    "code": "GEO553",
+                    "group": "12",
+                    "prereqs": [
+                        "GEO530",
+                        "GEO527"
+                    ]
+                },
+                {
+                    "code": "GEO554",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO555",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO556",
+                    "group": "12",
+                    "prereqs": [
+                        "GEO530"
+                    ]
+                },
+                {
+                    "code": "GEO557",
+                    "group": "12",
+                    "prereqs": [
+                        "GEO529"
+                    ]
+                },
+                {
+                    "code": "GEO558",
+                    "group": "12",
+                    "prereqs": [
+                        "GEO531"
+                    ]
+                },
+                {
+                    "code": "GEO559",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO560",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO561",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO562",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO563",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO564",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO565",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO566",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO567",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO568",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO569",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEO570",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "IGC034",
+                    "group": "8",
+                    "prereqs": []
+                },
+                {
+                    "code": "MTE452",
+                    "group": "10",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "02-03",
+                "semesters": {
+                    "min": 10,
+                    "standard": 10,
+                    "max": 17
+                },
+                "enrollmentHours": {
+                    "min": 195,
+                    "max": 480
+                },
+                "obligatoryHours": {
+                    "min": 2295,
+                    "max": 2295
+                },
+                "optionalHours": {
+                    "min": 420,
+                    "max": 420
+                },
+                "stageHours": {
+                    "min": 405,
+                    "max": 405
+                },
+                "complementaryPresetHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryOpenHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "freeHours": {
+                    "min": 105,
+                    "max": 105
+                },
+                "totalHours": 3225
+            }
+        }
+    ]
+}

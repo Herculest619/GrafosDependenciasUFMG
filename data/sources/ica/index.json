@@ -1,0 +1,35 @@
+[
+    {
+        "id": "engenharia-de-alimentos",
+        "file": "engenharia-de-alimentos.txt",
+        "url": "https://www.ufmg.br/montesclaros/wp-content/uploads/2024/03/Nova-Grade-Curricular-EAL-2025.pdf",
+        "title": "Engenharia de Alimentos (D-20251)",
+        "format": "siga-versao-curricular",
+        "retrievedAt": "2026-11-05T20:54:30.569Z",
+        "pages": 20,
+        "chars": 116964,
+        "sha256": "d1189ba2e78cf012cac6f2234587a71db2c85926809de31de27008eeec83dd50"
+    },
+    {
+        "id": "zootecnia",
+        "file": "zootecnia.txt",
+        "url": "https://www.ufmg.br/montesclaros/wp-content/uploads/2025/11/Grade-Nova-Zootecnia.pdf",
+        "title": "Zootecnia (D-20261)",
+        "format": "siga-versao-curricular",
+        "retrievedAt": "2026-11-05T20:54:30.574Z",
+        "pages": 19,
+        "chars": 112185,
+        "sha256": "de2fff9bcd687874366c131223b185b99ebc47cbb98cf6de9cf0bdcd6dc89ba2"
+    },
+    {
+        "id": "aquacultura",
+        "file": "aquacultura.txt",
+        "url": "https://vet.ufmg.br/wp-content/uploads/2023/03/Versao-curricular-D2023-1.pdf",
+        "title": "Aquacultura (D2023-1)",
+        "format": "siga-versao-curricular",
+        "retrievedAt": "2026-11-05T20:54:30.577Z",
+        "pages": 16,
+        "chars": 95819,
+        "sha256": "93dbee14d90d2d579bee12dd85aa00abd23f645d741161a2b2dc8703a49ad434"
+    }
+]

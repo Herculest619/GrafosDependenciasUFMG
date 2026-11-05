@@ -1,0 +1,13 @@
+[
+    {
+        "id": "medicina",
+        "file": "medicina.txt",
+        "url": "https://www.medicina.ufmg.br/wp-content/uploads/sites/102/2024/09/Versao-Curricular-2021-2.pdf",
+        "title": "Medicina (I-20212)",
+        "format": "siga-versao-curricular",
+        "retrievedAt": "2026-11-05T20:54:30.565Z",
+        "pages": 18,
+        "chars": 121115,
+        "sha256": "f5d250a825585ac75991c1712c380f98b678e9ac52293189e8f0394402bdeaf0"
+    }
+]

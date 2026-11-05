@@ -27,6 +27,9 @@ const UNIT_DEFAULTS = {
     eci: { unit: 'ECI — Escola de Ciência da Informação', campus: 'Pampulha' },
     fae: { unit: 'FAE — Faculdade de Educação', campus: 'Pampulha' },
     fisica: { unit: 'ICEx — Departamento de Física', campus: 'Pampulha' },
+    igc: { unit: 'IGC — Instituto de Geociências', campus: 'Pampulha' },
+    medicina: { unit: 'Faculdade de Medicina', campus: 'Saúde' },
+    ica: { unit: 'ICA — Instituto de Ciências Agrárias', campus: 'Montes Claros' },
 }
 
 function unitDefaults(file) {
@@ -232,6 +235,90 @@ const COURSES = [
             curriculum: 'Matriz 2018 (noturno)',
         },
     },
+    {
+        kind: 'siga',
+        file: 'igc/geografia-licenciatura-matutino.txt',
+        sourceId: 'igc/geografia-licenciatura-matutino',
+        options: {
+            id: 'geografia-licenciatura-matutino',
+            name: 'Geografia',
+            variant: 'Licenciatura · Matutino',
+            degree: 'Licenciatura',
+            shift: 'Matutino',
+        },
+    },
+    {
+        kind: 'siga',
+        file: 'igc/geografia-licenciatura-noturno.txt',
+        sourceId: 'igc/geografia-licenciatura-noturno',
+        options: {
+            id: 'geografia-licenciatura-noturno',
+            name: 'Geografia',
+            variant: 'Licenciatura · Noturno',
+            degree: 'Licenciatura',
+            shift: 'Noturno',
+        },
+    },
+    {
+        kind: 'siga',
+        file: 'igc/turismo.txt',
+        sourceId: 'igc/turismo',
+        options: {
+            id: 'turismo',
+            name: 'Turismo',
+            variant: 'Bacharelado · Diurno',
+            degree: 'Bacharelado',
+            shift: 'Diurno',
+        },
+    },
+    {
+        kind: 'siga',
+        file: 'medicina/medicina.txt',
+        sourceId: 'medicina/medicina',
+        options: {
+            id: 'medicina',
+            name: 'Medicina',
+            variant: 'Bacharelado · Integral',
+            degree: 'Bacharelado',
+            shift: 'Integral',
+        },
+    },
+    {
+        kind: 'siga',
+        file: 'ica/engenharia-de-alimentos.txt',
+        sourceId: 'ica/engenharia-de-alimentos',
+        options: {
+            id: 'engenharia-de-alimentos',
+            name: 'Engenharia de Alimentos',
+            variant: 'Bacharelado · Diurno',
+            degree: 'Bacharelado',
+            shift: 'Diurno',
+        },
+    },
+    {
+        kind: 'siga',
+        file: 'ica/zootecnia.txt',
+        sourceId: 'ica/zootecnia',
+        options: {
+            id: 'zootecnia',
+            name: 'Zootecnia',
+            variant: 'Bacharelado · Diurno',
+            degree: 'Bacharelado',
+            shift: 'Diurno',
+        },
+    },
+    {
+        kind: 'siga',
+        file: 'ica/aquacultura.txt',
+        sourceId: 'ica/aquacultura',
+        options: {
+            id: 'aquacultura',
+            name: 'Aquacultura',
+            variant: 'Bacharelado · Diurno',
+            degree: 'Bacharelado',
+            shift: 'Diurno',
+        },
+    },
 ]
 
 function readJson(path, fallback = null) {
@@ -250,7 +337,7 @@ function loadSourceMetadata() {
     for (const entry of main) map.set(entry.id, entry)
 
     // Índices por unidade (Farmácia, ECI, FAE): ids prefixados com o diretório
-    for (const unit of ['farmacia', 'eci', 'fae', 'fisica']) {
+    for (const unit of ['farmacia', 'eci', 'fae', 'fisica', 'igc', 'medicina', 'ica']) {
         const index = readJson(join(SOURCES_DIR, unit, 'index.json'), []) ?? []
         for (const entry of index) {
             if (!entry?.id) continue

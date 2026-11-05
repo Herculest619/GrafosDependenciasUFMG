@@ -1,0 +1,611 @@
+                              UNIVERSIDADE FEDERAL DE MINAS GERAIS
+                              Configuração Curricular
+                              Pró-reitoria de Graduação
+
+                                                                                      Relatório de versão curricular
+
+
+Curso:         04003 - TURISMO                                                                                         Versão curricular:        D-20221
+
+
+Situação:      Liberada
+
+
+Carga horária mínima para mudança de opção de vinculação:                       -                                      Período mínimo para mudança de opção de vinculação:   2
+
+
+
+
+Disponibilidade nas subdivisões do curso:
+
+
+                                                                      É versão para                                                         Percurso padrão
+                                                                                       Modalidade
+                            Subdivisão de Curso                       vinculação de
+                                                                                      Educacional
+                                                                      ingressantes
+                                                                                                       Identificador                                          Nome
+
+    04003PD001/Presencial/DIURNO                                          Não          Presencial          01-01       BACHARELADO/FORMAÇÃO LIVRE
+
+Observações:
+
+-
+
+
+
+
+Percursos curriculares que compõem a versão:
+
+                  Identificador                                                                                             Nome
+
+    01                                            BACHARELADO - (M)
+    01-02                                         ---BACHARELADO/FORMAÇÃO COMPLEMENTAR ABERTA/FORMAÇÃO LIVRE
+    01-01                                         ---BACHARELADO/FORMAÇÃO LIVRE
+
+
+
+
+Atividades acadêmicas:
+                                                                                              RELATÓRIO DE VERSÃO CURRICULAR
+
+21/12/2021 15.14.44                                                                                                                                                              Página 1 de 11
+Pró-reitoria de Graduação
+Tabela organizada por sugestão de período definido na versão curricular
+
+
+
+  1º PERÍODO
+
+                                                                                                                            Sugestão
+                                                                          Créditos       Carga Horária
+                                                                                                                           de período           Natureza Natureza
+                                 Atividade Acadêmica                                                            Percurso   específica   Grupo      no       no      Pré-requisitos
+                                                                                                                               do                grupo   percurso
+                                                                          Mín. Máx.   Total   Teórica Prática
+                                                                                                                            percurso
+   DIG - ECN101 - ECONOMIA A I                                             4    4      60       60       0       01-01         -          6        OB       OB             -
+                                                                                                                 01-02         -          6        OB       OB             -
+   DIG - GEO406 - INTRODUÇÃO AO ESTUDO DO TURISMO                          4    4      60       48      12       01-01         -          6        OB       OB             -
+                                                                                                                 01-02         -          6        OB       OB             -
+   DIG - GEO428 - SOCIOLOGIA DO TURISMO                                    4    4      60       60       0       01-01         -          6        OB       OB             -
+                                                                                                                 01-02         -          6        OB       OB             -
+   DIG - GEO687 - GEOGRAFIA: ESPAÇO E NATUREZA                             4    4      60       60       0       01-01         -          6        OB       OB             -
+                                                                                                                 01-02         -          6        OB       OB             -
+   DIG - HIS229 - HISTORIA ECONOMICA GERAL E DO BRASIL                     4    4      60       60       0       01-01         -          6        OB       OB             -
+                                                                                                                 01-02         -          6        OB       OB             -
+   DIG - UNI001 - INGLÊS INSTRUMENTAL I                                    4    4      60       60       0       01-01         -          6        OB       OB             -
+                                                                                                                 01-02         -          6        OB       OB             -
+
+
+
+  2º PERÍODO
+
+                                                                                                                            Sugestão
+                                                                          Créditos       Carga Horária
+                                                                                                                           de período           Natureza Natureza
+                                 Atividade Acadêmica                                                            Percurso   específica   Grupo      no       no      Pré-requisitos
+                                                                                                                               do                grupo   percurso
+                                                                          Mín. Máx.   Total   Teórica Prática
+                                                                                                                            percurso
+   DIG - CAD034 - INTRODUCAO A ADMINISTRACAO                               4    4      60       60       0       01-01         -          6        OB       OB             -
+                                                                                                                 01-02         -          6        OB       OB             -
+   DIG - CRT007 - ELEMENTOS DE CARTOGRAFIA                                 4    4      60       30      30       01-01         -          6        OB       OB             -
+                                                                                                                 01-02         -          6        OB       OB             -
+   DIG - GEO407 - TEORIAS DO TURISMO                                       4    4      60       50      10       01-01         -          6        OB       OB             -
+                                                                                                                 01-02         -          6        OB       OB             -
+   DIG - GEO429 - INTRODUÇÃO À PESQUISA CIENTÍFICA                         4    4      60       50      10       01-01         -          6        OB       OB             -
+                                                                                                                 01-02         -          6        OB       OB             -
+   DIG - HIS185 - HISTORIA DA ARTE BRASILEIRA                              4    4      60       60       0       01-01         -          6        OB       OB             -
+                                                                                                                 01-02         -          6        OB       OB             -
+
+
+
+
+                                                                                    RELATÓRIO DE VERSÃO CURRICULAR
+
+21/12/2021 15.14.44                                                                                                                                                  Página 2 de 11
+Pró-reitoria de Graduação
+  3º PERÍODO
+
+                                                                                                                          Sugestão
+                                                                       Créditos        Carga Horária
+                                                                                                                         de período           Natureza Natureza
+                                    Atividade Acadêmica                                                       Percurso   específica   Grupo      no       no           Pré-requisitos
+                                                                                                                             do                grupo   percurso
+                                                                       Mín. Máx.    Total   Teórica Prática
+                                                                                                                          percurso
+   DIG - CAD035 - ADMINISTRACAO E INSTRUMENTOS GERENCIAIS               4    4        60      60       0       01-01         -          6        OB       OB                  -
+                                                                                                               01-02         -          6        OB       OB                  -
+   DIG - COM605 - COMUNICACAO E CULTURA                                 4    4        60      30      30       01-01         -          6        OB       OB                  -
+                                                                                                               01-02         -          6        OB       OB                  -
+   DIG - GEO408 - PLANEJAMENTO TERRITORIAL DO TURISMO                   4    4        60      28      32       01-01         -          6        OB       OB                  -
+                                                                                                               01-02         -          6        OB       OB                  -
+   DIG - GEO688 - GEOGRAFIA URBANA                                      4    4        60      45      15       01-01         -          6        OB       OB                  -
+                                                                                                               01-02         -          6        OB       OB                  -
+   DIG - LEG041 - INGLES TECNICO                                        4    4        60      60       0       01-01         -          6        OB       OB                  -
+                                                                                                               01-02         -          6        OB       OB                  -
+
+
+
+  4º PERÍODO
+
+                                                                                                                          Sugestão
+                                                                       Créditos        Carga Horária
+                                                                                                                         de período           Natureza Natureza
+                                    Atividade Acadêmica                                                       Percurso   específica   Grupo      no       no           Pré-requisitos
+                                                                                                                             do                grupo   percurso
+                                                                       Mín. Máx.    Total   Teórica Prática
+                                                                                                                          percurso
+   DIG - COM094 - PLANEJAMENTO EM COMUNICACAO                           4    4        60      60       0       01-01         -          6        OB       OB                  -
+                                                                                                               01-02         -          6        OB       OB                  -
+   DIG - EFI037 - TEORIA DO LAZER                                       3    3        45      45       0       01-01         -          6        OB       OB                  -
+                                                                                                               01-02         -          6        OB       OB                  -
+   DIG - GEO409 - MARKETING DE SERVIÇOS E DESTINOS TURÍSTICOS           4    4        60      30      30       01-01         -          6        OB       OB                  -
+                                                                                                               01-02         -          6        OB       OB                  -
+   DIG - GEO430 - MÉTODOS QUANTITATIVOS APLICADOS AO TURISMO            4    4        60      50      10       01-01         -          6        OB       OB                  -
+                                                                                                               01-02         -          6        OB       OB                  -
+   DIG - LER027 - ESPANHOL PARA TURISMO                                 4    4        60      60       0       01-01         -          6        OB       OB                  -
+                                                                                                               01-02         -          6        OB       OB                  -
+
+
+
+                                                                              Carga horária adicional do período
+
+             Percurso                                                              Grupo de atividades                                                     Carga Horária
+   01-01                       04003-D-20221-1 - OPTATIVAS - TURISMO                                                                                              60
+   01-02                       04003-D-20221-7 - OPTATIVAS - TURISMO                                                                                              60
+
+
+
+
+                                                                                 RELATÓRIO DE VERSÃO CURRICULAR
+
+21/12/2021 15.14.44                                                                                                                                                     Página 3 de 11
+Pró-reitoria de Graduação
+  5º PERÍODO
+
+                                                                                                                              Sugestão
+                                                                          Créditos         Carga Horária
+                                                                                                                             de período           Natureza Natureza
+                              Atividade Acadêmica                                                                 Percurso   específica   Grupo      no       no            Pré-requisitos
+                                                                                                                                 do                grupo   percurso
+                                                                          Mín. Máx.     Total   Teórica Prática
+                                                                                                                              percurso
+   DIG - GEO500 - ESTÁGIO CURRICULAR DE PESQUISA                              8   8      120      24      96       01-01         -          6        OB       OB               GEO429
+                                                                                                                   01-02         -          6        OB       OB               GEO429
+
+
+
+                                                                                   Carga horária adicional do período
+
+             Percurso                                                                  Grupo de atividades                                                     Carga Horária
+                            04003-D-20221-5 - FORMAÇÃO LIVRE                                                                                                          120
+   01-01
+                            04003-D-20221-1 - OPTATIVAS - TURISMO                                                                                                     60
+                            04003-D-20221-11 - FORMAÇÃO COMPLEMENTAR ABERTA                                                                                           120
+   01-02                    04003-D-20221-10 - FORMAÇÃO LIVRE                                                                                                         60
+                            04003-D-20221-7 - OPTATIVAS - TURISMO                                                                                                     60
+
+
+
+  6º PERÍODO
+
+                                                                                                                              Sugestão
+                                                                          Créditos         Carga Horária
+                                                                                                                             de período           Natureza Natureza
+                              Atividade Acadêmica                                                                 Percurso   específica   Grupo      no       no            Pré-requisitos
+                                                                                                                                 do                grupo   percurso
+                                                                          Mín. Máx.     Total   Teórica Prática
+                                                                                                                              percurso
+   DIG - GEO575 - ESTÁGIO SUPERVISIONADO                                  12      12     180       8      172      01-01         -          6        OB       OB                   -
+                                                                                                                   01-02         -          6        OB       OB                   -
+
+
+
+                                                                                   Carga horária adicional do período
+
+             Percurso                                                                  Grupo de atividades                                                     Carga Horária
+   01-01                    04003-D-20221-1 - OPTATIVAS - TURISMO                                                                                                     180
+                            04003-D-20221-11 - FORMAÇÃO COMPLEMENTAR ABERTA                                                                                           60
+   01-02
+                            04003-D-20221-7 - OPTATIVAS - TURISMO                                                                                                     120
+
+
+
+
+                                                                                      RELATÓRIO DE VERSÃO CURRICULAR
+
+21/12/2021 15.14.44                                                                                                                                                          Página 4 de 11
+Pró-reitoria de Graduação
+  7º PERÍODO
+
+                                                                                                                                   Sugestão
+                                                                               Créditos         Carga Horária
+                                                                                                                                  de período           Natureza Natureza
+                                  Atividade Acadêmica                                                                  Percurso   específica   Grupo      no       no            Pré-requisitos
+                                                                                                                                      do                grupo   percurso
+                                                                               Mín. Máx.     Total   Teórica Prática
+                                                                                                                                   percurso
+   DIG - GEO431 - MONOGRAFIA I                                                     4   4       60      18      42       01-01         -          6        OB       OB               GEO500
+                                                                                                                        01-02         -          6        OB       OB               GEO500
+
+
+
+                                                                                       Carga horária adicional do período
+
+             Percurso                                                                       Grupo de atividades                                                     Carga Horária
+   01-01                         04003-D-20221-1 - OPTATIVAS - TURISMO                                                                                                     240
+                                 04003-D-20221-11 - FORMAÇÃO COMPLEMENTAR ABERTA                                                                                           60
+   01-02
+                                 04003-D-20221-7 - OPTATIVAS - TURISMO                                                                                                     180
+
+
+
+  8º PERÍODO
+
+                                                                                                                                   Sugestão
+                                                                               Créditos         Carga Horária
+                                                                                                                                  de período           Natureza Natureza
+                                  Atividade Acadêmica                                                                  Percurso   específica   Grupo      no       no            Pré-requisitos
+                                                                                                                                      do                grupo   percurso
+                                                                               Mín. Máx.     Total   Teórica Prática
+                                                                                                                                   percurso
+   DIG - GEO432 - MONOGRAFIA II                                                    4   4       60      18      42       01-01         -          6        OB       OB               GEO431
+                                                                                                                        01-02         -          6        OB       OB               GEO431
+
+
+
+                                                                                       Carga horária adicional do período
+
+             Percurso                                                                       Grupo de atividades                                                     Carga Horária
+   01-01                         04003-D-20221-1 - OPTATIVAS - TURISMO                                                                                                     225
+                                 04003-D-20221-11 - FORMAÇÃO COMPLEMENTAR ABERTA                                                                                           60
+   01-02
+                                 04003-D-20221-7 - OPTATIVAS - TURISMO                                                                                                     105
+
+
+
+
+ATIVIDADES DE ESTÁGIO CURRICULAR OBRIGATÓRIO:
+ Não existem atividades acadêmicas de estágio curricular obrigatório.
+
+
+
+
+                                                                                           RELATÓRIO DE VERSÃO CURRICULAR
+
+21/12/2021 15.14.45                                                                                                                                                               Página 5 de 11
+Pró-reitoria de Graduação
+ATIVIDADES SEM PERÍODO SUGERIDO:
+
+                                                             Carga Horária                                                  Natureza
+                                                                                                                 Natureza
+                              Atividade Acadêmica                                          Percurso      Grupo                 no      Pré-requisito
+                                                                                                                 no Grupo
+                                                                                                                            Percurso
+                                                           Total Teórica Prática
+
+ DIG - CAD036 - PLANEJAMENTO ESTRATEGICO DO TURISMO         60      30     30                01-01         2       OP          OP            -
+                                                                                             01-02         8       OP          OP            -
+ DIG - CRT008 - CARTOGRAFIA MULTIMIDIA                      60      30     30                01-01         2       OP          OP        CRT007
+                                                                                             01-02         8       OP          OP        CRT007
+ DIG - DCP022 - INTROD. AO PENSAMENTO POLITICO CLASSICO     60      60      0                01-01         3       OP          OP            -
+                                                                                             01-02         9       OP          OP            -
+ DIG - EFI038 - CONTEUDOS CULTURAIS DO LAZER                30      15     15                01-01         2       OP          OP            -
+                                                                                             01-02         8       OP          OP            -
+ DIG - EFI039 - FORMACAO/ATUACAO PROFISSIONAL NO LAZER      30      15     15                01-01         2       OP          OP            -
+                                                                                             01-02         8       OP          OP            -
+ DIG - FIL028 - INTRODUCAO A FILOSOFIA: ETICA               60      60      0                01-01         3       OP          OP            -
+                                                                                             01-02         9       OP          OP            -
+ DIG - GEL044 - GEOL.E MINERACAO NO POTENC. TURIST.DE MG    60      45     15                01-01         2       OP          OP            -
+                                                                                             01-02         8       OP          OP            -
+ DIG - GEL045 - GEOLOGIA COMO ATRATIVO TURISTICO            60      45     15                01-01         2       OP          OP            -
+                                                                                             01-02         8       OP          OP            -
+ DIG - GEO035 - GEOGRAFIA DE MINAS GERAIS                   60      30     30                01-01         2       OP          OP            -
+                                                                                             01-02         8       OP          OP            -
+ DIG - GEO036 - GEOGRAFIA E TURISMO                         60      30     30                01-01         2       OP          OP            -
+                                                                                             01-02         8       OP          OP            -
+ DIG - GEO037 - INTERPRETACAO GEO-AMBIENTAL                 60      30     30                01-01         2       OP          OP            -
+                                                                                             01-02         8       OP          OP            -
+ DIG - GEO047 - TOPICOS EM PLANEJAMENTO DO TURISMO I        60      30     30                01-01         2       OP          OP            -
+                                                                                             01-02         8       OP          OP            -
+ DIG - GEO048 - TOPICOS EM PLANEJAMENTO DO TURISMO II       60      30     30                01-01         2       OP          OP            -
+                                                                                             01-02         8       OP          OP            -
+ 03G - GEO378 - PROJETOS DE EXTENSÃO IV                     60      0      60                01-01         4       OP          OP            -
+                                                                                             01-02         4       OP          OP            -
+ 05G - GEO383 - PUBLICAÇÃO DE ARTIGOS EM PERIÓDICOS         15      0      15                01-01         4       OP          OP            -
+                                                                                             01-02         4       OP          OP            -
+ 11G - GEO384 - APRESENTAÇÃO DE TRABALHOS CIENTÍFICOS       30      0      30                01-01         4       OP          OP            -
+                                                                                             01-02         4       OP          OP            -
+ 15G - GEO385 - ORGANIZAÇÃO DE EVENTOS                      30      0      30                01-01         4       OP          OP            -
+                                                                                             01-02         4       OP          OP            -
+ 04G - GEO386 - PARTICIPAÇÃO EM EVENTOS I (OUVINTE)         15      0      15                01-01         4       OP          OP            -
+                                                                                             01-02         4       OP          OP            -
+
+
+
+                                                                        RELATÓRIO DE VERSÃO CURRICULAR
+
+21/12/2021 15.14.45                                                                                                                         Página 6 de 11
+Pró-reitoria de Graduação
+                                                                           Carga Horária                                                  Natureza
+                                                                                                                               Natureza
+                              Atividade Acadêmica                                                        Percurso      Grupo                 no      Pré-requisito
+                                                                                                                               no Grupo
+                                                                                                                                          Percurso
+                                                                         Total Teórica Prática
+
+  04G - GEO387 - PARTICIPAÇÃO EM EVENTOS II (OUVINTE)                     30      0      30                01-01         4       OP          OP            -
+                                                                                                           01-02         4       OP          OP            -
+  11G - GEO388 - APRENDIZAGEM COMPLEMENTAR EM INSTITUIÇÕES CONVENIADAS    15      15      0                01-01         4       OP          OP            -
+ I                                                                                                         01-02         4       OP          OP            -
+  11G - GEO389 - APRENDIZAGEM COMPLEMENTAR EM INSTITUIÇÕES CONVENIADAS    30      30      0                01-01         4       OP          OP            -
+ II                                                                                                        01-02         4       OP          OP            -
+  11G - GEO390 - APRENDIZAGEM COMPLEMENTAR EM INSTITUIÇÕES CONVENIADAS    45      45      0                01-01         4       OP          OP            -
+ III                                                                                                       01-02         4       OP          OP            -
+  11G - GEO391 - APRENDIZAGEM COMPLEMENTAR EM INSTITUIÇÕES CONVENIADAS    60      60      0                01-01         4       OP          OP            -
+ IV                                                                                                        01-02         4       OP          OP            -
+  DIG - GEO392 - TÓPICOS AVANÇADOS I                                      30      30      0                01-01         2       OP          OP            -
+                                                                                                           01-02         8       OP          OP            -
+  DIG - GEO393 - TÓPICOS AVANÇADOS II                                     60      60      0                01-01         2       OP          OP            -
+                                                                                                           01-02         8       OP          OP            -
+  09G - GEO394 - VIVÊNCIA PROFISSIONAL COMPLEMENTAR                       60      0      60                01-01         4       OP          OP            -
+                                                                                                           01-02         4       OP          OP            -
+  11G - GEO395 - EXPERIÊNCIAS PESSOAIS PROGRAMADAS I                      15      0      15                01-01         4       OP          OP            -
+                                                                                                           01-02         4       OP          OP            -
+  11G - GEO396 - EXPERIÊNCIAS PESSOAIS PROGRAMADAS II                     30      0      30                01-01         4       OP          OP            -
+                                                                                                           01-02         4       OP          OP            -
+  02G - GEO397 - INICIAÇÃO A DOCÊNCIA                                     60      0      60                01-01         4       OP          OP            -
+                                                                                                           01-02         4       OP          OP            -
+  03G - GEO398 - PROJETOS DE EXTENSÃO I                                   15      0      15                01-01         4       OP          OP            -
+                                                                                                           01-02         4       OP          OP            -
+  03G - GEO399 - PROJETOS DE EXTENSÃO II                                  30      0      30                01-01         4       OP          OP            -
+                                                                                                           01-02         4       OP          OP            -
+  03G - GEO400 - PROJETOS DE EXTENSÃO III                                 45      0      45                01-01         4       OP          OP            -
+                                                                                                           01-02         4       OP          OP            -
+  08G - GEO401 - ATIVIDADES ACADÊMICAS A DISTÂNCIA I                      15      15      0                01-01         4       OP          OP            -
+                                                                                                           01-02         4       OP          OP            -
+  08G - GEO402 - ATIVIDADES ACADÊMICAS A DISTÂNCIA II                     30      30      0                01-01         4       OP          OP            -
+                                                                                                           01-02         4       OP          OP            -
+  08G - GEO403 - ATIVIDADES ACADÊMICAS A DISTÂNCIA III                    45      45      0                01-01         4       OP          OP            -
+                                                                                                           01-02         4       OP          OP            -
+  08G - GEO404 - ATIVIDADES ACADÊMICAS A DISTÂNCIA IV                     60      60      0                01-01         4       OP          OP            -
+                                                                                                           01-02         4       OP          OP            -
+  DIG - GEO410 - CULINÁRIA, GASTRONOMIA E TURISMO                         60      30     30                01-01         2       OP          OP            -
+                                                                                                           01-02         8       OP          OP            -
+  DIG - GEO411 - ELABORAÇÃO E FORMATAÇÃO DE ROTEIROS TURÍSTICOS           60      30     30                01-01         2       OP          OP            -
+                                                                                                           01-02         8       OP          OP            -
+
+
+
+                                                                                      RELATÓRIO DE VERSÃO CURRICULAR
+
+21/12/2021 15.14.45                                                                                                                                       Página 7 de 11
+Pró-reitoria de Graduação
+                                                                            Carga Horária                                                  Natureza
+                                                                                                                                Natureza
+                              Atividade Acadêmica                                                         Percurso      Grupo                 no      Pré-requisito
+                                                                                                                                no Grupo
+                                                                                                                                           Percurso
+                                                                          Total Teórica Prática
+
+ DIG - GEO412 - OPERADORAS TURÍSTICAS, AGÊNCIAS DE VIAGEM E TURISMO        60      48     12                01-01         2       OP          OP            -
+                                                                                                            01-02         8       OP          OP            -
+ DIG - GEO413 - MEIOS DE HOSPEDAGEM, HOSPITALIDADE E TURISMO               60      30     30                01-01         2       OP          OP            -
+                                                                                                            01-02         8       OP          OP            -
+ DIG - GEO414 - TÓPICOS EM GESTÃO DO TURISMO I                             60      30     30                01-01         2       OP          OP            -
+                                                                                                            01-02         8       OP          OP            -
+ DIG - GEO415 - TÓPICOS EM GESTÃO DO TURISMO II                            60      30     30                01-01         2       OP          OP            -
+                                                                                                            01-02         8       OP          OP            -
+ DIG - GEO416 - TURISMO E CULTURA                                          60      30     30                01-01         2       OP          OP            -
+                                                                                                            01-02         8       OP          OP            -
+ DIG - GEO417 - TURISMO E DESENVOLVIMENTO REGIONAL                         60      30     30                01-01         2       OP          OP            -
+                                                                                                            01-02         8       OP          OP            -
+ DIG - GEO418 - TURISMO EM ESPAÇO RURAL                                    60      30     30                01-01         2       OP          OP            -
+                                                                                                            01-02         8       OP          OP            -
+ DIG - GEO419 - TURISMO E EVENTOS                                          60      30     30                01-01         2       OP          OP            -
+                                                                                                            01-02         8       OP          OP            -
+ DIG - GEO420 - TURISMO E MUSEUS                                           60      48     12                01-01         2       OP          OP            -
+                                                                                                            01-02         8       OP          OP            -
+ 03G - GEO421 - INICIAÇÃO A PESQUISA I                                     60      0      60                01-01         4       OP          OP            -
+                                                                                                            01-02         4       OP          OP            -
+ DIG - GEO425 - TURISMO, NATUREZA E EDUCAÇÃO                               60      30     30                01-01         2       OP          OP            -
+                                                                                                            01-02         8       OP          OP            -
+ DIG - GEO426 - TENDÊNCIAS DO TURISMO CONTEMPORÂNEO                        30      15     15                01-01         2       OP          OP            -
+                                                                                                            01-02         8       OP          OP            -
+ DIG - GEO427 - TURISMO E MEIO AMBIENTE                                    60      28     32                01-01         2       OP          OP            -
+                                                                                                            01-02         8       OP          OP            -
+ DIG - GEO433 - COMUNIDADE, TERRITÓRIO E TURISMO                           60      30     30                01-01         2       OP          OP            -
+                                                                                                            01-02         8       OP          OP            -
+ DIG - GEO434 - ECONOMIA DO TURISMO                                        60      50     10                01-01         2       OP          OP            -
+                                                                                                            01-02         8       OP          OP            -
+ DIG - GEO435 - ELABORAÇÃO E ANÁLISE DE PROJETOS TURÍSTICOS E CULTURAIS    60      40     20                01-01         2       OP          OP            -
+                                                                                                            01-02         8       OP          OP            -
+ DIG - GEO436 - FORMAÇÃO EM EXTENSÃO I                                     30      6      24                01-01         2       OP          OP            -
+                                                                                                            01-02         8       OP          OP            -
+ DIG - GEO437 - FORMAÇÃO EM EXTENSÃO II                                    60      12     48                01-01         2       OP          OP            -
+                                                                                                            01-02         8       OP          OP            -
+ DIG - GEO438 - GEODIVERSIDADE E TURISMO                                   60      30     30                01-01         2       OP          OP            -
+                                                                                                            01-02         8       OP          OP            -
+ DIG - GEO439 - E-TURISMO E CULTURA DIGITAL                                60      60      0                01-01         2       OP          OP            -
+                                                                                                            01-02         8       OP          OP            -
+
+
+
+                                                                                       RELATÓRIO DE VERSÃO CURRICULAR
+
+21/12/2021 15.14.45                                                                                                                                        Página 8 de 11
+Pró-reitoria de Graduação
+                                                                               Carga Horária                                                  Natureza
+                                                                                                                                   Natureza
+                              Atividade Acadêmica                                                            Percurso      Grupo                 no      Pré-requisito
+                                                                                                                                   no Grupo
+                                                                                                                                              Percurso
+                                                                             Total Teórica Prática
+
+ DIG - GEO440 - GESTÃO RESPONSÁVEL DE DESTINOS TURÍSTICOS                     60      30     30                01-01         2       OP          OP            -
+                                                                                                               01-02         8       OP          OP            -
+ DIG - GEO441 - INOVAÇÃO EM TURISMO                                           60      50     10                01-01         2       OP          OP            -
+                                                                                                               01-02         8       OP          OP            -
+ DIG - GEO442 - MÉTODOS E TÉCNICAS DE ANÁLISE DA INFORM. PLANEJ. TURÍSTICO    60      30     30                01-01         2       OP          OP            -
+                                                                                                               01-02         8       OP          OP            -
+ DIG - GEO443 - PAISAGEM, TERRITÓRIO E TURISMO                                60      30     30                01-01         2       OP          OP            -
+                                                                                                               01-02         8       OP          OP            -
+ DIG - GEO444 - SOCIOLOGIA DO DESVIO E TURISMO                                60      60      0                01-01         2       OP          OP            -
+                                                                                                               01-02         8       OP          OP            -
+ DIG - GEO445 - TÓPICOS EM GESTÃO DO TURISMO III                              30      15     15                01-01         2       OP          OP            -
+                                                                                                               01-02         8       OP          OP            -
+ DIG - GEO446 - TÓPICOS EM PLANEJAMENTO DO TURISMO III                        30      15     15                01-01         2       OP          OP            -
+                                                                                                               01-02         8       OP          OP            -
+ DIG - GEO447 - TRANSPORTE E TURISMO                                          60      30     30                01-01         2       OP          OP            -
+                                                                                                               01-02         8       OP          OP            -
+ DIG - GEO448 - TURISMO, CULTURA E RELAÇÕES INTERNACIONAIS                    60      50     10                01-01         2       OP          OP            -
+                                                                                                               01-02         8       OP          OP            -
+ 03G - GEO449 - INICIAÇÃO A PESQUISA II                                      120      0      120               01-01         4       OP          OP            -
+                                                                                                               01-02         4       OP          OP            -
+ DIG - GEO681 - DISCUSSÕES TEMÁTICAS I                                        15      15      0                01-01         2       OP          OP            -
+                                                                                                               01-02         8       OP          OP            -
+ DIG - GEO682 - DISCUSSÕES TEMÁTICAS II                                       30      30      0                01-01         2       OP          OP            -
+                                                                                                               01-02         8       OP          OP            -
+ DIG - GEO683 - DISCUSSÕES TEMÁTICAS III                                      45      45      0                01-01         2       OP          OP            -
+                                                                                                               01-02         8       OP          OP            -
+ DIG - GEO684 - DISCUSSÕES TEMÁTICAS IV                                       60      60      0                01-01         2       OP          OP            -
+                                                                                                               01-02         8       OP          OP            -
+ DIG - ICB001 - BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL           30      30      0                01-01         2       OP          OP            -
+                                                                                                               01-02         8       OP          OP            -
+ DIG - LER028 - OF.DE CONVERSACAO E REDACAO EM L. ESPANH                      60      60      0                01-01         2       OP          OP            -
+                                                                                                               01-02         8       OP          OP            -
+ DIG - LET223 - FUNDAMENTOS DE LIBRAS                                         60      60      0                01-01         2       OP          OP            -
+                                                                                                               01-02         8       OP          OP            -
+ DIG - LET416 - LÍNGUA FRANCESA I                                             60      60      0                01-01         2       OP          OP            -
+                                                                                                               01-02         8       OP          OP            -
+ DIG - PRJ039 - ARQUITETURA SEM BARREIRAS                                     45      45      0                01-01         2       OP          OP            -
+                                                                                                               01-02         8       OP          OP            -
+ DIG - SOA046 - ABORDAGENS TEMATICAS EM SOCIOLOGIA                            60      60      0                01-01         3       OP          OP            -
+                                                                                                               01-02         9       OP          OP            -
+
+
+
+                                                                                          RELATÓRIO DE VERSÃO CURRICULAR
+
+21/12/2021 15.14.45                                                                                                                                           Página 9 de 11
+Pró-reitoria de Graduação
+                                                                                                Carga Horária                                                                                                 Natureza
+                                                                                                                                                                                                 Natureza
+                                 Atividade Acadêmica                                                                                Percurso                                 Grupo                               no                 Pré-requisito
+                                                                                                                                                                                                 no Grupo
+                                                                                                                                                                                                              Percurso
+                                                                                           Total Teórica Prática
+
+ DIG - SOA047 - ABORDAGENS TEMATICAS EM ANTROPOLOGIA                                        60       60       0                       01-01                                    3                       OP        OP                        -
+                                                                                                                                      01-02                                    9                       OP        OP                        -
+ DIG - SOA048 - FUNDAMENTOS DE ANALISE SOCIOLOGICA                                          60       60       0                       01-01                                    3                       OP        OP                        -
+                                                                                                                                      01-02                                    9                       OP        OP                        -
+ DIG - SOA049 - ACAO E ESTRUTURA SOCIAL                                                     60       60       0                       01-01                                    3                       OP        OP                        -
+                                                                                                                                      01-02                                    9                       OP        OP                        -
+ DIG - SOA050 - MODERNIDADE E MUDANCA SOCIAL                                                60       60       0                       01-01                                    3                       OP        OP                        -
+                                                                                                                                      01-02                                    9                       OP        OP                        -
+ DIG - URB014 - PAISAGENS E TURISMO                                                         60       30      30                       01-01                                    2                       OP        OP                        -
+                                                                                                                                      01-02                                    8                       OP        OP                        -
+ DIG - URB015 - PLANEJAMENTO INTERPRETATIVO                                                 60       30      30                       01-01                                    2                       OP        OP                        -
+                                                                                                                                      01-02                                    8                       OP        OP                        -
+
+
+
+
+Quadro de integralização
+
+                                                                                                                                               Carga horária em   Carga horária em
+                                                                 Carga horária de     Carga horária em Carga horária em Carga horária em atividades de formação    atividades de    Carga horária em
+                                            Semestres             matrícula por          atividades    atividades optativa estágio obrigatório  complementar         formação         atividades de                                 Total (Carga horária
+              Percurso                                              semestre             obrigatória                                           preestabelecida  complementar aberta  formação livre                                    mínima para
+                                                                                                                                                                                                                                      integralização)
+
+                                   Mínimo     Padrão    Máximo   Mínima   Máxima      Mínima       Máxima       Mínima   Máxima     Mínima     Máxima   Mínima        Máxima         Mínima      Máxima      Mínima      Máxima
+               01-01                 8          8         14      195        -           1665       1665          765     765         0          0           0           0             0              0        120        120                  2550
+               01-02                 8          8         14      195        -           1665       1665          525     525         0          0           0           0            300            300       60          60                  2550
+
+
+
+
+Grupos de atividades:
+
+                                                                                                                                                                                           Carga
+                                                                                                                                       Propriedades do grupo não predefinido                                                    Regras
+                                                                                                                                                                                           Horária
+                                Grupo                                               Percursos
+
+                                                                                                           Natureza do                                           Permite atividades
+                                                                                                                          Predef.
+                                                                                                             Grupo
+                                                                                                Natureza                                  Tipo de formação                        Mín.          Máx.        Pré-requisitos               Integralização
+   Identificador                            Nome                           Identificador           no                                                              Do Do próprio
+                                                                                                percurso                                                         próprio percurso
+                                                                                                                                                                  curso
+        11                  FORMAÇÃO COMPLEMENTAR ABERTA                         01-02             OB             OB       Não         Complementar aberta         Não      Não   300           300                  -                           -
+        10                         FORMAÇÃO LIVRE                                01-02             OB             OB       Não                  Livre              Não        Não          60    60                  -                           -
+         5                         FORMAÇÃO LIVRE                                01-01             OB             OB       Não                  Livre              Não        Não       120     120                  -                           -
+
+
+
+                                                                                                        RELATÓRIO DE VERSÃO CURRICULAR
+
+21/12/2021 15.14.45                                                                                                                                                                                                                      Página 10 de 11
+Pró-reitoria de Graduação
+                                                                                                                                                                             Carga
+                                                                                                                                  Propriedades do grupo não predefinido                                  Regras
+                                                                                                                                                                             Horária
+                                 Grupo                                               Percursos
+
+                                                                                                          Natureza do                                  Permite atividades
+                                                                                                                        Predef.
+                                                                                                            Grupo
+                                                                                               Natureza                            Tipo de formação                      Mín. Máx.      Pré-requisitos            Integralização
+   Identificador                           Nome                               Identificador       no                                                      Do Do próprio
+                                                                                               percurso                                                 próprio percurso
+                                                                                                                                                         curso
+         6                       OBRIGATÓRIAS-TURISMO                             01-01            OB         OB          Sim              -               -        -    1665 1665            -                          -
+                                                                                  01-02            OB
+         1                           OPTATIVAS - TURISMO                          01-01            OB         OB          Sim              -               -        -       765   765         -                          -
+         4            GRUPO DE ATIVIDADES ACADÊMICO-CIENTÍFICO-                   01-01            OB         OB          Sim              -               -        -       15    240         -                          -
+                                     CULTURAIS                                    01-02            OB
+         3             GRUPO DE OPTATIVAS EM CIÊNCIAS HUMANAS                     01-01            OB         OB          Sim              -               -        -       135   360         -                          -
+         2                     GRUPO DE OPTATIVAS GERAIS                          01-01            OB         OB          Sim              -               -        -       390   615         -                          -
+         7                           OPTATIVAS - TURISMO                          01-02            OB         OB          Sim              -               -        -       525   525         -                          -
+         4            GRUPO DE ATIVIDADES ACADÊMICO-CIENTÍFICO-                   01-01            OB         OB          Sim              -               -        -       15    240         -                          -
+                                     CULTURAIS                                    01-02            OB
+         9             GRUPO DE OPTATIVAS EM CIÊNCIAS HUMANAS                     01-02            OB         OB          Sim              -               -        -       60    285         -                          -
+         8                     GRUPO DE OPTATIVAS GERAIS                          01-02            OB         OB          Sim              -               -        -       225   450         -                          -
+
+
+
+
+Tipos de atividades
+
+                            Código                                                                                                             Descrição
+
+  DIG                                                      DISCIPLINA GRADUAÇÃO
+  03G                                                      Inici cient, projeto extensão ou pesq
+  05G                                                      Publicação
+  11G                                                      Outros
+  15G                                                      Organização de Evento
+  04G                                                      Participação em eventos
+  09G                                                      Vivência profissional complementar
+  02G                                                      Iniciação a docência ou monitoria
+  08G                                                      Atividade acadêmica à distância
+
+
+
+
+Regras curriculares
+ Não há regras curriculares.
+
+
+
+
+                                                                                                        RELATÓRIO DE VERSÃO CURRICULAR
+
+21/12/2021 15.14.45                                                                                                                                                                                               Página 11 de 11
+Pró-reitoria de Graduação
+

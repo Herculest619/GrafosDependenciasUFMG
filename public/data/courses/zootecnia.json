@@ -1,0 +1,3751 @@
+{
+    "schemaVersion": 2,
+    "id": "zootecnia",
+    "meta": {
+        "id": "zootecnia",
+        "name": "Zootecnia",
+        "variant": "Bacharelado · Diurno",
+        "unit": "ICA — Instituto de Ciências Agrárias",
+        "campus": "Montes Claros",
+        "shift": "Diurno",
+        "degree": "Bacharelado",
+        "layout": "versao",
+        "curriculum": "24006 · D-20261",
+        "source": {
+            "kind": "siga-versao-curricular",
+            "url": "https://www.ufmg.br/montesclaros/wp-content/uploads/2025/11/Grade-Nova-Zootecnia.pdf",
+            "retrievedAt": "2026-11-05T20:54:30.574Z",
+            "note": null
+        },
+        "note": null
+    },
+    "generatedAt": "2026-11-05T21:02:20.906Z",
+    "disciplines": {
+        "ICA220": {
+            "code": "ICA220",
+            "name": "FUNDAMENTOS DE QUIMICA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA221": {
+            "code": "ICA221",
+            "name": "DESENHO TECNICO",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 15,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA260": {
+            "code": "ICA260",
+            "name": "CITOLOGIA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA718": {
+            "code": "ICA718",
+            "name": "INTRODUÇÃO À ZOOTECNIA",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA719": {
+            "code": "ICA719",
+            "name": "ECOLOGIA BÁSICA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA720": {
+            "code": "ICA720",
+            "name": "ETOLOGIA E BEM-ESTAR ANIMAL",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA001": {
+            "code": "ICA001",
+            "name": "CALCULO I",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA224": {
+            "code": "ICA224",
+            "name": "MICROBIOLOGIA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA225": {
+            "code": "ICA225",
+            "name": "BIOQUIMICA GERAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA262": {
+            "code": "ICA262",
+            "name": "HISTOLOGIA E EMBRIOLOGIA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [
+                "ICA260"
+            ],
+            "scheduled": true
+        },
+        "ICA721": {
+            "code": "ICA721",
+            "name": "ANATOMIA DOS ANIMAIS DOMÉSTICOS",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 45,
+                "practice": 30
+            },
+            "prereqs": [
+                "ICA260"
+            ],
+            "scheduled": true
+        },
+        "ICA722": {
+            "code": "ICA722",
+            "name": "SISTEMÁTICA DAS ESPERMATÓFITAS",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 15,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA249": {
+            "code": "ICA249",
+            "name": "FISIOLOGIA VEGETAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA723": {
+            "code": "ICA723",
+            "name": "FISIOLOGIA ANIMAL BÁSICA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "ICA721"
+            ],
+            "scheduled": true
+        },
+        "ICA724": {
+            "code": "ICA724",
+            "name": "PARASITOLOGIA APLICADA À ZOOTECNIA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA725": {
+            "code": "ICA725",
+            "name": "HIGIENE ANIMAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA726": {
+            "code": "ICA726",
+            "name": "ECONOMIA RURAL",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA747": {
+            "code": "ICA747",
+            "name": "ANÁLISE DE ALIMENTOS PARA ANIMAIS",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 15,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA201": {
+            "code": "ICA201",
+            "name": "ESTATISTICA BASICA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [
+                "ICA001"
+            ],
+            "scheduled": true
+        },
+        "ICA232": {
+            "code": "ICA232",
+            "name": "EXTENSAO RURAL",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA321": {
+            "code": "ICA321",
+            "name": "MAQUINA E MECANIZACAO ACRIGOLA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA748": {
+            "code": "ICA748",
+            "name": "FISIOLOGIA E BIOTECNOLOGIA DA REPRODUÇÃO ANIMAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [
+                "ICA721",
+                "ICA723",
+                "ICA260"
+            ],
+            "scheduled": true
+        },
+        "ICA749": {
+            "code": "ICA749",
+            "name": "INGREDIENTES E ADITIVOS",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "ICA723"
+            ],
+            "scheduled": true
+        },
+        "ICA750": {
+            "code": "ICA750",
+            "name": "FISIOLOGIA DA DIGESTÃO",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [
+                "ICA723"
+            ],
+            "scheduled": true
+        },
+        "ICA203": {
+            "code": "ICA203",
+            "name": "ESTATISTICA EXPERIMENTAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA265": {
+            "code": "ICA265",
+            "name": "INSTALACOES ZOOTECNICAS",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA727": {
+            "code": "ICA727",
+            "name": "MANEJO E CONSERVAÇÃO DO SOLO E DA ÁGUA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA751": {
+            "code": "ICA751",
+            "name": "GENÉTICA BÁSICA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [
+                "ICA201"
+            ],
+            "scheduled": true
+        },
+        "ICA752": {
+            "code": "ICA752",
+            "name": "NUTRIÇÃO ANIMAL BÁSICA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [
+                "ICA750"
+            ],
+            "scheduled": true
+        },
+        "ICA753": {
+            "code": "ICA753",
+            "name": "FERTILIDADE DO SOLO E NUTRIÇÃO MINERAL DE PLANTAS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA204": {
+            "code": "ICA204",
+            "name": "ADM.PLANEJAMENTO DESENVOLVIMENTO RURAL",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA270": {
+            "code": "ICA270",
+            "name": "BIOCLIMATOLOGIA ANIMAL",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA279": {
+            "code": "ICA279",
+            "name": "MELHORAMENTO ANIMAL I",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [
+                "ICA751"
+            ],
+            "scheduled": true
+        },
+        "ICA728": {
+            "code": "ICA728",
+            "name": "NUTRIÇÃO DE NÃO RUMINANTES",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 75,
+                "practice": 0
+            },
+            "prereqs": [
+                "ICA752"
+            ],
+            "scheduled": true
+        },
+        "ICA754": {
+            "code": "ICA754",
+            "name": "CULTURAS DE IMPORTÂNCIA ZOOTÉCNICA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA272": {
+            "code": "ICA272",
+            "name": "NUTRICAO DE RUMINANTES",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 45,
+                "practice": 30
+            },
+            "prereqs": [
+                "ICA752"
+            ],
+            "scheduled": true
+        },
+        "ICA273": {
+            "code": "ICA273",
+            "name": "AVICULTURA",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 45,
+                "practice": 30
+            },
+            "prereqs": [
+                "ICA728"
+            ],
+            "scheduled": true
+        },
+        "ICA275": {
+            "code": "ICA275",
+            "name": "FORRAGICULTURA",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 45,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA286": {
+            "code": "ICA286",
+            "name": "MELHORAMENTO ANIMAL II",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [
+                "ICA279"
+            ],
+            "scheduled": true
+        },
+        "ICA729": {
+            "code": "ICA729",
+            "name": "SUINOCULTURA",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 45,
+                "practice": 30
+            },
+            "prereqs": [
+                "ICA270",
+                "ICA728"
+            ],
+            "scheduled": true
+        },
+        "ICA281": {
+            "code": "ICA281",
+            "name": "BOVINOCULTURA DE LEITE",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 45,
+                "practice": 30
+            },
+            "prereqs": [
+                "ICA272"
+            ],
+            "scheduled": true
+        },
+        "ICA730": {
+            "code": "ICA730",
+            "name": "TECNOLOGIA DE PRODUTOS PARA ALIMENTAÇÃO ANIMAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA731": {
+            "code": "ICA731",
+            "name": "BOVINOCULTURA DE CORTE",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 45,
+                "practice": 30
+            },
+            "prereqs": [
+                "ICA272"
+            ],
+            "scheduled": true
+        },
+        "ICA755": {
+            "code": "ICA755",
+            "name": "COMUNICAÇÃO TÉCNICO-CIENTÍFICA EM ZOOTECNIA",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA216": {
+            "code": "ICA216",
+            "name": "ELAB. AVAL.PROJETOS AGROPECUARIOS",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA756": {
+            "code": "ICA756",
+            "name": "FISIOLOGIA DO CRESC. ANIMAL E QUALIDADE DA CARNE E DO COURO",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA757": {
+            "code": "ICA757",
+            "name": "AVALIAÇÃO DE IMPACTOS AMBIENTAIS EM ATIVIDADES ZOOTÉCNICAS",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA732": {
+            "code": "ICA732",
+            "name": "ESTÁGIO OBRIGATÓRIO I",
+            "type": "ETG",
+            "credits": 6,
+            "hours": {
+                "total": 90,
+                "theory": 0,
+                "practice": 90
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA733": {
+            "code": "ICA733",
+            "name": "ESTÁGIO OBRIGATÓRIO II",
+            "type": "ETG",
+            "credits": 10,
+            "hours": {
+                "total": 150,
+                "theory": 0,
+                "practice": 150
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA758": {
+            "code": "ICA758",
+            "name": "TRABALHO DE CURSO",
+            "type": "DIG",
+            "credits": 1,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ICA028": {
+            "code": "ICA028",
+            "name": "GESTAO AMBIENTAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA045": {
+            "code": "ICA045",
+            "name": "SENSOREAMENTO REMOTO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA048": {
+            "code": "ICA048",
+            "name": "USO MULTIPLO DO CERRADO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA118": {
+            "code": "ICA118",
+            "name": "FUNDAMENTOS ECONOMICOS E SOCIAIS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "ICA603"
+            ],
+            "scheduled": false
+        },
+        "ICA215": {
+            "code": "ICA215",
+            "name": "DESENV.E GESTAO DA AGRICULTURA FAMILIAR",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA218": {
+            "code": "ICA218",
+            "name": "ANATOMIA DAS ESPERMATOFITAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 15,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA227": {
+            "code": "ICA227",
+            "name": "PEDOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA228": {
+            "code": "ICA228",
+            "name": "HIDROLOGIA APLICADA A AGRICULTURA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA236": {
+            "code": "ICA236",
+            "name": "AGROECOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA247": {
+            "code": "ICA247",
+            "name": "ZOOLOGIA GERAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA252": {
+            "code": "ICA252",
+            "name": "SOCIOLOGIA RURAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [
+                "ICA402"
+            ],
+            "scheduled": false
+        },
+        "ICA255": {
+            "code": "ICA255",
+            "name": "DIREITO AMBIENTAL AGRARIO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA256": {
+            "code": "ICA256",
+            "name": "ECOTURISMO E TURISMO RURAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA263": {
+            "code": "ICA263",
+            "name": "APICULTURA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA278": {
+            "code": "ICA278",
+            "name": "CAPRINOCULTURA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA285": {
+            "code": "ICA285",
+            "name": "OVINOCULTURA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA318": {
+            "code": "ICA318",
+            "name": "IMUNOLOGIA APLICADA A ZOOTECNIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA319": {
+            "code": "ICA319",
+            "name": "FARMACOLOGIA APLICADA A ZOOTECNIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA364": {
+            "code": "ICA364",
+            "name": "ETICA E RESPONSABILIDADE SOCIAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "ICA402"
+            ],
+            "scheduled": false
+        },
+        "ICA371": {
+            "code": "ICA371",
+            "name": "ESTUDOS ANTROPOLOGICOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA402": {
+            "code": "ICA402",
+            "name": "DIREITOS HUMANOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA470": {
+            "code": "ICA470",
+            "name": "BIOTECNOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA575": {
+            "code": "ICA575",
+            "name": "TECNOLOGIA DE PRODUTOS LÁCTEOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA603": {
+            "code": "ICA603",
+            "name": "RELAÇÕES ÉTNICO-RACIAIS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA604": {
+            "code": "ICA604",
+            "name": "RELAÇÕES HUMANAS NO TRABALHO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [
+                "ICA603"
+            ],
+            "scheduled": false
+        },
+        "ICA625": {
+            "code": "ICA625",
+            "name": "HIGIENE EM INDÚSTRIA DE ALIMENTOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA630": {
+            "code": "ICA630",
+            "name": "TECNOLOGIA DE CARNE, PESCADO E PRODUTOS DERIVADOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA631": {
+            "code": "ICA631",
+            "name": "EMBALAGENS DE ALIMENTOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA634": {
+            "code": "ICA634",
+            "name": "ANÁLISE SENSORIAL DE ALIMENTOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 15,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA636": {
+            "code": "ICA636",
+            "name": "GESTÃO DA QUALIDADE NA INDÚSTRIA DE ALIMENTOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA644": {
+            "code": "ICA644",
+            "name": "TECNOLOGIA DE OVOS E MEL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA734": {
+            "code": "ICA734",
+            "name": "EXTERIOR E JULGAMENTO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA735": {
+            "code": "ICA735",
+            "name": "EQUIDEOCULTURA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [
+                "ICA752"
+            ],
+            "scheduled": false
+        },
+        "ICA736": {
+            "code": "ICA736",
+            "name": "CUNICULTURA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "ICA752"
+            ],
+            "scheduled": false
+        },
+        "ICA737": {
+            "code": "ICA737",
+            "name": "BUBALINOCULTURA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA738": {
+            "code": "ICA738",
+            "name": "PRODUÇÃO E CONSERVAÇÃO DE ANIMAIS SILVESTRES",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA739": {
+            "code": "ICA739",
+            "name": "TÓPICOS ESPECIAIS EM ZOOTECNIA I",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 0,
+                "practice": 45
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA740": {
+            "code": "ICA740",
+            "name": "TÓPICOS ESPECIAIS EM ZOOTECNIA II",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 0,
+                "practice": 60
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA741": {
+            "code": "ICA741",
+            "name": "NUTRIÇÃO E MANEJO EM CONFINAMENTOS DE BOVINOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA742": {
+            "code": "ICA742",
+            "name": "MANEJO SUSTENTÁVEL DE PASTAGENS NO SEMIÁRIDO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA743": {
+            "code": "ICA743",
+            "name": "TRATAMENTO E APROVEIT. DE RESÍDUOS DE ATIVID. ZOOTÉCNICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA744": {
+            "code": "ICA744",
+            "name": "MARKETING E AGRONEGÓCIO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA745": {
+            "code": "ICA745",
+            "name": "COOPERATIVISMO AGRÍCOLA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA746": {
+            "code": "ICA746",
+            "name": "PISCICULTURA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [
+                "ICA728"
+            ],
+            "scheduled": false
+        },
+        "ICA759": {
+            "code": "ICA759",
+            "name": "REDAÇÃO CIENTÍFICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA760": {
+            "code": "ICA760",
+            "name": "NUTRIÇÃO, ALIMENTAÇÃO E FORMULAÇÃO DE RAÇÕES PARA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [
+                "ICA270",
+                "ICA728",
+                "ICA729"
+            ],
+            "scheduled": false
+        },
+        "ICA761": {
+            "code": "ICA761",
+            "name": "NUTRIÇÃO, ALIMENTAÇÃO E FORMULAÇÃO DE RAÇÕES PARA AVES",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [
+                "ICA749",
+                "ICA273"
+            ],
+            "scheduled": false
+        },
+        "ICA762": {
+            "code": "ICA762",
+            "name": "BIOÉTICA NA PRODUÇÃO ANIMAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA763": {
+            "code": "ICA763",
+            "name": "NUTRIÇÃO BÁSICA E ALIMENTAÇÃO DE CÃES E GATOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA764": {
+            "code": "ICA764",
+            "name": "NUTRIÇÃO AVANÇADA E ALIMENTAÇÃO DE CÃES E GATOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [
+                "ICA763"
+            ],
+            "scheduled": false
+        },
+        "ICA765": {
+            "code": "ICA765",
+            "name": "FORMULAÇÃO DE ALIMENTOS PARA CÃES E GATOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 0,
+                "practice": 45
+            },
+            "prereqs": [
+                "ICA763"
+            ],
+            "scheduled": false
+        },
+        "ICA766": {
+            "code": "ICA766",
+            "name": "EMBALAGEM E ROTULAGEM DE PRODUTOS PARA ANIMAIS DE ESTIM",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [
+                "ICA763"
+            ],
+            "scheduled": false
+        },
+        "ICA767": {
+            "code": "ICA767",
+            "name": "AVALIAÇÃO DE CARCAÇAS E QUALIDADE DA CARNE DE RUMINANTES",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA768": {
+            "code": "ICA768",
+            "name": "BOAS PRÁTICAS AGROPECUÁRIAS NA PRODUÇÃO DE LEITE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA769": {
+            "code": "ICA769",
+            "name": "TOXICOLOGIA E PLANTAS TÓXICAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA770": {
+            "code": "ICA770",
+            "name": "ENTOMOCULTURA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA771": {
+            "code": "ICA771",
+            "name": "INGLÊS ACADÊMICO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA772": {
+            "code": "ICA772",
+            "name": "ENDOCRINOLOGIA E FISIOLOGIA DA LACTAÇÃO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [
+                "ICA750"
+            ],
+            "scheduled": false
+        },
+        "ICA773": {
+            "code": "ICA773",
+            "name": "FORMAÇÃO EM EXTENSÃO I",
+            "type": "PJG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 0,
+                "practice": 60
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA774": {
+            "code": "ICA774",
+            "name": "FORMAÇÃO EM EXTENSÃO II",
+            "type": "PJG",
+            "credits": null,
+            "hours": {
+                "total": 90,
+                "theory": 0,
+                "practice": 90
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA775": {
+            "code": "ICA775",
+            "name": "FORMAÇÃO EM EXTENSÃO III",
+            "type": "PJG",
+            "credits": null,
+            "hours": {
+                "total": 105,
+                "theory": 0,
+                "practice": 105
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA776": {
+            "code": "ICA776",
+            "name": "FORMAÇÃO EM EXTENSÃO IV",
+            "type": "PJG",
+            "credits": null,
+            "hours": {
+                "total": 135,
+                "theory": 0,
+                "practice": 135
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA777": {
+            "code": "ICA777",
+            "name": "TÓPICOS COMPLEMENTARES I",
+            "type": "PGG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA778": {
+            "code": "ICA778",
+            "name": "TÓPICOS AVANÇADOS EM ZOOTECNIA I",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA779": {
+            "code": "ICA779",
+            "name": "TÓPICOS AVANÇADOS EM ZOOTECNIA II",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA780": {
+            "code": "ICA780",
+            "name": "TÓPICOS AVANÇADOS EM ZOOTECNIA III",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA781": {
+            "code": "ICA781",
+            "name": "TÓPICOS COMPLEMENTARES II",
+            "type": "PGG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA782": {
+            "code": "ICA782",
+            "name": "TÓPICOS COMPLEMENTARES III",
+            "type": "PGG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA783": {
+            "code": "ICA783",
+            "name": "TÓPICOS EAD EM ZOOTECNIA I",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA784": {
+            "code": "ICA784",
+            "name": "TÓPICOS EAD EM ZOOTECNIA II",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA785": {
+            "code": "ICA785",
+            "name": "TÓPICOS EAD EM ZOOTECNIA III",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA790": {
+            "code": "ICA790",
+            "name": "EDUCAÇÃO E INTERPRETAÇÃO AMBIENTAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA791": {
+            "code": "ICA791",
+            "name": "INFORMÁTICA APLICADA À ZOOTECNIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 0,
+                "practice": 45
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA792": {
+            "code": "ICA792",
+            "name": "MATÉRIA ORGÂNICA DO SOLO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA793": {
+            "code": "ICA793",
+            "name": "ADUBOS E ADUBAÇÃO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA794": {
+            "code": "ICA794",
+            "name": "MAPEAMENTO DIGITAL DE SOLOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA795": {
+            "code": "ICA795",
+            "name": "LABORATÓRIO DE BIOLOGIA MOLECULAR",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA796": {
+            "code": "ICA796",
+            "name": "SISTEMAS AGROFLORESTAIS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA797": {
+            "code": "ICA797",
+            "name": "FORRAGICULTURA APLICADA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "LET223": {
+            "code": "LET223",
+            "name": "FUNDAMENTOS DE LIBRAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "UNI010": {
+            "code": "UNI010",
+            "name": "TOPICOS EM CIENCIAS AGRARIAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        }
+    },
+    "percursos": [
+        {
+            "id": "01-01",
+            "name": "BACHARELADO/N. GERAL",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "ICA220",
+                        "ICA221",
+                        "ICA260",
+                        "ICA718",
+                        "ICA719",
+                        "ICA720"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "ICA001",
+                        "ICA224",
+                        "ICA225",
+                        "ICA262",
+                        "ICA721",
+                        "ICA722"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "ICA249",
+                        "ICA723",
+                        "ICA724",
+                        "ICA725",
+                        "ICA726",
+                        "ICA747"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "ICA201",
+                        "ICA232",
+                        "ICA321",
+                        "ICA748",
+                        "ICA749",
+                        "ICA750"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "ICA203",
+                        "ICA265",
+                        "ICA727",
+                        "ICA751",
+                        "ICA752",
+                        "ICA753"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "ICA204",
+                        "ICA270",
+                        "ICA279",
+                        "ICA728",
+                        "ICA754"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "ICA272",
+                        "ICA273",
+                        "ICA275",
+                        "ICA286",
+                        "ICA729"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "ICA281",
+                        "ICA730",
+                        "ICA731",
+                        "ICA755"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 9,
+                    "codes": [
+                        "ICA216",
+                        "ICA756",
+                        "ICA757"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 10,
+                    "codes": [
+                        "ICA732",
+                        "ICA733",
+                        "ICA758"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-01-01-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-06",
+                    "label": "Optativa 6",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-07",
+                    "label": "Optativa 7",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-08",
+                    "label": "Optativa 8",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-09",
+                    "label": "Optativa 9",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-10",
+                    "label": "Optativa 10",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-11",
+                    "label": "Optativa 11",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-12",
+                    "label": "Optativa 12",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-13",
+                    "label": "Optativa 13",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "ICA028",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA045",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA048",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA118",
+                    "group": "9",
+                    "prereqs": [
+                        "ICA603"
+                    ]
+                },
+                {
+                    "code": "ICA215",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA218",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA227",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA228",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA236",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA247",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA252",
+                    "group": "9",
+                    "prereqs": [
+                        "ICA402"
+                    ]
+                },
+                {
+                    "code": "ICA255",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA256",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA263",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA278",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA285",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA318",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA319",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA364",
+                    "group": "9",
+                    "prereqs": [
+                        "ICA402"
+                    ]
+                },
+                {
+                    "code": "ICA371",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA402",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA470",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA575",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA603",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA604",
+                    "group": "9",
+                    "prereqs": [
+                        "ICA603"
+                    ]
+                },
+                {
+                    "code": "ICA625",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA630",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA631",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA634",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA636",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA644",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA734",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA735",
+                    "group": "2",
+                    "prereqs": [
+                        "ICA752"
+                    ]
+                },
+                {
+                    "code": "ICA736",
+                    "group": "2",
+                    "prereqs": [
+                        "ICA752"
+                    ]
+                },
+                {
+                    "code": "ICA737",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA738",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA739",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA740",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA741",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA742",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA743",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA744",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA745",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA746",
+                    "group": "2",
+                    "prereqs": [
+                        "ICA728"
+                    ]
+                },
+                {
+                    "code": "ICA759",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA760",
+                    "group": "2",
+                    "prereqs": [
+                        "ICA270",
+                        "ICA728",
+                        "ICA729"
+                    ]
+                },
+                {
+                    "code": "ICA761",
+                    "group": "2",
+                    "prereqs": [
+                        "ICA749",
+                        "ICA273"
+                    ]
+                },
+                {
+                    "code": "ICA762",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA763",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA764",
+                    "group": "2",
+                    "prereqs": [
+                        "ICA763"
+                    ]
+                },
+                {
+                    "code": "ICA765",
+                    "group": "2",
+                    "prereqs": [
+                        "ICA763"
+                    ]
+                },
+                {
+                    "code": "ICA766",
+                    "group": "2",
+                    "prereqs": [
+                        "ICA763"
+                    ]
+                },
+                {
+                    "code": "ICA767",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA768",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA769",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA770",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA771",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA772",
+                    "group": "2",
+                    "prereqs": [
+                        "ICA750"
+                    ]
+                },
+                {
+                    "code": "ICA773",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA774",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA775",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA776",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA777",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA781",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA782",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA783",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA784",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA785",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA790",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA791",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA792",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA793",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA794",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA795",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA796",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA797",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "LET223",
+                    "group": "2",
+                    "prereqs": []
+                },
+                {
+                    "code": "UNI010",
+                    "group": "2",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "01-01",
+                "semesters": {
+                    "min": 10,
+                    "standard": 10,
+                    "max": 17
+                },
+                "enrollmentHours": {
+                    "min": 225,
+                    "max": 480
+                },
+                "obligatoryHours": {
+                    "min": 2550,
+                    "max": 2550
+                },
+                "optionalHours": {
+                    "min": 765,
+                    "max": 765
+                },
+                "stageHours": {
+                    "min": 240,
+                    "max": 240
+                },
+                "complementaryPresetHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryOpenHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "freeHours": {
+                    "min": 45,
+                    "max": 45
+                },
+                "totalHours": 3600
+            }
+        },
+        {
+            "id": "01-02",
+            "name": "BACHARELADO/N. COMPLEMENTAR/N. GERAL",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "ICA220",
+                        "ICA221",
+                        "ICA260",
+                        "ICA718",
+                        "ICA719",
+                        "ICA720"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "ICA001",
+                        "ICA224",
+                        "ICA225",
+                        "ICA262",
+                        "ICA721",
+                        "ICA722"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "ICA249",
+                        "ICA723",
+                        "ICA724",
+                        "ICA725",
+                        "ICA726",
+                        "ICA747"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "ICA201",
+                        "ICA232",
+                        "ICA321",
+                        "ICA748",
+                        "ICA749",
+                        "ICA750"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "ICA203",
+                        "ICA265",
+                        "ICA727",
+                        "ICA751",
+                        "ICA752",
+                        "ICA753"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "ICA204",
+                        "ICA270",
+                        "ICA279",
+                        "ICA728",
+                        "ICA754"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "ICA272",
+                        "ICA273",
+                        "ICA275",
+                        "ICA286",
+                        "ICA729"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "ICA281",
+                        "ICA730",
+                        "ICA731",
+                        "ICA755"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 9,
+                    "codes": [
+                        "ICA216",
+                        "ICA756",
+                        "ICA757"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 10,
+                    "codes": [
+                        "ICA732",
+                        "ICA733",
+                        "ICA758"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-01-02-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-06",
+                    "label": "Optativa 6",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-07",
+                    "label": "Optativa 7",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-08",
+                    "label": "Optativa 8",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "ICA028",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA045",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA048",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA118",
+                    "group": "11",
+                    "prereqs": [
+                        "ICA603"
+                    ]
+                },
+                {
+                    "code": "ICA215",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA218",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA227",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA228",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA236",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA247",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA252",
+                    "group": "11",
+                    "prereqs": [
+                        "ICA402"
+                    ]
+                },
+                {
+                    "code": "ICA255",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA256",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA263",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA278",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA285",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA318",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA319",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA364",
+                    "group": "11",
+                    "prereqs": [
+                        "ICA402"
+                    ]
+                },
+                {
+                    "code": "ICA371",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA402",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA470",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA575",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA603",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA604",
+                    "group": "11",
+                    "prereqs": [
+                        "ICA603"
+                    ]
+                },
+                {
+                    "code": "ICA625",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA630",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA631",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA634",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA636",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA644",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA734",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA735",
+                    "group": "4",
+                    "prereqs": [
+                        "ICA752"
+                    ]
+                },
+                {
+                    "code": "ICA736",
+                    "group": "4",
+                    "prereqs": [
+                        "ICA752"
+                    ]
+                },
+                {
+                    "code": "ICA737",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA738",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA739",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA740",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA741",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA742",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA743",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA744",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA745",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA746",
+                    "group": "4",
+                    "prereqs": [
+                        "ICA728"
+                    ]
+                },
+                {
+                    "code": "ICA759",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA760",
+                    "group": "4",
+                    "prereqs": [
+                        "ICA270",
+                        "ICA728",
+                        "ICA729"
+                    ]
+                },
+                {
+                    "code": "ICA761",
+                    "group": "4",
+                    "prereqs": [
+                        "ICA749",
+                        "ICA273"
+                    ]
+                },
+                {
+                    "code": "ICA762",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA763",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA764",
+                    "group": "4",
+                    "prereqs": [
+                        "ICA763"
+                    ]
+                },
+                {
+                    "code": "ICA765",
+                    "group": "4",
+                    "prereqs": [
+                        "ICA763"
+                    ]
+                },
+                {
+                    "code": "ICA766",
+                    "group": "4",
+                    "prereqs": [
+                        "ICA763"
+                    ]
+                },
+                {
+                    "code": "ICA767",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA768",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA769",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA770",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA771",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA772",
+                    "group": "4",
+                    "prereqs": [
+                        "ICA750"
+                    ]
+                },
+                {
+                    "code": "ICA773",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA774",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA775",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA776",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA777",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA781",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA782",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA783",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA784",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA785",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA790",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA791",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA792",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA793",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA794",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA795",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA796",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA797",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "LET223",
+                    "group": "4",
+                    "prereqs": []
+                },
+                {
+                    "code": "UNI010",
+                    "group": "4",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "01-02",
+                "semesters": {
+                    "min": 10,
+                    "standard": 10,
+                    "max": 17
+                },
+                "enrollmentHours": {
+                    "min": 225,
+                    "max": 480
+                },
+                "obligatoryHours": {
+                    "min": 2550,
+                    "max": 2550
+                },
+                "optionalHours": {
+                    "min": 465,
+                    "max": 465
+                },
+                "stageHours": {
+                    "min": 240,
+                    "max": 240
+                },
+                "complementaryPresetHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryOpenHours": {
+                    "min": 300,
+                    "max": 300
+                },
+                "freeHours": {
+                    "min": 45,
+                    "max": 45
+                },
+                "totalHours": 3600
+            }
+        },
+        {
+            "id": "01-04",
+            "name": "BACHARELADO/N.AVANÇADO/N.GERAL",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "ICA220",
+                        "ICA221",
+                        "ICA260",
+                        "ICA718",
+                        "ICA719",
+                        "ICA720"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "ICA001",
+                        "ICA224",
+                        "ICA225",
+                        "ICA262",
+                        "ICA721",
+                        "ICA722"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "ICA249",
+                        "ICA723",
+                        "ICA724",
+                        "ICA725",
+                        "ICA726",
+                        "ICA747"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "ICA201",
+                        "ICA232",
+                        "ICA321",
+                        "ICA748",
+                        "ICA749",
+                        "ICA750"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "ICA203",
+                        "ICA265",
+                        "ICA727",
+                        "ICA751",
+                        "ICA752",
+                        "ICA753"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "ICA204",
+                        "ICA270",
+                        "ICA279",
+                        "ICA728",
+                        "ICA754"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "ICA272",
+                        "ICA273",
+                        "ICA275",
+                        "ICA286",
+                        "ICA729"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "ICA281",
+                        "ICA730",
+                        "ICA731",
+                        "ICA755"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 9,
+                    "codes": [
+                        "ICA216",
+                        "ICA756",
+                        "ICA757"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 10,
+                    "codes": [
+                        "ICA732",
+                        "ICA733",
+                        "ICA758"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-01-04-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-04-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-04-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-04-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-04-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-04-06",
+                    "label": "Optativa 6",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-04-07",
+                    "label": "Optativa 7",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-04-08",
+                    "label": "Optativa 8",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-04-09",
+                    "label": "Optativa 9",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-04-10",
+                    "label": "Optativa 10",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-04-11",
+                    "label": "Optativa 11",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-04-12",
+                    "label": "Optativa 12",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-04-13",
+                    "label": "Optativa 13",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "ICA028",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA045",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA048",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA118",
+                    "group": "9",
+                    "prereqs": [
+                        "ICA603"
+                    ]
+                },
+                {
+                    "code": "ICA215",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA218",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA227",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA228",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA236",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA247",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA252",
+                    "group": "9",
+                    "prereqs": [
+                        "ICA402"
+                    ]
+                },
+                {
+                    "code": "ICA255",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA256",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA263",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA278",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA285",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA318",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA319",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA364",
+                    "group": "9",
+                    "prereqs": [
+                        "ICA402"
+                    ]
+                },
+                {
+                    "code": "ICA371",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA402",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA470",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA575",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA603",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA604",
+                    "group": "9",
+                    "prereqs": [
+                        "ICA603"
+                    ]
+                },
+                {
+                    "code": "ICA625",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA630",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA631",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA634",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA636",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA644",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA734",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA735",
+                    "group": "5",
+                    "prereqs": [
+                        "ICA752"
+                    ]
+                },
+                {
+                    "code": "ICA736",
+                    "group": "5",
+                    "prereqs": [
+                        "ICA752"
+                    ]
+                },
+                {
+                    "code": "ICA737",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA738",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA739",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA740",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA741",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA742",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA743",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA744",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA745",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA746",
+                    "group": "5",
+                    "prereqs": [
+                        "ICA728"
+                    ]
+                },
+                {
+                    "code": "ICA759",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA760",
+                    "group": "5",
+                    "prereqs": [
+                        "ICA270",
+                        "ICA728",
+                        "ICA729"
+                    ]
+                },
+                {
+                    "code": "ICA761",
+                    "group": "5",
+                    "prereqs": [
+                        "ICA749",
+                        "ICA273"
+                    ]
+                },
+                {
+                    "code": "ICA762",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA763",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA764",
+                    "group": "5",
+                    "prereqs": [
+                        "ICA763"
+                    ]
+                },
+                {
+                    "code": "ICA765",
+                    "group": "5",
+                    "prereqs": [
+                        "ICA763"
+                    ]
+                },
+                {
+                    "code": "ICA766",
+                    "group": "5",
+                    "prereqs": [
+                        "ICA763"
+                    ]
+                },
+                {
+                    "code": "ICA767",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA768",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA769",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA770",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA771",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA772",
+                    "group": "5",
+                    "prereqs": [
+                        "ICA750"
+                    ]
+                },
+                {
+                    "code": "ICA773",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA774",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA775",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA776",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA777",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA778",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA779",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA780",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA781",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA782",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA783",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA784",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA785",
+                    "group": "5",
+                    "prereqs": [
+                        "ICA786",
+                        "ICA787",
+                        "ICA788",
+                        "ICA789"
+                    ]
+                },
+                {
+                    "code": "ICA790",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA791",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA792",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA793",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA794",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA795",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA796",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA797",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "LET223",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "UNI010",
+                    "group": "5",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "01-04",
+                "semesters": {
+                    "min": 10,
+                    "standard": 10,
+                    "max": 17
+                },
+                "enrollmentHours": {
+                    "min": 225,
+                    "max": 480
+                },
+                "obligatoryHours": {
+                    "min": 2550,
+                    "max": 2550
+                },
+                "optionalHours": {
+                    "min": 765,
+                    "max": 765
+                },
+                "stageHours": {
+                    "min": 240,
+                    "max": 240
+                },
+                "complementaryPresetHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryOpenHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "freeHours": {
+                    "min": 45,
+                    "max": 45
+                },
+                "totalHours": 3600
+            }
+        }
+    ]
+}

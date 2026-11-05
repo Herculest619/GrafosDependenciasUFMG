@@ -1,0 +1,770 @@
+                              UNIVERSIDADE FEDERAL DE MINAS GERAIS
+                              Configuração Curricular
+                              Pró-reitoria de Graduação
+
+                                                                                         Relatório de versão curricular
+
+
+Curso:         04004 - LICENCIATURA EM GEOGRAFIA                                                                          Versão curricular:          M-20271
+
+
+Situação:      Em análise
+
+
+Carga horária mínima para mudança de opção de vinculação:                          -                                      Período mínimo para mudança de opção de vinculação:   1
+
+
+
+
+Disponibilidade nas subdivisões do curso:
+
+
+                                                                       É versão para                                                           Percurso padrão
+                                                                                          Modalidade
+                            Subdivisão de Curso                        vinculação de
+                                                                                         Educacional
+                                                                       ingressantes
+                                                                                                          Identificador                                          Nome
+
+    04004PM001/Presencial/MATUTINO/Licenciatura                              Não          Presencial          02-01       LICENCIATURA/NÚCLEO GERAL
+
+Observações:
+
+-
+
+
+
+
+Percursos curriculares que compõem a versão:
+
+                  Identificador                                                                                                Nome
+
+    02                                            LICENCIATURA - (M)
+    02-03                                         ---LICENCIATURA/N. AVANÇADO/N. GERAL
+    02-02                                         ---LICENCIATURA/N. COMPLEMENTAR/N. GERAL
+    02-01                                         ---LICENCIATURA/N. GERAL
+
+
+
+
+                                                                                                 RELATÓRIO DE VERSÃO CURRICULAR
+
+16/09/2026 16.18.46                                                                                                                                                                 Página 1 de 14
+Pró-reitoria de Graduação
+Atividades acadêmicas:
+Tabela organizada por sugestão de período definido na versão curricular
+
+
+
+  1º PERÍODO
+
+                                                                                                                            Sugestão
+                                                                          Créditos       Carga Horária
+                                                                                                                           de período           Natureza Natureza
+                                 Atividade Acadêmica                                                            Percurso   específica   Grupo      no       no      Pré-requisitos
+                                                                                                                               do                grupo   percurso
+                                                                          Mín. Máx.   Total   Teórica Prática
+                                                                                                                            percurso
+   DIG - CRT010 - CARTOGRAFIA DE LICENCIATURA                              4    4      60       45      15       02-01         -          3        OB       OB             -
+                                                                                                                 02-02         -          3        OB       OB             -
+                                                                                                                 02-03         -          3        OB       OB             -
+   DIG - GEL078 - FUNDAMENTOS DE GEOLOGIA                                  4    4      60       45      15       02-01         -          3        OB       OB             -
+                                                                                                                 02-02         -          3        OB       OB             -
+                                                                                                                 02-03         -          3        OB       OB             -
+   DIG - GEO521 - FORMAÇÃO SÓCIO-TERRITORIAL BRASILEIRA                    4    4      60       60       0       02-01         -          3        OB       OB             -
+                                                                                                                 02-02         -          3        OB       OB             -
+                                                                                                                 02-03         -          3        OB       OB             -
+   DIG - GEO522 - HISTÓRIA DO PENSAMENTO GEOGRÁFICO                        4    4      60       60       0       02-01         -          3        OB       OB             -
+                                                                                                                 02-02         -          3        OB       OB             -
+                                                                                                                 02-03         -          3        OB       OB             -
+   DIG - LET223 - FUNDAMENTOS DE LIBRAS                                    4    4      60       60       0       02-01         -          3        OB       OB             -
+                                                                                                                 02-02         -          3        OB       OB             -
+                                                                                                                 02-03         -          3        OB       OB             -
+   ETG - MTE262 - ESTÁGIO CURRICULAR SUPERVISIONADO I                      4    4      60       30      30       02-01         -          4        OB       OB             -
+                                                                                                                 02-02         -          4        OB       OB             -
+                                                                                                                 02-03         -          4        OB       OB             -
+
+
+
+  2º PERÍODO
+
+                                                                                                                            Sugestão
+                                                                          Créditos       Carga Horária
+                                                                                                                           de período           Natureza Natureza
+                                 Atividade Acadêmica                                                            Percurso   específica   Grupo      no       no      Pré-requisitos
+                                                                                                                               do                grupo   percurso
+                                                                          Mín. Máx.   Total   Teórica Prática
+                                                                                                                            percurso
+   DIG - CAE001 - SOCIOLOGIA DA EDUCAÇÃO                                   4    4      60       60       0       02-01         -          3        OB       OB             -
+                                                                                                                 02-02         -          3        OB       OB             -
+                                                                                                                 02-03         -          3        OB       OB             -
+   DIG - GEO523 - FUNDAMENTOS DA EXTENSÃO NA LICENCIATURA EM GEOGRAFIA     4    4      60       60       0       02-01         -          3        OB       OB             -
+                                                                                                                 02-02         -          3        OB       OB             -
+                                                                                                                 02-03         -          3        OB       OB             -
+
+                                                                                    RELATÓRIO DE VERSÃO CURRICULAR
+
+16/09/2026 16.18.46                                                                                                                                                  Página 2 de 14
+Pró-reitoria de Graduação
+                                                                                                         Sugestão
+                                                       Créditos       Carga Horária
+                                                                                                        de período           Natureza Natureza
+                                 Atividade Acadêmica                                         Percurso   específica   Grupo      no       no      Pré-requisitos
+                                                                                                            do                grupo   percurso
+                                                       Mín. Máx.   Total   Teórica Prática
+                                                                                                         percurso
+   DIG - GEO524 - CLIMATOLOGIA                          4    4      60       45      15       02-01         -          3        OB       OB             -
+                                                                                              02-02         -          3        OB       OB             -
+                                                                                              02-03         -          3        OB       OB             -
+   DIG - GEO525 - GEOGRAFIA DA POPULAÇÃO                4    4      60       60       0       02-01         -          3        OB       OB             -
+                                                                                              02-02         -          3        OB       OB             -
+                                                                                              02-03         -          3        OB       OB             -
+   DIG - GEO526 - GEOGRAFIA E EDUCAÇÃO                  4    4      60       60       0       02-01         -          3        OB       OB             -
+                                                                                              02-02         -          3        OB       OB             -
+                                                                                              02-03         -          3        OB       OB             -
+
+
+
+  3º PERÍODO
+
+                                                                                                         Sugestão
+                                                       Créditos       Carga Horária
+                                                                                                        de período           Natureza Natureza
+                                 Atividade Acadêmica                                         Percurso   específica   Grupo      no       no      Pré-requisitos
+                                                                                                            do                grupo   percurso
+                                                       Mín. Máx.   Total   Teórica Prática
+                                                                                                         percurso
+   DIG - ADE003 - POLÍTICA EDUCACIONAL                  4    4      60       60       0       02-01         -          3        OB       OB             -
+                                                                                              02-02         -          3        OB       OB             -
+                                                                                              02-03         -          3        OB       OB             -
+   DIG - GEO527 - GEOMORFOLOGIA                         4    4      60       45      15       02-01         -          3        OB       OB         GEL078
+                                                                                              02-02         -          3        OB       OB         GEL078
+                                                                                              02-03         -          3        OB       OB         GEL078
+   DIG - GEO528 - GEOGRAFIA ECONÔMICA                   4    4      60       60       0       02-01         -          3        OB       OB             -
+                                                                                              02-02         -          3        OB       OB             -
+                                                                                              02-03         -          3        OB       OB             -
+   DIG - GEO529 - GEOGRAFIA URBANA                      4    4      60       45      15       02-01         -          3        OB       OB         GEO521
+                                                                                              02-02         -          3        OB       OB         GEO521
+                                                                                              02-03         -          3        OB       OB         GEO521
+   DIG - MTE101 - DIDÁTICA DE LICENCIATURA              4    4      60       60       0       02-01         -          3        OB       OB             -
+                                                                                              02-02         -          3        OB       OB             -
+                                                                                              02-03         -          3        OB       OB             -
+
+
+
+
+                                                                 RELATÓRIO DE VERSÃO CURRICULAR
+
+16/09/2026 16.18.46                                                                                                                               Página 3 de 14
+Pró-reitoria de Graduação
+  4º PERÍODO
+
+                                                                                                                   Sugestão
+                                                                 Créditos       Carga Horária
+                                                                                                                  de período           Natureza Natureza
+                                 Atividade Acadêmica                                                   Percurso   específica   Grupo      no       no      Pré-requisitos
+                                                                                                                      do                grupo   percurso
+                                                                 Mín. Máx.   Total   Teórica Prática
+                                                                                                                   percurso
+   DIG - CAE002 - PSICOLOGIA DA EDUC.-APRENDIZAG. E ENSINO        4    4      60       60       0       02-01         -          3        OB       OB             -
+                                                                                                        02-02         -          3        OB       OB             -
+                                                                                                        02-03         -          3        OB       OB             -
+   DIG - GEO530 - PEDOLOGIA                                       4    4      60       45      15       02-01         -          3        OB       OB             -
+                                                                                                        02-02         -          3        OB       OB             -
+                                                                                                        02-03         -          3        OB       OB             -
+   DIG - GEO531 - GEOGRAFIA AGRÁRIA                               4    4      60       45      15       02-01         -          3        OB       OB         GEO521
+                                                                                                        02-02         -          3        OB       OB         GEO521
+                                                                                                        02-03         -          3        OB       OB         GEO521
+   DIG - GEO532 - HISTÓRIA DA GEOGRAFIA ESCOLAR                   4    4      60       60       0       02-01         -          3        OB       OB         GEO522
+                                                                                                        02-02         -          3        OB       OB         GEO522
+                                                                                                        02-03         -          3        OB       OB         GEO522
+   DIG - GEO533 - PROJETOS DE EXTENSÃO EM GEOGRAFIA I             4    4      60       30      30       02-01         -          3        OB       OB         GEO523
+                                                                                                        02-02         -          3        OB       OB         GEO523
+                                                                                                        02-03         -          3        OB       OB         GEO523
+
+
+
+  5º PERÍODO
+
+                                                                                                                   Sugestão
+                                                                 Créditos       Carga Horária
+                                                                                                                  de período           Natureza Natureza
+                                 Atividade Acadêmica                                                   Percurso   específica   Grupo      no       no      Pré-requisitos
+                                                                                                                      do                grupo   percurso
+                                                                 Mín. Máx.   Total   Teórica Prática
+                                                                                                                   percurso
+   DIG - ADE066 - GESTÃO ESCOLAR                                  4    4      60       60       0       02-01         -          3        OB       OB             -
+                                                                                                        02-02         -          3        OB       OB             -
+                                                                                                        02-03         -          3        OB       OB             -
+   DIG - FAE493 - FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA    4    4      60       60       0       02-01         -          3        OB       OB             -
+                                                                                                        02-02         -          3        OB       OB             -
+                                                                                                        02-03         -          3        OB       OB             -
+   DIG - GEO534 - BIOGEOGRAFIA                                    4    4      60       45      15       02-01         -          3        OB       OB         GEO524
+                                                                                                        02-02         -          3        OB       OB         GEO524
+                                                                                                        02-03         -          3        OB       OB         GEO524
+   DIG - GEO535 - GEOGRAFIA POLÍTICA                              4    4      60       60       0       02-01         -          3        OB       OB             -
+                                                                                                        02-02         -          3        OB       OB             -
+                                                                                                        02-03         -          3        OB       OB             -
+
+
+
+
+                                                                           RELATÓRIO DE VERSÃO CURRICULAR
+
+16/09/2026 16.18.46                                                                                                                                         Página 4 de 14
+Pró-reitoria de Graduação
+                                                                                                                                      Sugestão
+                                                                                   Créditos        Carga Horária
+                                                                                                                                     de período           Natureza Natureza
+                               Atividade Acadêmica                                                                        Percurso   específica   Grupo      no       no           Pré-requisitos
+                                                                                                                                         do                grupo   percurso
+                                                                                   Mín. Máx.    Total   Teórica Prática
+                                                                                                                                      percurso
+   ETG - GEO536 - ESTÁGIO CURRICULAR SUPERVISIONADO II                              5    5        75      45      30       02-01         -          4        OB       OB           MTE262, GEO526
+                                                                                                                           02-02         -          4        OB       OB           MTE262, GEO526
+                                                                                                                           02-03         -          4        OB       OB           MTE262, GEO526
+
+
+
+  6º PERÍODO
+
+                                                                                                                                      Sugestão
+                                                                                   Créditos        Carga Horária
+                                                                                                                                     de período           Natureza Natureza
+                               Atividade Acadêmica                                                                        Percurso   específica   Grupo      no       no           Pré-requisitos
+                                                                                                                                         do                grupo   percurso
+                                                                                   Mín. Máx.    Total   Teórica Prática
+                                                                                                                                      percurso
+   DIG - GEO537 - PROJETOS DE EXTENSÃO EM GEOGRAFIA II                              6    6        90      45      45       02-01         -          3        OB       OB              GEO523
+                                                                                                                           02-02         -          3        OB       OB              GEO523
+                                                                                                                           02-03         -          3        OB       OB              GEO523
+   DIG - GEO538 - LINGUAGENS NA REPRESENTAÇÃO ESPACIAL EM GEOGRAFIA                 4    4        60      30      30       02-01         -          3        OB       OB              CRT010
+                                                                                                                           02-02         -          3        OB       OB              CRT010
+                                                                                                                           02-03         -          3        OB       OB              CRT010
+   DIG - GEO539 - TEORIA DA GEOGRAFIA                                               4    4        60      45      15       02-01         -          3        OB       OB              GEO522
+                                                                                                                           02-02         -          3        OB       OB              GEO522
+                                                                                                                           02-03         -          3        OB       OB              GEO522
+   DIG - GEO540 - ESPAÇO E INTERCULT. DOS POVOS ORIG. E AFRO-DIASPÓRICOS            4    4        60      60       0       02-01         -          3        OB       OB                  -
+                                                                                                                           02-02         -          3        OB       OB                  -
+                                                                                                                           02-03         -          3        OB       OB                  -
+
+
+
+                                                                                          Carga horária adicional do período
+
+             Percurso                                                                          Grupo de atividades                                                     Carga Horária
+                             04004-M-20271-13 - Núcleo Geral                                                                                                                  30
+   02-01
+                             04004-M-20271-11 - Optativas de Formação Específica                                                                                              60
+   02-02                     04004-M-20271-15 - Núcleo Complementar                                                                                                           30
+   02-03                     04004-M-20271-13 - Núcleo Geral                                                                                                                  30
+
+
+
+
+                                                                                             RELATÓRIO DE VERSÃO CURRICULAR
+
+16/09/2026 16.18.46                                                                                                                                                                  Página 5 de 14
+Pró-reitoria de Graduação
+  7º PERÍODO
+
+                                                                                                                          Sugestão
+                                                                       Créditos        Carga Horária
+                                                                                                                         de período           Natureza Natureza
+                               Atividade Acadêmica                                                            Percurso   específica   Grupo      no       no            Pré-requisitos
+                                                                                                                             do                grupo   percurso
+                                                                       Mín. Máx.    Total   Teórica Prática
+                                                                                                                          percurso
+   DIG - GEO541 - ESPAÇO, POLÍTICA E DIREITOS HUMANOS                   4    4        60      60       0       02-01         -          3        OB       OB                   -
+                                                                                                               02-02         -          3        OB       OB                   -
+                                                                                                               02-03         -          3        OB       OB                   -
+   DIG - GEO542 - FORMAÇÃO E TRANSFORMAÇÃO DAS PAISAGENS BRASILEIRAS    4    4        60      45      15       02-01         -          3        OB       OB           GEO529, GEO530,
+                                                                                                                                                                       GEO531, GEO521,
+                                                                                                                                                                          GEO534
+                                                                                                               02-02         -          3        OB       OB           GEO529, GEO530,
+                                                                                                                                                                       GEO531, GEO521,
+                                                                                                                                                                          GEO534
+                                                                                                               02-03         -          3        OB       OB           GEO529, GEO530,
+                                                                                                                                                                       GEO531, GEO521,
+                                                                                                                                                                          GEO534
+   DIG - GEO543 - ESPAÇO TEMPO E GLOBALIZAÇÃO                           4    4        60      60       0       02-01         -          3        OB       OB                  -
+                                                                                                               02-02         -          3        OB       OB                   -
+                                                                                                               02-03         -          3        OB       OB                   -
+   ETG - MTE263 - ESTÁGIO CURRICULAR SUPERVISIONADO III                 6    6        90      45      45       02-01         -          4        OB       OB           GEO536, ADE003
+                                                                                                               02-02         -          4        OB       OB           GEO536, ADE003
+                                                                                                               02-03         -          4        OB       OB           GEO536, ADE003
+
+
+
+                                                                              Carga horária adicional do período
+
+             Percurso                                                              Grupo de atividades                                                     Carga Horária
+                             04004-M-20271-15 - Núcleo Complementar                                                                                               30
+   02-02
+                             04004-M-20271-14 - Núcleo Geral                                                                                                      45
+   02-03                     04004-M-20271-13 - Núcleo Geral                                                                                                      75
+
+
+
+  8º PERÍODO
+
+                                                                                                                          Sugestão
+                                                                       Créditos        Carga Horária
+                                                                                                                         de período           Natureza Natureza
+                               Atividade Acadêmica                                                            Percurso   específica   Grupo      no       no            Pré-requisitos
+                                                                                                                             do                grupo   percurso
+                                                                       Mín. Máx.    Total   Teórica Prática
+                                                                                                                          percurso
+   DIG - GEO544 - QUESTÕES SOCIOAMBIENTAIS CONTEMPORÂNEAS               4    4        60      45      15       02-01         -          3        OB       OB                   -
+                                                                                                               02-02         -          3        OB       OB                   -
+                                                                                                               02-03         -          3        OB       OB                   -
+   DIG - GEO545 - METODOLOGIA DA PESQUISA EM GEOGRAFIA                  4    4        60      45      15       02-01         -          3        OB       OB               GEO539
+                                                                                                               02-02         -          3        OB       OB               GEO539
+                                                                                                               02-03         -          3        OB       OB               GEO539
+
+
+                                                                                 RELATÓRIO DE VERSÃO CURRICULAR
+
+16/09/2026 16.18.46                                                                                                                                                       Página 6 de 14
+Pró-reitoria de Graduação
+                                                                                                                                      Sugestão
+                                                                                   Créditos        Carga Horária
+                                                                                                                                     de período           Natureza Natureza
+                               Atividade Acadêmica                                                                        Percurso   específica   Grupo      no       no           Pré-requisitos
+                                                                                                                                         do                grupo   percurso
+                                                                                   Mín. Máx.    Total   Teórica Prática
+                                                                                                                                      percurso
+   DIG - GEO546 - PRODUÇÃO E ANÁLISE DE MATERIAIS DIDÁTICOS                         4    4        60      45      15       02-01         -          3        OB       OB           ADE003, FAE493,
+                                                                                                                                                                                      GEO537
+                                                                                                                           02-02         -          3        OB       OB           ADE003, FAE493,
+                                                                                                                                                                                      GEO537
+                                                                                                                           02-03         -          3        OB       OB           ADE003, FAE493,
+                                                                                                                                                                                      GEO537
+   ETG - GEO547 - ESTÁGIO CURRICULAR SUPERVISIONADO IV                              6    6        90      30      60       02-01         -          4        OB       OB              MTE263
+                                                                                                                           02-02         -          4        OB       OB               MTE263
+                                                                                                                           02-03         -          4        OB       OB               MTE263
+
+
+
+                                                                                          Carga horária adicional do período
+
+             Percurso                                                                          Grupo de atividades                                                     Carga Horária
+   02-01                     04004-M-20271-11 - Optativas de Formação Específica                                                                                              90
+   02-02                     04004-M-20271-15 - Núcleo Complementar                                                                                                           90
+                             04004-M-20271-8 - Núcleo Avançado                                                                                                                30
+   02-03
+                             04004-M-20271-12 - Optativas de Formação Específica                                                                                              60
+
+
+
+  9º PERÍODO
+
+                                                                                                                                      Sugestão
+                                                                                   Créditos        Carga Horária
+                                                                                                                                     de período           Natureza Natureza
+                               Atividade Acadêmica                                                                        Percurso   específica   Grupo      no       no           Pré-requisitos
+                                                                                                                                         do                grupo   percurso
+                                                                                   Mín. Máx.    Total   Teórica Prática
+                                                                                                                                      percurso
+   DIG - GEO548 - TRABALHO DE CONCLUSÃO DE CURSO I                                  1    1        15       0      15       02-01         -          3        OB       OB              GEO545
+                                                                                                                           02-02         -          3        OB       OB              GEO545
+                                                                                                                           02-03         -          3        OB       OB              GEO545
+   DIG - GEO549 - EDUCAÇÃO AMBIENTAL: TEORIA, CRÍTICA E PRÁTICAS                    4    4        60      45      15       02-01         -          3        OB       OB                  -
+                                                                                                                           02-02         -          3        OB       OB                  -
+                                                                                                                           02-03         -          3        OB       OB                  -
+   ETG - MTE264 - ESTÁGIO CURRICULAR SUPERVISIONADO V                               6    6        90      30      60       02-01         -          4        OB       OB              GEO547
+                                                                                                                           02-02         -          4        OB       OB              GEO547
+                                                                                                                           02-03         -          4        OB       OB              GEO547
+
+
+
+                                                                                          Carga horária adicional do período
+
+             Percurso                                                                          Grupo de atividades                                                     Carga Horária
+                             04004-M-20271-13 - Núcleo Geral                                                                                                                  45
+   02-01                     04004-M-20271-11 - Optativas de Formação Específica                                                                                              90
+                             04004-M-20271-10 - Optativas de Formação Geral                                                                                                   60
+                                                                                             RELATÓRIO DE VERSÃO CURRICULAR
+
+16/09/2026 16.18.46                                                                                                                                                                  Página 7 de 14
+Pró-reitoria de Graduação
+                                                                                             Carga horária adicional do período
+
+             Percurso                                                                             Grupo de atividades                                                     Carga Horária
+                                04004-M-20271-15 - Núcleo Complementar                                                                                                           60
+   02-02                        04004-M-20271-12 - Optativas de Formação Específica                                                                                              60
+                                04004-M-20271-10 - Optativas de Formação Geral                                                                                                   60
+                                04004-M-20271-8 - Núcleo Avançado                                                                                                                60
+   02-03                        04004-M-20271-12 - Optativas de Formação Específica                                                                                              60
+                                04004-M-20271-10 - Optativas de Formação Geral                                                                                                   60
+
+
+
+  10º PERÍODO
+
+                                                                                                                                         Sugestão
+                                                                                      Créditos        Carga Horária
+                                                                                                                                        de período           Natureza Natureza
+                                  Atividade Acadêmica                                                                        Percurso   específica   Grupo      no       no            Pré-requisitos
+                                                                                                                                            do                grupo   percurso
+                                                                                      Mín. Máx.    Total   Teórica Prática
+                                                                                                                                         percurso
+   DIG - GEO550 - PROJETOS DE EXTENSÃO EM GEOGRAFIA III                                8    8       120      45      75       02-01         -          3        OB       OB               GEO523
+                                                                                                                              02-02         -          3        OB       OB               GEO523
+                                                                                                                              02-03         -          3        OB       OB               GEO523
+   DIG - GEO551 - TRABALHO DE CONCLUSÃO DE CURSO II                                    2    2        30       0      30       02-01         -          3        OB       OB               GEO548
+                                                                                                                              02-02         -          3        OB       OB               GEO548
+                                                                                                                              02-03         -          3        OB       OB               GEO548
+
+
+
+                                                                                             Carga horária adicional do período
+
+             Percurso                                                                             Grupo de atividades                                                     Carga Horária
+                                04004-M-20271-13 - Núcleo Geral                                                                                                                  30
+   02-01
+                                04004-M-20271-11 - Optativas de Formação Específica                                                                                              120
+                                04004-M-20271-15 - Núcleo Complementar                                                                                                           90
+   02-02
+                                04004-M-20271-12 - Optativas de Formação Específica                                                                                              60
+   02-03                        04004-M-20271-8 - Núcleo Avançado                                                                                                                150
+
+
+
+
+ATIVIDADES DE ESTÁGIO CURRICULAR OBRIGATÓRIO:
+ Não existem atividades acadêmicas de estágio curricular obrigatório.
+
+
+
+
+ATIVIDADES SEM PERÍODO SUGERIDO:
+
+
+
+                                                                                                RELATÓRIO DE VERSÃO CURRICULAR
+
+16/09/2026 16.18.46                                                                                                                                                                     Página 8 de 14
+Pró-reitoria de Graduação
+                                                      Carga Horária                                                Natureza
+                                                                                                        Natureza
+                             Atividade Acadêmica                                  Percurso      Grupo                 no       Pré-requisito
+                                                                                                        no Grupo
+                                                                                                                   Percurso
+                                                    Total Teórica Prática
+
+ DIG - ADE074 - TÓPICOS EM GESTÃO DA EDUCAÇÃO B      60      60      0              02-01        10       OP          OP             -
+                                                                                    02-02        10       OP          OP             -
+                                                                                    02-03        10       OP          OP             -
+ DIG - CRT006 - CARTOGRAFIA DIGITAL                  60      45     15              02-01        11       OP          OP             -
+                                                                                    02-02        12       OP          OP             -
+                                                                                    02-03        12       OP          OP             -
+ DIG - CRT017 - GEOPROCESSAMENTO                     60      30     30              02-01        11       OP          OP             -
+                                                                                    02-02        12       OP          OP             -
+                                                                                    02-03        12       OP          OP             -
+ DIG - FAE481 - TOPICOS DE ENSINO B                  30      30      0              02-01        10       OP          OP             -
+                                                                                    02-02        10       OP          OP             -
+                                                                                    02-03        10       OP          OP             -
+ DIG - FAE483 - TOPICOS DE ENSINO D                  60      60      0              02-01        10       OP          OP             -
+                                                                                    02-02        10       OP          OP             -
+                                                                                    02-03        10       OP          OP             -
+ DIG - GEO294 - FITOGEOGRAFIA                        60      30     30              02-01        11       OP          OP             -
+                                                                                    02-02        12       OP          OP             -
+                                                                                    02-03        12       OP          OP             -
+ DIG - GEO372 - COLÓQUIOS EM GEOGRAFIA               60      60      0              02-01        11       OP          OP             -
+                                                                                    02-02        12       OP          OP             -
+                                                                                    02-03        12       OP          OP             -
+ DIG - GEO502 - GEOMORFOLOGIA CÁRSTICA               60      45     15              02-01        11       OP          OP      GEL078, GEO527
+                                                                                    02-02        12       OP          OP      GEL078, GEO527
+                                                                                    02-03        12       OP          OP      GEL078, GEO527
+ DIG - GEO503 - AMÉRICA LATINA                       60      60      0              02-01        11       OP          OP             -
+                                                                                    02-02        12       OP          OP             -
+                                                                                    02-03        12       OP          OP             -
+ DIG - GEO504 - GEOGRAFIA E RECURSOS HÍDRICOS        60      45     15              02-01        11       OP          OP             -
+                                                                                    02-02        12       OP          OP             -
+                                                                                    02-03        12       OP          OP             -
+ DIG - GEO505 - GEOGRAFIA CULTURAL                   60      60      0              02-01        11       OP          OP             -
+                                                                                    02-02        12       OP          OP             -
+                                                                                    02-03        12       OP          OP             -
+ DIG - GEO506 - INSTRUMENTAÇÃO EM GEOMORFOLOGIA      60      45     15              02-01        11       OP          OP         GEO527
+                                                                                    02-02        12       OP          OP         GEO527
+                                                                                    02-03        12       OP          OP         GEO527
+ DIG - GEO507 - LEVANTAMENTO E AVALIAÇÃO DE SOLOS    60      45     15              02-01        11       OP          OP         GEO527
+                                                                                    02-02        12       OP          OP         GEO527
+                                                                                    02-03        12       OP          OP         GEO527
+
+
+
+
+                                                               RELATÓRIO DE VERSÃO CURRICULAR
+
+16/09/2026 16.18.46                                                                                                                 Página 9 de 14
+Pró-reitoria de Graduação
+                                                                         Carga Horária                                                Natureza
+                                                                                                                           Natureza
+                             Atividade Acadêmica                                                     Percurso      Grupo                 no       Pré-requisito
+                                                                                                                           no Grupo
+                                                                                                                                      Percurso
+                                                                       Total Teórica Prática
+
+ DIG - GEO508 - SOLOS E MEIO AMBIENTE                                   60      45     15              02-01        11       OP          OP             -
+                                                                                                       02-02        12       OP          OP             -
+                                                                                                       02-03        12       OP          OP             -
+ DIG - GEO509 - TÓPICOS ESPECIAIS EM GEOGRAFIA I                        60      60      0              02-01        11       OP          OP             -
+                                                                                                       02-02        12       OP          OP             -
+                                                                                                       02-03        12       OP          OP             -
+ DIG - GEO510 - TÓPICOS ESPECIAIS EM GEOGRAFIA II                       30      30      0              02-01        11       OP          OP             -
+                                                                                                       02-02        12       OP          OP             -
+                                                                                                       02-03        12       OP          OP             -
+ DIG - GEO511 - GEOMORFOLOGIA E EDUCAÇÃO GEOGRÁFICA                     60      30     30              02-01        11       OP          OP             -
+                                                                                                       02-02        12       OP          OP             -
+                                                                                                       02-03        12       OP          OP             -
+ DIG - GEO512 - GEOGRAFIA DE MINAS GERAIS                               45      30     15              02-01        11       OP          OP             -
+                                                                                                       02-02        12       OP          OP             -
+                                                                                                       02-03        12       OP          OP             -
+ DIG - GEO513 - CLIMATOLOGIA E ANÁLISE AMBIENTAL                        60      45     15              02-01        11       OP          OP             -
+                                                                                                       02-02        12       OP          OP             -
+                                                                                                       02-03        12       OP          OP             -
+ DIG - GEO514 - GEOMORFOLOGIA FLUVIAL                                   60      45     15              02-01        11       OP          OP             -
+                                                                                                       02-02        12       OP          OP             -
+                                                                                                       02-03        12       OP          OP             -
+ DIG - GEO519 - SENSORIAMENTO REMOTO APLICADO AO ENSINO DE GEOGRAFIA    60      45     15              02-01        11       OP          OP             -
+                                                                                                       02-02        12       OP          OP             -
+                                                                                                       02-03        12       OP          OP             -
+ DIG - GEO520 - GEOMORFOLOGIA E DINÂMICA DE VERTENTES                   60      45     15              02-01        11       OP          OP             -
+                                                                                                       02-02        12       OP          OP             -
+                                                                                                       02-03        12       OP          OP             -
+ DIG - GEO552 - TRATAMENTO E ANÁLISE DE DADOS ESPACIAIS NO ENS. DE      60      30     30              02-01        11       OP          OP         CRT010
+ GEOGRAFIA                                                                                             02-02        12       OP          OP         CRT010
+                                                                                                       02-03        12       OP          OP         CRT010
+ DIG - GEO553 - PEDOGEOMORFOLOGIA                                       60      45     15              02-01        11       OP          OP      GEO530, GEO527
+                                                                                                       02-02        12       OP          OP      GEO530, GEO527
+                                                                                                       02-03        12       OP          OP      GEO530, GEO527
+ DIG - GEO554 - ARTES E EXPERIÊNCIAS GEOGRÁFICAS                        60      45     15              02-01        11       OP          OP             -
+                                                                                                       02-02        12       OP          OP             -
+                                                                                                       02-03        12       OP          OP             -
+ DIG - GEO555 - PRESSÕES E INTERVENÇÕES EM SISTEMAS HIDROGRÁFICOS       60      45     15              02-01        11       OP          OP             -
+                                                                                                       02-02        12       OP          OP             -
+                                                                                                       02-03        12       OP          OP             -
+
+
+
+
+                                                                                  RELATÓRIO DE VERSÃO CURRICULAR
+
+16/09/2026 16.18.46                                                                                                                                  Página 10 de 14
+Pró-reitoria de Graduação
+                                                                     Carga Horária                                                  Natureza
+                                                                                                                         Natureza
+                             Atividade Acadêmica                                                   Percurso      Grupo                 no      Pré-requisito
+                                                                                                                         no Grupo
+                                                                                                                                    Percurso
+                                                                   Total Teórica Prática
+
+ DIG - GEO556 - SOLOS ANTRÓPICOS E INTERAÇÕES SOCIOAMBIENTAIS       60      45     15                02-01        11       OP          OP        GEO530
+                                                                                                     02-02        12       OP          OP        GEO530
+                                                                                                     02-03        12       OP          OP        GEO530
+ DIG - GEO557 - A CIDADE E O CINEMA                                 60      60      0                02-01        11       OP          OP        GEO529
+                                                                                                     02-02        12       OP          OP        GEO529
+                                                                                                     02-03        12       OP          OP        GEO529
+ DIG - GEO558 - SISTEMAS ALIMENTARES, TERRITÓRIOS E AGROECOLOGIA    60      45     15                02-01        11       OP          OP        GEO531
+                                                                                                     02-02        12       OP          OP        GEO531
+                                                                                                     02-03        12       OP          OP        GEO531
+ DIG - GEO559 - CARTOGRAFIA ESCOLAR                                 60      45     15                02-01        11       OP          OP            -
+                                                                                                     02-02        12       OP          OP            -
+                                                                                                     02-03        12       OP          OP            -
+ PJG - GEO560 - PROJETO DE INICIAÇÃO CIENTÍFICA                     15      0      15                02-01        10       OP          OP            -
+                                                                                                     02-02        10       OP          OP            -
+                                                                                                     02-03        10       OP          OP            -
+ PJG - GEO561 - PROJETO DE EXTENSÃO                                 15      0      15                02-01        10       OP          OP            -
+                                                                                                     02-02        10       OP          OP            -
+                                                                                                     02-03        10       OP          OP            -
+ PGG - GEO562 - INICIAÇÃO À DOCÊNCIA                                15      0      15                02-01        10       OP          OP            -
+                                                                                                     02-02        10       OP          OP            -
+                                                                                                     02-03        10       OP          OP            -
+ PJG - GEO563 - AUTORIA DE PUBLICAÇÃO                               30      0      30                02-01        10       OP          OP            -
+                                                                                                     02-02        10       OP          OP            -
+                                                                                                     02-03        10       OP          OP            -
+ PJG - GEO564 - COAUTORIA DE PUBLICAÇÃO                             15      0      15                02-01        10       OP          OP            -
+                                                                                                     02-02        10       OP          OP            -
+                                                                                                     02-03        10       OP          OP            -
+ EVG - GEO565 - APRESENTAÇÃO OU ORGANIZAÇÃO DE EVENTOS              15      0      15                02-01        10       OP          OP            -
+                                                                                                     02-02        10       OP          OP            -
+                                                                                                     02-03        10       OP          OP            -
+ EVG - GEO566 - ATIVIDADE EM ENTIDADES ESTUDANTIS                   15      0      15                02-01        10       OP          OP            -
+                                                                                                     02-02        10       OP          OP            -
+                                                                                                     02-03        10       OP          OP            -
+ EVG - GEO567 - ORGANIZAÇÃO E REPRESENTAÇÃO ESTUDANTIL              15      0      15                02-01        10       OP          OP            -
+                                                                                                     02-02        10       OP          OP            -
+                                                                                                     02-03        10       OP          OP            -
+ ETG - GEO568 - ESTÁGIO NÃO-OBRIGATÓRIO                             15      0      15                02-01        10       OP          OP            -
+                                                                                                     02-02        10       OP          OP            -
+                                                                                                     02-03        10       OP          OP            -
+
+
+
+
+                                                                                RELATÓRIO DE VERSÃO CURRICULAR
+
+16/09/2026 16.18.46                                                                                                                               Página 11 de 14
+Pró-reitoria de Graduação
+                                                                                             Carga Horária                                                                                                 Natureza
+                                                                                                                                                                                              Natureza
+                               Atividade Acadêmica                                                                                 Percurso                                Grupo                              no                 Pré-requisito
+                                                                                                                                                                                              no Grupo
+                                                                                                                                                                                                           Percurso
+                                                                                        Total Teórica Prática
+
+ EVG - GEO569 - PARTICIPAÇÃO EM EVENTOS ACADÊMICOS I                                      15         0      15                       02-01                                  10                      OP        OP                        -
+                                                                                                                                     02-02                                  10                      OP        OP                        -
+                                                                                                                                     02-03                                  10                      OP        OP                        -
+ EVG - GEO570 - PARTICIPAÇÃO EM EVENTOS ACADÊMICOS II                                     15         0      15                       02-01                                  10                      OP        OP                        -
+                                                                                                                                     02-02                                  10                      OP        OP                        -
+                                                                                                                                     02-03                                  10                      OP        OP                        -
+ DIG - IGC034 - TÓPICOS EM ESTUDOS AVANÇADOS IV                                           60      60         0                       02-03                                   8                      OP        OP                        -
+ DIG - MTE452 - TÓPICOS EM PROCESSO DE ENSINO B                                           60      60         0                       02-01                                  10                      OP        OP                        -
+                                                                                                                                     02-02                                  10                      OP        OP                        -
+                                                                                                                                     02-03                                  10                      OP        OP                        -
+
+
+
+
+Quadro de integralização
+
+                                                                                                                                              Carga horária em   Carga horária em
+                                                                Carga horária de     Carga horária em Carga horária em Carga horária em atividades de formação    atividades de    Carga horária em
+                                           Semestres             matrícula por          atividades    atividades optativa estágio obrigatório  complementar         formação         atividades de                               Total (Carga horária
+              Percurso                                             semestre             obrigatória                                           preestabelecida  complementar aberta  formação livre                                  mínima para
+                                                                                                                                                                                                                                   integralização)
+
+                                 Mínimo     Padrão     Máximo   Mínima   Máxima      Mínima     Máxima       Mínima     Máxima     Mínima     Máxima   Mínima        Máxima        Mínima     Máxima      Mínima      Máxima
+               02-01                10         10        17      195       480        2295       2295            420     420        405        405        0            0             0              0       105        105                  3225
+               02-02                10         10        17      195       480        2295       2295            180     180        405        405        0            0            300            300      45          45                  3225
+               02-03                10         10        17      195       480        2295       2295            420     420        405        405        0            0             0              0       105        105                  3225
+
+
+
+
+Grupos de atividades:
+
+                                                                                                                                                                                         Carga
+                                                                                                                                      Propriedades do grupo não predefinido                                                  Regras
+                                                                                                                                                                                         Horária
+                              Grupo                                                Percursos
+
+                                                                                                          Natureza do                                         Permite atividades
+                                                                                                                         Predef.
+                                                                                                            Grupo
+                                                                                             Natureza                                  Tipo de formação                        Mín.          Máx.        Pré-requisitos               Integralização
+   Identificador                          Nome                            Identificador         no                                                              Do Do próprio
+                                                                                             percurso                                                         próprio percurso
+                                                                                                                                                               curso
+        15                       Núcleo Complementar                          02-02             OB               OB       Não         Complementar aberta       Não      Não   300            300                 -                           -
+         1                         Núcleo Específico                          02-01             OB               OB        Sim                   -               -            -      3120    3120                 -                           -
+         5                               Optativas                            02-01             OB               OB        Sim                   -               -            -       420     420                 -                           -
+        11                  Optativas de Formação Específica                  02-01             OB               OB        Sim                   -               -            -       360     360                 -                           -
+
+
+
+                                                                                                         RELATÓRIO DE VERSÃO CURRICULAR
+
+16/09/2026 16.18.46                                                                                                                                                                                                                   Página 12 de 14
+Pró-reitoria de Graduação
+                                                                                                                                                             Carga
+                                                                                                                  Propriedades do grupo não predefinido                                    Regras
+                                                                                                                                                             Horária
+                              Grupo                                  Percursos
+
+                                                                                          Natureza do                                  Permite atividades
+                                                                                                        Predef.
+                                                                                            Grupo
+                                                                               Natureza                            Tipo de formação                         Mín.   Máx.   Pré-requisitos            Integralização
+   Identificador                         Nome                  Identificador      no                                                      Do Do próprio
+                                                                               percurso                                                 próprio percurso
+                                                                                                                                         curso
+        10                    Optativas de Formação Geral          02-01         OB           OB          Sim              -               -        -        60     60          -                          -
+                                                                   02-02         OB
+                                                                   02-03         OB
+         4                         Estágio Obrigatório             02-01         OB           EC          Sim              -               -        -       405    405          -                          -
+                                                                   02-02         OB
+                                                                   02-03         OB
+         3                            Obrigatórias                 02-01         OB           OB          Sim              -               -        -       2295   2295         -                          -
+                                                                   02-02         OB
+                                                                   02-03         OB
+         2                         Núcleo Específico               02-02         OB           OB          Sim              -               -        -       2880   2880         -                          -
+         4                         Estágio Obrigatório             02-01         OB           EC          Sim              -               -        -       405    405          -                          -
+                                                                   02-02         OB
+                                                                   02-03         OB
+         3                            Obrigatórias                 02-01         OB           OB          Sim              -               -        -       2295   2295         -                          -
+                                                                   02-02         OB
+                                                                   02-03         OB
+         6                             Optativas                   02-02         OB           OB          Sim              -               -        -       180    180          -                          -
+        12                  Optativas de Formação Específica       02-02         OB           OB          Sim              -               -        -       120    120          -                          -
+                                                                   02-03         OB
+        10                    Optativas de Formação Geral          02-01         OB           OB          Sim              -               -        -        60     60          -                          -
+                                                                   02-02         OB
+                                                                   02-03         OB
+         9                         Núcleo Específico               02-03         OB           OB          Sim              -               -        -       3120   3120         -                          -
+         4                         Estágio Obrigatório             02-01         OB           EC          Sim              -               -        -       405    405          -                          -
+                                                                   02-02         OB
+                                                                   02-03         OB
+         3                            Obrigatórias                 02-01         OB           OB          Sim              -               -        -       2295   2295         -                          -
+                                                                   02-02         OB
+                                                                   02-03         OB
+         7                             Optativas                   02-03         OB           OB          Sim              -               -        -       420    420          -                          -
+         8                         Núcleo Avançado                 02-03         OB           OB          Sim              -               -        -       240    240          -                          -
+        12                  Optativas de Formação Específica       02-02         OB           OB          Sim              -               -        -       120    120          -                          -
+                                                                   02-03         OB
+        10                    Optativas de Formação Geral          02-01         OB           OB          Sim              -               -        -        60     60          -                          -
+                                                                   02-02         OB
+                                                                   02-03         OB
+
+
+
+                                                                                      RELATÓRIO DE VERSÃO CURRICULAR
+
+16/09/2026 16.18.46                                                                                                                                                                                 Página 13 de 14
+Pró-reitoria de Graduação
+                                                                                                                                                                Carga
+                                                                                                                    Propriedades do grupo não predefinido                                    Regras
+                                                                                                                                                                Horária
+                                 Grupo                                 Percursos
+
+                                                                                            Natureza do                                    Permite atividades
+                                                                                                          Predef.
+                                                                                              Grupo
+                                                                                 Natureza                            Tipo de formação                       Mín.     Máx.   Pré-requisitos            Integralização
+   Identificador                         Nome                    Identificador      no                                                       Do Do próprio
+                                                                                 percurso                                                  próprio percurso
+                                                                                                                                            curso
+        13                           Núcleo Geral                    02-01         OB           OB         Não             Livre             Não      Não   105      105          -                          -
+                                                                     02-03         OB
+        14                           Núcleo Geral                    02-02         OB           OB         Não             Livre               Não    Não       45    45          -                          -
+
+
+
+
+Tipos de atividades
+
+                            Código                                                                                                 Descrição
+
+  DIG                                               DISCIPLINA GRADUAÇÃO
+  PJG                                               PROJETO
+  PGG                                               PROGRAMA
+  EVG                                               EVENTO
+  ETG                                               ESTÁGIO
+
+
+
+
+Regras curriculares
+ Não há regras curriculares.
+
+
+
+
+                                                                                        RELATÓRIO DE VERSÃO CURRICULAR
+
+16/09/2026 16.18.46                                                                                                                                                                                   Página 14 de 14
+Pró-reitoria de Graduação
+

@@ -1,0 +1,964 @@
+                              UNIVERSIDADE FEDERAL DE MINAS GERAIS
+                              Configuração Curricular
+                              Pró-reitoria de Graduação
+
+                                                                                         Relatório de versão curricular
+
+
+Curso:         16003 - MEDICINA                                                                                           Versão curricular:          I-20212
+
+
+Situação:      Liberada
+
+
+Carga horária mínima para mudança de opção de vinculação:                          -                                      Período mínimo para mudança de opção de vinculação:   3
+
+
+
+
+Disponibilidade nas subdivisões do curso:
+
+
+                                                                         É versão para                                                           Percurso padrão
+                                                                                          Modalidade
+                            Subdivisão de Curso                          vinculação de
+                                                                                         Educacional
+                                                                         ingressantes
+                                                                                                          Identificador                                            Nome
+
+    16003PD001/Presencial/INTEGRAL                                           Não          Presencial          R-01        BACHARELADO/F. LIVRE
+
+Observações:
+
+-
+
+
+
+
+Percursos curriculares que compõem a versão:
+
+                  Identificador                                                                                                Nome
+
+    R-02                                          BACHARELADO/F. COMPLEMENTAR ABERTA
+    R-01                                          BACHARELADO/F. LIVRE
+
+
+
+
+Atividades acadêmicas:
+
+
+                                                                                                 RELATÓRIO DE VERSÃO CURRICULAR
+
+19/09/2024 14.56.09                                                                                                                                                                 Página 1 de 17
+Pró-reitoria de Graduação
+Tabela organizada por sugestão de período definido na versão curricular
+
+
+
+  1º PERÍODO
+
+                                                                                                                            Sugestão
+                                                                          Créditos       Carga Horária
+                                                                                                                           de período           Natureza Natureza
+                                  Atividade Acadêmica                                                           Percurso   específica   Grupo      no       no       Pré-requisitos
+                                                                                                                               do                grupo   percurso
+                                                                          Mín. Máx.   Total   Teórica Prática
+                                                                                                                            percurso
+   DIG - BIG058 - GENÉTICA                                                 4    4      60       24      36        R-01         -          1        OB       OB              -
+                                                                                                                  R-02         -          1        OB       OB              -
+   DIG - BIQ063 - BIOQUÍMICA I                                             6    6      90       60      30        R-01         -          1        OB       OB              -
+                                                                                                                  R-02         -          1        OB       OB              -
+   DIG - IMA001 - ANATOMIA SISTÊMICA                                       8    8      120      30      90        R-01         -          1        OB       OB              -
+                                                                                                                  R-02         -          1        OB       OB              -
+   DIG - MED063 - INTRODUÇÃO À PESQUISA CIENTÍFICA I                       2    2      30       25       5        R-01         -          1        OB       OB              -
+                                                                                                                  R-02         -          1        OB       OB              -
+   DIG - MED064 - ATENDIMENTO PRÉ-HOSPITALAR E PRIMEIROS SOCORROS          3    3      45       30      15        R-01         -          1        OB       OB              -
+                                                                                                                  R-02         -          1        OB       OB              -
+   DIG - MOF057 - BIOLOGIA CELULAR APLICADA À MEDICINA                     4    4      60       15      45        R-01         -          1        OB       OB              -
+                                                                                                                  R-02         -          1        OB       OB              -
+   DIG - MOF611 - EMBRIOLOGIA MEDICA                                       3    3      45       15      30        R-01         -          1        OB       OB              -
+                                                                                                                  R-02         -          1        OB       OB              -
+   DIG - MPS031 - CIÊNCIAS SOCIAIS APLICADAS À SAÚDE                       5    5      75       45      30        R-01         -          1        OB       OB              -
+                                                                                                                  R-02         -          1        OB       OB              -
+
+
+
+  2º PERÍODO
+
+                                                                                                                            Sugestão
+                                                                          Créditos       Carga Horária
+                                                                                                                           de período           Natureza Natureza
+                                  Atividade Acadêmica                                                           Percurso   específica   Grupo      no       no       Pré-requisitos
+                                                                                                                               do                grupo   percurso
+                                                                          Mín. Máx.   Total   Teórica Prática
+                                                                                                                            percurso
+   DIG - BIQ608 - IMUNOLOGIA MEDICA                                        4    4      60       60       0        R-01         -          1        OB       OB      MOF057, BIQ063
+                                                                                                                  R-02         -          1        OB       OB      MOF057, BIQ063
+   DIG - FIB039 - BIOFÍSICA E FISIOLOGIA                                   8    8      120      80      40        R-01         -          1        OB       OB      BIQ063, IMA001
+                                                                                                                  R-02         -          1        OB       OB      BIQ063, IMA001
+   DIG - MED065 - INICIAÇÃO À ATENÇÃO PRIMÁRIA À SAÚDE I                   5    5      75       15      60        R-01         -          1        OB       OB              -
+                                                                                                                  R-02         -          1        OB       OB              -
+   DIG - MED066 - TUTORIA                                                  2    2      30        0      30        R-01         -          1        OB       OB              -
+                                                                                                                  R-02         -          1        OB       OB              -
+   DIG - MOF005 - NEUROANATOMIA MEDICA                                     4    4      60       30      30        R-01         -          1        OB       OB              -
+                                                                                                                  R-02         -          1        OB       OB              -
+   DIG - MOF058 - HISTOFISIOLOGIA DOS SISTEMAS APLICADA À MEDICINA         7    7      105      45      60        R-01         -          1        OB       OB      MOF057, MOF611
+                                                                                                                  R-02         -          1        OB       OB      MOF057, MOF611
+
+                                                                                    RELATÓRIO DE VERSÃO CURRICULAR
+
+19/09/2024 14.56.09                                                                                                                                                   Página 2 de 17
+Pró-reitoria de Graduação
+                                                                                                                                                   Sugestão
+                                                                                                Créditos        Carga Horária
+                                                                                                                                                  de período           Natureza Natureza
+                                    Atividade Acadêmica                                                                                Percurso   específica   Grupo      no       no           Pré-requisitos
+                                                                                                                                                      do                grupo   percurso
+                                                                                                Mín. Máx.    Total   Teórica Prática
+                                                                                                                                                   percurso
+   DIG - SAM022 - BASES HUMANÍSTICAS E INTRODUÇÃO À PSICOLOGIA MÉDICA                            2    2        30      10      20        R-01         -          1        OB       OB                  -
+                                                                                                                                         R-02         -          1        OB       OB                  -
+
+
+
+                                                                                                       Carga horária adicional do período
+
+             Percurso                                                                                       Grupo de atividades                                                     Carga Horária
+   R-01                           16003-I-20212-4 - Formação Livre                                                                                                                         60
+   R-02                           16003-I-20212-7 - Formação Livre                                                                                                                         60
+
+
+
+  3º PERÍODO
+
+                                                                                                                                                   Sugestão
+                                                                                                Créditos        Carga Horária
+                                                                                                                                                  de período           Natureza Natureza
+                                    Atividade Acadêmica                                                                                Percurso   específica   Grupo      no       no           Pré-requisitos
+                                                                                                                                                      do                grupo   percurso
+                                                                                                Mín. Máx.    Total   Teórica Prática
+                                                                                                                                                   percurso
+   DIG - BIQ064 - BIOQUÍMICA II                                                                  2    2        30      30       0        R-01         -          1        OB       OB               FIB039
+                                                                                                                                         R-02         -          1        OB       OB               FIB039
+   DIG - FAR034 - FARMACOLOGIA MÉDICA I                                                          5    5        75      45      30        R-01         -          1        OB       OB               FIB039
+                                                                                                                                         R-02         -          1        OB       OB               FIB039
+   DIG - FIB040 - FISIOLOGIA MÉDICA                                                              8    8       120      80      40        R-01         -          1        OB       OB           MOF058, FIB039
+                                                                                                                                         R-02         -          1        OB       OB           MOF058, FIB039
+   DIG - MED067 - INICIAÇÃO À ATENÇÃO PRIMÁRIA À SAÚDE II                                        5    5        75      15      60        R-01         -          1        OB       OB              MED065
+                                                                                                                                         R-02         -          1        OB       OB              MED065
+   DIG - MIC029 - MICROBIOLOGIA MÉDICA                                                           6    6        90      50      40        R-01         -          1        OB       OB              BIQ608
+                                                                                                                                         R-02         -          1        OB       OB              BIQ608
+   DIG - PAR025 - PARASITOLOGIA MÉDICA                                                           4    4        60      30      30        R-01         -          1        OB       OB           MOF058, BIQ608
+                                                                                                                                         R-02         -          1        OB       OB           MOF058, BIQ608
+
+
+
+                                                                                                       Carga horária adicional do período
+
+             Percurso                                                                                       Grupo de atividades                                                     Carga Horária
+                                  16003-I-20212-5 - Atividades Acadêmico-Científico-Culturais                                                                                              30
+   R-01
+                                  16003-I-20212-4 - Formação Livre                                                                                                                         30
+   R-02                           16003-I-20212-8 - Formação Complementar Aberta                                                                                                           30
+
+
+
+
+                                                                                                          RELATÓRIO DE VERSÃO CURRICULAR
+
+19/09/2024 14.56.09                                                                                                                                                                               Página 3 de 17
+Pró-reitoria de Graduação
+  4º PERÍODO
+
+                                                                                                                                                 Sugestão
+                                                                                              Créditos        Carga Horária
+                                                                                                                                                de período           Natureza Natureza
+                                  Atividade Acadêmica                                                                                Percurso   específica   Grupo      no       no            Pré-requisitos
+                                                                                                                                                    do                grupo   percurso
+                                                                                              Mín. Máx.    Total   Teórica Prática
+                                                                                                                                                 percurso
+   DIG - CLM024 - CLÍNICA MÉDICA I                                                             5    5        75       0      75        R-01         -          1        OB       OB           FIB040, MED067
+                                                                                                                                       R-02         -          1        OB       OB           FIB040, MED067
+   DIG - FAR035 - FARMACOLOGIA MÉDICA II                                                       5    5        75      45      30        R-01         -          1        OB       OB           FIB040, FAR034
+                                                                                                                                       R-02         -          1        OB       OB           FIB040, FAR034
+   DIG - IMA002 - ANATOMIA TOPOGRÁFICA E IMAGEM                                                8    8       120      30      90        R-01         -          1        OB       OB                FIB040
+                                                                                                                                       R-02         -          1        OB       OB                FIB040
+   DIG - MED068 - INICIAÇÃO À ATENÇÃO PRIMÁRIA À SAÚDE III                                     5    5        75      15      60        R-01         -          1        OB       OB           MED063, MED067
+                                                                                                                                       R-02         -          1        OB       OB           MED063, MED067
+   DIG - MED069 - INTRODUÇÃO À PESQUISA CIENTÍFICA II                                          2    2        30      20      10        R-01         -          1        OB       OB               MED063
+                                                                                                                                       R-02         -          1        OB       OB               MED063
+   DIG - PAG017 - PATOLOGIA GERAL                                                              5    5        75      30      45        R-01         -          1        OB       OB           MOF058, IMA001,
+                                                                                                                                                                                                  BIQ608
+                                                                                                                                       R-02         -          1        OB       OB           MOF058, IMA001,
+                                                                                                                                                                                                  BIQ608
+   DIG - PED017 - PEDIATRIA I                                                                  6    6        90      20      70        R-01         -          1        OB       OB           FIB040, MED067
+                                                                                                                                       R-02         -          1        OB       OB           FIB040, MED067
+
+
+
+                                                                                                     Carga horária adicional do período
+
+             Percurso                                                                                     Grupo de atividades                                                     Carga Horária
+                                16003-I-20212-5 - Atividades Acadêmico-Científico-Culturais                                                                                              30
+   R-01
+                                16003-I-20212-4 - Formação Livre                                                                                                                         30
+   R-02                         16003-I-20212-8 - Formação Complementar Aberta                                                                                                           30
+
+
+
+  5º PERÍODO
+
+                                                                                                                                                 Sugestão
+                                                                                              Créditos        Carga Horária
+                                                                                                                                                de período           Natureza Natureza
+                                  Atividade Acadêmica                                                                                Percurso   específica   Grupo      no       no            Pré-requisitos
+                                                                                                                                                    do                grupo   percurso
+                                                                                              Mín. Máx.    Total   Teórica Prática
+                                                                                                                                                 percurso
+   DIG - APM001 - ANATOMIA PATOLOGICA I                                                        5    5        75      30      45        R-01         -          1        OB       OB               PAG017
+                                                                                                                                       R-02         -          1        OB       OB               PAG017
+   DIG - CIR014 - CIRURGIA I                                                                   5    5        75      30      45        R-01         -          1        OB       OB           IMA002, PED017
+                                                                                                                                       R-02         -          1        OB       OB           IMA002, PED017
+   DIG - CLM025 - CLÍNICA MÉDICA II                                                            5    5        75       0      75        R-01         -          1        OB       OB               CLM024
+                                                                                                                                       R-02         -          1        OB       OB               CLM024
+
+
+
+                                                                                                        RELATÓRIO DE VERSÃO CURRICULAR
+
+19/09/2024 14.56.09                                                                                                                                                                             Página 4 de 17
+Pró-reitoria de Graduação
+                                                                                                                                                  Sugestão
+                                                                                               Créditos        Carga Horária
+                                                                                                                                                 de período           Natureza Natureza
+                                   Atividade Acadêmica                                                                                Percurso   específica   Grupo      no       no            Pré-requisitos
+                                                                                                                                                     do                grupo   percurso
+                                                                                               Mín. Máx.    Total   Teórica Prática
+                                                                                                                                                  percurso
+   DIG - IMA003 - IMAGEM I                                                                      2    2        30      10      20        R-01         -          1        OB       OB      FIB040, MOF005, IMA002
+
+                                                                                                                                        R-02         -          1        OB       OB      FIB040, MOF005, IMA002
+
+   DIG - MPS004 - EPIDEMIOLOGIA                                                                 5    5        75      30      45        R-01         -          1        OB       OB           MPS031, MED069
+                                                                                                                                        R-02         -          1        OB       OB           MPS031, MED069
+   DIG - PED018 - PEDIATRIA II                                                                  6    6        90      10      80        R-01         -          1        OB       OB               PED017
+                                                                                                                                        R-02         -          1        OB       OB               PED017
+   DIG - PRO071 - PATOLOGIA CLÍNICA I                                                           3    3        45      15      30        R-01         -          1        OB       OB      FIB040, MIC029, PAR025
+
+                                                                                                                                        R-02         -          1        OB       OB      FIB040, MIC029, PAR025
+
+   DIG - SAM023 - SEMIOLOGIA E NOSOLOGIA PSIQUIÁTRICA                                           5    5        75      20      55        R-01         -          1        OB       OB               SAM022
+                                                                                                                                        R-02         -          1        OB       OB               SAM022
+
+
+
+                                                                                                      Carga horária adicional do período
+
+             Percurso                                                                                      Grupo de atividades                                                     Carga Horária
+   R-01                          16003-I-20212-5 - Atividades Acadêmico-Científico-Culturais                                                                                              30
+   R-02                          16003-I-20212-8 - Formação Complementar Aberta                                                                                                           30
+
+
+
+  6º PERÍODO
+
+                                                                                                                                                  Sugestão
+                                                                                               Créditos        Carga Horária
+                                                                                                                                                 de período           Natureza Natureza
+                                   Atividade Acadêmica                                                                                Percurso   específica   Grupo      no       no            Pré-requisitos
+                                                                                                                                                     do                grupo   percurso
+                                                                                               Mín. Máx.    Total   Teórica Prática
+                                                                                                                                                  percurso
+   DIG - APM002 - ANATOMIA PATOLOGICA II                                                        5    5        75      30      45        R-01         -          1        OB       OB               APM001
+                                                                                                                                        R-02         -          1        OB       OB               APM001
+   DIG - CIR015 - CIRURGIA II                                                                  10   10       150      30      120       R-01         -          1        OB       OB           CLM025, APM001,
+                                                                                                                                                                                               CIR014, PED018
+                                                                                                                                        R-02         -          1        OB       OB           CLM025, APM001,
+                                                                                                                                                                                               CIR014, PED018
+   DIG - CLM026 - CLÍNICA MÉDICA III                                                           10   10       150       0      150       R-01         -          1        OB       OB               CLM025
+                                                                                                                                        R-02         -          1        OB       OB               CLM025
+   DIG - GOB008 - GINECOLOGIA BÁSICA                                                            5    5        75      10      65        R-01         -          1        OB       OB           FAR035, CLM025,
+                                                                                                                                                                                               APM001, IMA002
+                                                                                                                                        R-02         -          1        OB       OB           FAR035, CLM025,
+                                                                                                                                                                                               APM001, IMA002
+   DIG - IMA004 - IMAGEM II                                                                     2    2        30      10      20        R-01         -          1        OB       OB               IMA003
+                                                                                                                                        R-02         -          1        OB       OB               IMA003
+   DIG - MED070 - CONFERÊNCIAS DE ÉTICA E BIOÉTICA                                              1    1        15      15       0        R-01         -          1        OB       OB                   -
+                                                                                                                                        R-02         -          1        OB       OB                   -
+
+
+                                                                                                         RELATÓRIO DE VERSÃO CURRICULAR
+
+19/09/2024 14.56.09                                                                                                                                                                              Página 5 de 17
+Pró-reitoria de Graduação
+                                                                                                                                                    Sugestão
+                                                                                                 Créditos        Carga Horária
+                                                                                                                                                   de período           Natureza Natureza
+                                    Atividade Acadêmica                                                                                 Percurso   específica   Grupo      no       no           Pré-requisitos
+                                                                                                                                                       do                grupo   percurso
+                                                                                                 Mín. Máx.    Total   Teórica Prática
+                                                                                                                                                    percurso
+   DIG - PED019 - PEDIATRIA III                                                                   5    5        75      10      65        R-01         -          1        OB       OB           APM001, PED018
+                                                                                                                                          R-02         -          1        OB       OB           APM001, PED018
+   DIG - PRO072 - PATOLOGIA CLÍNICA II                                                            3    3        45      15      30        R-01         -          1        OB       OB              PRO071
+                                                                                                                                          R-02         -          1        OB       OB              PRO071
+
+
+
+                                                                                                        Carga horária adicional do período
+
+             Percurso                                                                                        Grupo de atividades                                                     Carga Horária
+                                  16003-I-20212-5 - Atividades Acadêmico-Científico-Culturais                                                                                               30
+   R-01
+                                  16003-I-20212-6 - Optativas                                                                                                                               30
+                                  16003-I-20212-10 - Atividades Acadêmico-Científico-Culturais                                                                                              30
+   R-02
+                                  16003-I-20212-8 - Formação Complementar Aberta                                                                                                            30
+
+
+
+  7º PERÍODO
+
+                                                                                                                                                    Sugestão
+                                                                                                 Créditos        Carga Horária
+                                                                                                                                                   de período           Natureza Natureza
+                                    Atividade Acadêmica                                                                                 Percurso   específica   Grupo      no       no           Pré-requisitos
+                                                                                                                                                       do                grupo   percurso
+                                                                                                 Mín. Máx.    Total   Teórica Prática
+                                                                                                                                                    percurso
+   DIG - CIR016 - CIRURGIA III                                                                   10   10       150      30      120       R-01         -          1        OB       OB               CIR015
+                                                                                                                                          R-02         -          1        OB       OB               CIR015
+   DIG - CLM027 - CLÍNICA MÉDICA IV                                                              10   10       150       0      150       R-01         -          1        OB       OB              CLM026
+                                                                                                                                          R-02         -          1        OB       OB              CLM026
+   DIG - GOB009 - OBSTETRÍCIA BÁSICA                                                              5    5        75      10      65        R-01         -          1        OB       OB              GOB008
+                                                                                                                                          R-02         -          1        OB       OB              GOB008
+   DIG - MED071 - ÉTICA MÉDICA                                                                    3    3        45      15      30        R-01         -          1        OB       OB                  -
+                                                                                                                                          R-02         -          1        OB       OB                  -
+   DIG - MPS006 - SAUDE DO TRABALHADOR                                                            5    5        75      30      45        R-01         -          1        OB       OB              MPS004
+                                                                                                                                          R-02         -          1        OB       OB              MPS004
+   DIG - PED020 - PEDIATRIA IV                                                                    5    5        75      10      65        R-01         -          1        OB       OB              PED019
+                                                                                                                                          R-02         -          1        OB       OB              PED019
+   DIG - SAM024 - PSICOLOGIA MÉDICA                                                               3    3        45      15      30        R-01         -          1        OB       OB              SAM023
+                                                                                                                                          R-02         -          1        OB       OB              SAM023
+
+
+
+                                                                                                        Carga horária adicional do período
+
+             Percurso                                                                                        Grupo de atividades                                                     Carga Horária
+
+
+                                                                                                           RELATÓRIO DE VERSÃO CURRICULAR
+
+19/09/2024 14.56.09                                                                                                                                                                                Página 6 de 17
+Pró-reitoria de Graduação
+                                                                                                      Carga horária adicional do período
+
+             Percurso                                                                                      Grupo de atividades                                                     Carga Horária
+                                16003-I-20212-5 - Atividades Acadêmico-Científico-Culturais                                                                                               30
+   R-01
+                                16003-I-20212-6 - Optativas                                                                                                                               30
+                                16003-I-20212-10 - Atividades Acadêmico-Científico-Culturais                                                                                              30
+   R-02                         16003-I-20212-8 - Formação Complementar Aberta                                                                                                            30
+                                16003-I-20212-9 - Optativas                                                                                                                               30
+
+
+
+  8º PERÍODO
+
+                                                                                                                                                  Sugestão
+                                                                                               Créditos        Carga Horária
+                                                                                                                                                 de período           Natureza Natureza
+                                   Atividade Acadêmica                                                                                Percurso   específica   Grupo      no       no           Pré-requisitos
+                                                                                                                                                     do                grupo   percurso
+                                                                                               Mín. Máx.    Total   Teórica Prática
+                                                                                                                                                  percurso
+   DIG - APM007 - MEDICINA LEGAL                                                                4    4        60      30      30        R-01         -          1        OB       OB              MED071
+                                                                                                                                        R-02         -          1        OB       OB              MED071
+   DIG - CIR017 - CIRURGIA IV                                                                   5    5        75      30      45        R-01         -          1        OB       OB              CIR016
+                                                                                                                                        R-02         -          1        OB       OB              CIR016
+   DIG - CLM028 - CLÍNICA MÉDICA V                                                             10   10       150       0      150       R-01         -          1        OB       OB              CLM027
+                                                                                                                                        R-02         -          1        OB       OB              CLM027
+   DIG - GOB010 - ATENÇÃO PRIMÁRIA À SAÚDE DA MULHER                                            5    5        75      10      65        R-01         -          1        OB       OB              GOB009
+                                                                                                                                        R-02         -          1        OB       OB              GOB009
+   DIG - MED072 - SUPORTE DE VIDA EM URGÊNCIA E EMERGÊNCIA                                      2    2        30      10      20        R-01         -          1        OB       OB              MED064
+                                                                                                                                        R-02         -          1        OB       OB              MED064
+   DIG - MPS005 - POLITICA DE SAUDE E PLANEJAMENTO                                              5    5        75      30      45        R-01         -          1        OB       OB              MPS004
+                                                                                                                                        R-02         -          1        OB       OB              MPS004
+   DIG - PED021 - PEDIATRIA V                                                                   5    5        75      10      65        R-01         -          1        OB       OB              PED020
+                                                                                                                                        R-02         -          1        OB       OB              PED020
+   DIG - SAM025 - SAÚDE MENTAL EM CUIDADOS PRIMÁRIOS                                            5    5        75       0      75        R-01         -          1        OB       OB              SAM023
+                                                                                                                                        R-02         -          1        OB       OB              SAM023
+
+
+
+                                                                                                      Carga horária adicional do período
+
+             Percurso                                                                                      Grupo de atividades                                                     Carga Horária
+                                16003-I-20212-5 - Atividades Acadêmico-Científico-Culturais                                                                                               30
+   R-01
+                                16003-I-20212-6 - Optativas                                                                                                                               30
+                                16003-I-20212-10 - Atividades Acadêmico-Científico-Culturais                                                                                              30
+   R-02                         16003-I-20212-8 - Formação Complementar Aberta                                                                                                            30
+                                16003-I-20212-9 - Optativas                                                                                                                               30
+
+
+
+
+                                                                                                         RELATÓRIO DE VERSÃO CURRICULAR
+
+19/09/2024 14.56.09                                                                                                                                                                             Página 7 de 17
+Pró-reitoria de Graduação
+  9º PERÍODO
+
+                                                                                                                                                Sugestão
+                                                                                             Créditos        Carga Horária
+                                                                                                                                               de período           Natureza Natureza
+                                Atividade Acadêmica                                                                                 Percurso   específica   Grupo      no       no            Pré-requisitos
+                                                                                                                                                   do                grupo   percurso
+                                                                                             Mín. Máx.    Total   Teórica Prática
+                                                                                                                                                percurso
+   DIG - CLM030 - ATENÇÃO SECUNDÁRIA EM DERMATOLOGIA                                          3    3        45       5      40        R-01         -          2        OB       OB               CLM028
+                                                                                                                                      R-02         -          2        OB       OB               CLM028
+   DIG - CLM031 - ATENÇÃO SECUNDÁRIA EM NEUROLOGIA                                            3    3        45       5      40        R-01         -          2        OB       OB               CLM028
+                                                                                                                                      R-02         -          2        OB       OB               CLM028
+   DIG - CLM033 - ESTÁGIO EM CLÍNICA MÉDICA                                                  18   18       270      15      255       R-01         -          2        OB       OB               CLM028
+                                                                                                                                      R-02         -          2        OB       OB               CLM028
+   DIG - MED073 - PROPEDÊUTICA CONTEXTUALIZADA I: CLÍNICA MÉDICA                              3    3        45      22      23        R-01         -          2        OB       OB           PRO072, CLM028,
+                                                                                                                                                                                             APM002, IMA004
+                                                                                                                                      R-02         -          2        OB       OB           PRO072, CLM028,
+                                                                                                                                                                                             APM002, IMA004
+   DIG - MED074 - PROPEDÊUTICA CONTEXTUALIZADA II: CLÍNICA PEDIÁTRICA                         3    3        45      22      23        R-01         -          2        OB       OB           PRO072, PED021,
+                                                                                                                                                                                             APM002, IMA004
+                                                                                                                                      R-02         -          2        OB       OB           PRO072, PED021,
+                                                                                                                                                                                             APM002, IMA004
+   DIG - PED032 - ESTÁGIO EM CLÍNICA PEDIÁTRICA                                              18   18       270      15      255       R-01         -          2        OB       OB              PED021
+                                                                                                                                      R-02         -          2        OB       OB               PED021
+   DIG - SAM026 - INTERCONSULTA PSIQUIÁTRICA I: CLÍNICA MÉDICA                                2    2        30       0      30        R-01         -          2        OB       OB               SAM025
+                                                                                                                                      R-02         -          2        OB       OB               SAM025
+   DIG - SAM027 - INTERCONSULTA PSIQUIÁTRICA II: PEDIATRIA                                    2    2        30       0      30        R-01         -          2        OB       OB               SAM025
+                                                                                                                                      R-02         -          2        OB       OB               SAM025
+
+
+
+                                                                                                    Carga horária adicional do período
+
+             Percurso                                                                                    Grupo de atividades                                                     Carga Horária
+                              16003-I-20212-5 - Atividades Acadêmico-Científico-Culturais                                                                                               30
+   R-01
+                              16003-I-20212-6 - Optativas                                                                                                                               90
+                              16003-I-20212-10 - Atividades Acadêmico-Científico-Culturais                                                                                              30
+   R-02
+                              16003-I-20212-9 - Optativas                                                                                                                               90
+
+
+
+  10º PERÍODO
+
+                                                                                                                                                Sugestão
+                                                                                             Créditos        Carga Horária
+                                                                                                                                               de período           Natureza Natureza
+                                Atividade Acadêmica                                                                                 Percurso   específica   Grupo      no       no            Pré-requisitos
+                                                                                                                                                   do                grupo   percurso
+                                                                                             Mín. Máx.    Total   Teórica Prática
+                                                                                                                                                percurso
+   DIG - ALO006 - ATENÇÃO SECUNDÁRIA EM REUMATOLOGIA                                          3    3        45       5      40        R-01         -          2        OB       OB               CLM028
+                                                                                                                                      R-02         -          2        OB       OB               CLM028
+
+
+
+                                                                                                       RELATÓRIO DE VERSÃO CURRICULAR
+
+19/09/2024 14.56.09                                                                                                                                                                            Página 8 de 17
+Pró-reitoria de Graduação
+                                                                                                                                                Sugestão
+                                                                                             Créditos        Carga Horária
+                                                                                                                                               de período           Natureza Natureza
+                                Atividade Acadêmica                                                                                 Percurso   específica   Grupo      no       no            Pré-requisitos
+                                                                                                                                                   do                grupo   percurso
+                                                                                             Mín. Máx.    Total   Teórica Prática
+                                                                                                                                                percurso
+   DIG - ALO007 - ATENÇÃO SECUNDÁRIA EM ORTOPEDIA                                             3    3        45       5      40        R-01         -          2        OB       OB           CLM028, CIR016
+                                                                                                                                      R-02         -          2        OB       OB           CLM028, CIR016
+   DIG - CIR022 - ESTÁGIO EM CLÍNICA CIRÚRGICA                                               18   18       270      15      255       R-01         -          2        OB       OB               CIR017
+                                                                                                                                      R-02         -          2        OB       OB               CIR017
+   DIG - GOB013 - ESTÁGIO EM GINECOLOGIA E OBSTETRÍCIA                                       18   18       270      15      255       R-01         -          2        OB       OB               GOB010
+                                                                                                                                      R-02         -          2        OB       OB               GOB010
+   DIG - MED075 - PROPEDÊUTICA CONTEXTUALIZADA III: GINECOLOGIA E OBSTETRÍCIA                 3    3        45      22      23        R-01         -          2        OB       OB           PRO072, APM002,
+                                                                                                                                                                                             GOB010, IMA004
+                                                                                                                                      R-02         -          2        OB       OB           PRO072, APM002,
+                                                                                                                                                                                             GOB010, IMA004
+   DIG - MED076 - PROPEDÊUTICA CONTEXTUALIZADA IV: CLÍNICA CIRÚRGICA                          3    3        45      22      23        R-01         -          2        OB       OB           PRO072, APM002,
+                                                                                                                                                                                              IMA004, CIR017
+                                                                                                                                      R-02         -          2        OB       OB           PRO072, APM002,
+                                                                                                                                                                                              IMA004, CIR017
+   DIG - OFT038 - ATENÇÃO SECUNDÁRIA EM OFTALMOLOGIA                                          3    3        45       5      40        R-01         -          2        OB       OB            CLM028, CIR016
+                                                                                                                                      R-02         -          2        OB       OB           CLM028, CIR016
+   DIG - OFT039 - ATENÇÃO SECUNDÁRIA EM OTORRINOLARINGOLOGIA                                  3    3        45       5      40        R-01         -          2        OB       OB           CLM028, CIR016
+                                                                                                                                      R-02         -          2        OB       OB           CLM028, CIR016
+
+
+
+                                                                                                    Carga horária adicional do período
+
+             Percurso                                                                                    Grupo de atividades                                                     Carga Horária
+   R-01                       16003-I-20212-5 - Atividades Acadêmico-Científico-Culturais                                                                                               30
+   R-02                       16003-I-20212-10 - Atividades Acadêmico-Científico-Culturais                                                                                              30
+
+
+
+  11º PERÍODO
+
+                                                                                                                                                Sugestão
+                                                                                             Créditos        Carga Horária
+                                                                                                                                               de período           Natureza Natureza
+                                Atividade Acadêmica                                                                                 Percurso   específica   Grupo      no       no            Pré-requisitos
+                                                                                                                                                   do                grupo   percurso
+                                                                                             Mín. Máx.    Total   Teórica Prática
+                                                                                                                                                percurso
+   DIG - MED118 - ESTÁGIO EM URGÊNCIA E EMERGÊNCIA                                           27   27       405      45      360       R-01         -          2        OB       OB         CLM033, PED032,
+                                                                                                                                                                                           ALO006, ALO007,
+                                                                                                                                                                                        CIR022, OFT038, OFT039
+
+                                                                                                                                      R-02         -          2        OB       OB         CLM033, PED032,
+                                                                                                                                                                                           ALO006, ALO007,
+                                                                                                                                                                                        CIR022, OFT038, OFT039
+
+   DIG - MPS020 - GESTÃO DO SISTEMA DE SAÚDE                                                  2    2        30      15      15        R-01         -          2        OB       OB               MPS005
+                                                                                                                                      R-02         -          2        OB       OB               MPS005
+   DIG - MPS023 - ESTAGIO EM SAUDE COLETIVA                                                  22   22       330      65      265       R-01         -          2        OB       OB           MPS005, MPS006
+                                                                                                                                      R-02         -          2        OB       OB           MPS005, MPS006
+
+
+                                                                                                       RELATÓRIO DE VERSÃO CURRICULAR
+
+19/09/2024 14.56.09                                                                                                                                                                            Página 9 de 17
+Pró-reitoria de Graduação
+  12º PERÍODO
+
+                                                                                                                                          Sugestão
+                                                                                   Créditos         Carga Horária
+                                                                                                                                         de período                      Natureza Natureza
+                               Atividade Acadêmica                                                                            Percurso   específica         Grupo           no       no              Pré-requisitos
+                                                                                                                                             do                           grupo   percurso
+                                                                                   Mín. Máx.     Total    Teórica Prática
+                                                                                                                                          percurso
+   DIG - MED119 - ESTÁGIO EM URGÊNCIA E EMERGÊNCIA II                              16      16     240       30      210         R-01         -                2             OB         OB         CLM033, PED032,
+                                                                                                                                                                                                  ALO006, ALO007,
+                                                                                                                                                                                               CIR022, OFT038, OFT039
+
+                                                                                                                                R-02         -                2             OB         OB         CLM033, PED032,
+                                                                                                                                                                                                  ALO006, ALO007,
+                                                                                                                                                                                               CIR022, OFT038, OFT039
+
+
+
+
+                                                                                            Carga horária adicional do período
+
+             Percurso                                                                           Grupo de atividades                                                                    Carga Horária
+   R-01                      16003-I-20212-3 - Estágio - Atividades Optativas                                                                                                                  240
+   R-02                      16003-I-20212-3 - Estágio - Atividades Optativas                                                                                                                  240
+
+
+
+
+ATIVIDADES DE ESTÁGIO CURRICULAR OBRIGATÓRIO:
+
+                                                                                  Carga Horária                                                                               Natureza
+                                                                                                                                                                    Natureza
+                              Atividade acadêmica                                                                           Percurso                  Grupo                  no Percurso              Pré-requisito
+                                                                                                                                                                    no Grupo
+                                                                                Total   Teórica Prática
+
+                                                                                                                              R-01                      3             OP         OP         CLM033, PED032, CIR022, GOB013
+ DIG - ALO010 - ESTÁGIO OPCIONAL EM ORTOPEDIA E TRAUMATOLOGIA                   240       30      210
+                                                                                                                              R-02                      3             OP         OP         CLM033, PED032, CIR022, GOB013
+                                                                                                                              R-01                      3             OP         OP         CLM033, PED032, CIR022, GOB013
+ DIG - ALO011 - ESTÁGIO OPCIONAL EM REUMATOLOGIA                                240       30      210
+                                                                                                                              R-02                      3             OP         OP         CLM033, PED032, CIR022, GOB013
+                                                                                                                              R-01                      3             OP         OP         CLM033, PED032, CIR022, GOB013
+ DIG - APM009 - ESTÁGIO OPCIONAL EM ANATOMIA PATOLÓGICA                         240       30      210
+                                                                                                                              R-02                      3             OP         OP         CLM033, PED032, CIR022, GOB013
+                                                                                                                              R-01                      3             OP         OP         CLM033, PED032, CIR022, GOB013
+ DIG - CIR023 - ESTÁGIO OPCIONAL EM ANESTESIOLOGIA E CLÍNICA DE DOR             240       30      210
+                                                                                                                              R-02                      3             OP         OP         CLM033, PED032, CIR022, GOB013
+                                                                                                                              R-01                      3             OP         OP         CLM033, PED032, CIR022, GOB013
+ DIG - CIR024 - ESTÁGIO OPCIONAL EM CIRURGIA                                    240       30      210
+                                                                                                                              R-02                      3             OP         OP         CLM033, PED032, CIR022, GOB013
+                                                                                                                              R-01                      3             OP         OP         CLM033, PED032, CIR022, GOB013
+ DIG - CLM034 - ESTÁGIO OPCIONAL EM CLÍNICA MÉDICA                              240       30      210
+                                                                                                                              R-02                      3             OP         OP         CLM033, PED032, CIR022, GOB013
+                                                                                                                              R-01                      3             OP         OP         CLM033, PED032, CIR022, GOB013
+ DIG - GOB014 - ESTÁGIO OPCIONAL EM GINECOLOGIA                                 240       30      210
+                                                                                                                              R-02                      3             OP         OP         CLM033, PED032, CIR022, GOB013
+                                                                                                                              R-01                      3             OP         OP         CLM033, PED032, CIR022, GOB013
+ DIG - IMA095 - ESTÁGIO OPCIONAL EM DIAGNÓSTICO POR IMAGEM                      240       30      210
+                                                                                                                              R-02                      3             OP         OP         CLM033, PED032, CIR022, GOB013
+
+                                                                                             RELATÓRIO DE VERSÃO CURRICULAR
+
+19/09/2024 14.56.09                                                                                                                                                                                  Página 10 de 17
+Pró-reitoria de Graduação
+                                                                    Carga Horária                                                   Natureza
+                                                                                                                          Natureza
+                                 Atividade acadêmica                                                 Percurso     Grupo            no Percurso            Pré-requisito
+                                                                                                                          no Grupo
+                                                                  Total   Teórica Prática
+
+                                                                                                       R-01         3        OP         OP       CLM033, PED032, CIR022, GOB013
+ DIG - MED120 - ESTÁGIO OPCIONAL EM OBSTETRÍCIA E PERINATOLOGIA   240       30      210
+                                                                                                       R-02         3        OP         OP       CLM033, PED032, CIR022, GOB013
+                                                                                                       R-01         3        OP         OP          CLM033, PED032, GOB013
+ DIG - MED121 - ESTÁGIO EM ATENÇÃO PRIMÁRIA INTEGRADA             240       30      210
+                                                                                                       R-02         3        OP         OP          CLM033, PED032, GOB013
+                                                                                                       R-01         3        OP         OP       CLM033, PED032, CIR022, GOB013
+ DIG - MPS033 - ESTÁGIO OPCIONAL EM GESTÃO DE SAÚDE PÚBLICA       240       30      210
+                                                                                                       R-02         3        OP         OP       CLM033, PED032, CIR022, GOB013
+                                                                                                       R-01         3        OP         OP       CLM033, PED032, CIR022, GOB013
+ DIG - OFT042 - ESTÁGIO OPCIONAL EM OTORRINOLARINGOLOGIA          240       30      210
+                                                                                                       R-02         3        OP         OP       CLM033, PED032, CIR022, GOB013
+                                                                                                       R-01         3        OP         OP       CLM033, PED032, CIR022, GOB013
+ DIG - OFT043 - ESTÁGIO OPCIONAL EM OFTALMOLOGIA                  240       30      210
+                                                                                                       R-02         3        OP         OP       CLM033, PED032, CIR022, GOB013
+                                                                                                       R-01         3        OP         OP       CLM033, PED032, CIR022, GOB013
+ DIG - PED033 - ESTÁGIO OPCIONAL EM CLÍNICA PEDIÁTRICA            240       30      210
+                                                                                                       R-02         3        OP         OP       CLM033, PED032, CIR022, GOB013
+                                                                                                       R-01         3        OP         OP       CLM033, PED032, CIR022, GOB013
+ DIG - PED034 - ESTÁGIO OPCIONAL EM ESPECIALIDADES PEDIÁTRICAS    240       30      210
+                                                                                                       R-02         3        OP         OP       CLM033, PED032, CIR022, GOB013
+                                                                                                       R-01         3        OP         OP       CLM033, PED032, CIR022, GOB013
+ DIG - PRO074 - ESTÁGIO OPCIONAL EM PATOLOGIA CLÍNICA             240       30      210
+                                                                                                       R-02         3        OP         OP       CLM033, PED032, CIR022, GOB013
+                                                                                                       R-01         3        OP         OP       CLM033, PED032, CIR022, GOB013
+ DIG - SAM029 - ESTÁGIO OPCIONAL EM PSIQUIATRIA                   240       30      210
+                                                                                                       R-02         3        OP         OP       CLM033, PED032, CIR022, GOB013
+
+
+
+
+ATIVIDADES SEM PERÍODO SUGERIDO:
+
+                                                                    Carga Horária                                                    Natureza
+                                                                                                                          Natureza
+                               Atividade Acadêmica                                                  Percurso      Grupo                 no            Pré-requisito
+                                                                                                                          no Grupo
+                                                                                                                                     Percurso
+                                                                  Total Teórica Prática
+
+ DIG - ALO002 - ORTOPEDIA                                          60       15      45                R-01          6       OP          OP              CLM026
+                                                                                                      R-02          9       OP          OP              CLM026
+ DIG - ALO004 - REUMATOLOGIA                                       60        0      60                R-01          6       OP          OP              CLM026
+                                                                                                      R-02          9       OP          OP              CLM026
+ DIG - APM004 - MEDICINA LEGAL E DEONTOLOGIA MEDICA II             60       30      30                R-01          6       OP          OP                  -
+                                                                                                      R-02          9       OP          OP                  -
+ DIG - APM006 - TOPICOS EM ANATOMIA PATOLOGICA                     15       15       0                R-01          6       OP          OP                  -
+                                                                                                      R-02          9       OP          OP                  -
+ DIG - BIG015 - TOPICOS EM ECOLOGIA E SAUDE                        30       30       0                R-01          6       OP          OP                  -
+                                                                                                      R-02          9       OP          OP                  -
+ DIG - CIR005 - ANESTESIOLOGIA                                     60       15      45                R-01          6       OP          OP              CLM026
+                                                                                                      R-02          9       OP          OP              CLM026
+ DIG - CIR007 - TOPICOS EM CIRURGIA                                15       15       0                R-01          6       OP          OP               CIR014
+                                                                                                      R-02          9       OP          OP               CIR014
+
+
+                                                                                 RELATÓRIO DE VERSÃO CURRICULAR
+
+19/09/2024 14.56.09                                                                                                                                      Página 11 de 17
+Pró-reitoria de Graduação
+                                                                        Carga Horária                                                  Natureza
+                                                                                                                            Natureza
+                                Atividade Acadêmica                                                   Percurso      Grupo                 no           Pré-requisito
+                                                                                                                            no Grupo
+                                                                                                                                       Percurso
+                                                                      Total Teórica Prática
+
+ DIG - CIR008 - UROLOGIA                                               60      15     45                R-01          6       OP          OP              CLM026
+                                                                                                        R-02          9       OP          OP              CLM026
+ DIG - CIR009 - ANATOMIA CIRURGICA                                     60      15     45                R-01          6       OP          OP              CLM026
+                                                                                                        R-02          9       OP          OP              CLM026
+ DIG - CIR010 - COLOPROCTOLOGIA                                        30      15     15                R-01          6       OP          OP      CLM025, APM002, IMA003,
+                                                                                                                                                          CIR014
+                                                                                                        R-02          9       OP          OP      CLM025, APM002, IMA003,
+                                                                                                                                                          CIR014
+ DIG - CIR011 - NEUROCIRURGIA                                          60      15     45                R-01          6       OP          OP              CLM026
+                                                                                                        R-02          9       OP          OP              CLM026
+ DIG - CIR012 - CIRURGIA PEDIATRICA                                    30      14     16                R-01          6       OP          OP      CLM025, APM002, CIR014
+                                                                                                        R-02          9       OP          OP      CLM025, APM002, CIR014
+ DIG - CIR019 - CIRURGIA CARDIOVASCULAR                                30      20     10                R-01          6       OP          OP          FIB040, APM002
+                                                                                                        R-02          9       OP          OP          FIB040, APM002
+ DIG - CLM008 - DERMATOLOGIA                                           60      15     45                R-01          6       OP          OP              CLM025
+                                                                                                        R-02          9       OP          OP              CLM025
+ DIG - CLM009 - ONCOLOGIA                                              60      15     45                R-01          6       OP          OP              CLM026
+                                                                                                        R-02          9       OP          OP              CLM026
+ DIG - CLM011 - TOPICOS EM CLINICA MEDICA                              15      15      0                R-01          6       OP          OP              CLM025
+                                                                                                        R-02          9       OP          OP              CLM025
+ DIG - CLM012 - GERIATRIA                                              60      15     45                R-01          6       OP          OP              CLM026
+                                                                                                        R-02          9       OP          OP              CLM026
+ DIG - CLM019 - ENDOCRINOLOGIA DO ADULTO                               60      0      60                R-01          6       OP          OP              CLM026
+                                                                                                        R-02          9       OP          OP              CLM026
+ DIG - CLM020 - CURSO BAS. INTERP. ELETROCARD. REPOUSO                 45      45      0                R-01          6       OP          OP              CLM025
+                                                                                                        R-02          9       OP          OP              CLM025
+ DIG - GOB005 - TOPICOS EM GINECOLOGIA E OBSTETRICIA                   15      15      0                R-01          6       OP          OP              CLM025
+                                                                                                        R-02          9       OP          OP              CLM025
+ DIG - GOB006 - MASTOLOGIA                                             60      15     45                R-01          6       OP          OP             GOB008
+                                                                                                        R-02          9       OP          OP             GOB008
+ DIG - ICB001 - BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL    30      30      0                R-01          6       OP          OP                 -
+                                                                                                        R-02          9       OP          OP                 -
+ DIG - IMA005 - IMAGEM III                                             60      15     45                R-01          6       OP          OP              IMA004
+                                                                                                        R-02          9       OP          OP              IMA004
+ DIG - IMA006 - MEDICINA NUCLEAR                                       60      30     30                R-01          6       OP          OP              CLM025
+                                                                                                        R-02          9       OP          OP              CLM025
+ DIG - LET223 - FUNDAMENTOS DE LIBRAS                                  60      60      0                R-01          6       OP          OP                 -
+                                                                                                        R-02          9       OP          OP                 -
+ DIG - MED007 - DOENCAS INFECCIOSAS E PARASITARIAS                     60      15     45                R-01          6       OP          OP              CLM026
+                                                                                                        R-02          9       OP          OP              CLM026
+ DIG - MED009 - ENDOSCOPIA DO SISTEMA DIGESTIVO                        30      10     20                R-01          6       OP          OP              CLM026
+                                                                                                        R-02          9       OP          OP              CLM026
+
+                                                                                   RELATÓRIO DE VERSÃO CURRICULAR
+
+19/09/2024 14.56.09                                                                                                                                       Página 12 de 17
+Pró-reitoria de Graduação
+                                                         Carga Horária                                                  Natureza
+                                                                                                             Natureza
+                              Atividade Acadêmica                                      Percurso      Grupo                 no      Pré-requisito
+                                                                                                             no Grupo
+                                                                                                                        Percurso
+                                                       Total Teórica Prática
+
+ DIG - MED010 - GASTROENTEROLOGIA                       60      15     45                R-01          6       OP          OP        CLM026
+                                                                                         R-02          9       OP          OP        CLM026
+ DIG - MED011 - HEMATOLOGIA                             60      15     45                R-01          6       OP          OP        CLM026
+                                                                                         R-02          9       OP          OP        CLM026
+ DIG - MED012 - INFORMATICA MEDICA                      30      10     20                R-01          6       OP          OP        MPS004
+                                                                                         R-02          9       OP          OP        MPS004
+ DIG - MED014 - NEUROLOGIA                              60      15     45                R-01          6       OP          OP        CLM026
+                                                                                         R-02          9       OP          OP        CLM026
+ DIG - MED015 - PNEUMOLOGIA                             60      15     45                R-01          6       OP          OP        CLM026
+                                                                                         R-02          9       OP          OP        CLM026
+ DIG - MED017 - TRANSPLANTE DE ORGAOS E TECIDOS         30      30      0                R-01          6       OP          OP         CIR014
+                                                                                         R-02          9       OP          OP         CIR014
+ DIG - MED020 - HISTORIA DA MEDICINA                    15      15      0                R-01          6       OP          OP            -
+                                                                                         R-02          9       OP          OP            -
+ DIG - MED035 - ESTAGIO EM TOXICOLOGIA CLINICA          60      15     45                R-01          6       OP          OP        CLM025
+                                                                                         R-02          9       OP          OP        CLM025
+ DIG - MED036 - ESTAGIO CURRICULAR                      60      0      60                R-01          6       OP          OP            -
+                                                                                         R-02          9       OP          OP            -
+ DIG - MED049 - NEFROLOGIA                              60      0      60                R-01          6       OP          OP        CLM026
+                                                                                         R-02          9       OP          OP        CLM026
+ DIG - MED050 - CARDIOLOGIA                             60      0      60                R-01          6       OP          OP        CLM026
+                                                                                         R-02          9       OP          OP        CLM026
+ 02G - MED079 - PROGRAMA DE INICIAÇÃO À DOCÊNCIA A      90      90      0                R-01          5       OP          OP            -
+                                                                                         R-02         10       OP          OP            -
+ 03G - MED080 - PROGRAMA DE INICIAÇÃO À PESQUISA A      90      90      0                R-01          5       OP          OP            -
+                                                                                         R-02         10       OP          OP            -
+ 02G - MED081 - PROGRAMA DE INICIAÇÃO À DOCÊNCIA B     180     180      0                R-01          5       OP          OP            -
+                                                                                         R-02         10       OP          OP            -
+ 03G - MED082 - PROGRAMA DE INICIAÇÃO À PESQUISA B     180     180      0                R-01          5       OP          OP            -
+                                                                                         R-02         10       OP          OP            -
+ 03G - MED083 - PROGRAMA DE INICIAÇÃO À EXTENSÃO B     180     180      0                R-01          5       OP          OP            -
+                                                                                         R-02         10       OP          OP            -
+ 07G - MED084 - DISCUSSÕES TEMÁTICAS                    60      60      0                R-01          5       OP          OP            -
+                                                                                         R-02         10       OP          OP            -
+ 09G - MED085 - VIVÊNCIA PROFISSIONAL COMPLEMENTAR A    15      15      0                R-01          5       OP          OP            -
+                                                                                         R-02         10       OP          OP            -
+ 09G - MED086 - VIVÊNCIA PROFISSIONAL COMPLEMENTAR B    90      90      0                R-01          5       OP          OP            -
+                                                                                         R-02         10       OP          OP            -
+ 09G - MED087 - VIVÊNCIA PROFISSIONAL COMPLEMENTAR C   180     180      0                R-01          5       OP          OP            -
+                                                                                         R-02         10       OP          OP            -
+
+
+
+                                                                    RELATÓRIO DE VERSÃO CURRICULAR
+
+19/09/2024 14.56.09                                                                                                                   Página 13 de 17
+Pró-reitoria de Graduação
+                                                             Carga Horária                                                  Natureza
+                                                                                                                 Natureza
+                               Atividade Acadêmica                                         Percurso      Grupo                 no      Pré-requisito
+                                                                                                                 no Grupo
+                                                                                                                            Percurso
+                                                           Total Teórica Prática
+
+ 11G - MED088 - ATIVIDADE ACADÊMICA COMPLEMENTAR A          30      30      0                R-01          5       OP          OP            -
+                                                                                             R-02         10       OP          OP            -
+ 11G - MED089 - ATIVIDADE ACADÊMICA COMPLEMENTAR B          45      45      0                R-01          5       OP          OP            -
+                                                                                             R-02         10       OP          OP            -
+ 04G - MED090 - PARTICIPAÇÃO EM EVENTOS A                   15      15      0                R-01          5       OP          OP            -
+                                                                                             R-02         10       OP          OP            -
+ 04G - MED091 - PARTICIPAÇÃO EM EVENTOS B                   30      30      0                R-01          5       OP          OP            -
+                                                                                             R-02         10       OP          OP            -
+ 03G - MED092 - PROGRAMA DE INICIAÇÃO À EXTENSÃO A          90      90      0                R-01          5       OP          OP            -
+                                                                                             R-02         10       OP          OP            -
+ DIG - MED093 - TERAPÊUTICA CLÍNICA I                       30      30      0                R-01          6       OP          OP        FAR035
+                                                                                             R-02          9       OP          OP        FAR035
+ DIG - MED094 - TERAPÊUTICA CLÍNICA II                      30      30      0                R-01          6       OP          OP        FAR035
+                                                                                             R-02          9       OP          OP        FAR035
+ DIG - MED095 - TERAPÊUTICA CLÍNICA III                     30      30      0                R-01          6       OP          OP        FAR035
+                                                                                             R-02          9       OP          OP        FAR035
+ DIG - MED096 - TERAPÊUTICA CLÍNICA IV                      30      30      0                R-01          6       OP          OP        FAR035
+                                                                                             R-02          9       OP          OP        FAR035
+ DIG - MED099 - TUTORIA B                                   30      0      30                R-01          6       OP          OP        MED066
+                                                                                             R-02          9       OP          OP        MED066
+ DIG - MPS008 - SOCIOLOGIA MEDICA                           30      30      0                R-01          6       OP          OP        MPS031
+                                                                                             R-02          9       OP          OP        MPS031
+ DIG - MPS009 - TECNICA PESQ.BIBL.PLANEJ.TRAB.CIENTIFICO    15      15      0                R-01          6       OP          OP            -
+                                                                                             R-02          9       OP          OP            -
+ DIG - MPS010 - FUNDAMENTOS PENSAM.CIENTIF.SABER MEDICO     30      30      0                R-01          6       OP          OP        MPS031
+                                                                                             R-02          9       OP          OP        MPS031
+ DIG - MPS011 - TOPICOS EM SAUDE COLETIVA                   15      15      0                R-01          6       OP          OP            -
+                                                                                             R-02          9       OP          OP            -
+ DIG - MPS024 - ETICA E DIREITO MEDICO                      45      45      0                R-01          6       OP          OP        PED017
+                                                                                             R-02          9       OP          OP        PED017
+ DIG - MPS025 - ECONOMIA DA SAUDE                           30      30      0                R-01          6       OP          OP            -
+                                                                                             R-02          9       OP          OP            -
+ DIG - OFT035 - OTORRINOLARINGOLOGIA                        60      0      60                R-01          6       OP          OP        CLM025
+                                                                                             R-02          9       OP          OP        CLM025
+ DIG - OFT106 - OFTALMOLOGIA                                60      0      60                R-01          6       OP          OP        CLM025
+                                                                                             R-02          9       OP          OP        CLM025
+ DIG - OFT107 - TOPICOS EM OFTALMOLOGIA                     15      15      0                R-01          6       OP          OP        CLM025
+                                                                                             R-02          9       OP          OP        CLM025
+ DIG - OFT108 - TOPICOS EM OTORRINOLARINGOLOGIA             15      15      0                R-01          6       OP          OP        CLM025
+                                                                                             R-02          9       OP          OP        CLM025
+
+
+
+                                                                        RELATÓRIO DE VERSÃO CURRICULAR
+
+19/09/2024 14.56.09                                                                                                                       Página 14 de 17
+Pró-reitoria de Graduação
+                                                                                        Carga Horária                                                                                 Natureza
+                                                                                                                                                                           Natureza
+                                Atividade Acadêmica                                                                       Percurso                        Grupo                          no               Pré-requisito
+                                                                                                                                                                           no Grupo
+                                                                                                                                                                                      Percurso
+                                                                                      Total Teórica Prática
+
+ DIG - PED005 - TOPICOS EM PEDIATRIA                                                   15      15      0                    R-01                            6                OP          OP                 PED018
+                                                                                                                            R-02                            9                OP          OP                 PED018
+ DIG - PED008 - EDUCACAO E SAUDE EM CRECHES                                            60      15     45                    R-01                            6                OP          OP                     -
+                                                                                                                            R-02                            9                OP          OP                     -
+ DIG - PED015 - ENDOCRINOLOGIA PEDIATRICA                                              60      0      60                    R-01                            6                OP          OP                 PED019
+                                                                                                                            R-02                            9                OP          OP                 PED019
+ DIG - PED023 - MEDICINA DO ADOLESCENTE                                                60      15     45                    R-01                            6                OP          OP                 PED019
+                                                                                                                            R-02                            9                OP          OP                 PED019
+ DIG - PED024 - GASTROENTEROLOGIA PEDIÁTRICA                                           60      10     50                    R-01                            6                OP          OP                 PED018
+                                                                                                                            R-02                            9                OP          OP                 PED018
+ DIG - PED025 - HEMATOLOGIA PEDIÁTRICA                                                 60      10     50                    R-01                            6                OP          OP                 PED018
+                                                                                                                            R-02                            9                OP          OP                 PED018
+ DIG - PED026 - NEUROLOGIA PEDIÁTRICA                                                  60      10     50                    R-01                            6                OP          OP                 PED018
+                                                                                                                            R-02                            9                OP          OP                 PED018
+ DIG - PED027 - PNEUMOLOGIA PEDIÁTRICA                                                 60      10     50                    R-01                            6                OP          OP                 PED018
+                                                                                                                            R-02                            9                OP          OP                 PED018
+ DIG - PED028 - NEFROLOGIA PEDIÁTRICA                                                  60      10     50                    R-01                            6                OP          OP                 PED018
+                                                                                                                            R-02                            9                OP          OP                 PED018
+ DIG - PED029 - CARDIOLOGIA PEDIÁTRICA                                                 60      10     50                    R-01                            6                OP          OP                 PED018
+                                                                                                                            R-02                            9                OP          OP                 PED018
+ DIG - PFA053 - FITOTERAPICOS                                                          15      15      0                    R-01                            6                OP          OP                     -
+                                                                                                                            R-02                            9                OP          OP                     -
+ DIG - PRO009 - TOPICOS EM PROPEDEUTICA COMPLEMENTAR                                   15      15      0                    R-01                            6                OP          OP                     -
+                                                                                                                            R-02                            9                OP          OP                     -
+ DIG - PRO011 - PATOLOGIA CLINICA III                                                  60      0      60                    R-01                            6                OP          OP                 PRO072
+                                                                                                                            R-02                            9                OP          OP                 PRO072
+ DIG - SAM019 - FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL                                60      60      0                    R-01                            6                OP          OP                 FAR035
+                                                                                                                            R-02                            9                OP          OP                 FAR035
+ DIG - SAM020 - TOPICOS EM PSIQUIATRIA                                                 15      15      0                    R-01                            6                OP          OP                     -
+                                                                                                                            R-02                            9                OP          OP                     -
+
+
+
+
+Quadro de integralização
+
+                                                                                                                                            Carga horária em   Carga horária em
+                                                                Carga horária de   Carga horária em Carga horária em Carga horária em atividades de formação    atividades de    Carga horária em
+                                           Semestres             matrícula por        atividades    atividades optativa estágio obrigatório  complementar         formação         atividades de          Total (Carga horária
+              Percurso                                             semestre           obrigatória                                           preestabelecida  complementar aberta  formação livre             mínima para
+                                                                                                                                                                                                            integralização)
+
+                                  Mínimo    Padrão     Máximo   Mínima   Máxima    Mínima   Máxima      Mínima   Máxima   Mínima     Máxima   Mínima   Máxima     Mínima   Máxima     Mínima     Máxima
+
+
+                                                                                                   RELATÓRIO DE VERSÃO CURRICULAR
+
+19/09/2024 14.56.09                                                                                                                                                                                          Página 15 de 17
+Pró-reitoria de Graduação
+                                                                                                                                                      Carga horária em   Carga horária em
+                                                                        Carga horária de     Carga horária em Carga horária em Carga horária em atividades de formação    atividades de    Carga horária em
+                                               Semestres                 matrícula por          atividades    atividades optativa estágio obrigatório  complementar         formação         atividades de                              Total (Carga horária
+              Percurso                                                     semestre             obrigatória                                           preestabelecida  complementar aberta  formação livre                                 mínima para
+                                                                                                                                                                                                                                          integralização)
+
+                                     Mínimo      Padrão    Máximo   Mínima       Máxima      Mínima      Máxima     Mínima     Máxima     Mínima   Máxima     Mínima         Máxima       Mínima      Máxima     Mínima      Máxima
+                   R-01                 12         12        20          390        -          4380       4380        420       420       2835      2835         0             0            0              0       120        120                7755
+                   R-02                 12         12        20          390        -          4380       4380        300       300       2835      2835         0             0           180            180      60          60                7755
+
+
+
+
+Grupos de atividades:
+
+                                                                                                                                                                                                Carga
+                                                                                                                                             Propriedades do grupo não predefinido                                                  Regras
+                                                                                                                                                                                                Horária
+                                  Grupo                                                    Percursos
+
+                                                                                                                 Natureza do                                         Permite atividades
+                                                                                                                                Predef.
+                                                                                                                   Grupo
+                                                                                                      Natureza                                Tipo de formação                        Mín.           Máx.       Pré-requisitos               Integralização
+   Identificador                              Nome                                Identificador          no                                                            Do Do próprio
+                                                                                                      percurso                                                       próprio percurso
+                                                                                                                                                                      curso
+        10                  Atividades Acadêmico-Científico-Culturais                   R-02            OB           OB           Sim                 -                 -        -    150            150                 -                          -
+         5                  Atividades Acadêmico-Científico-Culturais                   R-01            OB           OB           Sim                 -                  -            -      240     240                 -                          -
+         2                      Estágio - Atividades Obrigatórias                       R-01            OB           EC           Sim                 -                  -            -     2595     2595                -                          -
+                                                                                        R-02            OB
+         3                       Estágio - Atividades Optativas                         R-01            OB           EC           Sim                 -                  -            -      240     240                 -                          -
+                                                                                        R-02            OB
+         8                      Formação Complementar Aberta                            R-02            OB           OB          Não         Complementar aberta        Não        Não       180     180                 -                          -
+         4                              Formação Livre                                  R-01            OB           OB          Não                Livre               Não        Não       120     120                 -                          -
+         7                              Formação Livre                                  R-02            OB           OB          Não                Livre               Não        Não          60    60                 -                          -
+         1                                Obrigatórias                                  R-01            OB           OB           Sim                 -                  -            -     4380     4380                -                          -
+                                                                                        R-02            OB
+         6                                   Optativas                                  R-01            OB           OB           Sim                 -                  -            -      180     180                 -                          -
+         9                                   Optativas                                  R-02            OB           OB           Sim                 -                  -            -      150     150                 -                          -
+
+
+
+
+Tipos de atividades
+
+                            Código                                                                                                                          Descrição
+
+  DIG                                                         DISCIPLINA GRADUAÇÃO
+  02G                                                         Iniciação a docência ou monitoria
+  03G                                                         Inici cient, projeto extensão ou pesq
+  07G                                                         Discussões temáticas
+  09G                                                         Vivência profissional complementar
+
+                                                                                                             RELATÓRIO DE VERSÃO CURRICULAR
+
+19/09/2024 14.56.09                                                                                                                                                                                                                          Página 16 de 17
+Pró-reitoria de Graduação
+                            Código                                                              Descrição
+
+  11G                                Outros
+  04G                                Participação em eventos
+
+
+
+
+Regras curriculares
+ Não há regras curriculares.
+
+
+
+
+                                                               RELATÓRIO DE VERSÃO CURRICULAR
+
+19/09/2024 14.56.09                                                                                         Página 17 de 17
+Pró-reitoria de Graduação
+

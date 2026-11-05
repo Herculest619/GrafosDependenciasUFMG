@@ -1,0 +1,4240 @@
+{
+    "schemaVersion": 2,
+    "id": "medicina",
+    "meta": {
+        "id": "medicina",
+        "name": "Medicina",
+        "variant": "Bacharelado · Integral",
+        "unit": "Faculdade de Medicina",
+        "campus": "Saúde",
+        "shift": "Integral",
+        "degree": "Bacharelado",
+        "layout": "versao",
+        "curriculum": "16003 · I-20212",
+        "source": {
+            "kind": "siga-versao-curricular",
+            "url": "https://www.medicina.ufmg.br/wp-content/uploads/sites/102/2024/09/Versao-Curricular-2021-2.pdf",
+            "retrievedAt": "2026-11-05T20:54:30.565Z",
+            "note": null
+        },
+        "note": null
+    },
+    "generatedAt": "2026-11-05T21:02:20.804Z",
+    "disciplines": {
+        "BIG058": {
+            "code": "BIG058",
+            "name": "GENÉTICA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 24,
+                "practice": 36
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "BIQ063": {
+            "code": "BIQ063",
+            "name": "BIOQUÍMICA I",
+            "type": "DIG",
+            "credits": 6,
+            "hours": {
+                "total": 90,
+                "theory": 60,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "IMA001": {
+            "code": "IMA001",
+            "name": "ANATOMIA SISTÊMICA",
+            "type": "DIG",
+            "credits": 8,
+            "hours": {
+                "total": 120,
+                "theory": 30,
+                "practice": 90
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MED063": {
+            "code": "MED063",
+            "name": "INTRODUÇÃO À PESQUISA CIENTÍFICA I",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 25,
+                "practice": 5
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MED064": {
+            "code": "MED064",
+            "name": "ATENDIMENTO PRÉ-HOSPITALAR E PRIMEIROS SOCORROS",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MOF057": {
+            "code": "MOF057",
+            "name": "BIOLOGIA CELULAR APLICADA À MEDICINA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MOF611": {
+            "code": "MOF611",
+            "name": "EMBRIOLOGIA MEDICA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 15,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MPS031": {
+            "code": "MPS031",
+            "name": "CIÊNCIAS SOCIAIS APLICADAS À SAÚDE",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 45,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "BIQ608": {
+            "code": "BIQ608",
+            "name": "IMUNOLOGIA MEDICA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "MOF057",
+                "BIQ063"
+            ],
+            "scheduled": true
+        },
+        "FIB039": {
+            "code": "FIB039",
+            "name": "BIOFÍSICA E FISIOLOGIA",
+            "type": "DIG",
+            "credits": 8,
+            "hours": {
+                "total": 120,
+                "theory": 80,
+                "practice": 40
+            },
+            "prereqs": [
+                "BIQ063",
+                "IMA001"
+            ],
+            "scheduled": true
+        },
+        "MED065": {
+            "code": "MED065",
+            "name": "INICIAÇÃO À ATENÇÃO PRIMÁRIA À SAÚDE I",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 15,
+                "practice": 60
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MED066": {
+            "code": "MED066",
+            "name": "TUTORIA",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MOF005": {
+            "code": "MOF005",
+            "name": "NEUROANATOMIA MEDICA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MOF058": {
+            "code": "MOF058",
+            "name": "HISTOFISIOLOGIA DOS SISTEMAS APLICADA À MEDICINA",
+            "type": "DIG",
+            "credits": 7,
+            "hours": {
+                "total": 105,
+                "theory": 45,
+                "practice": 60
+            },
+            "prereqs": [
+                "MOF057",
+                "MOF611"
+            ],
+            "scheduled": true
+        },
+        "SAM022": {
+            "code": "SAM022",
+            "name": "BASES HUMANÍSTICAS E INTRODUÇÃO À PSICOLOGIA MÉDICA",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 10,
+                "practice": 20
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "BIQ064": {
+            "code": "BIQ064",
+            "name": "BIOQUÍMICA II",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "FIB039"
+            ],
+            "scheduled": true
+        },
+        "FAR034": {
+            "code": "FAR034",
+            "name": "FARMACOLOGIA MÉDICA I",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 45,
+                "practice": 30
+            },
+            "prereqs": [
+                "FIB039"
+            ],
+            "scheduled": true
+        },
+        "FIB040": {
+            "code": "FIB040",
+            "name": "FISIOLOGIA MÉDICA",
+            "type": "DIG",
+            "credits": 8,
+            "hours": {
+                "total": 120,
+                "theory": 80,
+                "practice": 40
+            },
+            "prereqs": [
+                "MOF058",
+                "FIB039"
+            ],
+            "scheduled": true
+        },
+        "MED067": {
+            "code": "MED067",
+            "name": "INICIAÇÃO À ATENÇÃO PRIMÁRIA À SAÚDE II",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 15,
+                "practice": 60
+            },
+            "prereqs": [
+                "MED065"
+            ],
+            "scheduled": true
+        },
+        "MIC029": {
+            "code": "MIC029",
+            "name": "MICROBIOLOGIA MÉDICA",
+            "type": "DIG",
+            "credits": 6,
+            "hours": {
+                "total": 90,
+                "theory": 50,
+                "practice": 40
+            },
+            "prereqs": [
+                "BIQ608"
+            ],
+            "scheduled": true
+        },
+        "PAR025": {
+            "code": "PAR025",
+            "name": "PARASITOLOGIA MÉDICA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [
+                "MOF058",
+                "BIQ608"
+            ],
+            "scheduled": true
+        },
+        "CLM024": {
+            "code": "CLM024",
+            "name": "CLÍNICA MÉDICA I",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 0,
+                "practice": 75
+            },
+            "prereqs": [
+                "FIB040",
+                "MED067"
+            ],
+            "scheduled": true
+        },
+        "FAR035": {
+            "code": "FAR035",
+            "name": "FARMACOLOGIA MÉDICA II",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 45,
+                "practice": 30
+            },
+            "prereqs": [
+                "FIB040",
+                "FAR034"
+            ],
+            "scheduled": true
+        },
+        "IMA002": {
+            "code": "IMA002",
+            "name": "ANATOMIA TOPOGRÁFICA E IMAGEM",
+            "type": "DIG",
+            "credits": 8,
+            "hours": {
+                "total": 120,
+                "theory": 30,
+                "practice": 90
+            },
+            "prereqs": [
+                "FIB040"
+            ],
+            "scheduled": true
+        },
+        "MED068": {
+            "code": "MED068",
+            "name": "INICIAÇÃO À ATENÇÃO PRIMÁRIA À SAÚDE III",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 15,
+                "practice": 60
+            },
+            "prereqs": [
+                "MED063",
+                "MED067"
+            ],
+            "scheduled": true
+        },
+        "MED069": {
+            "code": "MED069",
+            "name": "INTRODUÇÃO À PESQUISA CIENTÍFICA II",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 20,
+                "practice": 10
+            },
+            "prereqs": [
+                "MED063"
+            ],
+            "scheduled": true
+        },
+        "PAG017": {
+            "code": "PAG017",
+            "name": "PATOLOGIA GERAL",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 30,
+                "practice": 45
+            },
+            "prereqs": [
+                "MOF058",
+                "IMA001",
+                "BIQ608"
+            ],
+            "scheduled": true
+        },
+        "PED017": {
+            "code": "PED017",
+            "name": "PEDIATRIA I",
+            "type": "DIG",
+            "credits": 6,
+            "hours": {
+                "total": 90,
+                "theory": 20,
+                "practice": 70
+            },
+            "prereqs": [
+                "FIB040",
+                "MED067"
+            ],
+            "scheduled": true
+        },
+        "APM001": {
+            "code": "APM001",
+            "name": "ANATOMIA PATOLOGICA I",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 30,
+                "practice": 45
+            },
+            "prereqs": [
+                "PAG017"
+            ],
+            "scheduled": true
+        },
+        "CIR014": {
+            "code": "CIR014",
+            "name": "CIRURGIA I",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 30,
+                "practice": 45
+            },
+            "prereqs": [
+                "IMA002",
+                "PED017"
+            ],
+            "scheduled": true
+        },
+        "CLM025": {
+            "code": "CLM025",
+            "name": "CLÍNICA MÉDICA II",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 0,
+                "practice": 75
+            },
+            "prereqs": [
+                "CLM024"
+            ],
+            "scheduled": true
+        },
+        "IMA003": {
+            "code": "IMA003",
+            "name": "IMAGEM I",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 10,
+                "practice": 20
+            },
+            "prereqs": [
+                "FIB040",
+                "MOF005",
+                "IMA002"
+            ],
+            "scheduled": true
+        },
+        "MPS004": {
+            "code": "MPS004",
+            "name": "EPIDEMIOLOGIA",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 30,
+                "practice": 45
+            },
+            "prereqs": [
+                "MPS031",
+                "MED069"
+            ],
+            "scheduled": true
+        },
+        "PED018": {
+            "code": "PED018",
+            "name": "PEDIATRIA II",
+            "type": "DIG",
+            "credits": 6,
+            "hours": {
+                "total": 90,
+                "theory": 10,
+                "practice": 80
+            },
+            "prereqs": [
+                "PED017"
+            ],
+            "scheduled": true
+        },
+        "PRO071": {
+            "code": "PRO071",
+            "name": "PATOLOGIA CLÍNICA I",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 15,
+                "practice": 30
+            },
+            "prereqs": [
+                "FIB040",
+                "MIC029",
+                "PAR025"
+            ],
+            "scheduled": true
+        },
+        "SAM023": {
+            "code": "SAM023",
+            "name": "SEMIOLOGIA E NOSOLOGIA PSIQUIÁTRICA",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 20,
+                "practice": 55
+            },
+            "prereqs": [
+                "SAM022"
+            ],
+            "scheduled": true
+        },
+        "APM002": {
+            "code": "APM002",
+            "name": "ANATOMIA PATOLOGICA II",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 30,
+                "practice": 45
+            },
+            "prereqs": [
+                "APM001"
+            ],
+            "scheduled": true
+        },
+        "CIR015": {
+            "code": "CIR015",
+            "name": "CIRURGIA II",
+            "type": "DIG",
+            "credits": 10,
+            "hours": {
+                "total": 150,
+                "theory": 30,
+                "practice": 120
+            },
+            "prereqs": [
+                "CLM025",
+                "APM001",
+                "CIR014",
+                "PED018"
+            ],
+            "scheduled": true
+        },
+        "CLM026": {
+            "code": "CLM026",
+            "name": "CLÍNICA MÉDICA III",
+            "type": "DIG",
+            "credits": 10,
+            "hours": {
+                "total": 150,
+                "theory": 0,
+                "practice": 150
+            },
+            "prereqs": [
+                "CLM025"
+            ],
+            "scheduled": true
+        },
+        "GOB008": {
+            "code": "GOB008",
+            "name": "GINECOLOGIA BÁSICA",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 10,
+                "practice": 65
+            },
+            "prereqs": [
+                "FAR035",
+                "CLM025",
+                "APM001",
+                "IMA002"
+            ],
+            "scheduled": true
+        },
+        "IMA004": {
+            "code": "IMA004",
+            "name": "IMAGEM II",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 10,
+                "practice": 20
+            },
+            "prereqs": [
+                "IMA003"
+            ],
+            "scheduled": true
+        },
+        "MED070": {
+            "code": "MED070",
+            "name": "CONFERÊNCIAS DE ÉTICA E BIOÉTICA",
+            "type": "DIG",
+            "credits": 1,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "PED019": {
+            "code": "PED019",
+            "name": "PEDIATRIA III",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 10,
+                "practice": 65
+            },
+            "prereqs": [
+                "APM001",
+                "PED018"
+            ],
+            "scheduled": true
+        },
+        "PRO072": {
+            "code": "PRO072",
+            "name": "PATOLOGIA CLÍNICA II",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 15,
+                "practice": 30
+            },
+            "prereqs": [
+                "PRO071"
+            ],
+            "scheduled": true
+        },
+        "CIR016": {
+            "code": "CIR016",
+            "name": "CIRURGIA III",
+            "type": "DIG",
+            "credits": 10,
+            "hours": {
+                "total": 150,
+                "theory": 30,
+                "practice": 120
+            },
+            "prereqs": [
+                "CIR015"
+            ],
+            "scheduled": true
+        },
+        "CLM027": {
+            "code": "CLM027",
+            "name": "CLÍNICA MÉDICA IV",
+            "type": "DIG",
+            "credits": 10,
+            "hours": {
+                "total": 150,
+                "theory": 0,
+                "practice": 150
+            },
+            "prereqs": [
+                "CLM026"
+            ],
+            "scheduled": true
+        },
+        "GOB009": {
+            "code": "GOB009",
+            "name": "OBSTETRÍCIA BÁSICA",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 10,
+                "practice": 65
+            },
+            "prereqs": [
+                "GOB008"
+            ],
+            "scheduled": true
+        },
+        "MED071": {
+            "code": "MED071",
+            "name": "ÉTICA MÉDICA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 15,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MPS006": {
+            "code": "MPS006",
+            "name": "SAUDE DO TRABALHADOR",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 30,
+                "practice": 45
+            },
+            "prereqs": [
+                "MPS004"
+            ],
+            "scheduled": true
+        },
+        "PED020": {
+            "code": "PED020",
+            "name": "PEDIATRIA IV",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 10,
+                "practice": 65
+            },
+            "prereqs": [
+                "PED019"
+            ],
+            "scheduled": true
+        },
+        "SAM024": {
+            "code": "SAM024",
+            "name": "PSICOLOGIA MÉDICA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 15,
+                "practice": 30
+            },
+            "prereqs": [
+                "SAM023"
+            ],
+            "scheduled": true
+        },
+        "APM007": {
+            "code": "APM007",
+            "name": "MEDICINA LEGAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [
+                "MED071"
+            ],
+            "scheduled": true
+        },
+        "CIR017": {
+            "code": "CIR017",
+            "name": "CIRURGIA IV",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 30,
+                "practice": 45
+            },
+            "prereqs": [
+                "CIR016"
+            ],
+            "scheduled": true
+        },
+        "CLM028": {
+            "code": "CLM028",
+            "name": "CLÍNICA MÉDICA V",
+            "type": "DIG",
+            "credits": 10,
+            "hours": {
+                "total": 150,
+                "theory": 0,
+                "practice": 150
+            },
+            "prereqs": [
+                "CLM027"
+            ],
+            "scheduled": true
+        },
+        "GOB010": {
+            "code": "GOB010",
+            "name": "ATENÇÃO PRIMÁRIA À SAÚDE DA MULHER",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 10,
+                "practice": 65
+            },
+            "prereqs": [
+                "GOB009"
+            ],
+            "scheduled": true
+        },
+        "MED072": {
+            "code": "MED072",
+            "name": "SUPORTE DE VIDA EM URGÊNCIA E EMERGÊNCIA",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 10,
+                "practice": 20
+            },
+            "prereqs": [
+                "MED064"
+            ],
+            "scheduled": true
+        },
+        "MPS005": {
+            "code": "MPS005",
+            "name": "POLITICA DE SAUDE E PLANEJAMENTO",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 30,
+                "practice": 45
+            },
+            "prereqs": [
+                "MPS004"
+            ],
+            "scheduled": true
+        },
+        "PED021": {
+            "code": "PED021",
+            "name": "PEDIATRIA V",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 10,
+                "practice": 65
+            },
+            "prereqs": [
+                "PED020"
+            ],
+            "scheduled": true
+        },
+        "SAM025": {
+            "code": "SAM025",
+            "name": "SAÚDE MENTAL EM CUIDADOS PRIMÁRIOS",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 0,
+                "practice": 75
+            },
+            "prereqs": [
+                "SAM023"
+            ],
+            "scheduled": true
+        },
+        "CLM030": {
+            "code": "CLM030",
+            "name": "ATENÇÃO SECUNDÁRIA EM DERMATOLOGIA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 5,
+                "practice": 40
+            },
+            "prereqs": [
+                "CLM028"
+            ],
+            "scheduled": true
+        },
+        "CLM031": {
+            "code": "CLM031",
+            "name": "ATENÇÃO SECUNDÁRIA EM NEUROLOGIA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 5,
+                "practice": 40
+            },
+            "prereqs": [
+                "CLM028"
+            ],
+            "scheduled": true
+        },
+        "CLM033": {
+            "code": "CLM033",
+            "name": "ESTÁGIO EM CLÍNICA MÉDICA",
+            "type": "DIG",
+            "credits": 18,
+            "hours": {
+                "total": 270,
+                "theory": 15,
+                "practice": 255
+            },
+            "prereqs": [
+                "CLM028"
+            ],
+            "scheduled": true
+        },
+        "MED073": {
+            "code": "MED073",
+            "name": "PROPEDÊUTICA CONTEXTUALIZADA I: CLÍNICA MÉDICA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 22,
+                "practice": 23
+            },
+            "prereqs": [
+                "PRO072",
+                "CLM028",
+                "APM002",
+                "IMA004"
+            ],
+            "scheduled": true
+        },
+        "MED074": {
+            "code": "MED074",
+            "name": "PROPEDÊUTICA CONTEXTUALIZADA II: CLÍNICA PEDIÁTRICA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 22,
+                "practice": 23
+            },
+            "prereqs": [
+                "PRO072",
+                "PED021",
+                "APM002",
+                "IMA004"
+            ],
+            "scheduled": true
+        },
+        "PED032": {
+            "code": "PED032",
+            "name": "ESTÁGIO EM CLÍNICA PEDIÁTRICA",
+            "type": "DIG",
+            "credits": 18,
+            "hours": {
+                "total": 270,
+                "theory": 15,
+                "practice": 255
+            },
+            "prereqs": [
+                "PED021"
+            ],
+            "scheduled": true
+        },
+        "SAM026": {
+            "code": "SAM026",
+            "name": "INTERCONSULTA PSIQUIÁTRICA I: CLÍNICA MÉDICA",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [
+                "SAM025"
+            ],
+            "scheduled": true
+        },
+        "SAM027": {
+            "code": "SAM027",
+            "name": "INTERCONSULTA PSIQUIÁTRICA II: PEDIATRIA",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [
+                "SAM025"
+            ],
+            "scheduled": true
+        },
+        "ALO006": {
+            "code": "ALO006",
+            "name": "ATENÇÃO SECUNDÁRIA EM REUMATOLOGIA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 5,
+                "practice": 40
+            },
+            "prereqs": [
+                "CLM028"
+            ],
+            "scheduled": true
+        },
+        "ALO007": {
+            "code": "ALO007",
+            "name": "ATENÇÃO SECUNDÁRIA EM ORTOPEDIA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 5,
+                "practice": 40
+            },
+            "prereqs": [
+                "CLM028",
+                "CIR016"
+            ],
+            "scheduled": true
+        },
+        "CIR022": {
+            "code": "CIR022",
+            "name": "ESTÁGIO EM CLÍNICA CIRÚRGICA",
+            "type": "DIG",
+            "credits": 18,
+            "hours": {
+                "total": 270,
+                "theory": 15,
+                "practice": 255
+            },
+            "prereqs": [
+                "CIR017"
+            ],
+            "scheduled": true
+        },
+        "GOB013": {
+            "code": "GOB013",
+            "name": "ESTÁGIO EM GINECOLOGIA E OBSTETRÍCIA",
+            "type": "DIG",
+            "credits": 18,
+            "hours": {
+                "total": 270,
+                "theory": 15,
+                "practice": 255
+            },
+            "prereqs": [
+                "GOB010"
+            ],
+            "scheduled": true
+        },
+        "MED075": {
+            "code": "MED075",
+            "name": "PROPEDÊUTICA CONTEXTUALIZADA III: GINECOLOGIA E OBSTETRÍCIA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 22,
+                "practice": 23
+            },
+            "prereqs": [
+                "PRO072",
+                "APM002",
+                "GOB010",
+                "IMA004"
+            ],
+            "scheduled": true
+        },
+        "MED076": {
+            "code": "MED076",
+            "name": "PROPEDÊUTICA CONTEXTUALIZADA IV: CLÍNICA CIRÚRGICA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 22,
+                "practice": 23
+            },
+            "prereqs": [
+                "PRO072",
+                "APM002",
+                "IMA004",
+                "CIR017"
+            ],
+            "scheduled": true
+        },
+        "OFT038": {
+            "code": "OFT038",
+            "name": "ATENÇÃO SECUNDÁRIA EM OFTALMOLOGIA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 5,
+                "practice": 40
+            },
+            "prereqs": [
+                "CLM028",
+                "CIR016"
+            ],
+            "scheduled": true
+        },
+        "OFT039": {
+            "code": "OFT039",
+            "name": "ATENÇÃO SECUNDÁRIA EM OTORRINOLARINGOLOGIA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 5,
+                "practice": 40
+            },
+            "prereqs": [
+                "CLM028",
+                "CIR016"
+            ],
+            "scheduled": true
+        },
+        "MED118": {
+            "code": "MED118",
+            "name": "ESTÁGIO EM URGÊNCIA E EMERGÊNCIA",
+            "type": "DIG",
+            "credits": 27,
+            "hours": {
+                "total": 405,
+                "theory": 45,
+                "practice": 360
+            },
+            "prereqs": [
+                "CLM033",
+                "PED032",
+                "ALO006",
+                "ALO007",
+                "CIR022",
+                "OFT038",
+                "OFT039"
+            ],
+            "scheduled": true
+        },
+        "MPS020": {
+            "code": "MPS020",
+            "name": "GESTÃO DO SISTEMA DE SAÚDE",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [
+                "MPS005"
+            ],
+            "scheduled": true
+        },
+        "MPS023": {
+            "code": "MPS023",
+            "name": "ESTAGIO EM SAUDE COLETIVA",
+            "type": "DIG",
+            "credits": 22,
+            "hours": {
+                "total": 330,
+                "theory": 65,
+                "practice": 265
+            },
+            "prereqs": [
+                "MPS005",
+                "MPS006"
+            ],
+            "scheduled": true
+        },
+        "MED119": {
+            "code": "MED119",
+            "name": "ESTÁGIO EM URGÊNCIA E EMERGÊNCIA II",
+            "type": "DIG",
+            "credits": 16,
+            "hours": {
+                "total": 240,
+                "theory": 30,
+                "practice": 210
+            },
+            "prereqs": [
+                "CLM033",
+                "PED032",
+                "ALO006",
+                "ALO007",
+                "CIR022",
+                "OFT038",
+                "OFT039"
+            ],
+            "scheduled": true
+        },
+        "ALO002": {
+            "code": "ALO002",
+            "name": "ORTOPEDIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [
+                "CLM026"
+            ],
+            "scheduled": false
+        },
+        "ALO004": {
+            "code": "ALO004",
+            "name": "REUMATOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 0,
+                "practice": 60
+            },
+            "prereqs": [
+                "CLM026"
+            ],
+            "scheduled": false
+        },
+        "APM004": {
+            "code": "APM004",
+            "name": "MEDICINA LEGAL E DEONTOLOGIA MEDICA II",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "APM006": {
+            "code": "APM006",
+            "name": "TOPICOS EM ANATOMIA PATOLOGICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "BIG015": {
+            "code": "BIG015",
+            "name": "TOPICOS EM ECOLOGIA E SAUDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "CIR005": {
+            "code": "CIR005",
+            "name": "ANESTESIOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [
+                "CLM026"
+            ],
+            "scheduled": false
+        },
+        "CIR007": {
+            "code": "CIR007",
+            "name": "TOPICOS EM CIRURGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [
+                "CIR014"
+            ],
+            "scheduled": false
+        },
+        "CIR008": {
+            "code": "CIR008",
+            "name": "UROLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [
+                "CLM026"
+            ],
+            "scheduled": false
+        },
+        "CIR009": {
+            "code": "CIR009",
+            "name": "ANATOMIA CIRURGICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [
+                "CLM026"
+            ],
+            "scheduled": false
+        },
+        "CIR010": {
+            "code": "CIR010",
+            "name": "COLOPROCTOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [
+                "CLM025",
+                "APM002",
+                "IMA003",
+                "CIR014"
+            ],
+            "scheduled": false
+        },
+        "CIR011": {
+            "code": "CIR011",
+            "name": "NEUROCIRURGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [
+                "CLM026"
+            ],
+            "scheduled": false
+        },
+        "CIR012": {
+            "code": "CIR012",
+            "name": "CIRURGIA PEDIATRICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 14,
+                "practice": 16
+            },
+            "prereqs": [
+                "CLM025",
+                "APM002",
+                "CIR014"
+            ],
+            "scheduled": false
+        },
+        "CIR019": {
+            "code": "CIR019",
+            "name": "CIRURGIA CARDIOVASCULAR",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 20,
+                "practice": 10
+            },
+            "prereqs": [
+                "FIB040",
+                "APM002"
+            ],
+            "scheduled": false
+        },
+        "CLM008": {
+            "code": "CLM008",
+            "name": "DERMATOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [
+                "CLM025"
+            ],
+            "scheduled": false
+        },
+        "CLM009": {
+            "code": "CLM009",
+            "name": "ONCOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [
+                "CLM026"
+            ],
+            "scheduled": false
+        },
+        "CLM011": {
+            "code": "CLM011",
+            "name": "TOPICOS EM CLINICA MEDICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [
+                "CLM025"
+            ],
+            "scheduled": false
+        },
+        "CLM012": {
+            "code": "CLM012",
+            "name": "GERIATRIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [
+                "CLM026"
+            ],
+            "scheduled": false
+        },
+        "CLM019": {
+            "code": "CLM019",
+            "name": "ENDOCRINOLOGIA DO ADULTO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 0,
+                "practice": 60
+            },
+            "prereqs": [
+                "CLM026"
+            ],
+            "scheduled": false
+        },
+        "CLM020": {
+            "code": "CLM020",
+            "name": "CURSO BAS. INTERP. ELETROCARD. REPOUSO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [
+                "CLM025"
+            ],
+            "scheduled": false
+        },
+        "GOB005": {
+            "code": "GOB005",
+            "name": "TOPICOS EM GINECOLOGIA E OBSTETRICIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [
+                "CLM025"
+            ],
+            "scheduled": false
+        },
+        "GOB006": {
+            "code": "GOB006",
+            "name": "MASTOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [
+                "GOB008"
+            ],
+            "scheduled": false
+        },
+        "ICB001": {
+            "code": "ICB001",
+            "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "IMA005": {
+            "code": "IMA005",
+            "name": "IMAGEM III",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [
+                "IMA004"
+            ],
+            "scheduled": false
+        },
+        "IMA006": {
+            "code": "IMA006",
+            "name": "MEDICINA NUCLEAR",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [
+                "CLM025"
+            ],
+            "scheduled": false
+        },
+        "LET223": {
+            "code": "LET223",
+            "name": "FUNDAMENTOS DE LIBRAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MED007": {
+            "code": "MED007",
+            "name": "DOENCAS INFECCIOSAS E PARASITARIAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [
+                "CLM026"
+            ],
+            "scheduled": false
+        },
+        "MED009": {
+            "code": "MED009",
+            "name": "ENDOSCOPIA DO SISTEMA DIGESTIVO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 10,
+                "practice": 20
+            },
+            "prereqs": [
+                "CLM026"
+            ],
+            "scheduled": false
+        },
+        "MED010": {
+            "code": "MED010",
+            "name": "GASTROENTEROLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [
+                "CLM026"
+            ],
+            "scheduled": false
+        },
+        "MED011": {
+            "code": "MED011",
+            "name": "HEMATOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [
+                "CLM026"
+            ],
+            "scheduled": false
+        },
+        "MED012": {
+            "code": "MED012",
+            "name": "INFORMATICA MEDICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 10,
+                "practice": 20
+            },
+            "prereqs": [
+                "MPS004"
+            ],
+            "scheduled": false
+        },
+        "MED014": {
+            "code": "MED014",
+            "name": "NEUROLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [
+                "CLM026"
+            ],
+            "scheduled": false
+        },
+        "MED015": {
+            "code": "MED015",
+            "name": "PNEUMOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [
+                "CLM026"
+            ],
+            "scheduled": false
+        },
+        "MED017": {
+            "code": "MED017",
+            "name": "TRANSPLANTE DE ORGAOS E TECIDOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "CIR014"
+            ],
+            "scheduled": false
+        },
+        "MED020": {
+            "code": "MED020",
+            "name": "HISTORIA DA MEDICINA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MED035": {
+            "code": "MED035",
+            "name": "ESTAGIO EM TOXICOLOGIA CLINICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [
+                "CLM025"
+            ],
+            "scheduled": false
+        },
+        "MED036": {
+            "code": "MED036",
+            "name": "ESTAGIO CURRICULAR",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 0,
+                "practice": 60
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MED049": {
+            "code": "MED049",
+            "name": "NEFROLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 0,
+                "practice": 60
+            },
+            "prereqs": [
+                "CLM026"
+            ],
+            "scheduled": false
+        },
+        "MED050": {
+            "code": "MED050",
+            "name": "CARDIOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 0,
+                "practice": 60
+            },
+            "prereqs": [
+                "CLM026"
+            ],
+            "scheduled": false
+        },
+        "MED079": {
+            "code": "MED079",
+            "name": "PROGRAMA DE INICIAÇÃO À DOCÊNCIA A",
+            "type": "02G",
+            "credits": null,
+            "hours": {
+                "total": 90,
+                "theory": 90,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MED080": {
+            "code": "MED080",
+            "name": "PROGRAMA DE INICIAÇÃO À PESQUISA A",
+            "type": "03G",
+            "credits": null,
+            "hours": {
+                "total": 90,
+                "theory": 90,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MED081": {
+            "code": "MED081",
+            "name": "PROGRAMA DE INICIAÇÃO À DOCÊNCIA B",
+            "type": "02G",
+            "credits": null,
+            "hours": {
+                "total": 180,
+                "theory": 180,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MED082": {
+            "code": "MED082",
+            "name": "PROGRAMA DE INICIAÇÃO À PESQUISA B",
+            "type": "03G",
+            "credits": null,
+            "hours": {
+                "total": 180,
+                "theory": 180,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MED083": {
+            "code": "MED083",
+            "name": "PROGRAMA DE INICIAÇÃO À EXTENSÃO B",
+            "type": "03G",
+            "credits": null,
+            "hours": {
+                "total": 180,
+                "theory": 180,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MED084": {
+            "code": "MED084",
+            "name": "DISCUSSÕES TEMÁTICAS",
+            "type": "07G",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MED085": {
+            "code": "MED085",
+            "name": "VIVÊNCIA PROFISSIONAL COMPLEMENTAR A",
+            "type": "09G",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MED086": {
+            "code": "MED086",
+            "name": "VIVÊNCIA PROFISSIONAL COMPLEMENTAR B",
+            "type": "09G",
+            "credits": null,
+            "hours": {
+                "total": 90,
+                "theory": 90,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MED087": {
+            "code": "MED087",
+            "name": "VIVÊNCIA PROFISSIONAL COMPLEMENTAR C",
+            "type": "09G",
+            "credits": null,
+            "hours": {
+                "total": 180,
+                "theory": 180,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MED088": {
+            "code": "MED088",
+            "name": "ATIVIDADE ACADÊMICA COMPLEMENTAR A",
+            "type": "11G",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MED089": {
+            "code": "MED089",
+            "name": "ATIVIDADE ACADÊMICA COMPLEMENTAR B",
+            "type": "11G",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MED090": {
+            "code": "MED090",
+            "name": "PARTICIPAÇÃO EM EVENTOS A",
+            "type": "04G",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MED091": {
+            "code": "MED091",
+            "name": "PARTICIPAÇÃO EM EVENTOS B",
+            "type": "04G",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MED092": {
+            "code": "MED092",
+            "name": "PROGRAMA DE INICIAÇÃO À EXTENSÃO A",
+            "type": "03G",
+            "credits": null,
+            "hours": {
+                "total": 90,
+                "theory": 90,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MED093": {
+            "code": "MED093",
+            "name": "TERAPÊUTICA CLÍNICA I",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "FAR035"
+            ],
+            "scheduled": false
+        },
+        "MED094": {
+            "code": "MED094",
+            "name": "TERAPÊUTICA CLÍNICA II",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "FAR035"
+            ],
+            "scheduled": false
+        },
+        "MED095": {
+            "code": "MED095",
+            "name": "TERAPÊUTICA CLÍNICA III",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "FAR035"
+            ],
+            "scheduled": false
+        },
+        "MED096": {
+            "code": "MED096",
+            "name": "TERAPÊUTICA CLÍNICA IV",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "FAR035"
+            ],
+            "scheduled": false
+        },
+        "MED099": {
+            "code": "MED099",
+            "name": "TUTORIA B",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [
+                "MED066"
+            ],
+            "scheduled": false
+        },
+        "MPS008": {
+            "code": "MPS008",
+            "name": "SOCIOLOGIA MEDICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "MPS031"
+            ],
+            "scheduled": false
+        },
+        "MPS009": {
+            "code": "MPS009",
+            "name": "TECNICA PESQ.BIBL.PLANEJ.TRAB.CIENTIFICO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MPS010": {
+            "code": "MPS010",
+            "name": "FUNDAMENTOS PENSAM.CIENTIF.SABER MEDICO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [
+                "MPS031"
+            ],
+            "scheduled": false
+        },
+        "MPS011": {
+            "code": "MPS011",
+            "name": "TOPICOS EM SAUDE COLETIVA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MPS024": {
+            "code": "MPS024",
+            "name": "ETICA E DIREITO MEDICO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [
+                "PED017"
+            ],
+            "scheduled": false
+        },
+        "MPS025": {
+            "code": "MPS025",
+            "name": "ECONOMIA DA SAUDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "OFT035": {
+            "code": "OFT035",
+            "name": "OTORRINOLARINGOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 0,
+                "practice": 60
+            },
+            "prereqs": [
+                "CLM025"
+            ],
+            "scheduled": false
+        },
+        "OFT106": {
+            "code": "OFT106",
+            "name": "OFTALMOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 0,
+                "practice": 60
+            },
+            "prereqs": [
+                "CLM025"
+            ],
+            "scheduled": false
+        },
+        "OFT107": {
+            "code": "OFT107",
+            "name": "TOPICOS EM OFTALMOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [
+                "CLM025"
+            ],
+            "scheduled": false
+        },
+        "OFT108": {
+            "code": "OFT108",
+            "name": "TOPICOS EM OTORRINOLARINGOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [
+                "CLM025"
+            ],
+            "scheduled": false
+        },
+        "PED005": {
+            "code": "PED005",
+            "name": "TOPICOS EM PEDIATRIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [
+                "PED018"
+            ],
+            "scheduled": false
+        },
+        "PED008": {
+            "code": "PED008",
+            "name": "EDUCACAO E SAUDE EM CRECHES",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "PED015": {
+            "code": "PED015",
+            "name": "ENDOCRINOLOGIA PEDIATRICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 0,
+                "practice": 60
+            },
+            "prereqs": [
+                "PED019"
+            ],
+            "scheduled": false
+        },
+        "PED023": {
+            "code": "PED023",
+            "name": "MEDICINA DO ADOLESCENTE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [
+                "PED019"
+            ],
+            "scheduled": false
+        },
+        "PED024": {
+            "code": "PED024",
+            "name": "GASTROENTEROLOGIA PEDIÁTRICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 10,
+                "practice": 50
+            },
+            "prereqs": [
+                "PED018"
+            ],
+            "scheduled": false
+        },
+        "PED025": {
+            "code": "PED025",
+            "name": "HEMATOLOGIA PEDIÁTRICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 10,
+                "practice": 50
+            },
+            "prereqs": [
+                "PED018"
+            ],
+            "scheduled": false
+        },
+        "PED026": {
+            "code": "PED026",
+            "name": "NEUROLOGIA PEDIÁTRICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 10,
+                "practice": 50
+            },
+            "prereqs": [
+                "PED018"
+            ],
+            "scheduled": false
+        },
+        "PED027": {
+            "code": "PED027",
+            "name": "PNEUMOLOGIA PEDIÁTRICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 10,
+                "practice": 50
+            },
+            "prereqs": [
+                "PED018"
+            ],
+            "scheduled": false
+        },
+        "PED028": {
+            "code": "PED028",
+            "name": "NEFROLOGIA PEDIÁTRICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 10,
+                "practice": 50
+            },
+            "prereqs": [
+                "PED018"
+            ],
+            "scheduled": false
+        },
+        "PED029": {
+            "code": "PED029",
+            "name": "CARDIOLOGIA PEDIÁTRICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 10,
+                "practice": 50
+            },
+            "prereqs": [
+                "PED018"
+            ],
+            "scheduled": false
+        },
+        "PFA053": {
+            "code": "PFA053",
+            "name": "FITOTERAPICOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "PRO009": {
+            "code": "PRO009",
+            "name": "TOPICOS EM PROPEDEUTICA COMPLEMENTAR",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "PRO011": {
+            "code": "PRO011",
+            "name": "PATOLOGIA CLINICA III",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 0,
+                "practice": 60
+            },
+            "prereqs": [
+                "PRO072"
+            ],
+            "scheduled": false
+        },
+        "SAM019": {
+            "code": "SAM019",
+            "name": "FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "FAR035"
+            ],
+            "scheduled": false
+        },
+        "SAM020": {
+            "code": "SAM020",
+            "name": "TOPICOS EM PSIQUIATRIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ALO010": {
+            "code": "ALO010",
+            "name": "ESTÁGIO OPCIONAL EM ORTOPEDIA E TRAUMATOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 240,
+                "theory": 30,
+                "practice": 210
+            },
+            "prereqs": [
+                "CLM033",
+                "PED032",
+                "CIR022",
+                "GOB013"
+            ],
+            "scheduled": false
+        },
+        "ALO011": {
+            "code": "ALO011",
+            "name": "ESTÁGIO OPCIONAL EM REUMATOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 240,
+                "theory": 30,
+                "practice": 210
+            },
+            "prereqs": [
+                "CLM033",
+                "PED032",
+                "CIR022",
+                "GOB013"
+            ],
+            "scheduled": false
+        },
+        "APM009": {
+            "code": "APM009",
+            "name": "ESTÁGIO OPCIONAL EM ANATOMIA PATOLÓGICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 240,
+                "theory": 30,
+                "practice": 210
+            },
+            "prereqs": [
+                "CLM033",
+                "PED032",
+                "CIR022",
+                "GOB013"
+            ],
+            "scheduled": false
+        },
+        "CIR023": {
+            "code": "CIR023",
+            "name": "ESTÁGIO OPCIONAL EM ANESTESIOLOGIA E CLÍNICA DE DOR",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 240,
+                "theory": 30,
+                "practice": 210
+            },
+            "prereqs": [
+                "CLM033",
+                "PED032",
+                "CIR022",
+                "GOB013"
+            ],
+            "scheduled": false
+        },
+        "CIR024": {
+            "code": "CIR024",
+            "name": "ESTÁGIO OPCIONAL EM CIRURGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 240,
+                "theory": 30,
+                "practice": 210
+            },
+            "prereqs": [
+                "CLM033",
+                "PED032",
+                "CIR022",
+                "GOB013"
+            ],
+            "scheduled": false
+        },
+        "CLM034": {
+            "code": "CLM034",
+            "name": "ESTÁGIO OPCIONAL EM CLÍNICA MÉDICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 240,
+                "theory": 30,
+                "practice": 210
+            },
+            "prereqs": [
+                "CLM033",
+                "PED032",
+                "CIR022",
+                "GOB013"
+            ],
+            "scheduled": false
+        },
+        "GOB014": {
+            "code": "GOB014",
+            "name": "ESTÁGIO OPCIONAL EM GINECOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 240,
+                "theory": 30,
+                "practice": 210
+            },
+            "prereqs": [
+                "CLM033",
+                "PED032",
+                "CIR022",
+                "GOB013"
+            ],
+            "scheduled": false
+        },
+        "IMA095": {
+            "code": "IMA095",
+            "name": "ESTÁGIO OPCIONAL EM DIAGNÓSTICO POR IMAGEM",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 240,
+                "theory": 30,
+                "practice": 210
+            },
+            "prereqs": [
+                "CLM033",
+                "PED032",
+                "CIR022",
+                "GOB013"
+            ],
+            "scheduled": false
+        },
+        "MED120": {
+            "code": "MED120",
+            "name": "ESTÁGIO OPCIONAL EM OBSTETRÍCIA E PERINATOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 240,
+                "theory": 30,
+                "practice": 210
+            },
+            "prereqs": [
+                "CLM033",
+                "PED032",
+                "CIR022",
+                "GOB013"
+            ],
+            "scheduled": false
+        },
+        "MED121": {
+            "code": "MED121",
+            "name": "ESTÁGIO EM ATENÇÃO PRIMÁRIA INTEGRADA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 240,
+                "theory": 30,
+                "practice": 210
+            },
+            "prereqs": [
+                "CLM033",
+                "PED032",
+                "GOB013",
+                "CIR022"
+            ],
+            "scheduled": false
+        },
+        "MPS033": {
+            "code": "MPS033",
+            "name": "ESTÁGIO OPCIONAL EM GESTÃO DE SAÚDE PÚBLICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 240,
+                "theory": 30,
+                "practice": 210
+            },
+            "prereqs": [
+                "CLM033",
+                "PED032",
+                "CIR022",
+                "GOB013"
+            ],
+            "scheduled": false
+        },
+        "OFT042": {
+            "code": "OFT042",
+            "name": "ESTÁGIO OPCIONAL EM OTORRINOLARINGOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 240,
+                "theory": 30,
+                "practice": 210
+            },
+            "prereqs": [
+                "CLM033",
+                "PED032",
+                "CIR022",
+                "GOB013"
+            ],
+            "scheduled": false
+        },
+        "OFT043": {
+            "code": "OFT043",
+            "name": "ESTÁGIO OPCIONAL EM OFTALMOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 240,
+                "theory": 30,
+                "practice": 210
+            },
+            "prereqs": [
+                "CLM033",
+                "PED032",
+                "CIR022",
+                "GOB013"
+            ],
+            "scheduled": false
+        },
+        "PED033": {
+            "code": "PED033",
+            "name": "ESTÁGIO OPCIONAL EM CLÍNICA PEDIÁTRICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 240,
+                "theory": 30,
+                "practice": 210
+            },
+            "prereqs": [
+                "CLM033",
+                "PED032",
+                "CIR022",
+                "GOB013"
+            ],
+            "scheduled": false
+        },
+        "PED034": {
+            "code": "PED034",
+            "name": "ESTÁGIO OPCIONAL EM ESPECIALIDADES PEDIÁTRICAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 240,
+                "theory": 30,
+                "practice": 210
+            },
+            "prereqs": [
+                "CLM033",
+                "PED032",
+                "CIR022",
+                "GOB013"
+            ],
+            "scheduled": false
+        },
+        "PRO074": {
+            "code": "PRO074",
+            "name": "ESTÁGIO OPCIONAL EM PATOLOGIA CLÍNICA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 240,
+                "theory": 30,
+                "practice": 210
+            },
+            "prereqs": [
+                "CLM033",
+                "PED032",
+                "CIR022",
+                "GOB013"
+            ],
+            "scheduled": false
+        },
+        "SAM029": {
+            "code": "SAM029",
+            "name": "ESTÁGIO OPCIONAL EM PSIQUIATRIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 240,
+                "theory": 30,
+                "practice": 210
+            },
+            "prereqs": [
+                "CLM033",
+                "PED032",
+                "CIR022",
+                "GOB013"
+            ],
+            "scheduled": false
+        }
+    },
+    "percursos": [
+        {
+            "id": "R-01",
+            "name": "BACHARELADO/F. LIVRE",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "BIG058",
+                        "BIQ063",
+                        "IMA001",
+                        "MED063",
+                        "MED064",
+                        "MOF057",
+                        "MOF611",
+                        "MPS031"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "BIQ608",
+                        "FIB039",
+                        "MED065",
+                        "MED066",
+                        "MOF005",
+                        "MOF058",
+                        "SAM022"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "BIQ064",
+                        "FAR034",
+                        "FIB040",
+                        "MED067",
+                        "MIC029",
+                        "PAR025"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "CLM024",
+                        "FAR035",
+                        "IMA002",
+                        "MED068",
+                        "MED069",
+                        "PAG017",
+                        "PED017"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "APM001",
+                        "CIR014",
+                        "CLM025",
+                        "IMA003",
+                        "MPS004",
+                        "PED018",
+                        "PRO071",
+                        "SAM023"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "APM002",
+                        "CIR015",
+                        "CLM026",
+                        "GOB008",
+                        "IMA004",
+                        "MED070",
+                        "PED019",
+                        "PRO072"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "CIR016",
+                        "CLM027",
+                        "GOB009",
+                        "MED071",
+                        "MPS006",
+                        "PED020",
+                        "SAM024"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "APM007",
+                        "CIR017",
+                        "CLM028",
+                        "GOB010",
+                        "MED072",
+                        "MPS005",
+                        "PED021",
+                        "SAM025"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 9,
+                    "codes": [
+                        "CLM030",
+                        "CLM031",
+                        "CLM033",
+                        "MED073",
+                        "MED074",
+                        "PED032",
+                        "SAM026",
+                        "SAM027"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 10,
+                    "codes": [
+                        "ALO006",
+                        "ALO007",
+                        "CIR022",
+                        "GOB013",
+                        "MED075",
+                        "MED076",
+                        "OFT038",
+                        "OFT039"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 11,
+                    "codes": [
+                        "MED118",
+                        "MPS020",
+                        "MPS023"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 12,
+                    "codes": [
+                        "MED119"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-R-01-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-R-01-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-R-01-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-R-01-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-R-01-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-R-01-06",
+                    "label": "Optativa 6",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-R-01-07",
+                    "label": "Optativa 7",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "ALO002",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "ALO004",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "APM004",
+                    "group": "6",
+                    "prereqs": []
+                },
+                {
+                    "code": "APM006",
+                    "group": "6",
+                    "prereqs": []
+                },
+                {
+                    "code": "BIG015",
+                    "group": "6",
+                    "prereqs": []
+                },
+                {
+                    "code": "CIR005",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "CIR007",
+                    "group": "6",
+                    "prereqs": [
+                        "CIR014"
+                    ]
+                },
+                {
+                    "code": "CIR008",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "CIR009",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "CIR010",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM025",
+                        "APM002",
+                        "IMA003",
+                        "CIR014"
+                    ]
+                },
+                {
+                    "code": "CIR011",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "CIR012",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM025",
+                        "APM002",
+                        "CIR014"
+                    ]
+                },
+                {
+                    "code": "CIR019",
+                    "group": "6",
+                    "prereqs": [
+                        "FIB040",
+                        "APM002"
+                    ]
+                },
+                {
+                    "code": "CLM008",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM025"
+                    ]
+                },
+                {
+                    "code": "CLM009",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "CLM011",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM025"
+                    ]
+                },
+                {
+                    "code": "CLM012",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "CLM019",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "CLM020",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM025"
+                    ]
+                },
+                {
+                    "code": "GOB005",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM025"
+                    ]
+                },
+                {
+                    "code": "GOB006",
+                    "group": "6",
+                    "prereqs": [
+                        "GOB008"
+                    ]
+                },
+                {
+                    "code": "ICB001",
+                    "group": "6",
+                    "prereqs": []
+                },
+                {
+                    "code": "IMA005",
+                    "group": "6",
+                    "prereqs": [
+                        "IMA004"
+                    ]
+                },
+                {
+                    "code": "IMA006",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM025"
+                    ]
+                },
+                {
+                    "code": "LET223",
+                    "group": "6",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED007",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "MED009",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "MED010",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "MED011",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "MED012",
+                    "group": "6",
+                    "prereqs": [
+                        "MPS004"
+                    ]
+                },
+                {
+                    "code": "MED014",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "MED015",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "MED017",
+                    "group": "6",
+                    "prereqs": [
+                        "CIR014"
+                    ]
+                },
+                {
+                    "code": "MED020",
+                    "group": "6",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED035",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM025"
+                    ]
+                },
+                {
+                    "code": "MED036",
+                    "group": "6",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED049",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "MED050",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "MED079",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED080",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED081",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED082",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED083",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED084",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED085",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED086",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED087",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED088",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED089",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED090",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED091",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED092",
+                    "group": "5",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED093",
+                    "group": "6",
+                    "prereqs": [
+                        "FAR035"
+                    ]
+                },
+                {
+                    "code": "MED094",
+                    "group": "6",
+                    "prereqs": [
+                        "FAR035"
+                    ]
+                },
+                {
+                    "code": "MED095",
+                    "group": "6",
+                    "prereqs": [
+                        "FAR035"
+                    ]
+                },
+                {
+                    "code": "MED096",
+                    "group": "6",
+                    "prereqs": [
+                        "FAR035"
+                    ]
+                },
+                {
+                    "code": "MED099",
+                    "group": "6",
+                    "prereqs": [
+                        "MED066"
+                    ]
+                },
+                {
+                    "code": "MPS008",
+                    "group": "6",
+                    "prereqs": [
+                        "MPS031"
+                    ]
+                },
+                {
+                    "code": "MPS009",
+                    "group": "6",
+                    "prereqs": []
+                },
+                {
+                    "code": "MPS010",
+                    "group": "6",
+                    "prereqs": [
+                        "MPS031"
+                    ]
+                },
+                {
+                    "code": "MPS011",
+                    "group": "6",
+                    "prereqs": []
+                },
+                {
+                    "code": "MPS024",
+                    "group": "6",
+                    "prereqs": [
+                        "PED017"
+                    ]
+                },
+                {
+                    "code": "MPS025",
+                    "group": "6",
+                    "prereqs": []
+                },
+                {
+                    "code": "OFT035",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM025"
+                    ]
+                },
+                {
+                    "code": "OFT106",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM025"
+                    ]
+                },
+                {
+                    "code": "OFT107",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM025"
+                    ]
+                },
+                {
+                    "code": "OFT108",
+                    "group": "6",
+                    "prereqs": [
+                        "CLM025"
+                    ]
+                },
+                {
+                    "code": "PED005",
+                    "group": "6",
+                    "prereqs": [
+                        "PED018"
+                    ]
+                },
+                {
+                    "code": "PED008",
+                    "group": "6",
+                    "prereqs": []
+                },
+                {
+                    "code": "PED015",
+                    "group": "6",
+                    "prereqs": [
+                        "PED019"
+                    ]
+                },
+                {
+                    "code": "PED023",
+                    "group": "6",
+                    "prereqs": [
+                        "PED019"
+                    ]
+                },
+                {
+                    "code": "PED024",
+                    "group": "6",
+                    "prereqs": [
+                        "PED018"
+                    ]
+                },
+                {
+                    "code": "PED025",
+                    "group": "6",
+                    "prereqs": [
+                        "PED018"
+                    ]
+                },
+                {
+                    "code": "PED026",
+                    "group": "6",
+                    "prereqs": [
+                        "PED018"
+                    ]
+                },
+                {
+                    "code": "PED027",
+                    "group": "6",
+                    "prereqs": [
+                        "PED018"
+                    ]
+                },
+                {
+                    "code": "PED028",
+                    "group": "6",
+                    "prereqs": [
+                        "PED018"
+                    ]
+                },
+                {
+                    "code": "PED029",
+                    "group": "6",
+                    "prereqs": [
+                        "PED018"
+                    ]
+                },
+                {
+                    "code": "PFA053",
+                    "group": "6",
+                    "prereqs": []
+                },
+                {
+                    "code": "PRO009",
+                    "group": "6",
+                    "prereqs": []
+                },
+                {
+                    "code": "PRO011",
+                    "group": "6",
+                    "prereqs": [
+                        "PRO072"
+                    ]
+                },
+                {
+                    "code": "SAM019",
+                    "group": "6",
+                    "prereqs": [
+                        "FAR035"
+                    ]
+                },
+                {
+                    "code": "SAM020",
+                    "group": "6",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "R-01",
+                "semesters": {
+                    "min": 12,
+                    "standard": 12,
+                    "max": 20
+                },
+                "enrollmentHours": {
+                    "min": 390,
+                    "max": null
+                },
+                "obligatoryHours": {
+                    "min": 4380,
+                    "max": 4380
+                },
+                "optionalHours": {
+                    "min": 420,
+                    "max": 420
+                },
+                "stageHours": {
+                    "min": 2835,
+                    "max": 2835
+                },
+                "complementaryPresetHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryOpenHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "freeHours": {
+                    "min": 120,
+                    "max": 120
+                },
+                "totalHours": 7755
+            }
+        },
+        {
+            "id": "R-02",
+            "name": "BACHARELADO/F. COMPLEMENTAR ABERTA",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "BIG058",
+                        "BIQ063",
+                        "IMA001",
+                        "MED063",
+                        "MED064",
+                        "MOF057",
+                        "MOF611",
+                        "MPS031"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "BIQ608",
+                        "FIB039",
+                        "MED065",
+                        "MED066",
+                        "MOF005",
+                        "MOF058",
+                        "SAM022"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "BIQ064",
+                        "FAR034",
+                        "FIB040",
+                        "MED067",
+                        "MIC029",
+                        "PAR025"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "CLM024",
+                        "FAR035",
+                        "IMA002",
+                        "MED068",
+                        "MED069",
+                        "PAG017",
+                        "PED017"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "APM001",
+                        "CIR014",
+                        "CLM025",
+                        "IMA003",
+                        "MPS004",
+                        "PED018",
+                        "PRO071",
+                        "SAM023"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "APM002",
+                        "CIR015",
+                        "CLM026",
+                        "GOB008",
+                        "IMA004",
+                        "MED070",
+                        "PED019",
+                        "PRO072"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "CIR016",
+                        "CLM027",
+                        "GOB009",
+                        "MED071",
+                        "MPS006",
+                        "PED020",
+                        "SAM024"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "APM007",
+                        "CIR017",
+                        "CLM028",
+                        "GOB010",
+                        "MED072",
+                        "MPS005",
+                        "PED021",
+                        "SAM025"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 9,
+                    "codes": [
+                        "CLM030",
+                        "CLM031",
+                        "CLM033",
+                        "MED073",
+                        "MED074",
+                        "PED032",
+                        "SAM026",
+                        "SAM027"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 10,
+                    "codes": [
+                        "ALO006",
+                        "ALO007",
+                        "CIR022",
+                        "GOB013",
+                        "MED075",
+                        "MED076",
+                        "OFT038",
+                        "OFT039"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 11,
+                    "codes": [
+                        "MED118",
+                        "MPS020",
+                        "MPS023"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 12,
+                    "codes": [
+                        "MED119"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-R-02-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-R-02-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-R-02-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-R-02-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-R-02-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "ALO002",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "ALO004",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "APM004",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "APM006",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "BIG015",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "CIR005",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "CIR007",
+                    "group": "9",
+                    "prereqs": [
+                        "CIR014"
+                    ]
+                },
+                {
+                    "code": "CIR008",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "CIR009",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "CIR010",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM025",
+                        "APM002",
+                        "IMA003",
+                        "CIR014"
+                    ]
+                },
+                {
+                    "code": "CIR011",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "CIR012",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM025",
+                        "APM002",
+                        "CIR014"
+                    ]
+                },
+                {
+                    "code": "CIR019",
+                    "group": "9",
+                    "prereqs": [
+                        "FIB040",
+                        "APM002"
+                    ]
+                },
+                {
+                    "code": "CLM008",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM025"
+                    ]
+                },
+                {
+                    "code": "CLM009",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "CLM011",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM025"
+                    ]
+                },
+                {
+                    "code": "CLM012",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "CLM019",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "CLM020",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM025"
+                    ]
+                },
+                {
+                    "code": "GOB005",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM025"
+                    ]
+                },
+                {
+                    "code": "GOB006",
+                    "group": "9",
+                    "prereqs": [
+                        "GOB008"
+                    ]
+                },
+                {
+                    "code": "ICB001",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "IMA005",
+                    "group": "9",
+                    "prereqs": [
+                        "IMA004"
+                    ]
+                },
+                {
+                    "code": "IMA006",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM025"
+                    ]
+                },
+                {
+                    "code": "LET223",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED007",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "MED009",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "MED010",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "MED011",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "MED012",
+                    "group": "9",
+                    "prereqs": [
+                        "MPS004"
+                    ]
+                },
+                {
+                    "code": "MED014",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "MED015",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "MED017",
+                    "group": "9",
+                    "prereqs": [
+                        "CIR014"
+                    ]
+                },
+                {
+                    "code": "MED020",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED035",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM025"
+                    ]
+                },
+                {
+                    "code": "MED036",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED049",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "MED050",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM026"
+                    ]
+                },
+                {
+                    "code": "MED079",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED080",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED081",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED082",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED083",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED084",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED085",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED086",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED087",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED088",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED089",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED090",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED091",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED092",
+                    "group": "10",
+                    "prereqs": []
+                },
+                {
+                    "code": "MED093",
+                    "group": "9",
+                    "prereqs": [
+                        "FAR035"
+                    ]
+                },
+                {
+                    "code": "MED094",
+                    "group": "9",
+                    "prereqs": [
+                        "FAR035"
+                    ]
+                },
+                {
+                    "code": "MED095",
+                    "group": "9",
+                    "prereqs": [
+                        "FAR035"
+                    ]
+                },
+                {
+                    "code": "MED096",
+                    "group": "9",
+                    "prereqs": [
+                        "FAR035"
+                    ]
+                },
+                {
+                    "code": "MED099",
+                    "group": "9",
+                    "prereqs": [
+                        "MED066"
+                    ]
+                },
+                {
+                    "code": "MPS008",
+                    "group": "9",
+                    "prereqs": [
+                        "MPS031"
+                    ]
+                },
+                {
+                    "code": "MPS009",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "MPS010",
+                    "group": "9",
+                    "prereqs": [
+                        "MPS031"
+                    ]
+                },
+                {
+                    "code": "MPS011",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "MPS024",
+                    "group": "9",
+                    "prereqs": [
+                        "PED017"
+                    ]
+                },
+                {
+                    "code": "MPS025",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "OFT035",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM025"
+                    ]
+                },
+                {
+                    "code": "OFT106",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM025"
+                    ]
+                },
+                {
+                    "code": "OFT107",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM025"
+                    ]
+                },
+                {
+                    "code": "OFT108",
+                    "group": "9",
+                    "prereqs": [
+                        "CLM025"
+                    ]
+                },
+                {
+                    "code": "PED005",
+                    "group": "9",
+                    "prereqs": [
+                        "PED018"
+                    ]
+                },
+                {
+                    "code": "PED008",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "PED015",
+                    "group": "9",
+                    "prereqs": [
+                        "PED019"
+                    ]
+                },
+                {
+                    "code": "PED023",
+                    "group": "9",
+                    "prereqs": [
+                        "PED019"
+                    ]
+                },
+                {
+                    "code": "PED024",
+                    "group": "9",
+                    "prereqs": [
+                        "PED018"
+                    ]
+                },
+                {
+                    "code": "PED025",
+                    "group": "9",
+                    "prereqs": [
+                        "PED018"
+                    ]
+                },
+                {
+                    "code": "PED026",
+                    "group": "9",
+                    "prereqs": [
+                        "PED018"
+                    ]
+                },
+                {
+                    "code": "PED027",
+                    "group": "9",
+                    "prereqs": [
+                        "PED018"
+                    ]
+                },
+                {
+                    "code": "PED028",
+                    "group": "9",
+                    "prereqs": [
+                        "PED018"
+                    ]
+                },
+                {
+                    "code": "PED029",
+                    "group": "9",
+                    "prereqs": [
+                        "PED018"
+                    ]
+                },
+                {
+                    "code": "PFA053",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "PRO009",
+                    "group": "9",
+                    "prereqs": []
+                },
+                {
+                    "code": "PRO011",
+                    "group": "9",
+                    "prereqs": [
+                        "PRO072"
+                    ]
+                },
+                {
+                    "code": "SAM019",
+                    "group": "9",
+                    "prereqs": [
+                        "FAR035"
+                    ]
+                },
+                {
+                    "code": "SAM020",
+                    "group": "9",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "R-02",
+                "semesters": {
+                    "min": 12,
+                    "standard": 12,
+                    "max": 20
+                },
+                "enrollmentHours": {
+                    "min": 390,
+                    "max": null
+                },
+                "obligatoryHours": {
+                    "min": 4380,
+                    "max": 4380
+                },
+                "optionalHours": {
+                    "min": 300,
+                    "max": 300
+                },
+                "stageHours": {
+                    "min": 2835,
+                    "max": 2835
+                },
+                "complementaryPresetHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryOpenHours": {
+                    "min": 180,
+                    "max": 180
+                },
+                "freeHours": {
+                    "min": 60,
+                    "max": 60
+                },
+                "totalHours": 7755
+            }
+        }
+    ]
+}

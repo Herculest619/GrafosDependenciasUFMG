@@ -1,0 +1,812 @@
+                              UNIVERSIDADE FEDERAL DE MINAS GERAIS
+                              Configuração Curricular
+                              Pró-reitoria de Graduação
+
+                                                                                      Relatório de versão curricular
+
+
+Curso:         21001 - AQUACULTURA                                                                                        Versão curricular:        D2023-1
+
+
+Situação:      Liberada
+
+
+Carga horária mínima para mudança de opção de vinculação:                         -                                       Período mínimo para mudança de opção de vinculação:   1
+
+
+
+
+Disponibilidade nas subdivisões do curso:
+
+
+                                                                      É versão para                                                            Percurso padrão
+                                                                                       Modalidade
+                            Subdivisão de Curso                       vinculação de
+                                                                                      Educacional
+                                                                      ingressantes
+                                                                                                          Identificador                                          Nome
+
+    21001PD001/Presencial/DIURNO                                            Não           Presencial          01-01       BACHARELADO/ NÚCLEO GERAL
+
+Observações:
+
+-
+
+
+
+
+Percursos curriculares que compõem a versão:
+
+                  Identificador                                                                                                Nome
+
+    01                                            AQUACULTURA-BACHARELADO - (M)
+    01-03                                         ---BACHARELADO/ N. AVANÇADO/ N. GERAL
+    01-02                                         ---BACHARELADO/ N. COMPLEMENTAR/ N.GERAL
+    01-01                                         ---BACHARELADO/ N.GERAL
+
+
+
+
+                                                                                                 RELATÓRIO DE VERSÃO CURRICULAR
+
+07/02/2023 08.19.20                                                                                                                                                                 Página 1 de 15
+Pró-reitoria de Graduação
+Atividades acadêmicas:
+Tabela organizada por sugestão de período definido na versão curricular
+
+
+
+  1º PERÍODO
+
+                                                                                                                            Sugestão
+                                                                          Créditos       Carga Horária
+                                                                                                                           de período           Natureza Natureza
+                                 Atividade Acadêmica                                                            Percurso   específica   Grupo      no       no      Pré-requisitos
+                                                                                                                               do                grupo   percurso
+                                                                          Mín. Máx.   Total   Teórica Prática
+                                                                                                                            percurso
+   DIG - GEO306 - PROCESSOS EROSIVOS E CONSERV.DOS SOLOS                   4    4      60       30      30       01-01         -          6        OB       OB             -
+                                                                                                                 01-02         -          6        OB       OB             -
+                                                                                                                 01-03         -          6        OB       OB             -
+   DIG - MAT130 - MATEMATICA                                               4    4      60       60       0       01-01         -          6        OB       OB             -
+                                                                                                                 01-02         -          6        OB       OB             -
+                                                                                                                 01-03         -          6        OB       OB             -
+   DIG - QUI019 - QUIMICA GERAL EXPERIMENTAL                               2    2      30        0      30       01-01         -          6        OB       OB             -
+                                                                                                                 01-02         -          6        OB       OB             -
+                                                                                                                 01-03         -          6        OB       OB             -
+   DIG - QUI626 - QUÍMICA GERAL AQUACULTURA                                4    4      60       60       0       01-01         -          6        OB       OB             -
+                                                                                                                 01-02         -          6        OB       OB             -
+                                                                                                                 01-03         -          6        OB       OB             -
+   DIG - UNI003 - OF. DE LP:LEITURA E PRODUCAO DE TEXTOS                   4    4      60       60       0       01-01         -          6        OB       OB             -
+                                                                                                                 01-02         -          6        OB       OB             -
+                                                                                                                 01-03         -          6        OB       OB             -
+   DIG - VET025 - INICIACAO A EDUCACAO CONTINUADA                          3    3      45       30      15       01-01         -          6        OB       OB             -
+                                                                                                                 01-02         -          6        OB       OB             -
+                                                                                                                 01-03         -          6        OB       OB             -
+   DIG - ZOO028 - INTRODUCAO A AQUACULTURA                                 3    3      45       30      15       01-01         -          6        OB       OB             -
+                                                                                                                 01-02         -          6        OB       OB             -
+                                                                                                                 01-03         -          6        OB       OB             -
+
+
+
+
+                                                                                    RELATÓRIO DE VERSÃO CURRICULAR
+
+07/02/2023 08.19.20                                                                                                                                                  Página 2 de 15
+Pró-reitoria de Graduação
+  2º PERÍODO
+
+                                                                                                                Sugestão
+                                                              Créditos       Carga Horária
+                                                                                                               de período           Natureza Natureza
+                                Atividade Acadêmica                                                 Percurso   específica   Grupo      no       no      Pré-requisitos
+                                                                                                                   do                grupo   percurso
+                                                              Mín. Máx.   Total   Teórica Prática
+                                                                                                                percurso
+   DIG - CRT003 - CARTOGRAFIA E TOPOGRAFIA                     4    4      60       45      15       01-01         -          6        OB       OB         MAT130
+                                                                                                     01-02         -          6        OB       OB         MAT130
+                                                                                                     01-03         -          6        OB       OB         MAT130
+   DIG - FIS093 - FUNDAMENTOS DE FISICA F                      4    4      60       60       0       01-01         -          6        OB       OB             -
+                                                                                                     01-02         -          6        OB       OB             -
+                                                                                                     01-03         -          6        OB       OB             -
+   DIG - GEE047 - LIMNOLOGIA GERAL APLICADA À AQUACULTURA I    4    4      60       30      30       01-01         -          6        OB       OB             -
+                                                                                                     01-02         -          6        OB       OB             -
+                                                                                                     01-03         -          6        OB       OB             -
+   DIG - MAT038 - GEOMETRIA ANALITICA E ALGEBRA LINEAR         4    4      60       60       0       01-01         -          6        OB       OB         MAT130
+                                                                                                     01-02         -          6        OB       OB         MAT130
+                                                                                                     01-03         -          6        OB       OB         MAT130
+   DIG - MOF001 - CITOLOGIA E HISTOLOGIA GERAL                 5    5      75       15      60       01-01         -          6        OB       OB             -
+                                                                                                     01-02         -          6        OB       OB             -
+                                                                                                     01-03         -          6        OB       OB             -
+
+
+
+  3º PERÍODO
+
+                                                                                                                Sugestão
+                                                              Créditos       Carga Horária
+                                                                                                               de período           Natureza Natureza
+                                Atividade Acadêmica                                                 Percurso   específica   Grupo      no       no      Pré-requisitos
+                                                                                                                   do                grupo   percurso
+                                                              Mín. Máx.   Total   Teórica Prática
+                                                                                                                percurso
+   DIG - CRT006 - CARTOGRAFIA DIGITAL                          4    4      60       45      15       01-01         -          6        OB       OB             -
+                                                                                                     01-02         -          6        OB       OB             -
+                                                                                                     01-03         -          6        OB       OB             -
+   DIG - EHR033 - HIDRAULICA APLICADA A AQUACULTURA            3    3      45       30      15       01-01         -          6        OB       OB         MAT130
+                                                                                                     01-02         -          6        OB       OB         MAT130
+                                                                                                     01-03         -          6        OB       OB         MAT130
+   DIG - GEE048 - LIMNOLOGIA APLICADA À AQUACULTURA II         6    6      90       60      30       01-01         -          6        OB       OB             -
+                                                                                                     01-02         -          6        OB       OB             -
+                                                                                                     01-03         -          6        OB       OB             -
+   DIG - MIC026 - MICROBIOLOGIA APLICADA A AQUACULTURA         4    4      60       30      30       01-01         -          6        OB       OB             -
+                                                                                                     01-02         -          6        OB       OB             -
+                                                                                                     01-03         -          6        OB       OB             -
+
+
+
+
+                                                                        RELATÓRIO DE VERSÃO CURRICULAR
+
+07/02/2023 08.19.20                                                                                                                                      Página 3 de 15
+Pró-reitoria de Graduação
+                                                                                                               Sugestão
+                                                             Créditos       Carga Horária
+                                                                                                              de período           Natureza Natureza
+                                 Atividade Acadêmica                                               Percurso   específica   Grupo      no       no      Pré-requisitos
+                                                                                                                  do                grupo   percurso
+                                                             Mín. Máx.   Total   Teórica Prática
+                                                                                                               percurso
+   DIG - ZOL025 - EMBRIOLOGIA DE ANIMAIS AQUATICOS            2    2      30       15      15       01-01         -          6        OB       OB             -
+                                                                                                    01-02         -          6        OB       OB             -
+                                                                                                    01-03         -          6        OB       OB             -
+   DIG - ZOO005 - BIOQUIMICA APLICADA                         6    6      90       60      30       01-01         -          6        OB       OB      QUI019, QUI626
+                                                                                                    01-02         -          6        OB       OB      QUI019, QUI626
+                                                                                                    01-03         -          6        OB       OB      QUI019, QUI626
+   DIG - ZOO054 - FISIOLOGIA DE ORGANISMOS AQUÁTICOS          4    4      60       45      15       01-01         -          6        OB       OB             -
+                                                                                                    01-02         -          6        OB       OB             -
+                                                                                                    01-03         -          6        OB       OB             -
+
+
+
+  4º PERÍODO
+
+                                                                                                               Sugestão
+                                                             Créditos       Carga Horária
+                                                                                                              de período           Natureza Natureza
+                                 Atividade Acadêmica                                               Percurso   específica   Grupo      no       no      Pré-requisitos
+                                                                                                                  do                grupo   percurso
+                                                             Mín. Máx.   Total   Teórica Prática
+                                                                                                               percurso
+   DIG - EHR032 - HIDROLOGIA APLICADA A AQUACULTURA           3    3      45       30      15       01-01         -          6        OB       OB         EHR033
+                                                                                                    01-02         -          6        OB       OB         EHR033
+                                                                                                    01-03         -          6        OB       OB         EHR033
+   DIG - MOF046 - MORFOFISIOLOGIA DE VERTEBRADOS AQUATICOS    4    4      60       30      30       01-01         -          6        OB       OB         MOF001
+                                                                                                    01-02         -          6        OB       OB         MOF001
+                                                                                                    01-03         -          6        OB       OB         MOF001
+   DIG - MVP004 - CARACTERIZACAO E TRATAMENTO DE EFLUENTES    2    2      30       15      15       01-01         -          6        OB       OB             -
+                                                                                                    01-02         -          6        OB       OB             -
+                                                                                                    01-03         -          6        OB       OB             -
+   DIG - MVP118 - ESTATÍSTICA EXPERIMENTAL                    4    4      60       45      15       01-01         -          6        OB       OB             -
+                                                                                                    01-02         -          6        OB       OB             -
+                                                                                                    01-03         -          6        OB       OB             -
+   DIG - ZOL026 - MORFOFISIOLOGIA INVERTEBRADOS AQUATICOS     4    4      60       40      20       01-01         -          6        OB       OB         MOF001
+                                                                                                    01-02         -          6        OB       OB         MOF001
+                                                                                                    01-03         -          6        OB       OB         MOF001
+   DIG - ZOO004 - SETOR AGRARIO E ORG.SOCIAL NO BRASIL        2    2      30       30       0       01-01         -          6        OB       OB             -
+                                                                                                    01-02         -          6        OB       OB             -
+                                                                                                    01-03         -          6        OB       OB             -
+   DIG - ZOO006 - GENETICA APLICADA A AQUACULTURA             4    4      60       45      15       01-01         -          6        OB       OB             -
+                                                                                                    01-02         -          6        OB       OB             -
+                                                                                                    01-03         -          6        OB       OB             -
+   DIG - ZOO007 - BROMATOLOGIA                                4    4      60       30      30       01-01         -          6        OB       OB      QUI019, QUI626
+                                                                                                    01-02         -          6        OB       OB      QUI019, QUI626
+                                                                                                    01-03         -          6        OB       OB      QUI019, QUI626
+
+                                                                       RELATÓRIO DE VERSÃO CURRICULAR
+
+07/02/2023 08.19.20                                                                                                                                      Página 4 de 15
+Pró-reitoria de Graduação
+                                                                                                                                          Sugestão
+                                                                                       Créditos        Carga Horária
+                                                                                                                                         de período           Natureza Natureza
+                               Atividade Acadêmica                                                                            Percurso   específica   Grupo      no       no           Pré-requisitos
+                                                                                                                                             do                grupo   percurso
+                                                                                       Mín. Máx.    Total   Teórica Prática
+                                                                                                                                          percurso
+   DIG - ZOO050 - FISIOLOG APLIC PRODUÇÃO FORMAS JOVENS DE INTER. AQUÍCOLA              4    4        60      30      30       01-01         -          6        OB       OB                  -
+                                                                                                                               01-02         -          6        OB       OB                  -
+                                                                                                                               01-03         -          6        OB       OB                  -
+
+
+
+  5º PERÍODO
+
+                                                                                                                                          Sugestão
+                                                                                       Créditos        Carga Horária
+                                                                                                                                         de período           Natureza Natureza
+                               Atividade Acadêmica                                                                            Percurso   específica   Grupo      no       no           Pré-requisitos
+                                                                                                                                             do                grupo   percurso
+                                                                                       Mín. Máx.    Total   Teórica Prática
+                                                                                                                                          percurso
+   DIG - CCV024 - FARMACOLOGIA PARA ORGANISMOS AQUATICOS                                4    4        60      45      15       01-01         -          6        OB       OB                  -
+                                                                                                                               01-02         -          6        OB       OB                  -
+                                                                                                                               01-03         -          6        OB       OB                  -
+   DIG - CCV025 - PATOLOGIA DOS ANIMAIS AQUATICOS                                       4    4        60      45      15       01-01         -          6        OB       OB                  -
+                                                                                                                               01-02         -          6        OB       OB                  -
+                                                                                                                               01-03         -          6        OB       OB                  -
+   DIG - CCV026 - TOXICOLOGIA DE ORGANISMOS AQUATICOS                                   3    3        45      15      30       01-01         -          6        OB       OB                  -
+                                                                                                                               01-02         -          6        OB       OB                  -
+                                                                                                                               01-03         -          6        OB       OB                  -
+   DIG - MVP003 - IMUNOLOGIA BASICA                                                     3    3        45      45       0       01-01         -          6        OB       OB           ZOO005, MOF001
+                                                                                                                               01-02         -          6        OB       OB           ZOO005, MOF001
+                                                                                                                               01-03         -          6        OB       OB           ZOO005, MOF001
+   DIG - MVP009 - DESENHO TECNICO                                                       3    3        45      30      15       01-01         -          6        OB       OB                  -
+                                                                                                                               01-02         -          6        OB       OB                  -
+                                                                                                                               01-03         -          6        OB       OB                  -
+   DIG - ZOO603 - MELHORAMENTO ANIMAL                                                   4    4        60      30      30       01-01         -          6        OB       OB              ZOO006
+                                                                                                                               01-02         -          6        OB       OB              ZOO006
+                                                                                                                               01-03         -          6        OB       OB              ZOO006
+
+
+
+                                                                                              Carga horária adicional do período
+
+             Percurso                                                                              Grupo de atividades                                                     Carga Horária
+   01-01                     21001-D2023-1-17 - Optativas Bach/N. Geral                                                                                                           30
+   01-02                     21001-D2023-1-19 - Optativas Bach/ N. Compl. / N. Geral                                                                                              30
+   01-03                     21001-D2023-1-21 - Optativas N. Avançado / N. Geral                                                                                                  30
+
+
+
+
+                                                                                                 RELATÓRIO DE VERSÃO CURRICULAR
+
+07/02/2023 08.19.20                                                                                                                                                                      Página 5 de 15
+Pró-reitoria de Graduação
+  6º PERÍODO
+
+                                                                                                               Sugestão
+                                                             Créditos       Carga Horária
+                                                                                                              de período           Natureza Natureza
+                                Atividade Acadêmica                                                Percurso   específica   Grupo      no       no       Pré-requisitos
+                                                                                                                  do                grupo   percurso
+                                                             Mín. Máx.   Total   Teórica Prática
+                                                                                                               percurso
+   DIG - MVP005 - SANIDADE E DOENCAS DE ORG.AQUATICOS         6    6      90       60      30       01-01         -          6        OB       OB      ZOO005, MVP003,
+                                                                                                                                                          MIC026
+                                                                                                    01-02         -          6        OB       OB      ZOO005, MVP003,
+                                                                                                                                                          MIC026
+                                                                                                    01-03         -          6        OB       OB      ZOO005, MVP003,
+                                                                                                                                                          MIC026
+   DIG - ZOO009 - NUTRICAO EM AQUACULTURA                     4    4      60       45      15       01-01         -          6        OB       OB         ZOO005
+                                                                                                    01-02         -          6        OB       OB          ZOO005
+                                                                                                    01-03         -          6        OB       OB          ZOO005
+   DIG - ZOO014 - PRODUCAO DE ALIMENTOS VIVOS                 2    2      30       15      15       01-01         -          6        OB       OB              -
+                                                                                                    01-02         -          6        OB       OB              -
+                                                                                                    01-03         -          6        OB       OB              -
+   DIG - ZOO016 - PISCICULTURA MARINHA                        4    4      60       30      30       01-01         -          6        OB       OB              -
+                                                                                                    01-02         -          6        OB       OB              -
+                                                                                                    01-03         -          6        OB       OB              -
+   DIG - ZOO029 - SISTEMAS DE PRODUCAO EM AGUAS INTERIORES    3    3      45       45       0       01-01         -          6        OB       OB              -
+                                                                                                    01-02         -          6        OB       OB              -
+                                                                                                    01-03         -          6        OB       OB              -
+   DIG - ZOO053 - RANICULTURA                                 4    4      60       45      15       01-01         -          6        OB       OB              -
+                                                                                                    01-02         -          6        OB       OB              -
+                                                                                                    01-03         -          6        OB       OB              -
+
+
+
+  7º PERÍODO
+
+                                                                                                               Sugestão
+                                                             Créditos       Carga Horária
+                                                                                                              de período           Natureza Natureza
+                                Atividade Acadêmica                                                Percurso   específica   Grupo      no       no       Pré-requisitos
+                                                                                                                  do                grupo   percurso
+                                                             Mín. Máx.   Total   Teórica Prática
+                                                                                                               percurso
+   DIG - ZOO010 - LARVICULTURA E ALEVINAGEM                   2    2      30       15      15       01-01         -          6        OB       OB              -
+                                                                                                    01-02         -          6        OB       OB              -
+                                                                                                    01-03         -          6        OB       OB              -
+   DIG - ZOO013 - ALIMENTOS E ALIMENTACAO PARA ORG.AQUAT.     4    4      60       30      30       01-01         -          6        OB       OB              -
+                                                                                                    01-02         -          6        OB       OB              -
+                                                                                                    01-03         -          6        OB       OB              -
+   DIG - ZOO018 - CARCINICULTURA                              3    3      45       30      15       01-01         -          6        OB       OB              -
+                                                                                                    01-02         -          6        OB       OB              -
+                                                                                                    01-03         -          6        OB       OB              -
+
+
+
+                                                                       RELATÓRIO DE VERSÃO CURRICULAR
+
+07/02/2023 08.19.20                                                                                                                                      Página 6 de 15
+Pró-reitoria de Graduação
+                                                                                                                            Sugestão
+                                                                         Créditos        Carga Horária
+                                                                                                                           de período           Natureza Natureza
+                              Atividade Acadêmica                                                               Percurso   específica   Grupo      no       no            Pré-requisitos
+                                                                                                                               do                grupo   percurso
+                                                                         Mín. Máx.    Total   Teórica Prática
+                                                                                                                            percurso
+   DIG - ZOO031 - PRODUCAO DE PEIXES DE AGUA DOCE                         3    3        45      30      15       01-01         -          6        OB       OB                   -
+                                                                                                                 01-02         -          6        OB       OB                   -
+                                                                                                                 01-03         -          6        OB       OB                   -
+   DIG - ZOO049 - ECONOMIA E ADMINISTRAÇÃO PARA A AQUACULTURA             3    3        45      30      15       01-01         -          6        OB       OB                   -
+                                                                                                                 01-02         -          6        OB       OB                   -
+                                                                                                                 01-03         -          6        OB       OB                   -
+   DIG - ZOO127 - AQUACULTURA ORNAMENTAL                                  3    3        45      30      15       01-01         -          6        OB       OB            ZOO029, ZOO009
+                                                                                                                 01-02         -          6        OB       OB            ZOO029, ZOO009
+                                                                                                                 01-03         -          6        OB       OB            ZOO029, ZOO009
+
+
+
+                                                                                Carga horária adicional do período
+
+             Percurso                                                                Grupo de atividades                                                     Carga Horária
+                            21001-D2023-1-9 - Núcleo Geral                                                                                                          45
+   01-01
+                            21001-D2023-1-17 - Optativas Bach/N. Geral                                                                                              60
+   01-02                    21001-D2023-1-10 - Núcleo Complementar                                                                                                  105
+   01-03                    21001-D2023-1-13 - Núcleo Avançado                                                                                                      105
+
+
+
+  8º PERÍODO
+
+                                                                                                                            Sugestão
+                                                                         Créditos        Carga Horária
+                                                                                                                           de período           Natureza Natureza
+                              Atividade Acadêmica                                                               Percurso   específica   Grupo      no       no            Pré-requisitos
+                                                                                                                               do                grupo   percurso
+                                                                         Mín. Máx.    Total   Teórica Prática
+                                                                                                                            percurso
+   DIG - TEI003 - TECNOLOGIA E PROCESSAMENTO DE PESCADO                   4    4        60      30      30       01-01         -          6        OB       OB                   -
+                                                                                                                 01-02         -          6        OB       OB                   -
+                                                                                                                 01-03         -          6        OB       OB                   -
+   DIG - ZOO012 - MALACOCULTURA                                           2    2        30      30       0       01-01         -          6        OB       OB                   -
+                                                                                                                 01-02         -          6        OB       OB                   -
+                                                                                                                 01-03         -          6        OB       OB                   -
+   DIG - ZOO017 - FUNDAMENTOS PARA ELAB.DE PROJ.DE AQUA.                  2    2        30      30       0       01-01         -          6        OB       OB                   -
+                                                                                                                 01-02         -          6        OB       OB                   -
+                                                                                                                 01-03         -          6        OB       OB                   -
+   DIG - ZOO048 - EMPREENDEDORISMO NA AQUACULTURA                         2    2        30      15      15       01-01         -          6        OB       OB                   -
+                                                                                                                 01-02         -          6        OB       OB                   -
+                                                                                                                 01-03         -          6        OB       OB                   -
+
+
+
+
+                                                                                   RELATÓRIO DE VERSÃO CURRICULAR
+
+07/02/2023 08.19.20                                                                                                                                                         Página 7 de 15
+Pró-reitoria de Graduação
+                                                                                              Carga horária adicional do período
+
+             Percurso                                                                              Grupo de atividades                                                     Carga Horária
+   01-01                     21001-D2023-1-17 - Optativas Bach/N. Geral                                                                                                           150
+                             21001-D2023-1-10 - Núcleo Complementar                                                                                                               90
+   01-02                     21001-D2023-1-9 - Núcleo Geral                                                                                                                       45
+                             21001-D2023-1-19 - Optativas Bach/ N. Compl. / N. Geral                                                                                              15
+                             21001-D2023-1-13 - Núcleo Avançado                                                                                                                   90
+   01-03                     21001-D2023-1-9 - Núcleo Geral                                                                                                                       45
+                             21001-D2023-1-21 - Optativas N. Avançado / N. Geral                                                                                                  15
+
+
+
+  9º PERÍODO
+
+                                                                                                                                          Sugestão
+                                                                                       Créditos        Carga Horária
+                                                                                                                                         de período           Natureza Natureza
+                               Atividade Acadêmica                                                                            Percurso   específica   Grupo      no       no            Pré-requisitos
+                                                                                                                                             do                grupo   percurso
+                                                                                       Mín. Máx.    Total   Teórica Prática
+                                                                                                                                          percurso
+   DIG - VET038 - ATIVIDADES INTEGRATIVAS EM AQUACULTURA                                2    2        30       0      30       01-01         -          6        OB       OB                   -
+                                                                                                                               01-02         -          6        OB       OB                   -
+                                                                                                                               01-03         -          6        OB       OB                   -
+   DIG - ZOO128 - ELABORACAO DE PROJETOS DE AQUACULTURA                                 2    2        30       0      30       01-01         -          6        OB       OB                   -
+                                                                                                                               01-02         -          6        OB       OB                   -
+                                                                                                                               01-03         -          6        OB       OB                   -
+
+
+
+                                                                                              Carga horária adicional do período
+
+             Percurso                                                                              Grupo de atividades                                                     Carga Horária
+   01-01                     21001-D2023-1-17 - Optativas Bach/N. Geral                                                                                                           180
+                             21001-D2023-1-10 - Núcleo Complementar                                                                                                               105
+   01-02
+                             21001-D2023-1-19 - Optativas Bach/ N. Compl. / N. Geral                                                                                              75
+                             21001-D2023-1-13 - Núcleo Avançado                                                                                                                   105
+   01-03
+                             21001-D2023-1-21 - Optativas N. Avançado / N. Geral                                                                                                  75
+
+
+
+  10º PERÍODO
+
+                                                                                                                                          Sugestão
+                                                                                       Créditos        Carga Horária
+                                                                                                                                         de período           Natureza Natureza
+                               Atividade Acadêmica                                                                            Percurso   específica   Grupo      no       no            Pré-requisitos
+                                                                                                                                             do                grupo   percurso
+                                                                                       Mín. Máx.    Total   Teórica Prática
+                                                                                                                                          percurso
+   DIG - VET010 - ESTAGIO SUPERVISIONADO                                               24   24       360       0      360      01-01         -         14        OB       OB                   -
+                                                                                                                               01-02         -         14        OB       OB                   -
+                                                                                                                               01-03         -         14        OB       OB                   -
+
+
+                                                                                                 RELATÓRIO DE VERSÃO CURRICULAR
+
+07/02/2023 08.19.20                                                                                                                                                                      Página 8 de 15
+Pró-reitoria de Graduação
+                                                                                                                                Sugestão
+                                                                           Créditos        Carga Horária
+                                                                                                                               de período                        Natureza Natureza
+                                  Atividade Acadêmica                                                               Percurso   específica         Grupo             no       no         Pré-requisitos
+                                                                                                                                   do                             grupo   percurso
+                                                                          Mín. Máx.     Total   Teórica Prática
+                                                                                                                                percurso
+   DIG - VET011 - TRABALHO DE CONCLUSAO DE CURSO                              4   4      60        0      60          01-01        -                6                OB         OB             -
+                                                                                                                      01-02        -                6                OB         OB             -
+                                                                                                                      01-03        -                6                OB         OB             -
+
+
+
+
+ATIVIDADES DE ESTÁGIO CURRICULAR OBRIGATÓRIO:
+ Não existem atividades acadêmicas de estágio curricular obrigatório.
+
+
+
+
+ATIVIDADES SEM PERÍODO SUGERIDO:
+
+                                                                          Carga Horária                                                                              Natureza
+                                                                                                                                                          Natureza
+                                Atividade Acadêmica                                                               Percurso                  Grupo                       no           Pré-requisito
+                                                                                                                                                          no Grupo
+                                                                                                                                                                     Percurso
+                                                                        Total Teórica Prática
+
+  DIG - CCV029 - A ULTRA-SONOGRAFIA NA AQUACULTURA                       30       15     15                        01-01                      3             OP            OP               -
+                                                                                                                   01-02                     11             OP            OP               -
+                                                                                                                   01-03                     12             OP            OP               -
+ DIG - GEE044 - LEGISLAÇÃO AMBIENTAL COM ÊNF. NA GEST. DE RECURSOS       30       30      0                        01-01                      3             OP            OP               -
+ HÍDRICOS                                                                                                          01-02                     11             OP            OP               -
+                                                                                                                   01-03                     12             OP            OP               -
+  DIG - GEE059 - IMPACTO AMBIENTAL                                       30       0      30                        01-01                      3             OP            OP               -
+                                                                                                                   01-02                     11             OP            OP               -
+                                                                                                                   01-03                     12             OP            OP               -
+  DIG - ICA206 - ASPECTOS ECON E POL DO SETOR AGROP.BRAS.                45       30     15                        01-01                      3             OP            OP               -
+                                                                                                                   01-02                     11             OP            OP               -
+                                                                                                                   01-03                     12             OP            OP               -
+  DIG - ICA209 - PLANEJAMENTO DA EMPRESA AGROINDUSTRIAL                  45       30     15                        01-01                      3             OP            OP               -
+                                                                                                                   01-02                     11             OP            OP               -
+                                                                                                                   01-03                     12             OP            OP               -
+  DIG - ICB001 - BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL     30       30      0                        01-01                      3             OP            OP               -
+                                                                                                                   01-02                     11             OP            OP               -
+                                                                                                                   01-03                     12             OP            OP               -
+  DIG - LET223 - FUNDAMENTOS DE LIBRAS                                   60       60      0                        01-01                      3             OP            OP               -
+                                                                                                                   01-02                     11             OP            OP               -
+                                                                                                                   01-03                     12             OP            OP               -
+
+
+
+                                                                                      RELATÓRIO DE VERSÃO CURRICULAR
+
+07/02/2023 08.19.21                                                                                                                                                                       Página 9 de 15
+Pró-reitoria de Graduação
+                                                                       Carga Horária                                                  Natureza
+                                                                                                                           Natureza
+                             Atividade Acadêmica                                                     Percurso      Grupo                 no      Pré-requisito
+                                                                                                                           no Grupo
+                                                                                                                                      Percurso
+                                                                     Total Teórica Prática
+
+ DIG - MVP006 - TRANSPORTE DE PEIXES VIVOS                            30      15     15                01-01         3       OP          OP            -
+                                                                                                       01-02        11       OP          OP            -
+                                                                                                       01-03        12       OP          OP            -
+ DIG - MVP007 - DESINFECCAO DE INSTALACOES E EQUIPAMENT.              30      15     15                01-01         3       OP          OP            -
+                                                                                                       01-02        11       OP          OP            -
+                                                                                                       01-03        12       OP          OP            -
+ DIG - MVP008 - REAPROVEITAMENTO E REUSO DE AGUAS                     45      30     15                01-01         3       OP          OP            -
+                                                                                                       01-02        11       OP          OP            -
+                                                                                                       01-03        12       OP          OP            -
+ DIG - MVP017 - SANIDADE DE ANIMAIS AQUATICOS                         30      15     15                01-01        15       OP          OP            -
+                                                                                                                     3       OP          OP            -
+                                                                                                       01-02        11       OP          OP            -
+                                                                                                                    15       OP          OP            -
+                                                                                                       01-03        12       OP          OP            -
+                                                                                                                    15       OP          OP            -
+ DIG - MVP116 - DIAGNÓSTICO E CONTROLE DE DOENÇAS EM PISCICULTURAS    45      15     30                01-01        15       OP          OP            -
+                                                                                                                     3       OP          OP        ZOO029
+                                                                                                       01-02        11       OP          OP        ZOO029
+                                                                                                                    15       OP          OP            -
+                                                                                                       01-03        12       OP          OP        ZOO029
+                                                                                                                    15       OP          OP            -
+ DIG - MVP117 - LEGISLAÇÃO E LICENCIAMENTO AMBIENTAL                  30      30      0                01-01         3       OP          OP            -
+                                                                                                       01-02        11       OP          OP            -
+                                                                                                       01-03        12       OP          OP            -
+ DIG - TEI004 - DESENVOLVIMENTO DE PRODUTOS                           45      15     30                01-01         3       OP          OP            -
+                                                                                                       01-02        11       OP          OP            -
+                                                                                                       01-03        12       OP          OP            -
+ DIG - TEI005 - APROVEITAMENTO INTEGRAL DO PESCADO                    45      30     15                01-01         3       OP          OP            -
+                                                                                                       01-02        11       OP          OP            -
+                                                                                                       01-03        12       OP          OP            -
+ DIG - TEI006 - CONTROLE DE QUALIDADE NA IND.DE PESCADO               30      30      0                01-01         3       OP          OP            -
+                                                                                                       01-02        11       OP          OP            -
+                                                                                                       01-03        12       OP          OP            -
+ DIG - VET002 - PROGRAMA DE INICIACAO A PESQUISA I                    15      0      15                01-01         3       OP          OP            -
+                                                                                                       01-02        11       OP          OP            -
+                                                                                                       01-03        12       OP          OP            -
+ DIG - VET004 - PROGRAMA DE EXTENSAO I                                15      0      15                01-01         3       OP          OP            -
+                                                                                                       01-02        11       OP          OP            -
+                                                                                                       01-03        12       OP          OP            -
+
+
+
+
+                                                                                  RELATÓRIO DE VERSÃO CURRICULAR
+
+07/02/2023 08.19.21                                                                                                                                 Página 10 de 15
+Pró-reitoria de Graduação
+                                                         Carga Horária                                                  Natureza
+                                                                                                             Natureza
+                               Atividade Acadêmica                                     Percurso      Grupo                 no      Pré-requisito
+                                                                                                             no Grupo
+                                                                                                                        Percurso
+                                                       Total Teórica Prática
+
+ DIG - VET006 - PROGRAMA DE INICIACAO A DOCENCIA I      15      0      15                01-01         3       OP          OP            -
+                                                                                         01-02        11       OP          OP            -
+                                                                                         01-03        12       OP          OP            -
+ DIG - VET009 - PARTICIPACAO EM EVENTOS                 15      15      0                01-01         3       OP          OP            -
+                                                                                         01-02        11       OP          OP            -
+                                                                                         01-03        12       OP          OP            -
+ DIG - VET012 - TOPICOS ESPECIAIS EM AQUACULTURA I      15      15      0                01-01         3       OP          OP            -
+                                                                                         01-02        11       OP          OP            -
+                                                                                         01-03        12       OP          OP            -
+ DIG - VET013 - TOPICOS ESPECIAIS EM AQUACULTURA II     30      30      0                01-01         3       OP          OP            -
+                                                                                         01-02        11       OP          OP            -
+                                                                                         01-03        12       OP          OP            -
+ DIG - VET014 - TOPICOS ESPECIAIS EM AQUACULTURA III    45      45      0                01-01         3       OP          OP            -
+                                                                                         01-02        11       OP          OP            -
+                                                                                         01-03        12       OP          OP            -
+ DIG - VET015 - TOPICOS ESPECIAIS EM AQUACULTURA IV     60      0      60                01-01         3       OP          OP            -
+                                                                                         01-02        11       OP          OP            -
+                                                                                         01-03        12       OP          OP            -
+ DIG - VET016 - VIVENCIA CURRICULAR I                   15      0      15                01-01         3       OP          OP            -
+                                                                                         01-02        11       OP          OP            -
+                                                                                         01-03        12       OP          OP            -
+ DIG - VET017 - VIVENCIA CURRICULAR II                  30      0      30                01-01         3       OP          OP            -
+                                                                                         01-02        11       OP          OP            -
+                                                                                         01-03        12       OP          OP            -
+ DIG - VET018 - VIVENCIA CURRICULAR III                 45      0      45                01-01         3       OP          OP            -
+                                                                                         01-02        11       OP          OP            -
+                                                                                         01-03        12       OP          OP            -
+ DIG - VET019 - VIVENCIA CURRICULAR IV                  60      0      60                01-01         3       OP          OP            -
+                                                                                         01-02        11       OP          OP            -
+                                                                                         01-03        12       OP          OP            -
+ DIG - VET020 - VIVENCIA CURRICULAR V                   75      0      75                01-01         3       OP          OP            -
+                                                                                         01-02        11       OP          OP            -
+                                                                                         01-03        12       OP          OP            -
+ DIG - VET021 - DISCUSSOES TEMATICAS                    15      15      0                01-01         3       OP          OP            -
+                                                                                         01-02        11       OP          OP            -
+                                                                                         01-03        12       OP          OP            -
+ DIG - ZOO022 - CLIMATOLOGIA                            30      30      0                01-01         3       OP          OP            -
+                                                                                         01-02        11       OP          OP            -
+                                                                                         01-03        12       OP          OP            -
+
+
+
+
+                                                                    RELATÓRIO DE VERSÃO CURRICULAR
+
+07/02/2023 08.19.21                                                                                                                   Página 11 de 15
+Pró-reitoria de Graduação
+                                                            Carga Horária                                                  Natureza
+                                                                                                                Natureza
+                            Atividade Acadêmica                                           Percurso      Grupo                 no      Pré-requisito
+                                                                                                                no Grupo
+                                                                                                                           Percurso
+                                                          Total Teórica Prática
+
+ DIG - ZOO023 - GENETICA DE POPULACOES                     30      30      0                01-01         3       OP          OP            -
+                                                                                            01-02        11       OP          OP            -
+                                                                                            01-03        12       OP          OP            -
+ DIG - ZOO024 - PRODUCAO DE PEIXES ORNAMENTAIS             45      30     15                01-01         3       OP          OP            -
+                                                                                            01-02        11       OP          OP            -
+                                                                                            01-03        12       OP          OP            -
+ DIG - ZOO025 - AULAS PRAT.INT.EM AQUACULTURA1-APIAQUAS    75      0      75                01-01        15       OP          OP            -
+                                                                                                          3       OP          OP            -
+                                                                                            01-02        11       OP          OP            -
+                                                                                                         15       OP          OP            -
+                                                                                            01-03        12       OP          OP            -
+                                                                                                         15       OP          OP            -
+ DIG - ZOO026 - AULAS PRAT.INT.EM AQUACULTURA2-APIAQUAS    75      0      75                01-01        15       OP          OP            -
+                                                                                                          3       OP          OP        ZOO016
+                                                                                            01-02        11       OP          OP        ZOO016
+                                                                                                         15       OP          OP            -
+                                                                                            01-03        12       OP          OP        ZOO016
+                                                                                                         15       OP          OP            -
+ DIG - ZOO027 - AULAS PRAT.INT.EM AQUACULTURA3-APIAQUAS    75      0      75                01-01        15       OP          OP            -
+                                                                                                          3       OP          OP        ZOO018
+                                                                                            01-02        11       OP          OP        ZOO018
+                                                                                                         15       OP          OP            -
+                                                                                            01-03        12       OP          OP        ZOO018
+                                                                                                         15       OP          OP            -
+ DIG - ZOO030 - EXTENSAO EM AQUACULTURA                    30      15     15                01-01        15       OP          OP            -
+                                                                                                          3       OP          OP        ZOO004
+                                                                                            01-02        11       OP          OP        ZOO004
+                                                                                                         15       OP          OP            -
+                                                                                            01-03        12       OP          OP        ZOO004
+                                                                                                         15       OP          OP            -
+ DIG - ZOO051 - PRÁTICAS DE MARICULTURA                    60      15     45                01-01        15       OP          OP            -
+                                                                                                          3       OP          OP            -
+                                                                                            01-02        11       OP          OP            -
+                                                                                                         15       OP          OP            -
+                                                                                            01-03        12       OP          OP            -
+                                                                                                         15       OP          OP            -
+
+
+
+
+                                                                       RELATÓRIO DE VERSÃO CURRICULAR
+
+07/02/2023 08.19.21                                                                                                                      Página 12 de 15
+Pró-reitoria de Graduação
+                                                                                       Carga Horária                                                                                    Natureza
+                                                                                                                                                                             Natureza
+                            Atividade Acadêmica                                                                          Percurso                           Grupo                          no               Pré-requisito
+                                                                                                                                                                             no Grupo
+                                                                                                                                                                                        Percurso
+                                                                                  Total Teórica Prática
+
+ DIG - ZOO052 - AVALIAÇÃO DE SIST. PROD. PEIXES ORNAMENTAIS                        30       15     15                      01-01                             15                OP          OP                     -
+                                                                                                                                                              3                OP          OP                     -
+                                                                                                                           01-02                             11                OP          OP                     -
+                                                                                                                                                             15                OP          OP                     -
+                                                                                                                           01-03                             12                OP          OP                     -
+                                                                                                                                                             15                OP          OP                     -
+ DIG - ZOO121 - PRÁTICAS EM TANQUE-REDE                                            60       20     40                      01-01                              3                OP          OP                 ZOO029
+                                                                                                                           01-02                             11                OP          OP                 ZOO029
+                                                                                                                           01-03                             12                OP          OP                 ZOO029
+ DIG - ZOO122 - COMPORTAMENTO E BEM ESTAR EM PEIXES                                30       15     15                      01-01                              3                OP          OP                 MOF046
+                                                                                                                           01-02                             11                OP          OP                 MOF046
+                                                                                                                           01-03                             12                OP          OP                 MOF046
+ DIG - ZOO124 - PISCICULTURA ORNAMENTAL DE ÁGUA DOCE                               30       15     15                      01-01                              3                OP          OP                 ZOO127
+                                                                                                                           01-02                             11                OP          OP                 ZOO127
+                                                                                                                           01-03                             12                OP          OP                 ZOO127
+ DIG - ZOO126 - HEMATOLOGIA DE PEIXES TELEÓSTEOS                                   30       15     15                      01-01                              3                OP          OP                 MVP003
+                                                                                                                           01-02                             11                OP          OP                 MVP003
+                                                                                                                           01-03                             12                OP          OP                 MVP003
+ DIG - ZOO129 - TÓPICOS AVANÇADOS EM AQUACULTURA I                                 15       15     0                       01-03                             13                OP          OP                     -
+ DIG - ZOO130 - TÓPICOS AVANÇADOS EM AQUACULTURA II                                30       30     0                       01-03                             13                OP          OP                     -
+ DIG - ZOO131 - TÓPICOS AVANÇADOS EM AQUACULTURA III                               45       45     0                       01-03                             13                OP          OP                     -
+ DIG - ZOO132 - TÓPICOS AVANÇADOS EM AQUACULTURA IV                                60       60     0                       01-03                             13                OP          OP                     -
+
+
+
+
+Quadro de integralização
+
+                                                                                                                                        Carga horária em   Carga horária em
+                                                            Carga horária de   Carga horária em Carga horária em Carga horária em atividades de formação    atividades de    Carga horária em
+                                       Semestres             matrícula por        atividades    atividades optativa estágio obrigatório  complementar         formação         atividades de                Total (Carga horária
+              Percurso                                         semestre           obrigatória                                           preestabelecida  complementar aberta  formação livre                   mínima para
+                                                                                                                                                                                                              integralização)
+
+                              Mínimo    Padrão     Máximo   Mínima   Máxima    Mínima     Máxima       Mínima   Máxima   Mínima     Máxima   Mínima   Máxima        Mínima   Máxima     Mínima     Máxima
+               01-01            10        10         17      225        -       3135       3135         420      420       0          0        0        0             0        0         45          45               3600
+               01-02            10        10         17      225        -       3135       3135         120      120       0          0        0        0            300      300        45          45               3600
+               01-03            10        10         17      225        -       3135       3135         420      420       0          0        0        0             0        0         45          45               3600
+
+
+
+
+Grupos de atividades:
+
+
+                                                                                              RELATÓRIO DE VERSÃO CURRICULAR
+
+07/02/2023 08.19.21                                                                                                                                                                                            Página 13 de 15
+Pró-reitoria de Graduação
+                                                                                                                                                                        Carga
+                                                                                                                            Propriedades do grupo não predefinido                                     Regras
+                                                                                                                                                                        Horária
+                                 Grupo                                         Percursos
+
+                                                                                                    Natureza do                                   Permite atividades
+                                                                                                                  Predef.
+                                                                                                      Grupo
+                                                                                         Natureza                            Tipo de formação                      Mín.       Máx.   Pré-requisitos            Integralização
+   Identificador                           Nome                          Identificador      no                                                      Do Do próprio
+                                                                                         percurso                                                 próprio percurso
+                                                                                                                                                   curso
+        10                          Núcleo Complementar                      01-02         OB           OB         Não      Complementar aberta     Sim      Sim   300        300          -                          -
+        16                            Núcleo Específico                      01-01         OB           OB          Sim              -               -         -       3555   3555         -                          -
+        14                                 Estágio                           01-01         OB           OB          Sim              -               -         -       360    360          -                          -
+                                                                             01-02         OB
+                                                                             01-03         OB
+         6                               Obrigatórias                        01-01         OB           OB          Sim              -               -         -       2775   2775         -                          -
+                                                                             01-02         OB
+                                                                             01-03         OB
+        17                         Optativas Bach/N. Geral                   01-01         OB           OB          Sim              -               -         -       420    420          -                          -
+        15                                Extensao                           01-01         OB           OB          Sim              -               -         -        30     30          -                          -
+                                                                             01-02         OB
+                                                                             01-03         OB
+         3                     Optativas Gerais Bach/ N. Geral               01-01         OB           OB          Sim              -               -         -       390    390          -                          -
+        18                            Núcleo Específico                      01-02         OB           OB          Sim              -               -         -       3255   3255         -                          -
+        14                                 Estágio                           01-01         OB           OB          Sim              -               -         -       360    360          -                          -
+                                                                             01-02         OB
+                                                                             01-03         OB
+         6                               Obrigatórias                        01-01         OB           OB          Sim              -               -         -       2775   2775         -                          -
+                                                                             01-02         OB
+                                                                             01-03         OB
+        19                   Optativas Bach/ N. Compl. / N. Geral            01-02         OB           OB          Sim              -               -         -       120    120          -                          -
+        15                                Extensao                           01-01         OB           OB          Sim              -               -         -        30     30          -                          -
+                                                                             01-02         OB
+                                                                             01-03         OB
+        11             Optativas Gerais Bach/N. Complementar/ N. Geral       01-02         OB           OB          Sim              -               -         -        90     90          -                          -
+        20                            Núcleo Específico                      01-03         OB           OB          Sim              -               -         -       3555   3555         -                          -
+        14                                 Estágio                           01-01         OB           OB          Sim              -               -         -       360    360          -                          -
+                                                                             01-02         OB
+                                                                             01-03         OB
+         6                               Obrigatórias                        01-01         OB           OB          Sim              -               -         -       2775   2775         -                          -
+                                                                             01-02         OB
+                                                                             01-03         OB
+        21                    Optativas N. Avançado / N. Geral               01-03         OB           OB          Sim              -               -         -       420    420          -                          -
+        15                                Extensao                           01-01         OB           OB          Sim              -               -         -        30     30          -                          -
+                                                                             01-02         OB
+                                                                             01-03         OB
+        13                            Núcleo Avançado                        01-03         OB           OB          Sim              -               -         -       300    300          -                          -
+
+
+                                                                                                RELATÓRIO DE VERSÃO CURRICULAR
+
+07/02/2023 08.19.21                                                                                                                                                                                            Página 14 de 15
+Pró-reitoria de Graduação
+                                                                                                                                                                           Carga
+                                                                                                                              Propriedades do grupo não predefinido                                      Regras
+                                                                                                                                                                           Horária
+                                    Grupo                                        Percursos
+
+                                                                                                      Natureza do                                    Permite atividades
+                                                                                                                    Predef.
+                                                                                                        Grupo
+                                                                                           Natureza                            Tipo de formação                           Mín.   Máx.   Pré-requisitos            Integralização
+   Identificador                              Nome                         Identificador      no                                                       Do Do próprio
+                                                                                           percurso                                                  próprio percurso
+                                                                                                                                                      curso
+        12                  Optativas Gerais Bach/N. Avançado/ N. Geral        01-03         OB           OB          Sim              -                -        -         90     90          -                          -
+         9                                 Núcleo Geral                        01-01         OB           OB         Não             Livre               Não    Não        45     45          -                          -
+                                                                               01-02         OB
+                                                                               01-03         OB
+
+
+
+
+Tipos de atividades
+
+                             Código                                                                                                          Descrição
+
+  DIG                                                         DISCIPLINA GRADUAÇÃO
+
+
+
+
+Regras curriculares
+ Não há regras curriculares.
+
+
+
+
+                                                                                                  RELATÓRIO DE VERSÃO CURRICULAR
+
+07/02/2023 08.19.21                                                                                                                                                                                               Página 15 de 15
+Pró-reitoria de Graduação
+

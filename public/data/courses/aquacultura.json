@@ -1,0 +1,2667 @@
+{
+    "schemaVersion": 2,
+    "id": "aquacultura",
+    "meta": {
+        "id": "aquacultura",
+        "name": "Aquacultura",
+        "variant": "Bacharelado · Diurno",
+        "unit": "ICA — Instituto de Ciências Agrárias",
+        "campus": "Montes Claros",
+        "shift": "Diurno",
+        "degree": "Bacharelado",
+        "layout": "versao",
+        "curriculum": "21001 · D2023-1",
+        "source": {
+            "kind": "siga-versao-curricular",
+            "url": "https://vet.ufmg.br/wp-content/uploads/2023/03/Versao-curricular-D2023-1.pdf",
+            "retrievedAt": "2026-11-05T20:54:30.577Z",
+            "note": null
+        },
+        "note": null
+    },
+    "generatedAt": "2026-11-05T21:02:20.987Z",
+    "disciplines": {
+        "GEO306": {
+            "code": "GEO306",
+            "name": "PROCESSOS EROSIVOS E CONSERV.DOS SOLOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MAT130": {
+            "code": "MAT130",
+            "name": "MATEMATICA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "QUI019": {
+            "code": "QUI019",
+            "name": "QUIMICA GERAL EXPERIMENTAL",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "QUI626": {
+            "code": "QUI626",
+            "name": "QUÍMICA GERAL AQUACULTURA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "UNI003": {
+            "code": "UNI003",
+            "name": "OF. DE LP:LEITURA E PRODUCAO DE TEXTOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "VET025": {
+            "code": "VET025",
+            "name": "INICIACAO A EDUCACAO CONTINUADA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ZOO028": {
+            "code": "ZOO028",
+            "name": "INTRODUCAO A AQUACULTURA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CRT003": {
+            "code": "CRT003",
+            "name": "CARTOGRAFIA E TOPOGRAFIA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [
+                "MAT130"
+            ],
+            "scheduled": true
+        },
+        "FIS093": {
+            "code": "FIS093",
+            "name": "FUNDAMENTOS DE FISICA F",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "GEE047": {
+            "code": "GEE047",
+            "name": "LIMNOLOGIA GERAL APLICADA À AQUACULTURA I",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MAT038": {
+            "code": "MAT038",
+            "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [
+                "MAT130"
+            ],
+            "scheduled": true
+        },
+        "MOF001": {
+            "code": "MOF001",
+            "name": "CITOLOGIA E HISTOLOGIA GERAL",
+            "type": "DIG",
+            "credits": 5,
+            "hours": {
+                "total": 75,
+                "theory": 15,
+                "practice": 60
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CRT006": {
+            "code": "CRT006",
+            "name": "CARTOGRAFIA DIGITAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "EHR033": {
+            "code": "EHR033",
+            "name": "HIDRAULICA APLICADA A AQUACULTURA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [
+                "MAT130"
+            ],
+            "scheduled": true
+        },
+        "GEE048": {
+            "code": "GEE048",
+            "name": "LIMNOLOGIA APLICADA À AQUACULTURA II",
+            "type": "DIG",
+            "credits": 6,
+            "hours": {
+                "total": 90,
+                "theory": 60,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MIC026": {
+            "code": "MIC026",
+            "name": "MICROBIOLOGIA APLICADA A AQUACULTURA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ZOL025": {
+            "code": "ZOL025",
+            "name": "EMBRIOLOGIA DE ANIMAIS AQUATICOS",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ZOO005": {
+            "code": "ZOO005",
+            "name": "BIOQUIMICA APLICADA",
+            "type": "DIG",
+            "credits": 6,
+            "hours": {
+                "total": 90,
+                "theory": 60,
+                "practice": 30
+            },
+            "prereqs": [
+                "QUI019",
+                "QUI626"
+            ],
+            "scheduled": true
+        },
+        "ZOO054": {
+            "code": "ZOO054",
+            "name": "FISIOLOGIA DE ORGANISMOS AQUÁTICOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "EHR032": {
+            "code": "EHR032",
+            "name": "HIDROLOGIA APLICADA A AQUACULTURA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [
+                "EHR033"
+            ],
+            "scheduled": true
+        },
+        "MOF046": {
+            "code": "MOF046",
+            "name": "MORFOFISIOLOGIA DE VERTEBRADOS AQUATICOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [
+                "MOF001"
+            ],
+            "scheduled": true
+        },
+        "MVP004": {
+            "code": "MVP004",
+            "name": "CARACTERIZACAO E TRATAMENTO DE EFLUENTES",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MVP118": {
+            "code": "MVP118",
+            "name": "ESTATÍSTICA EXPERIMENTAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ZOL026": {
+            "code": "ZOL026",
+            "name": "MORFOFISIOLOGIA INVERTEBRADOS AQUATICOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 40,
+                "practice": 20
+            },
+            "prereqs": [
+                "MOF001"
+            ],
+            "scheduled": true
+        },
+        "ZOO004": {
+            "code": "ZOO004",
+            "name": "SETOR AGRARIO E ORG.SOCIAL NO BRASIL",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ZOO006": {
+            "code": "ZOO006",
+            "name": "GENETICA APLICADA A AQUACULTURA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ZOO007": {
+            "code": "ZOO007",
+            "name": "BROMATOLOGIA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [
+                "QUI019",
+                "QUI626"
+            ],
+            "scheduled": true
+        },
+        "ZOO050": {
+            "code": "ZOO050",
+            "name": "FISIOLOG APLIC PRODUÇÃO FORMAS JOVENS DE INTER. AQUÍCOLA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CCV024": {
+            "code": "CCV024",
+            "name": "FARMACOLOGIA PARA ORGANISMOS AQUATICOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CCV025": {
+            "code": "CCV025",
+            "name": "PATOLOGIA DOS ANIMAIS AQUATICOS",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CCV026": {
+            "code": "CCV026",
+            "name": "TOXICOLOGIA DE ORGANISMOS AQUATICOS",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 15,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "MVP003": {
+            "code": "MVP003",
+            "name": "IMUNOLOGIA BASICA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [
+                "ZOO005",
+                "MOF001"
+            ],
+            "scheduled": true
+        },
+        "MVP009": {
+            "code": "MVP009",
+            "name": "DESENHO TECNICO",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ZOO603": {
+            "code": "ZOO603",
+            "name": "MELHORAMENTO ANIMAL",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [
+                "ZOO006"
+            ],
+            "scheduled": true
+        },
+        "MVP005": {
+            "code": "MVP005",
+            "name": "SANIDADE E DOENCAS DE ORG.AQUATICOS",
+            "type": "DIG",
+            "credits": 6,
+            "hours": {
+                "total": 90,
+                "theory": 60,
+                "practice": 30
+            },
+            "prereqs": [
+                "ZOO005",
+                "MVP003",
+                "MIC026"
+            ],
+            "scheduled": true
+        },
+        "ZOO009": {
+            "code": "ZOO009",
+            "name": "NUTRICAO EM AQUACULTURA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [
+                "ZOO005"
+            ],
+            "scheduled": true
+        },
+        "ZOO014": {
+            "code": "ZOO014",
+            "name": "PRODUCAO DE ALIMENTOS VIVOS",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ZOO016": {
+            "code": "ZOO016",
+            "name": "PISCICULTURA MARINHA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ZOO029": {
+            "code": "ZOO029",
+            "name": "SISTEMAS DE PRODUCAO EM AGUAS INTERIORES",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ZOO053": {
+            "code": "ZOO053",
+            "name": "RANICULTURA",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 45,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ZOO010": {
+            "code": "ZOO010",
+            "name": "LARVICULTURA E ALEVINAGEM",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ZOO013": {
+            "code": "ZOO013",
+            "name": "ALIMENTOS E ALIMENTACAO PARA ORG.AQUAT.",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ZOO018": {
+            "code": "ZOO018",
+            "name": "CARCINICULTURA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ZOO031": {
+            "code": "ZOO031",
+            "name": "PRODUCAO DE PEIXES DE AGUA DOCE",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ZOO049": {
+            "code": "ZOO049",
+            "name": "ECONOMIA E ADMINISTRAÇÃO PARA A AQUACULTURA",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ZOO127": {
+            "code": "ZOO127",
+            "name": "AQUACULTURA ORNAMENTAL",
+            "type": "DIG",
+            "credits": 3,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [
+                "ZOO029",
+                "ZOO009"
+            ],
+            "scheduled": true
+        },
+        "TEI003": {
+            "code": "TEI003",
+            "name": "TECNOLOGIA E PROCESSAMENTO DE PESCADO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 30,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ZOO012": {
+            "code": "ZOO012",
+            "name": "MALACOCULTURA",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ZOO017": {
+            "code": "ZOO017",
+            "name": "FUNDAMENTOS PARA ELAB.DE PROJ.DE AQUA.",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ZOO048": {
+            "code": "ZOO048",
+            "name": "EMPREENDEDORISMO NA AQUACULTURA",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "ZOO128": {
+            "code": "ZOO128",
+            "name": "ELABORACAO DE PROJETOS DE AQUACULTURA",
+            "type": "DIG",
+            "credits": 2,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "VET010": {
+            "code": "VET010",
+            "name": "ESTAGIO SUPERVISIONADO",
+            "type": "DIG",
+            "credits": 24,
+            "hours": {
+                "total": 360,
+                "theory": 0,
+                "practice": 360
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "VET011": {
+            "code": "VET011",
+            "name": "TRABALHO DE CONCLUSAO DE CURSO",
+            "type": "DIG",
+            "credits": 4,
+            "hours": {
+                "total": 60,
+                "theory": 0,
+                "practice": 60
+            },
+            "prereqs": [],
+            "scheduled": true
+        },
+        "CCV029": {
+            "code": "CCV029",
+            "name": "A ULTRA-SONOGRAFIA NA AQUACULTURA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEE044": {
+            "code": "GEE044",
+            "name": "LEGISLAÇÃO AMBIENTAL COM ÊNF. NA GEST. DE RECURSOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "GEE059": {
+            "code": "GEE059",
+            "name": "IMPACTO AMBIENTAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA206": {
+            "code": "ICA206",
+            "name": "ASPECTOS ECON E POL DO SETOR AGROP.BRAS.",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICA209": {
+            "code": "ICA209",
+            "name": "PLANEJAMENTO DA EMPRESA AGROINDUSTRIAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ICB001": {
+            "code": "ICB001",
+            "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "LET223": {
+            "code": "LET223",
+            "name": "FUNDAMENTOS DE LIBRAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MVP006": {
+            "code": "MVP006",
+            "name": "TRANSPORTE DE PEIXES VIVOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MVP007": {
+            "code": "MVP007",
+            "name": "DESINFECCAO DE INSTALACOES E EQUIPAMENT.",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MVP008": {
+            "code": "MVP008",
+            "name": "REAPROVEITAMENTO E REUSO DE AGUAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MVP017": {
+            "code": "MVP017",
+            "name": "SANIDADE DE ANIMAIS AQUATICOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "MVP116": {
+            "code": "MVP116",
+            "name": "DIAGNÓSTICO E CONTROLE DE DOENÇAS EM PISCICULTURAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 15,
+                "practice": 30
+            },
+            "prereqs": [
+                "ZOO029"
+            ],
+            "scheduled": false
+        },
+        "MVP117": {
+            "code": "MVP117",
+            "name": "LEGISLAÇÃO E LICENCIAMENTO AMBIENTAL",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TEI004": {
+            "code": "TEI004",
+            "name": "DESENVOLVIMENTO DE PRODUTOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 15,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TEI005": {
+            "code": "TEI005",
+            "name": "APROVEITAMENTO INTEGRAL DO PESCADO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "TEI006": {
+            "code": "TEI006",
+            "name": "CONTROLE DE QUALIDADE NA IND.DE PESCADO",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "VET002": {
+            "code": "VET002",
+            "name": "PROGRAMA DE INICIACAO A PESQUISA I",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "VET004": {
+            "code": "VET004",
+            "name": "PROGRAMA DE EXTENSAO I",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "VET006": {
+            "code": "VET006",
+            "name": "PROGRAMA DE INICIACAO A DOCENCIA I",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "VET009": {
+            "code": "VET009",
+            "name": "PARTICIPACAO EM EVENTOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "VET012": {
+            "code": "VET012",
+            "name": "TOPICOS ESPECIAIS EM AQUACULTURA I",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "VET013": {
+            "code": "VET013",
+            "name": "TOPICOS ESPECIAIS EM AQUACULTURA II",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "VET014": {
+            "code": "VET014",
+            "name": "TOPICOS ESPECIAIS EM AQUACULTURA III",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "VET015": {
+            "code": "VET015",
+            "name": "TOPICOS ESPECIAIS EM AQUACULTURA IV",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 0,
+                "practice": 60
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "VET016": {
+            "code": "VET016",
+            "name": "VIVENCIA CURRICULAR I",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 0,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "VET017": {
+            "code": "VET017",
+            "name": "VIVENCIA CURRICULAR II",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 0,
+                "practice": 30
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "VET018": {
+            "code": "VET018",
+            "name": "VIVENCIA CURRICULAR III",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 0,
+                "practice": 45
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "VET019": {
+            "code": "VET019",
+            "name": "VIVENCIA CURRICULAR IV",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 0,
+                "practice": 60
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "VET020": {
+            "code": "VET020",
+            "name": "VIVENCIA CURRICULAR V",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 75,
+                "theory": 0,
+                "practice": 75
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "VET021": {
+            "code": "VET021",
+            "name": "DISCUSSOES TEMATICAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ZOO022": {
+            "code": "ZOO022",
+            "name": "CLIMATOLOGIA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ZOO023": {
+            "code": "ZOO023",
+            "name": "GENETICA DE POPULACOES",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ZOO024": {
+            "code": "ZOO024",
+            "name": "PRODUCAO DE PEIXES ORNAMENTAIS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 30,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ZOO025": {
+            "code": "ZOO025",
+            "name": "AULAS PRAT.INT.EM AQUACULTURA1-APIAQUAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 75,
+                "theory": 0,
+                "practice": 75
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ZOO026": {
+            "code": "ZOO026",
+            "name": "AULAS PRAT.INT.EM AQUACULTURA2-APIAQUAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 75,
+                "theory": 0,
+                "practice": 75
+            },
+            "prereqs": [
+                "ZOO016"
+            ],
+            "scheduled": false
+        },
+        "ZOO027": {
+            "code": "ZOO027",
+            "name": "AULAS PRAT.INT.EM AQUACULTURA3-APIAQUAS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 75,
+                "theory": 0,
+                "practice": 75
+            },
+            "prereqs": [
+                "ZOO018"
+            ],
+            "scheduled": false
+        },
+        "ZOO030": {
+            "code": "ZOO030",
+            "name": "EXTENSAO EM AQUACULTURA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [
+                "ZOO004"
+            ],
+            "scheduled": false
+        },
+        "ZOO051": {
+            "code": "ZOO051",
+            "name": "PRÁTICAS DE MARICULTURA",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 15,
+                "practice": 45
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ZOO052": {
+            "code": "ZOO052",
+            "name": "AVALIAÇÃO DE SIST. PROD. PEIXES ORNAMENTAIS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ZOO121": {
+            "code": "ZOO121",
+            "name": "PRÁTICAS EM TANQUE-REDE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 20,
+                "practice": 40
+            },
+            "prereqs": [
+                "ZOO029"
+            ],
+            "scheduled": false
+        },
+        "ZOO122": {
+            "code": "ZOO122",
+            "name": "COMPORTAMENTO E BEM ESTAR EM PEIXES",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [
+                "MOF046"
+            ],
+            "scheduled": false
+        },
+        "ZOO124": {
+            "code": "ZOO124",
+            "name": "PISCICULTURA ORNAMENTAL DE ÁGUA DOCE",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [
+                "ZOO127"
+            ],
+            "scheduled": false
+        },
+        "ZOO126": {
+            "code": "ZOO126",
+            "name": "HEMATOLOGIA DE PEIXES TELEÓSTEOS",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 15,
+                "practice": 15
+            },
+            "prereqs": [
+                "MVP003"
+            ],
+            "scheduled": false
+        },
+        "ZOO129": {
+            "code": "ZOO129",
+            "name": "TÓPICOS AVANÇADOS EM AQUACULTURA I",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 15,
+                "theory": 15,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ZOO130": {
+            "code": "ZOO130",
+            "name": "TÓPICOS AVANÇADOS EM AQUACULTURA II",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 30,
+                "theory": 30,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ZOO131": {
+            "code": "ZOO131",
+            "name": "TÓPICOS AVANÇADOS EM AQUACULTURA III",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 45,
+                "theory": 45,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        },
+        "ZOO132": {
+            "code": "ZOO132",
+            "name": "TÓPICOS AVANÇADOS EM AQUACULTURA IV",
+            "type": "DIG",
+            "credits": null,
+            "hours": {
+                "total": 60,
+                "theory": 60,
+                "practice": 0
+            },
+            "prereqs": [],
+            "scheduled": false
+        }
+    },
+    "percursos": [
+        {
+            "id": "01-01",
+            "name": "BACHARELADO/ N.GERAL",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "GEO306",
+                        "MAT130",
+                        "QUI019",
+                        "QUI626",
+                        "UNI003",
+                        "VET025",
+                        "ZOO028"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "CRT003",
+                        "FIS093",
+                        "GEE047",
+                        "MAT038",
+                        "MOF001"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "CRT006",
+                        "EHR033",
+                        "GEE048",
+                        "MIC026",
+                        "ZOL025",
+                        "ZOO005",
+                        "ZOO054"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "EHR032",
+                        "MOF046",
+                        "MVP004",
+                        "MVP118",
+                        "ZOL026",
+                        "ZOO004",
+                        "ZOO006",
+                        "ZOO007",
+                        "ZOO050"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "CCV024",
+                        "CCV025",
+                        "CCV026",
+                        "MVP003",
+                        "MVP009",
+                        "ZOO603"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "MVP005",
+                        "ZOO009",
+                        "ZOO014",
+                        "ZOO016",
+                        "ZOO029",
+                        "ZOO053"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "ZOO010",
+                        "ZOO013",
+                        "ZOO018",
+                        "ZOO031",
+                        "ZOO049",
+                        "ZOO127"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "TEI003",
+                        "ZOO012",
+                        "ZOO017",
+                        "ZOO048"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 9,
+                    "codes": [
+                        "ZOO128"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 10,
+                    "codes": [
+                        "VET010",
+                        "VET011"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-01-01-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-06",
+                    "label": "Optativa 6",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-07",
+                    "label": "Optativa 7",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "CCV029",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEE044",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEE059",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA206",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA209",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICB001",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "LET223",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "MVP006",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "MVP007",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "MVP008",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "MVP017",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "MVP116",
+                    "group": "15",
+                    "prereqs": [
+                        "ZOO029"
+                    ]
+                },
+                {
+                    "code": "MVP117",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "TEI004",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "TEI005",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "TEI006",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET002",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET004",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET006",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET009",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET012",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET013",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET014",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET015",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET016",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET017",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET018",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET019",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET020",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET021",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "ZOO022",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "ZOO023",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "ZOO024",
+                    "group": "3",
+                    "prereqs": []
+                },
+                {
+                    "code": "ZOO025",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ZOO026",
+                    "group": "15",
+                    "prereqs": [
+                        "ZOO016"
+                    ]
+                },
+                {
+                    "code": "ZOO027",
+                    "group": "15",
+                    "prereqs": [
+                        "ZOO018"
+                    ]
+                },
+                {
+                    "code": "ZOO030",
+                    "group": "15",
+                    "prereqs": [
+                        "ZOO004"
+                    ]
+                },
+                {
+                    "code": "ZOO051",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ZOO052",
+                    "group": "15",
+                    "prereqs": []
+                },
+                {
+                    "code": "ZOO121",
+                    "group": "3",
+                    "prereqs": [
+                        "ZOO029"
+                    ]
+                },
+                {
+                    "code": "ZOO122",
+                    "group": "3",
+                    "prereqs": [
+                        "MOF046"
+                    ]
+                },
+                {
+                    "code": "ZOO124",
+                    "group": "3",
+                    "prereqs": [
+                        "ZOO127"
+                    ]
+                },
+                {
+                    "code": "ZOO126",
+                    "group": "3",
+                    "prereqs": [
+                        "MVP003"
+                    ]
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "01-01",
+                "semesters": {
+                    "min": 10,
+                    "standard": 10,
+                    "max": 17
+                },
+                "enrollmentHours": {
+                    "min": 225,
+                    "max": null
+                },
+                "obligatoryHours": {
+                    "min": 3135,
+                    "max": 3135
+                },
+                "optionalHours": {
+                    "min": 420,
+                    "max": 420
+                },
+                "stageHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryPresetHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryOpenHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "freeHours": {
+                    "min": 45,
+                    "max": 45
+                },
+                "totalHours": 3600
+            }
+        },
+        {
+            "id": "01-02",
+            "name": "BACHARELADO/ N. COMPLEMENTAR/ N.GERAL",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "GEO306",
+                        "MAT130",
+                        "QUI019",
+                        "QUI626",
+                        "UNI003",
+                        "VET025",
+                        "ZOO028"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "CRT003",
+                        "FIS093",
+                        "GEE047",
+                        "MAT038",
+                        "MOF001"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "CRT006",
+                        "EHR033",
+                        "GEE048",
+                        "MIC026",
+                        "ZOL025",
+                        "ZOO005",
+                        "ZOO054"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "EHR032",
+                        "MOF046",
+                        "MVP004",
+                        "MVP118",
+                        "ZOL026",
+                        "ZOO004",
+                        "ZOO006",
+                        "ZOO007",
+                        "ZOO050"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "CCV024",
+                        "CCV025",
+                        "CCV026",
+                        "MVP003",
+                        "MVP009",
+                        "ZOO603"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "MVP005",
+                        "ZOO009",
+                        "ZOO014",
+                        "ZOO016",
+                        "ZOO029",
+                        "ZOO053"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "ZOO010",
+                        "ZOO013",
+                        "ZOO018",
+                        "ZOO031",
+                        "ZOO049",
+                        "ZOO127"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "TEI003",
+                        "ZOO012",
+                        "ZOO017",
+                        "ZOO048"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 9,
+                    "codes": [
+                        "ZOO128"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 10,
+                    "codes": [
+                        "VET010",
+                        "VET011"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-01-02-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-02-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "CCV029",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEE044",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEE059",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA206",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA209",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICB001",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "LET223",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "MVP006",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "MVP007",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "MVP008",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "MVP017",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "MVP116",
+                    "group": "11",
+                    "prereqs": [
+                        "ZOO029"
+                    ]
+                },
+                {
+                    "code": "MVP117",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "TEI004",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "TEI005",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "TEI006",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET002",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET004",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET006",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET009",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET012",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET013",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET014",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET015",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET016",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET017",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET018",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET019",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET020",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET021",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ZOO022",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ZOO023",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ZOO024",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ZOO025",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ZOO026",
+                    "group": "11",
+                    "prereqs": [
+                        "ZOO016"
+                    ]
+                },
+                {
+                    "code": "ZOO027",
+                    "group": "11",
+                    "prereqs": [
+                        "ZOO018"
+                    ]
+                },
+                {
+                    "code": "ZOO030",
+                    "group": "11",
+                    "prereqs": [
+                        "ZOO004"
+                    ]
+                },
+                {
+                    "code": "ZOO051",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ZOO052",
+                    "group": "11",
+                    "prereqs": []
+                },
+                {
+                    "code": "ZOO121",
+                    "group": "11",
+                    "prereqs": [
+                        "ZOO029"
+                    ]
+                },
+                {
+                    "code": "ZOO122",
+                    "group": "11",
+                    "prereqs": [
+                        "MOF046"
+                    ]
+                },
+                {
+                    "code": "ZOO124",
+                    "group": "11",
+                    "prereqs": [
+                        "ZOO127"
+                    ]
+                },
+                {
+                    "code": "ZOO126",
+                    "group": "11",
+                    "prereqs": [
+                        "MVP003"
+                    ]
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "01-02",
+                "semesters": {
+                    "min": 10,
+                    "standard": 10,
+                    "max": 17
+                },
+                "enrollmentHours": {
+                    "min": 225,
+                    "max": null
+                },
+                "obligatoryHours": {
+                    "min": 3135,
+                    "max": 3135
+                },
+                "optionalHours": {
+                    "min": 120,
+                    "max": 120
+                },
+                "stageHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryPresetHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryOpenHours": {
+                    "min": 300,
+                    "max": 300
+                },
+                "freeHours": {
+                    "min": 45,
+                    "max": 45
+                },
+                "totalHours": 3600
+            }
+        },
+        {
+            "id": "01-03",
+            "name": "BACHARELADO/ N. AVANÇADO/ N. GERAL",
+            "periods": [
+                {
+                    "number": 1,
+                    "codes": [
+                        "GEO306",
+                        "MAT130",
+                        "QUI019",
+                        "QUI626",
+                        "UNI003",
+                        "VET025",
+                        "ZOO028"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 2,
+                    "codes": [
+                        "CRT003",
+                        "FIS093",
+                        "GEE047",
+                        "MAT038",
+                        "MOF001"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 3,
+                    "codes": [
+                        "CRT006",
+                        "EHR033",
+                        "GEE048",
+                        "MIC026",
+                        "ZOL025",
+                        "ZOO005",
+                        "ZOO054"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 4,
+                    "codes": [
+                        "EHR032",
+                        "MOF046",
+                        "MVP004",
+                        "MVP118",
+                        "ZOL026",
+                        "ZOO004",
+                        "ZOO006",
+                        "ZOO007",
+                        "ZOO050"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 5,
+                    "codes": [
+                        "CCV024",
+                        "CCV025",
+                        "CCV026",
+                        "MVP003",
+                        "MVP009",
+                        "ZOO603"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 6,
+                    "codes": [
+                        "MVP005",
+                        "ZOO009",
+                        "ZOO014",
+                        "ZOO016",
+                        "ZOO029",
+                        "ZOO053"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 7,
+                    "codes": [
+                        "ZOO010",
+                        "ZOO013",
+                        "ZOO018",
+                        "ZOO031",
+                        "ZOO049",
+                        "ZOO127"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [
+                        "TEI003",
+                        "ZOO012",
+                        "ZOO017",
+                        "ZOO048"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 9,
+                    "codes": [
+                        "ZOO128"
+                    ],
+                    "optional": []
+                },
+                {
+                    "number": 10,
+                    "codes": [
+                        "VET010",
+                        "VET011"
+                    ],
+                    "optional": []
+                }
+            ],
+            "optionalSlots": [
+                {
+                    "id": "OPT-01-03-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-03-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-03-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-03-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-03-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-03-06",
+                    "label": "Optativa 6",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-03-07",
+                    "label": "Optativa 7",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "CCV029",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEE044",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "GEE059",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA206",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICA209",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "ICB001",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "LET223",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "MVP006",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "MVP007",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "MVP008",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "MVP017",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "MVP116",
+                    "group": "12",
+                    "prereqs": [
+                        "ZOO029"
+                    ]
+                },
+                {
+                    "code": "MVP117",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "TEI004",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "TEI005",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "TEI006",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET002",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET004",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET006",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET009",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET012",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET013",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET014",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET015",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET016",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET017",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET018",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET019",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET020",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "VET021",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "ZOO022",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "ZOO023",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "ZOO024",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "ZOO025",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "ZOO026",
+                    "group": "12",
+                    "prereqs": [
+                        "ZOO016"
+                    ]
+                },
+                {
+                    "code": "ZOO027",
+                    "group": "12",
+                    "prereqs": [
+                        "ZOO018"
+                    ]
+                },
+                {
+                    "code": "ZOO030",
+                    "group": "12",
+                    "prereqs": [
+                        "ZOO004"
+                    ]
+                },
+                {
+                    "code": "ZOO051",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "ZOO052",
+                    "group": "12",
+                    "prereqs": []
+                },
+                {
+                    "code": "ZOO121",
+                    "group": "12",
+                    "prereqs": [
+                        "ZOO029"
+                    ]
+                },
+                {
+                    "code": "ZOO122",
+                    "group": "12",
+                    "prereqs": [
+                        "MOF046"
+                    ]
+                },
+                {
+                    "code": "ZOO124",
+                    "group": "12",
+                    "prereqs": [
+                        "ZOO127"
+                    ]
+                },
+                {
+                    "code": "ZOO126",
+                    "group": "12",
+                    "prereqs": [
+                        "MVP003"
+                    ]
+                },
+                {
+                    "code": "ZOO129",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ZOO130",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ZOO131",
+                    "group": "13",
+                    "prereqs": []
+                },
+                {
+                    "code": "ZOO132",
+                    "group": "13",
+                    "prereqs": []
+                }
+            ],
+            "prereqOverrides": {},
+            "summary": {
+                "percursoId": "01-03",
+                "semesters": {
+                    "min": 10,
+                    "standard": 10,
+                    "max": 17
+                },
+                "enrollmentHours": {
+                    "min": 225,
+                    "max": null
+                },
+                "obligatoryHours": {
+                    "min": 3135,
+                    "max": 3135
+                },
+                "optionalHours": {
+                    "min": 420,
+                    "max": 420
+                },
+                "stageHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryPresetHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "complementaryOpenHours": {
+                    "min": 0,
+                    "max": 0
+                },
+                "freeHours": {
+                    "min": 45,
+                    "max": 45
+                },
+                "totalHours": 3600
+            }
+        }
+    ]
+}

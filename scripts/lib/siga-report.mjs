@@ -355,8 +355,25 @@ function parseHeader(headerLines, layout) {
         )
         courseCode = versionMatch ? versionMatch[1] : null
         courseName = versionMatch ? versionMatch[2].replace(/\s+/g, ' ').trim() : null
-        const versionIdMatch = header.match(/\b([A-Z]-\d{4,6}(?:\/\d+)?)\b/)
+        const versionIdMatch = header.match(/\b([A-Z]-?\d{4,6}(?:[-/]\d+)?)\b/)
         curriculumVersionId = versionIdMatch ? versionIdMatch[1] : null
+    }
+
+    if (!courseName) {
+        // Alguns relatórios de versão vêm com "Curso: <código> - <nome>" antes da
+        // coluna "Versão curricular" (e não depois, como no formato original).
+        const courseMatch = header.match(/Curso:\s*(\d{4,6})\s*-\s*([^\n|]+)/m)
+        if (courseMatch) {
+            courseCode = courseCode ?? courseMatch[1]
+            courseName = courseMatch[2]
+                .replace(/\s*Vers[ãa]o curricular.*$/i, '')
+                .replace(/\s+/g, ' ')
+                .trim()
+        }
+    }
+    if (!curriculumVersionId) {
+        const versionIdMatch = header.match(/Vers[ãa]o curricular:?\s*([A-Z]-?\d{4,6}(?:[-/]\d+)?)/)
+        if (versionIdMatch) curriculumVersionId = versionIdMatch[1]
     }
 
     const identifierMatch = header.match(

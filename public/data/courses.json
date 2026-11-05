@@ -1,7 +1,47 @@
 {
     "schemaVersion": 2,
-    "generatedAt": "2026-11-05T20:00:20.183Z",
+    "generatedAt": "2026-11-05T21:02:21.038Z",
     "courses": [
+        {
+            "id": "aquacultura",
+            "name": "Aquacultura",
+            "variant": "Bacharelado · Diurno",
+            "unit": "ICA — Instituto de Ciências Agrárias",
+            "campus": "Montes Claros",
+            "shift": "Diurno",
+            "degree": "Bacharelado",
+            "layout": "versao",
+            "curriculum": "21001 · D2023-1",
+            "source": {
+                "kind": "siga-versao-curricular",
+                "url": "https://vet.ufmg.br/wp-content/uploads/2023/03/Versao-curricular-D2023-1.pdf",
+                "retrievedAt": "2026-11-05T20:54:30.577Z",
+                "note": null
+            },
+            "note": null,
+            "percursos": [
+                {
+                    "id": "01-01",
+                    "name": "BACHARELADO/ N.GERAL"
+                },
+                {
+                    "id": "01-02",
+                    "name": "BACHARELADO/ N. COMPLEMENTAR/ N.GERAL"
+                },
+                {
+                    "id": "01-03",
+                    "name": "BACHARELADO/ N. AVANÇADO/ N. GERAL"
+                }
+            ],
+            "stats": {
+                "disciplines": 53,
+                "edges": 19,
+                "periods": 10,
+                "optionalSlots": 7,
+                "totalHours": 3600
+            },
+            "file": "data/courses/aquacultura.json"
+        },
         {
             "id": "arquivologia",
             "name": "Arquivologia",
@@ -237,6 +277,50 @@
                 "totalHours": 3000
             },
             "file": "data/courses/ciencia-de-dados.json"
+        },
+        {
+            "id": "engenharia-de-alimentos",
+            "name": "Engenharia de Alimentos",
+            "variant": "Bacharelado · Diurno",
+            "unit": "ICA — Instituto de Ciências Agrárias",
+            "campus": "Montes Claros",
+            "shift": "Diurno",
+            "degree": "Bacharelado",
+            "layout": "versao",
+            "curriculum": "24003 · D-20251",
+            "source": {
+                "kind": "siga-versao-curricular",
+                "url": "https://www.ufmg.br/montesclaros/wp-content/uploads/2024/03/Nova-Grade-Curricular-EAL-2025.pdf",
+                "retrievedAt": "2026-11-05T20:54:30.569Z",
+                "note": null
+            },
+            "note": null,
+            "percursos": [
+                {
+                    "id": "01-01",
+                    "name": "BACHARELADO / N. GERAL"
+                },
+                {
+                    "id": "01-02",
+                    "name": "BACHARELADO / N. AVANÇADO"
+                },
+                {
+                    "id": "01-03",
+                    "name": "BACHARELADO / N. COMPLEMENTAR / N. GERAL"
+                },
+                {
+                    "id": "01-04",
+                    "name": "BACHARELADO / N. COMPLEMENTAR / N. AVANÇADO"
+                }
+            ],
+            "stats": {
+                "disciplines": 55,
+                "edges": 22,
+                "periods": 10,
+                "optionalSlots": 9,
+                "totalHours": 3600
+            },
+            "file": "data/courses/engenharia-de-alimentos.json"
         },
         {
             "id": "engenharia-de-computacao",
@@ -512,6 +596,122 @@
             "file": "data/courses/fisica-licenciatura-noturno-matriz-2018.json"
         },
         {
+            "id": "geografia-licenciatura-matutino",
+            "name": "Geografia",
+            "variant": "Licenciatura · Matutino",
+            "unit": "IGC — Instituto de Geociências",
+            "campus": "Pampulha",
+            "shift": "Matutino",
+            "degree": "Licenciatura",
+            "layout": "versao",
+            "curriculum": "04004 · M-20271",
+            "source": {
+                "kind": "siga-versao-curricular",
+                "url": "https://igc.ufmg.br/wp-content/uploads/2026/10/Versao-Curricular-M-20271_LICENCIATURA-EM-GEOGRAFIA.pdf",
+                "retrievedAt": "2026-11-05T20:54:30.541Z",
+                "note": null
+            },
+            "note": null,
+            "percursos": [
+                {
+                    "id": "02-01",
+                    "name": "LICENCIATURA/N. GERAL"
+                },
+                {
+                    "id": "02-02",
+                    "name": "LICENCIATURA/N. COMPLEMENTAR/N. GERAL"
+                },
+                {
+                    "id": "02-03",
+                    "name": "LICENCIATURA/N. AVANÇADO/N. GERAL"
+                }
+            ],
+            "stats": {
+                "disciplines": 43,
+                "edges": 27,
+                "periods": 10,
+                "optionalSlots": 7,
+                "totalHours": 3225
+            },
+            "file": "data/courses/geografia-licenciatura-matutino.json"
+        },
+        {
+            "id": "geografia-licenciatura-noturno",
+            "name": "Geografia",
+            "variant": "Licenciatura · Noturno",
+            "unit": "IGC — Instituto de Geociências",
+            "campus": "Pampulha",
+            "shift": "Noturno",
+            "degree": "Licenciatura",
+            "layout": "versao",
+            "curriculum": "04004 · N-20271",
+            "source": {
+                "kind": "siga-versao-curricular",
+                "url": "https://igc.ufmg.br/wp-content/uploads/2026/10/Versao-Curricular-N-20271_LICENCIATURA-EM-GEOGRAFIA-1.pdf",
+                "retrievedAt": "2026-11-05T20:54:30.557Z",
+                "note": null
+            },
+            "note": null,
+            "percursos": [
+                {
+                    "id": "02-01",
+                    "name": "LICENCIATURA/N. GERAL"
+                },
+                {
+                    "id": "02-02",
+                    "name": "LICENCIATURA/N. COMPLEMENTAR/N. GERAL"
+                },
+                {
+                    "id": "02-03",
+                    "name": "LICENCIATURA/N. AVANÇADO/N. GERAL"
+                }
+            ],
+            "stats": {
+                "disciplines": 43,
+                "edges": 27,
+                "periods": 10,
+                "optionalSlots": 7,
+                "totalHours": 3225
+            },
+            "file": "data/courses/geografia-licenciatura-noturno.json"
+        },
+        {
+            "id": "medicina",
+            "name": "Medicina",
+            "variant": "Bacharelado · Integral",
+            "unit": "Faculdade de Medicina",
+            "campus": "Saúde",
+            "shift": "Integral",
+            "degree": "Bacharelado",
+            "layout": "versao",
+            "curriculum": "16003 · I-20212",
+            "source": {
+                "kind": "siga-versao-curricular",
+                "url": "https://www.medicina.ufmg.br/wp-content/uploads/sites/102/2024/09/Versao-Curricular-2021-2.pdf",
+                "retrievedAt": "2026-11-05T20:54:30.565Z",
+                "note": null
+            },
+            "note": null,
+            "percursos": [
+                {
+                    "id": "R-01",
+                    "name": "BACHARELADO/F. LIVRE"
+                },
+                {
+                    "id": "R-02",
+                    "name": "BACHARELADO/F. COMPLEMENTAR ABERTA"
+                }
+            ],
+            "stats": {
+                "disciplines": 79,
+                "edges": 117,
+                "periods": 12,
+                "optionalSlots": 7,
+                "totalHours": 7755
+            },
+            "file": "data/courses/medicina.json"
+        },
+        {
             "id": "museologia",
             "name": "Museologia",
             "variant": null,
@@ -682,6 +882,82 @@
                 "totalHours": 3000
             },
             "file": "data/courses/sistemas-de-informacao.json"
+        },
+        {
+            "id": "turismo",
+            "name": "Turismo",
+            "variant": "Bacharelado · Diurno",
+            "unit": "IGC — Instituto de Geociências",
+            "campus": "Pampulha",
+            "shift": "Diurno",
+            "degree": "Bacharelado",
+            "layout": "versao",
+            "curriculum": "04003 · D-20221",
+            "source": {
+                "kind": "siga-versao-curricular",
+                "url": "https://igc.ufmg.br/wp-content/uploads/2023/08/GRADE-CURRICULAR-TURISMO-2022-1-1.pdf",
+                "retrievedAt": "2026-11-05T20:54:30.560Z",
+                "note": null
+            },
+            "note": null,
+            "percursos": [
+                {
+                    "id": "01-01",
+                    "name": "BACHARELADO/FORMAÇÃO LIVRE"
+                },
+                {
+                    "id": "01-02",
+                    "name": "BACHARELADO/FORMAÇÃO COMPLEMENTAR ABERTA/FORMAÇÃO LIVRE"
+                }
+            ],
+            "stats": {
+                "disciplines": 25,
+                "edges": 3,
+                "periods": 8,
+                "optionalSlots": 13,
+                "totalHours": 2550
+            },
+            "file": "data/courses/turismo.json"
+        },
+        {
+            "id": "zootecnia",
+            "name": "Zootecnia",
+            "variant": "Bacharelado · Diurno",
+            "unit": "ICA — Instituto de Ciências Agrárias",
+            "campus": "Montes Claros",
+            "shift": "Diurno",
+            "degree": "Bacharelado",
+            "layout": "versao",
+            "curriculum": "24006 · D-20261",
+            "source": {
+                "kind": "siga-versao-curricular",
+                "url": "https://www.ufmg.br/montesclaros/wp-content/uploads/2025/11/Grade-Nova-Zootecnia.pdf",
+                "retrievedAt": "2026-11-05T20:54:30.574Z",
+                "note": null
+            },
+            "note": null,
+            "percursos": [
+                {
+                    "id": "01-01",
+                    "name": "BACHARELADO/N. GERAL"
+                },
+                {
+                    "id": "01-02",
+                    "name": "BACHARELADO/N. COMPLEMENTAR/N. GERAL"
+                },
+                {
+                    "id": "01-04",
+                    "name": "BACHARELADO/N.AVANÇADO/N.GERAL"
+                }
+            ],
+            "stats": {
+                "disciplines": 50,
+                "edges": 20,
+                "periods": 10,
+                "optionalSlots": 13,
+                "totalHours": 3600
+            },
+            "file": "data/courses/zootecnia.json"
         }
     ]
 }

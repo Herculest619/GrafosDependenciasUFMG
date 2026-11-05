@@ -1,0 +1,35 @@
+[
+    {
+        "id": "geografia-licenciatura-matutino",
+        "file": "geografia-licenciatura-matutino.txt",
+        "url": "https://igc.ufmg.br/wp-content/uploads/2026/10/Versao-Curricular-M-20271_LICENCIATURA-EM-GEOGRAFIA.pdf",
+        "title": "Geografia — Licenciatura (M-20271, matutino)",
+        "format": "siga-versao-curricular",
+        "retrievedAt": "2026-11-05T20:54:30.541Z",
+        "pages": 15,
+        "chars": 87504,
+        "sha256": "161d933b114507527806578a117caa14b1b0e914ac5d312f17d5f0c01a91b0f4"
+    },
+    {
+        "id": "geografia-licenciatura-noturno",
+        "file": "geografia-licenciatura-noturno.txt",
+        "url": "https://igc.ufmg.br/wp-content/uploads/2026/10/Versao-Curricular-N-20271_LICENCIATURA-EM-GEOGRAFIA-1.pdf",
+        "title": "Geografia — Licenciatura (N-20271, noturno)",
+        "format": "siga-versao-curricular",
+        "retrievedAt": "2026-11-05T20:54:30.557Z",
+        "pages": 15,
+        "chars": 87379,
+        "sha256": "8a53bb44cd5f8e21998bb8d7f26902f3072ca2a7aef6da749f8e01691b34e7c0"
+    },
+    {
+        "id": "turismo",
+        "file": "turismo.txt",
+        "url": "https://igc.ufmg.br/wp-content/uploads/2023/08/GRADE-CURRICULAR-TURISMO-2022-1-1.pdf",
+        "title": "Turismo (D-20221)",
+        "format": "siga-versao-curricular",
+        "retrievedAt": "2026-11-05T20:54:30.560Z",
+        "pages": 12,
+        "chars": 68201,
+        "sha256": "82aeda5f87cf6ccc464b686b35dd60a626de2cc5dda98babead3fb0a91946d78"
+    }
+]
