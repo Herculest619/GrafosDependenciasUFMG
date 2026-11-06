@@ -93,7 +93,6 @@ function baseOptions() {
 
 const LEVEL_SPACING = 260
 const ROW_SPACING = 80
-const MIN_INITIAL_SCALE = 0.65
 const HEADER_OFFSET = -110
 
 function levelHeaders(nodes) {
@@ -214,13 +213,46 @@ function scheduleInitialView(attempt) {
     })
 }
 
+/**
+ * Enquadra a grade inteira (disciplinas + coluna de optativas + cabeçalhos de
+ * período) centralizada nos dois eixos. O `network.fit()` nativo nem sempre
+ * centraliza bem e o ajuste de escala posterior jogava o conteúdo para o canto.
+ */
 function fitAll() {
-    if (!network) return
-    network.fit({ animation: false })
-    const scale = network.getScale()
-    if (scale < MIN_INITIAL_SCALE) {
-        network.moveTo({ scale: MIN_INITIAL_SCALE, position: network.getViewPosition() })
-    }
+    if (!network || !container.value) return
+
+    const positions = network.getPositions()
+    const points = Object.entries(positions).filter(([, point]) => point)
+    if (!points.length) return
+
+    // folga para o tamanho dos nós e para o texto dos cabeçalhos
+    const halfWidth = 120
+    const paddingTop = 30
+    const paddingBottom = 34
+    const minX = Math.min(...points.map(([, point]) => point.x)) - halfWidth
+    const maxX = Math.max(...points.map(([, point]) => point.x)) + halfWidth
+    const minY = Math.min(...points.map(([, point]) => point.y)) - paddingTop
+    const maxY = Math.max(...points.map(([, point]) => point.y)) + paddingBottom
+
+    const width = container.value.clientWidth
+    const height = container.value.clientHeight
+    const margin = 16
+    const scale = Math.max(
+        0.2,
+        Math.min(
+            1.15,
+            Math.min(
+                (width - margin * 2) / Math.max(1, maxX - minX),
+                (height - margin * 2) / Math.max(1, maxY - minY)
+            )
+        )
+    )
+
+    network.moveTo({
+        scale,
+        position: { x: (minX + maxX) / 2, y: (minY + maxY) / 2 },
+        animation: { duration: 350, easingFunction: 'easeInOutQuad' },
+    })
 }
 
 /**

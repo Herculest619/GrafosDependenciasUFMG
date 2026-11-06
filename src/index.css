@@ -39,15 +39,4 @@
     .card {
         @apply rounded-xl border border-gray-200 bg-white p-5 shadow-sm dark:border-gray-700 dark:bg-gray-800/60;
     }
-
-    /* Controles de navegação do vis-network mais discretos */
-    .vis-network .vis-navigation .vis-button {
-        opacity: 0.6;
-        border-radius: 9999px;
-        transition: opacity 0.15s ease;
-    }
-
-    .vis-network .vis-navigation .vis-button:hover {
-        opacity: 1;
-    }
 }
