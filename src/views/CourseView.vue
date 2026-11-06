@@ -282,6 +282,15 @@ function prerequisiteLabel(code) {
                                 >
                                     Ajustar
                                 </button>
+                                <button
+                                    v-if="viewMode === 'graph'"
+                                    type="button"
+                                    class="btn"
+                                    title="Baixa um PNG em alta resolução, enquadrado como o Ajustar"
+                                    @click="graphRef?.exportImage(state.course?.id)"
+                                >
+                                    Baixar imagem
+                                </button>
                                 <button type="button" class="btn" @click="clearAll">
                                     Limpar progresso
                                 </button>

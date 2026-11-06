@@ -84,6 +84,11 @@ test('monta o grafo com disciplinas, arestas e slots de optativa', () => {
         slots.map((slot) => slot.level),
         [2, 2]
     )
+    // numeração na ordem de leitura (esquerda → direita, cima → baixo)
+    assert.deepEqual(
+        slots.map((slot) => slot.label),
+        ['Optativa 1', 'Optativa 2']
+    )
     assert.ok(slots.every((slot) => graph.periods.includes(slot.level)))
     // ... e depois das disciplinas daquele período, para aparecerem embaixo na coluna
     for (const level of graph.periods) {
@@ -127,9 +132,21 @@ test('distribui os slots de optativa nos períodos mais vazios', () => {
         ],
     }
     const graph = buildGraph(uneven)
-    const levels = graph.nodes.filter((node) => node.kind === 'slot').map((node) => node.level)
+    const slots = graph.nodes.filter((node) => node.kind === 'slot')
     // os períodos 2 e 3 (1 disciplina cada) recebem os slots; o período 1 (2 disciplinas) fica por último
-    assert.deepEqual(levels, [3, 2, 3])
+    assert.deepEqual(
+        slots.map((slot) => slot.level),
+        [2, 3, 3]
+    )
+    // ... e os rótulos são renumerados na ordem de leitura, não na ordem do JSON
+    assert.deepEqual(
+        slots.map((slot) => slot.label),
+        ['Optativa 1', 'Optativa 2', 'Optativa 3']
+    )
+    assert.deepEqual(
+        slots.map((slot) => slot.id),
+        ['S2', 'S1', 'S3']
+    )
 })
 
 test('permite esconder os slots de optativa', () => {

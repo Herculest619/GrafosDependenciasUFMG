@@ -165,7 +165,11 @@ Decisões de modelagem:
 
 -   **Slots de optativa**: as optativas não são pré-requisito de nada e o aluno escolhe quais
     cursar, então o grafo mostra apenas "Optativa 1, Optativa 2, …" (sem arestas), calculados
-    a partir da carga horária mínima de optativas do percurso (mínima ÷ 60 h).
+    a partir da carga horária mínima de optativas do percurso (mínima ÷ 60 h). Os slots são
+    distribuídos entre as colunas dos períodos e **numerados na ordem de leitura** do grafo
+    (esquerda → direita, cima → baixo).
+-   **Exportar imagem**: o botão "Baixar imagem" renderiza a grade inteira enquadrada como o
+    "Ajustar" e baixa um PNG em resolução 2× (texto grande o suficiente para dar zoom).
 -   **Percurso**: quando a versão curricular permite mais de um percurso (ex.: BCC tem
     `01-01` Núcleo Comum e `01-02` Núcleo Avançado), a página permite alternar.
 -   **Progresso** fica no `localStorage`, separado por curso:
@@ -303,7 +307,10 @@ Outros aprendizados do levantamento:
 
 Próximos passos naturais: pedir a extração oficial à PROGRAD/DGI; varrer outras unidades
 WordPress com a mesma receita; e criar um fluxo de contribuição (upload do PDF do
-relatório → texto → `data:build` → PR).
+relatório → texto → `data:build` → PR). Também está no radar permitir **escolher a
+disciplina de cada espaço de optativa**: o `optionalPool` do percurso já guarda códigos,
+grupos e pré-requisitos; falta enriquecer esses itens com nome/carga horária para o aluno
+selecionar numa lista ao clicar no espaço.
 
 ## Limitações e avisos
 

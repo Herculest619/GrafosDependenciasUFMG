@@ -220,6 +220,18 @@ function scheduleInitialView(attempt) {
     })
 }
 
+/** Bounding box do conteúdo, com folga para os nós e os cabeçalhos de período. */
+function contentBounds(positions) {
+    const points = Object.values(positions).filter(Boolean)
+    if (!points.length) return null
+    return {
+        minX: Math.min(...points.map((point) => point.x)) - 120,
+        maxX: Math.max(...points.map((point) => point.x)) + 120,
+        minY: Math.min(...points.map((point) => point.y)) - 30,
+        maxY: Math.max(...points.map((point) => point.y)) + 34,
+    }
+}
+
 /**
  * Enquadra a grade inteira (disciplinas + coluna de optativas + cabeçalhos de
  * período) centralizada nos dois eixos. O `network.fit()` nativo nem sempre
@@ -228,18 +240,8 @@ function scheduleInitialView(attempt) {
 function fitAll() {
     if (!network || !container.value) return
 
-    const positions = network.getPositions()
-    const points = Object.entries(positions).filter(([, point]) => point)
-    if (!points.length) return
-
-    // folga para o tamanho dos nós e para o texto dos cabeçalhos
-    const halfWidth = 120
-    const paddingTop = 30
-    const paddingBottom = 34
-    const minX = Math.min(...points.map(([, point]) => point.x)) - halfWidth
-    const maxX = Math.max(...points.map(([, point]) => point.x)) + halfWidth
-    const minY = Math.min(...points.map(([, point]) => point.y)) - paddingTop
-    const maxY = Math.max(...points.map(([, point]) => point.y)) + paddingBottom
+    const bounds = contentBounds(network.getPositions())
+    if (!bounds) return
 
     const width = container.value.clientWidth
     const height = container.value.clientHeight
@@ -249,17 +251,108 @@ function fitAll() {
         Math.min(
             1.15,
             Math.min(
-                (width - margin * 2) / Math.max(1, maxX - minX),
-                (height - margin * 2) / Math.max(1, maxY - minY)
+                (width - margin * 2) / Math.max(1, bounds.maxX - bounds.minX),
+                (height - margin * 2) / Math.max(1, bounds.maxY - bounds.minY)
             )
         )
     )
 
     network.moveTo({
         scale,
-        position: { x: (minX + maxX) / 2, y: (minY + maxY) / 2 },
+        position: { x: (bounds.minX + bounds.maxX) / 2, y: (bounds.minY + bounds.maxY) / 2 },
         animation: { duration: 350, easingFunction: 'easeInOutQuad' },
     })
+}
+
+/**
+ * Renderiza a grade inteira num canvas fora da tela, em resolução natural
+ * (escala 1), para gerar uma imagem que aguenta zoom. Retorna o data URL.
+ */
+async function renderGraphImage() {
+    if (!network || !nodesSet || !edgesSet) return null
+
+    const bounds = contentBounds(network.getPositions())
+    if (!bounds) return null
+
+    const dpr = window.devicePixelRatio || 1
+    const contentWidth = bounds.maxX - bounds.minX
+    const contentHeight = bounds.maxY - bounds.minY
+    // 2x a escala natural deixa o texto grande o suficiente para dar zoom na
+    // imagem; limita o lado do canvas para não estourar memória em cursos largos
+    const maxCssSide = 14000 / dpr
+    const scale = Math.min(2, maxCssSide / Math.max(contentWidth, contentHeight))
+    const width = Math.max(1, Math.ceil(contentWidth * scale))
+    const height = Math.max(1, Math.ceil(contentHeight * scale))
+
+    const wrapper = document.createElement('div')
+    wrapper.style.cssText = `position: fixed; left: -100000px; top: 0; width: ${width}px; height: ${height}px;`
+    document.body.appendChild(wrapper)
+
+    const cloneNode = (item) => ({ ...item })
+    const exportNodes = new DataSet(nodesSet.get().map(cloneNode))
+    const exportEdges = new DataSet(edgesSet.get().map(cloneNode))
+
+    const exportNetwork = new Network(
+        wrapper,
+        { nodes: exportNodes, edges: exportEdges },
+        {
+            ...baseOptions(),
+            autoResize: false,
+            interaction: {
+                ...baseOptions().interaction,
+                hover: false,
+                dragNodes: false,
+                zoomView: false,
+            },
+        }
+    )
+
+    try {
+        const drawn = new Promise((resolve) => {
+            const timer = setTimeout(resolve, 1500)
+            exportNetwork.once('afterDrawing', () => {
+                clearTimeout(timer)
+                setTimeout(resolve, 150)
+            })
+        })
+
+        exportNetwork.moveTo({
+            scale,
+            position: { x: (bounds.minX + bounds.maxX) / 2, y: (bounds.minY + bounds.maxY) / 2 },
+            animation: false,
+        })
+        await drawn
+
+        const source = exportNetwork.canvas.frame.canvas
+        const padding = Math.round(20 * dpr * scale)
+        const output = document.createElement('canvas')
+        output.width = source.width + padding * 2
+        output.height = source.height + padding * 2
+        const context = output.getContext('2d')
+        context.fillStyle = theme?.isDark?.value ? '#111827' : '#ffffff'
+        context.fillRect(0, 0, output.width, output.height)
+        context.drawImage(source, padding, padding)
+        return output.toDataURL('image/png')
+    } finally {
+        exportNetwork.destroy()
+        wrapper.remove()
+    }
+}
+
+/** Baixa a imagem do grafo (PNG em alta resolução, enquadrado como o Ajustar). */
+async function exportImage(fileBase = 'grafo') {
+    try {
+        const dataUrl = await renderGraphImage()
+        if (!dataUrl) return
+        const link = document.createElement('a')
+        link.href = dataUrl
+        link.download = `${fileBase}-grafo.png`
+        document.body.appendChild(link)
+        link.click()
+        link.remove()
+    } catch (error) {
+        console.error('não foi possível exportar a imagem do grafo', error)
+    }
 }
 
 /**
@@ -315,7 +408,12 @@ function focusNode(code) {
     })
 }
 
-defineExpose({ focusNode, fitAll })
+defineExpose({ focusNode, fitAll, exportImage, renderGraphImage })
+
+// hook de depuração/testes e2e: abra a página com ?debug=1
+if (typeof window !== 'undefined' && window.location.search.includes('debug')) {
+    window.__renderGraphImage = renderGraphImage
+}
 
 watch(
     () => props.graph,

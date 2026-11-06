@@ -81,6 +81,17 @@ function distributeSlots(periods, slots) {
         slot.level = Number(periods[target].number)
     }
 
+    // Numeração na ordem de leitura do grafo: período crescente e, dentro da
+    // coluna, de cima para baixo. Assim "Optativa 1" fica à esquerda.
+    const order = new Map(slots.map((slot, index) => [slot, index]))
+    slots.sort((left, right) => left.level - right.level || order.get(left) - order.get(right))
+    slots.forEach((slot, index) => {
+        const label = slotLabel(index + 1)
+        slot.label = label
+        slot.name = label
+        slot.title = `${label} — escolha uma disciplina (${slot.hours} h)`
+    })
+
     return slots
 }
 
