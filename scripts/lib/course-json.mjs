@@ -132,12 +132,40 @@ export function buildSigaCourse(parsed, options) {
     const optativaGroupName =
         [...(parsed.groupNames ?? new Map()).values()].find((name) => /optativa/i.test(name)) ??
         'Optativas'
+    const groupNames = parsed.groupNames ?? new Map()
+    // último período com atividade no relatório: limite para não inventar
+    // períodos além dos que o documento evidencia
+    const reportLastPeriod = Math.max(
+        ...(parsed.periods ?? []).map((period) => Number(period.number) || 0),
+        0
+    )
 
     const percursos = [...percursoIds].sort().map((percursoId) => {
         const periodMap = new Map()
         const optionalByPeriod = new Map()
         const prereqOverrides = {}
         const optionalPool = []
+        const poolCodes = new Set()
+
+        // Guarda nome/carga horária/grupo de cada optativa: usado pela seleção de
+        // disciplina de cada espaço de optativa na interface.
+        const addToPool = (activity, entries) => {
+            if (poolCodes.has(activity.code)) return
+            poolCodes.add(activity.code)
+            const group = entries[0]?.group ?? null
+            optionalPool.push({
+                code: activity.code,
+                name: activity.name ?? null,
+                hours: activity.hours?.total ?? null,
+                credits: activity.credits?.max ?? activity.credits ?? null,
+                group,
+                groupName: groupNames.get(group) ?? null,
+                prereqs: uniqueBy(
+                    entries.flatMap((entry) => entry.prereqs ?? []),
+                    (code) => code
+                ),
+            })
+        }
 
         for (const period of parsed.periods ?? []) {
             for (const activity of period.activities ?? []) {
@@ -155,6 +183,7 @@ export function buildSigaCourse(parsed, options) {
                         optionalByPeriod.set(Number(period.number), [])
                     }
                     optionalByPeriod.get(Number(period.number)).push(activity.code)
+                    addToPool(activity, entries)
                 }
 
                 const entryPrereqs = uniqueBy(
@@ -173,14 +202,7 @@ export function buildSigaCourse(parsed, options) {
                 (entry) => entry.percursoId === percursoId
             )
             if (!entries.length) continue
-            optionalPool.push({
-                code: activity.code,
-                group: entries[0].group ?? null,
-                prereqs: uniqueBy(
-                    entries.flatMap((entry) => entry.prereqs ?? []),
-                    (code) => code
-                ),
-            })
+            addToPool(activity, entries)
         }
 
         const summary = summaries.get(percursoId) ?? regrasGeraisSummary(parsed.regrasGerais)
@@ -195,6 +217,18 @@ export function buildSigaCourse(parsed, options) {
         for (const [code, number] of periodMap) {
             if (!byNumber.has(number)) byNumber.set(number, { number, codes: [], optional: [] })
             byNumber.get(number).codes.push(code)
+        }
+        // Garante os períodos previstos na integralização mesmo sem disciplina
+        // obrigatória (ex.: último período com só optativas), mas sem passar do
+        // último período que o relatório evidencia.
+        const standard = Number(summary?.semesters?.standard) || 0
+        const existingLast = Math.max(...[...byNumber.keys()], 0)
+        const targetLast = Math.max(
+            existingLast,
+            Math.min(standard || reportLastPeriod, reportLastPeriod || standard)
+        )
+        for (let number = 1; number <= targetLast; number += 1) {
+            if (!byNumber.has(number)) byNumber.set(number, { number, codes: [], optional: [] })
         }
         for (const period of byNumber.values()) {
             period.codes.sort()
@@ -485,13 +519,11 @@ export function buildEstruturaCourse(parsed, options) {
         )
     }
 
-    const periods = (parsed.blocks ?? [])
-        .filter((block) => block.rows.length)
-        .map((block) => ({
-            number: block.number,
-            codes: block.rows.map((row) => row.code).sort(),
-            optional: [],
-        }))
+    const periods = (parsed.blocks ?? []).map((block) => ({
+        number: block.number,
+        codes: block.rows.map((row) => row.code).sort(),
+        optional: [],
+    }))
 
     const optionalHours = parsed.totals?.optionalHours ?? 0
     const slotCount = Math.min(Math.ceil(optionalHours / 60), 24)

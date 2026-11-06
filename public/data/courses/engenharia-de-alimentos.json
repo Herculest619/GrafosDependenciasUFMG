@@ -19,7 +19,7 @@
         },
         "note": null
     },
-    "generatedAt": "2026-11-05T21:02:20.849Z",
+    "generatedAt": "2026-11-06T15:21:12.786Z",
     "disciplines": {
         "ICA091": {
             "code": "ICA091",
@@ -1667,259 +1667,463 @@
             "optionalPool": [
                 {
                     "code": "ICA151",
+                    "name": "FUNDAMENTOS DE ANALISE SOCIOLOGICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA196",
+                    "name": "GESTAO DE ORGANIZACOES DO TERCEIRO SETOR",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA252",
+                    "name": "SOCIOLOGIA RURAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA359",
+                    "name": "EMPREENDEDORISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA364",
+                    "name": "ETICA E RESPONSABILIDADE SOCIAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA371",
+                    "name": "ESTUDOS ANTROPOLOGICOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA583",
+                    "name": "ADITIVOS ALIMENTARES E COADJUVANTES TECNOLÓGICOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA584",
+                    "name": "ALIMENTOS FUNCIONAIS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA585",
+                    "name": "AUDITORIA E CERTIFICAÇÃO SIST. GESTÃO QUALID. SEG. ALIMENTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA586",
+                    "name": "BIOÉTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA587",
+                    "name": "COMPORTAMENTO ALIMENTAR",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA588",
+                    "name": "DESENVOLVIMENTO DE NOVOS PRODUTOS ALIMENTÍCIOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA589",
+                    "name": "EMBALAGENS ATIVAS E INTELIGENTES PARA ALIMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA590",
+                    "name": "EMULSÕES ALIMENTÍCIAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA591",
+                    "name": "ESPANHOL INSTRUMENTAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA592",
+                    "name": "ESTUDOS COMPLEMENTARES EM ANÁLISE SENSORIAL DE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA593",
+                    "name": "EXCEL APLICADO À ENGENHARIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA594",
+                    "name": "FISIOLOGIA E TECNOLOGIA PÓS-COLHEITA DE FRUTAS E",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA595",
+                    "name": "PRINCÍPIOS DE ADMINISTRAÇÃO E ORGANIZAÇÃO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA596",
+                    "name": "FUNDAMENTOS DE CÁLCULOS EM PROCESSOS ALIMENTÍCIOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA597",
+                    "name": "INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA598",
+                    "name": "MECÂNICA E RESISTÊNCIA DOS MATERIAIS II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "ICA573"
                     ]
                 },
                 {
                     "code": "ICA599",
+                    "name": "MODELAGEM E SIMULAÇÃO DE PROCESSOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA601",
+                    "name": "PRINCÍPIOS DE FARMACOLOGIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA602",
+                    "name": "PURIFICAÇÃO DE PRODUTOS BIOTECNOLÓGICOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA603",
+                    "name": "RELAÇÕES ÉTNICO-RACIAIS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA604",
+                    "name": "RELAÇÕES HUMANAS NO TRABALHO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA605",
+                    "name": "REOLOGIA DE PRODUTOS ALIMENTÍCIOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA606",
+                    "name": "SECAGEM DE ALIMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA607",
+                    "name": "TECNOLOGIA DE ÓLEOS E GORDURAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA612",
+                    "name": "TÓPICOS EM ENGENHARIA DE ALIMENTOS I",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA613",
+                    "name": "TÓPICOS EM ENGENHARIA DE ALIMENTOS II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA614",
+                    "name": "TÓPICOS EM ENGENHARIA DE ALIMENTOS III",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA615",
+                    "name": "TÓPICOS EM ENGENHARIA DE ALIMENTOS IV",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA616",
+                    "name": "TURISMO E GASTRONOMIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA617",
+                    "name": "VIDA DE PRATELEIRA DE PRODUTOS ALIMENTÍCIOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA619",
+                    "name": "FUNDAMENTOS DO TRABALHO CIENTÍFICO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA626",
+                    "name": "TRATAMENTO DE RESÍDUOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA640",
+                    "name": "ESTÁGIO CURRICULAR II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA641",
+                    "name": "PROCESSAMENTO DE PRODUTOS DO CERRADO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA642",
+                    "name": "MICROBIOLOGIA AMBIENTAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA643",
+                    "name": "MICROBIOLOGIA INDUSTRIAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA644",
+                    "name": "TECNOLOGIA DE OVOS E MEL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA645",
+                    "name": "TOXICOLOGIA DE ALIMENTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA646",
+                    "name": "INICIAÇÃO À DOCÊNCIA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA647",
+                    "name": "INICIAÇÃO À EXTENSÃO",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA648",
+                    "name": "INICIAÇÃO À PESQUISA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA649",
+                    "name": "GRUPOS DE ESTUDOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA650",
+                    "name": "PARTICPAÇÃO EM EVENTOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA651",
+                    "name": "PARTICIPAÇÃO EM REPRESENTAÇÕES ESTUDANTIS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 }
             ],
@@ -2141,279 +2345,499 @@
             "optionalPool": [
                 {
                     "code": "ICA151",
+                    "name": "FUNDAMENTOS DE ANALISE SOCIOLOGICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA196",
+                    "name": "GESTAO DE ORGANIZACOES DO TERCEIRO SETOR",
+                    "hours": 45,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA252",
+                    "name": "SOCIOLOGIA RURAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA359",
+                    "name": "EMPREENDEDORISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA364",
+                    "name": "ETICA E RESPONSABILIDADE SOCIAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA371",
+                    "name": "ESTUDOS ANTROPOLOGICOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA583",
+                    "name": "ADITIVOS ALIMENTARES E COADJUVANTES TECNOLÓGICOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA584",
+                    "name": "ALIMENTOS FUNCIONAIS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA585",
+                    "name": "AUDITORIA E CERTIFICAÇÃO SIST. GESTÃO QUALID. SEG. ALIMENTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA586",
+                    "name": "BIOÉTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA587",
+                    "name": "COMPORTAMENTO ALIMENTAR",
+                    "hours": 30,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA588",
+                    "name": "DESENVOLVIMENTO DE NOVOS PRODUTOS ALIMENTÍCIOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA589",
+                    "name": "EMBALAGENS ATIVAS E INTELIGENTES PARA ALIMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA590",
+                    "name": "EMULSÕES ALIMENTÍCIAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA591",
+                    "name": "ESPANHOL INSTRUMENTAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA592",
+                    "name": "ESTUDOS COMPLEMENTARES EM ANÁLISE SENSORIAL DE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA593",
+                    "name": "EXCEL APLICADO À ENGENHARIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA594",
+                    "name": "FISIOLOGIA E TECNOLOGIA PÓS-COLHEITA DE FRUTAS E",
+                    "hours": 45,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA595",
+                    "name": "PRINCÍPIOS DE ADMINISTRAÇÃO E ORGANIZAÇÃO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA596",
+                    "name": "FUNDAMENTOS DE CÁLCULOS EM PROCESSOS ALIMENTÍCIOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA597",
+                    "name": "INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA598",
+                    "name": "MECÂNICA E RESISTÊNCIA DOS MATERIAIS II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "ICA573"
                     ]
                 },
                 {
                     "code": "ICA599",
+                    "name": "MODELAGEM E SIMULAÇÃO DE PROCESSOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA601",
+                    "name": "PRINCÍPIOS DE FARMACOLOGIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA602",
+                    "name": "PURIFICAÇÃO DE PRODUTOS BIOTECNOLÓGICOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA603",
+                    "name": "RELAÇÕES ÉTNICO-RACIAIS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA604",
+                    "name": "RELAÇÕES HUMANAS NO TRABALHO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA605",
+                    "name": "REOLOGIA DE PRODUTOS ALIMENTÍCIOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA606",
+                    "name": "SECAGEM DE ALIMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA607",
+                    "name": "TECNOLOGIA DE ÓLEOS E GORDURAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA608",
+                    "name": "TÓPICOS AVANÇADOS I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ICA609",
+                    "name": "TÓPICOS AVANÇADOS II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ICA610",
+                    "name": "TÓPICOS AVANÇADOS III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ICA611",
+                    "name": "TÓPICOS AVANÇADOS IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ICA612",
+                    "name": "TÓPICOS EM ENGENHARIA DE ALIMENTOS I",
+                    "hours": 45,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA613",
+                    "name": "TÓPICOS EM ENGENHARIA DE ALIMENTOS II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA614",
+                    "name": "TÓPICOS EM ENGENHARIA DE ALIMENTOS III",
+                    "hours": 30,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA615",
+                    "name": "TÓPICOS EM ENGENHARIA DE ALIMENTOS IV",
+                    "hours": 45,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA616",
+                    "name": "TURISMO E GASTRONOMIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA617",
+                    "name": "VIDA DE PRATELEIRA DE PRODUTOS ALIMENTÍCIOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA619",
+                    "name": "FUNDAMENTOS DO TRABALHO CIENTÍFICO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA626",
+                    "name": "TRATAMENTO DE RESÍDUOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA640",
+                    "name": "ESTÁGIO CURRICULAR II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA641",
+                    "name": "PROCESSAMENTO DE PRODUTOS DO CERRADO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA642",
+                    "name": "MICROBIOLOGIA AMBIENTAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA643",
+                    "name": "MICROBIOLOGIA INDUSTRIAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA644",
+                    "name": "TECNOLOGIA DE OVOS E MEL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA645",
+                    "name": "TOXICOLOGIA DE ALIMENTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA646",
+                    "name": "INICIAÇÃO À DOCÊNCIA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA647",
+                    "name": "INICIAÇÃO À EXTENSÃO",
+                    "hours": 15,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA648",
+                    "name": "INICIAÇÃO À PESQUISA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA649",
+                    "name": "GRUPOS DE ESTUDOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA650",
+                    "name": "PARTICPAÇÃO EM EVENTOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA651",
+                    "name": "PARTICIPAÇÃO EM REPRESENTAÇÕES ESTUDANTIS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Optativas",
                     "prereqs": []
                 }
             ],
@@ -2599,259 +3023,463 @@
             "optionalPool": [
                 {
                     "code": "ICA151",
+                    "name": "FUNDAMENTOS DE ANALISE SOCIOLOGICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA196",
+                    "name": "GESTAO DE ORGANIZACOES DO TERCEIRO SETOR",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA252",
+                    "name": "SOCIOLOGIA RURAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA359",
+                    "name": "EMPREENDEDORISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA364",
+                    "name": "ETICA E RESPONSABILIDADE SOCIAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA371",
+                    "name": "ESTUDOS ANTROPOLOGICOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA583",
+                    "name": "ADITIVOS ALIMENTARES E COADJUVANTES TECNOLÓGICOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA584",
+                    "name": "ALIMENTOS FUNCIONAIS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA585",
+                    "name": "AUDITORIA E CERTIFICAÇÃO SIST. GESTÃO QUALID. SEG. ALIMENTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA586",
+                    "name": "BIOÉTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA587",
+                    "name": "COMPORTAMENTO ALIMENTAR",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA588",
+                    "name": "DESENVOLVIMENTO DE NOVOS PRODUTOS ALIMENTÍCIOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA589",
+                    "name": "EMBALAGENS ATIVAS E INTELIGENTES PARA ALIMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA590",
+                    "name": "EMULSÕES ALIMENTÍCIAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA591",
+                    "name": "ESPANHOL INSTRUMENTAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA592",
+                    "name": "ESTUDOS COMPLEMENTARES EM ANÁLISE SENSORIAL DE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA593",
+                    "name": "EXCEL APLICADO À ENGENHARIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA594",
+                    "name": "FISIOLOGIA E TECNOLOGIA PÓS-COLHEITA DE FRUTAS E",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA595",
+                    "name": "PRINCÍPIOS DE ADMINISTRAÇÃO E ORGANIZAÇÃO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA596",
+                    "name": "FUNDAMENTOS DE CÁLCULOS EM PROCESSOS ALIMENTÍCIOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA597",
+                    "name": "INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA598",
+                    "name": "MECÂNICA E RESISTÊNCIA DOS MATERIAIS II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "ICA573"
                     ]
                 },
                 {
                     "code": "ICA599",
+                    "name": "MODELAGEM E SIMULAÇÃO DE PROCESSOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA601",
+                    "name": "PRINCÍPIOS DE FARMACOLOGIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA602",
+                    "name": "PURIFICAÇÃO DE PRODUTOS BIOTECNOLÓGICOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA603",
+                    "name": "RELAÇÕES ÉTNICO-RACIAIS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA604",
+                    "name": "RELAÇÕES HUMANAS NO TRABALHO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA605",
+                    "name": "REOLOGIA DE PRODUTOS ALIMENTÍCIOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA606",
+                    "name": "SECAGEM DE ALIMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA607",
+                    "name": "TECNOLOGIA DE ÓLEOS E GORDURAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA612",
+                    "name": "TÓPICOS EM ENGENHARIA DE ALIMENTOS I",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA613",
+                    "name": "TÓPICOS EM ENGENHARIA DE ALIMENTOS II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA614",
+                    "name": "TÓPICOS EM ENGENHARIA DE ALIMENTOS III",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA615",
+                    "name": "TÓPICOS EM ENGENHARIA DE ALIMENTOS IV",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA616",
+                    "name": "TURISMO E GASTRONOMIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA617",
+                    "name": "VIDA DE PRATELEIRA DE PRODUTOS ALIMENTÍCIOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA619",
+                    "name": "FUNDAMENTOS DO TRABALHO CIENTÍFICO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA626",
+                    "name": "TRATAMENTO DE RESÍDUOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA640",
+                    "name": "ESTÁGIO CURRICULAR II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA641",
+                    "name": "PROCESSAMENTO DE PRODUTOS DO CERRADO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA642",
+                    "name": "MICROBIOLOGIA AMBIENTAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA643",
+                    "name": "MICROBIOLOGIA INDUSTRIAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA644",
+                    "name": "TECNOLOGIA DE OVOS E MEL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA645",
+                    "name": "TOXICOLOGIA DE ALIMENTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA646",
+                    "name": "INICIAÇÃO À DOCÊNCIA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA647",
+                    "name": "INICIAÇÃO À EXTENSÃO",
+                    "hours": 15,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA648",
+                    "name": "INICIAÇÃO À PESQUISA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA649",
+                    "name": "GRUPOS DE ESTUDOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA650",
+                    "name": "PARTICPAÇÃO EM EVENTOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA651",
+                    "name": "PARTICIPAÇÃO EM REPRESENTAÇÕES ESTUDANTIS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 }
             ],
@@ -3043,279 +3671,499 @@
             "optionalPool": [
                 {
                     "code": "ICA151",
+                    "name": "FUNDAMENTOS DE ANALISE SOCIOLOGICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA196",
+                    "name": "GESTAO DE ORGANIZACOES DO TERCEIRO SETOR",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA252",
+                    "name": "SOCIOLOGIA RURAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA359",
+                    "name": "EMPREENDEDORISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA364",
+                    "name": "ETICA E RESPONSABILIDADE SOCIAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA371",
+                    "name": "ESTUDOS ANTROPOLOGICOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA583",
+                    "name": "ADITIVOS ALIMENTARES E COADJUVANTES TECNOLÓGICOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA584",
+                    "name": "ALIMENTOS FUNCIONAIS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA585",
+                    "name": "AUDITORIA E CERTIFICAÇÃO SIST. GESTÃO QUALID. SEG. ALIMENTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA586",
+                    "name": "BIOÉTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA587",
+                    "name": "COMPORTAMENTO ALIMENTAR",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA588",
+                    "name": "DESENVOLVIMENTO DE NOVOS PRODUTOS ALIMENTÍCIOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA589",
+                    "name": "EMBALAGENS ATIVAS E INTELIGENTES PARA ALIMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA590",
+                    "name": "EMULSÕES ALIMENTÍCIAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA591",
+                    "name": "ESPANHOL INSTRUMENTAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA592",
+                    "name": "ESTUDOS COMPLEMENTARES EM ANÁLISE SENSORIAL DE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA593",
+                    "name": "EXCEL APLICADO À ENGENHARIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA594",
+                    "name": "FISIOLOGIA E TECNOLOGIA PÓS-COLHEITA DE FRUTAS E",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA595",
+                    "name": "PRINCÍPIOS DE ADMINISTRAÇÃO E ORGANIZAÇÃO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA596",
+                    "name": "FUNDAMENTOS DE CÁLCULOS EM PROCESSOS ALIMENTÍCIOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA597",
+                    "name": "INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA598",
+                    "name": "MECÂNICA E RESISTÊNCIA DOS MATERIAIS II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "ICA573"
                     ]
                 },
                 {
                     "code": "ICA599",
+                    "name": "MODELAGEM E SIMULAÇÃO DE PROCESSOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA601",
+                    "name": "PRINCÍPIOS DE FARMACOLOGIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA602",
+                    "name": "PURIFICAÇÃO DE PRODUTOS BIOTECNOLÓGICOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA603",
+                    "name": "RELAÇÕES ÉTNICO-RACIAIS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA604",
+                    "name": "RELAÇÕES HUMANAS NO TRABALHO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA605",
+                    "name": "REOLOGIA DE PRODUTOS ALIMENTÍCIOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA606",
+                    "name": "SECAGEM DE ALIMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA607",
+                    "name": "TECNOLOGIA DE ÓLEOS E GORDURAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA608",
+                    "name": "TÓPICOS AVANÇADOS I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ICA609",
+                    "name": "TÓPICOS AVANÇADOS II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ICA610",
+                    "name": "TÓPICOS AVANÇADOS III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ICA611",
+                    "name": "TÓPICOS AVANÇADOS IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ICA612",
+                    "name": "TÓPICOS EM ENGENHARIA DE ALIMENTOS I",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA613",
+                    "name": "TÓPICOS EM ENGENHARIA DE ALIMENTOS II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA614",
+                    "name": "TÓPICOS EM ENGENHARIA DE ALIMENTOS III",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA615",
+                    "name": "TÓPICOS EM ENGENHARIA DE ALIMENTOS IV",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA616",
+                    "name": "TURISMO E GASTRONOMIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA617",
+                    "name": "VIDA DE PRATELEIRA DE PRODUTOS ALIMENTÍCIOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA619",
+                    "name": "FUNDAMENTOS DO TRABALHO CIENTÍFICO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA626",
+                    "name": "TRATAMENTO DE RESÍDUOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA640",
+                    "name": "ESTÁGIO CURRICULAR II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA641",
+                    "name": "PROCESSAMENTO DE PRODUTOS DO CERRADO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA642",
+                    "name": "MICROBIOLOGIA AMBIENTAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA643",
+                    "name": "MICROBIOLOGIA INDUSTRIAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA644",
+                    "name": "TECNOLOGIA DE OVOS E MEL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA645",
+                    "name": "TOXICOLOGIA DE ALIMENTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA646",
+                    "name": "INICIAÇÃO À DOCÊNCIA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA647",
+                    "name": "INICIAÇÃO À EXTENSÃO",
+                    "hours": 15,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA648",
+                    "name": "INICIAÇÃO À PESQUISA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA649",
+                    "name": "GRUPOS DE ESTUDOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA650",
+                    "name": "PARTICPAÇÃO EM EVENTOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICA651",
+                    "name": "PARTICIPAÇÃO EM REPRESENTAÇÕES ESTUDANTIS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 }
             ],

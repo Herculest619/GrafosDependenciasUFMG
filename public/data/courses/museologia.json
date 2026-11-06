@@ -19,7 +19,7 @@
         },
         "note": null
     },
-    "generatedAt": "2026-11-05T21:02:20.615Z",
+    "generatedAt": "2026-11-06T15:21:12.554Z",
     "disciplines": {
         "ECI257": {
             "code": "ECI257",
@@ -2095,562 +2095,1010 @@
             "optionalPool": [
                 {
                     "code": "APL096",
+                    "name": "TOPICOS EM CONSERVACAO-RESTAURACAO",
+                    "hours": 15,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "APL097",
+                    "name": "TOPICOS EM CONSERVACAO-RESTAURACAO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "APL098",
+                    "name": "TOPICOS EM CONSERVACAO RESTAURACAO B",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "APL099",
+                    "name": "TOPICOS EM CONSERVACAO-RESTAURACAO C",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "APL184",
+                    "name": "ORGANIZACAO E GERENCIAM. DE EXPOSICOES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "APL189",
+                    "name": "TOPICOS EM CURADORIA A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "APL190",
+                    "name": "TOPICOS EM CURADORIA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "APL191",
+                    "name": "TOPICOS EM CURADORIA C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "APL192",
+                    "name": "TOPICOS EM CURADORIA D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "APL197",
+                    "name": "TOPICOS EM HISTORIA DA ARTE A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "APL198",
+                    "name": "TOPICOS EM HISTORIA DA ARTE B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "APL199",
+                    "name": "TOPICOS EM HISTORIA DA ARTE C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "APL200",
+                    "name": "TOPICOS EM HISTORIA DA ARTE D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI035",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI036",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI037",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI038",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI113",
+                    "name": "DIFUSAO CULTURAL EM MUSEUS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI117",
+                    "name": "PLANEJAMENTO DA EXPOSICAO MUSEOLOGICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI119",
+                    "name": "TOP. CONHEC. MUSEAL E DIFUSAO CULTURAL A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI120",
+                    "name": "TOP. CONHEC. MUSEAL E DIFUSAO CULTURAL B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI121",
+                    "name": "TOP. CONHEC. MUSEAL E DIFUSAO CULTURAL C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI122",
+                    "name": "TOP. CONHEC. MUSEAL E DIFUSAO CULTURAL D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI281",
+                    "name": "TÓPICOS EM MUSEOLOGIA A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI282",
+                    "name": "TÓPICOS EM MUSEOLOGIA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI283",
+                    "name": "TÓPICOS EM MUSEOLOGIA C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI284",
+                    "name": "TÓPICOS EM MUSEOLOGIA D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI285",
+                    "name": "TÓPICOS EM MUSEOLOGIA SOCIAL A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI286",
+                    "name": "TÓPICOS EM MUSEOLOGIA SOCIAL B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI287",
+                    "name": "TÓPICOS EM MUSEOLOGIA SOCIAL C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI288",
+                    "name": "TÓPICOS EM MUSEOLOGIA SOCIAL D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI289",
+                    "name": "TÓPICOS EM AVALIAÇÃO DE PÚBLICO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI290",
+                    "name": "TÓPICOS EM AVALIAÇÃO DE PÚBLICO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI291",
+                    "name": "TÓPICOS EM AVALIAÇÃO DE PÚBLICO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI292",
+                    "name": "TÓPICOS EM AVALIAÇÃO DE PÚBLICO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI293",
+                    "name": "TÓPICOS EM ESTUDO DE PÚBLICO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI294",
+                    "name": "TÓPICOS EM ESTUDO DE PÚBLICO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI295",
+                    "name": "TÓPICOS EM ESTUDO DE PÚBLICO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI296",
+                    "name": "TÓPICOS EM ESTUDO DE PÚBLICO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI297",
+                    "name": "TÓPICOS EM TIPOLOGIA DE MUSEUS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI298",
+                    "name": "TÓPICOS EM TIPOLOGIA DE MUSEUS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI299",
+                    "name": "TÓPICOS EM TIPOLOGIA DE MUSEUS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI300",
+                    "name": "TÓPICOS EM TIPOLOGA DE MUSEUS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI301",
+                    "name": "TÓPICOS EM GESTÃO DE ACERVOS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI302",
+                    "name": "TÓPICOS EM GESTÃO DE ACERVOS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI303",
+                    "name": "TÓPICOS EM GESTÃO DE ACERVOS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI304",
+                    "name": "TÓPICOS EM GESTÃO DE ACERVOS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI305",
+                    "name": "TÓPICOS EM PESQUISA E HISTÓRIA A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI306",
+                    "name": "TÓPICOS EM PESQUISA E HISTÓRIA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI307",
+                    "name": "TÓPICOS EM PESQUISA E HISTÓRIA C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI308",
+                    "name": "TÓPICOS EM PESQUISA E HISTÓRIA D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI309",
+                    "name": "TÓPICOS EM ELABORAÇÃO DE PROJETOS CULTURAIS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI310",
+                    "name": "TÓPICOS EM ELABORAÇÃO DE PROJETOS CULTURAIS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI311",
+                    "name": "TÓPICOS EM ELABORAÇÃO DE PROJETOS CULTURAIS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI312",
+                    "name": "TÓPICOS EM ELABORAÇÃO DE PROJETOS CULTURAIS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI313",
+                    "name": "TÓPICOS EM EDUCAÇÃO EM MUSEUS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI314",
+                    "name": "TÓPICOS EM EDUCAÇÃO EM MUSEUS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI315",
+                    "name": "TÓPICOS EM EDUCAÇÃO EM MUSEUS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI316",
+                    "name": "TÓPICOS EM EDUCAÇÃO EM MUSEUS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI317",
+                    "name": "TÓPICOS EM PATRIMÔNIO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI318",
+                    "name": "TÓPICOS EM PATRIMÔNIO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI319",
+                    "name": "TÓPICOS EM PATRIMÔNIO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI320",
+                    "name": "TÓPICOS EM PATRIMÔNIO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI321",
+                    "name": "TÓPICOS EM DOCUMENTAÇÃO MUSEOLÓGICA A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI322",
+                    "name": "TÓPICOS EM DOCUMENTAÇÃO MUSEOLÓGICA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI323",
+                    "name": "TÓPICOS EM DOCUMENTAÇÃO MUSEOLÓGICA C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI324",
+                    "name": "TÓPICOS EM DOCUMENTAÇÃO MUSEOLÓGICA D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI325",
+                    "name": "TÓPICOS EM MUSEUS E DIVULGAÇÃO CIENTÍFICA A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI326",
+                    "name": "TÓPICOS EM MUSEUS E DIVULGAÇÃO CIENTÍFICA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI327",
+                    "name": "TÓPICOS EM MUSEUS E DIVULGAÇÃO CIENTÍFICA C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI328",
+                    "name": "TÓPICOS EM MUSEUS E DIVULGAÇÃO CIENTÍFICA D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI329",
+                    "name": "TÓPICOS EM EXPOGRAFIA A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI330",
+                    "name": "TÓPICOS EM EXPOGRAFIA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI331",
+                    "name": "TÓPICOS EM EXPOGRAFIA C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI332",
+                    "name": "TÓPICOS EM EXPOGRAFIA D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI333",
+                    "name": "TÓPICOS PESQUISA CIÊNCIA DA INFORMAÇÃO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI334",
+                    "name": "TÓPICOS PESQUISA CIÊNCIA DA INFORMAÇÃO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI335",
+                    "name": "TÓPICOS PESQUISA CIÊNCIA DA INFORMAÇÃO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI336",
+                    "name": "TÓPICOS PESQUISA CIÊNCIA DA INFORMAÇÃO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI337",
+                    "name": "INICIAÇÃO A DOCÊNCIA A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI338",
+                    "name": "INICIAÇÃO A DOCÊNCIA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI339",
+                    "name": "INICIAÇÃO A DOCÊNCIA C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI340",
+                    "name": "INICIAÇÃO A DOCÊNCIA D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI341",
+                    "name": "INICIAÇÃO A EXTENSÃO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI342",
+                    "name": "INICIAÇÃO A EXTENSÃO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI343",
+                    "name": "INICIAÇÃO A EXTENSÃO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI344",
+                    "name": "INICIAÇÃO A EXTENSÃO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI345",
+                    "name": "INICIAÇÃO A PESQUISA A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI346",
+                    "name": "INICIAÇÃO A PESQUISA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI347",
+                    "name": "INICIAÇÃO A PESQUISA C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI348",
+                    "name": "INICIAÇÃO A PESQUISA D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI349",
+                    "name": "PARTICIPAÇÃO EM EVENTOS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI350",
+                    "name": "PARTICIPAÇÃO EM EVENTOS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI351",
+                    "name": "PARTICIPAÇÃO EM EVENTOS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI352",
+                    "name": "PARTICIPAÇÃO EM EVENTOS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI353",
+                    "name": "PUBLICAÇÕES A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI354",
+                    "name": "PUBLICAÇÕES B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI355",
+                    "name": "PUBLICAÇÕES C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI356",
+                    "name": "PUBLICAÇÕES D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI357",
+                    "name": "ESTÁGIO NÃO OBRIGATÓRIO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI358",
+                    "name": "ESTÁGIO NÃO OBRIGATÓRIO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI359",
+                    "name": "ESTÁGIO NÃO OBRIGATÓRIO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI360",
+                    "name": "ESTÁGIO NÃO OBRIGATÓRIO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI361",
+                    "name": "CURSOS DE CURTA DURAÇÃO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI362",
+                    "name": "CURSOS DE CURTA DURAÇÃO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI363",
+                    "name": "CURSOS DE CURTA DURAÇÃO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI364",
+                    "name": "CURSOS DE CURTA DURAÇÃO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI365",
+                    "name": "INICIAÇÃO A CURADORIA A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI366",
+                    "name": "INICIAÇÃO A CURADORIA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI367",
+                    "name": "INICIAÇÃO A CURADORIA C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI368",
+                    "name": "INICIAÇÃO A CURADORIA D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 }
             ],
@@ -2801,582 +3249,1046 @@
             "optionalPool": [
                 {
                     "code": "APL096",
+                    "name": "TOPICOS EM CONSERVACAO-RESTAURACAO",
+                    "hours": 15,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "APL097",
+                    "name": "TOPICOS EM CONSERVACAO-RESTAURACAO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "APL098",
+                    "name": "TOPICOS EM CONSERVACAO RESTAURACAO B",
+                    "hours": 45,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "APL099",
+                    "name": "TOPICOS EM CONSERVACAO-RESTAURACAO C",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "APL184",
+                    "name": "ORGANIZACAO E GERENCIAM. DE EXPOSICOES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "APL189",
+                    "name": "TOPICOS EM CURADORIA A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "APL190",
+                    "name": "TOPICOS EM CURADORIA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "APL191",
+                    "name": "TOPICOS EM CURADORIA C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "APL192",
+                    "name": "TOPICOS EM CURADORIA D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "APL197",
+                    "name": "TOPICOS EM HISTORIA DA ARTE A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "APL198",
+                    "name": "TOPICOS EM HISTORIA DA ARTE B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "APL199",
+                    "name": "TOPICOS EM HISTORIA DA ARTE C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "APL200",
+                    "name": "TOPICOS EM HISTORIA DA ARTE D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI035",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI036",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI037",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI038",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI113",
+                    "name": "DIFUSAO CULTURAL EM MUSEUS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI117",
+                    "name": "PLANEJAMENTO DA EXPOSICAO MUSEOLOGICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI119",
+                    "name": "TOP. CONHEC. MUSEAL E DIFUSAO CULTURAL A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI120",
+                    "name": "TOP. CONHEC. MUSEAL E DIFUSAO CULTURAL B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI121",
+                    "name": "TOP. CONHEC. MUSEAL E DIFUSAO CULTURAL C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI122",
+                    "name": "TOP. CONHEC. MUSEAL E DIFUSAO CULTURAL D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI281",
+                    "name": "TÓPICOS EM MUSEOLOGIA A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI282",
+                    "name": "TÓPICOS EM MUSEOLOGIA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI283",
+                    "name": "TÓPICOS EM MUSEOLOGIA C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI284",
+                    "name": "TÓPICOS EM MUSEOLOGIA D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI285",
+                    "name": "TÓPICOS EM MUSEOLOGIA SOCIAL A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI286",
+                    "name": "TÓPICOS EM MUSEOLOGIA SOCIAL B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI287",
+                    "name": "TÓPICOS EM MUSEOLOGIA SOCIAL C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI288",
+                    "name": "TÓPICOS EM MUSEOLOGIA SOCIAL D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI289",
+                    "name": "TÓPICOS EM AVALIAÇÃO DE PÚBLICO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI290",
+                    "name": "TÓPICOS EM AVALIAÇÃO DE PÚBLICO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI291",
+                    "name": "TÓPICOS EM AVALIAÇÃO DE PÚBLICO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI292",
+                    "name": "TÓPICOS EM AVALIAÇÃO DE PÚBLICO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI293",
+                    "name": "TÓPICOS EM ESTUDO DE PÚBLICO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI294",
+                    "name": "TÓPICOS EM ESTUDO DE PÚBLICO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI295",
+                    "name": "TÓPICOS EM ESTUDO DE PÚBLICO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI296",
+                    "name": "TÓPICOS EM ESTUDO DE PÚBLICO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI297",
+                    "name": "TÓPICOS EM TIPOLOGIA DE MUSEUS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI298",
+                    "name": "TÓPICOS EM TIPOLOGIA DE MUSEUS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI299",
+                    "name": "TÓPICOS EM TIPOLOGIA DE MUSEUS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI300",
+                    "name": "TÓPICOS EM TIPOLOGA DE MUSEUS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI301",
+                    "name": "TÓPICOS EM GESTÃO DE ACERVOS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI302",
+                    "name": "TÓPICOS EM GESTÃO DE ACERVOS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI303",
+                    "name": "TÓPICOS EM GESTÃO DE ACERVOS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI304",
+                    "name": "TÓPICOS EM GESTÃO DE ACERVOS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI305",
+                    "name": "TÓPICOS EM PESQUISA E HISTÓRIA A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI306",
+                    "name": "TÓPICOS EM PESQUISA E HISTÓRIA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI307",
+                    "name": "TÓPICOS EM PESQUISA E HISTÓRIA C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI308",
+                    "name": "TÓPICOS EM PESQUISA E HISTÓRIA D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI309",
+                    "name": "TÓPICOS EM ELABORAÇÃO DE PROJETOS CULTURAIS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI310",
+                    "name": "TÓPICOS EM ELABORAÇÃO DE PROJETOS CULTURAIS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI311",
+                    "name": "TÓPICOS EM ELABORAÇÃO DE PROJETOS CULTURAIS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI312",
+                    "name": "TÓPICOS EM ELABORAÇÃO DE PROJETOS CULTURAIS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI313",
+                    "name": "TÓPICOS EM EDUCAÇÃO EM MUSEUS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI314",
+                    "name": "TÓPICOS EM EDUCAÇÃO EM MUSEUS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI315",
+                    "name": "TÓPICOS EM EDUCAÇÃO EM MUSEUS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI316",
+                    "name": "TÓPICOS EM EDUCAÇÃO EM MUSEUS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI317",
+                    "name": "TÓPICOS EM PATRIMÔNIO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI318",
+                    "name": "TÓPICOS EM PATRIMÔNIO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI319",
+                    "name": "TÓPICOS EM PATRIMÔNIO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI320",
+                    "name": "TÓPICOS EM PATRIMÔNIO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI321",
+                    "name": "TÓPICOS EM DOCUMENTAÇÃO MUSEOLÓGICA A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI322",
+                    "name": "TÓPICOS EM DOCUMENTAÇÃO MUSEOLÓGICA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI323",
+                    "name": "TÓPICOS EM DOCUMENTAÇÃO MUSEOLÓGICA C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI324",
+                    "name": "TÓPICOS EM DOCUMENTAÇÃO MUSEOLÓGICA D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI325",
+                    "name": "TÓPICOS EM MUSEUS E DIVULGAÇÃO CIENTÍFICA A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI326",
+                    "name": "TÓPICOS EM MUSEUS E DIVULGAÇÃO CIENTÍFICA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI327",
+                    "name": "TÓPICOS EM MUSEUS E DIVULGAÇÃO CIENTÍFICA C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI328",
+                    "name": "TÓPICOS EM MUSEUS E DIVULGAÇÃO CIENTÍFICA D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI329",
+                    "name": "TÓPICOS EM EXPOGRAFIA A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI330",
+                    "name": "TÓPICOS EM EXPOGRAFIA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI331",
+                    "name": "TÓPICOS EM EXPOGRAFIA C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI332",
+                    "name": "TÓPICOS EM EXPOGRAFIA D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI333",
+                    "name": "TÓPICOS PESQUISA CIÊNCIA DA INFORMAÇÃO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI334",
+                    "name": "TÓPICOS PESQUISA CIÊNCIA DA INFORMAÇÃO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI335",
+                    "name": "TÓPICOS PESQUISA CIÊNCIA DA INFORMAÇÃO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI336",
+                    "name": "TÓPICOS PESQUISA CIÊNCIA DA INFORMAÇÃO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECI337",
+                    "name": "INICIAÇÃO A DOCÊNCIA A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI338",
+                    "name": "INICIAÇÃO A DOCÊNCIA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI339",
+                    "name": "INICIAÇÃO A DOCÊNCIA C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI340",
+                    "name": "INICIAÇÃO A DOCÊNCIA D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI341",
+                    "name": "INICIAÇÃO A EXTENSÃO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI342",
+                    "name": "INICIAÇÃO A EXTENSÃO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI343",
+                    "name": "INICIAÇÃO A EXTENSÃO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI344",
+                    "name": "INICIAÇÃO A EXTENSÃO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI345",
+                    "name": "INICIAÇÃO A PESQUISA A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI346",
+                    "name": "INICIAÇÃO A PESQUISA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI347",
+                    "name": "INICIAÇÃO A PESQUISA C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI348",
+                    "name": "INICIAÇÃO A PESQUISA D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI349",
+                    "name": "PARTICIPAÇÃO EM EVENTOS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI350",
+                    "name": "PARTICIPAÇÃO EM EVENTOS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI351",
+                    "name": "PARTICIPAÇÃO EM EVENTOS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI352",
+                    "name": "PARTICIPAÇÃO EM EVENTOS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI353",
+                    "name": "PUBLICAÇÕES A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI354",
+                    "name": "PUBLICAÇÕES B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI355",
+                    "name": "PUBLICAÇÕES C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI356",
+                    "name": "PUBLICAÇÕES D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI357",
+                    "name": "ESTÁGIO NÃO OBRIGATÓRIO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI358",
+                    "name": "ESTÁGIO NÃO OBRIGATÓRIO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI359",
+                    "name": "ESTÁGIO NÃO OBRIGATÓRIO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI360",
+                    "name": "ESTÁGIO NÃO OBRIGATÓRIO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI361",
+                    "name": "CURSOS DE CURTA DURAÇÃO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI362",
+                    "name": "CURSOS DE CURTA DURAÇÃO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI363",
+                    "name": "CURSOS DE CURTA DURAÇÃO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI364",
+                    "name": "CURSOS DE CURTA DURAÇÃO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI365",
+                    "name": "INICIAÇÃO A CURADORIA A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI366",
+                    "name": "INICIAÇÃO A CURADORIA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI367",
+                    "name": "INICIAÇÃO A CURADORIA C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI368",
+                    "name": "INICIAÇÃO A CURADORIA D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Atividades Acadêmicas Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ECI369",
+                    "name": "TÓPICOS AVANÇADOS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ECI370",
+                    "name": "TÓPICOS AVANÇADOS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ECI371",
+                    "name": "TÓPICOS AVANÇADOS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ECI372",
+                    "name": "TÓPICOS AVANÇADOS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 }
             ],

@@ -19,7 +19,7 @@
         },
         "note": null
     },
-    "generatedAt": "2026-11-05T21:02:20.804Z",
+    "generatedAt": "2026-11-06T15:21:12.746Z",
     "disciplines": {
         "BIG058": {
             "code": "BIG058",
@@ -2921,64 +2921,104 @@
             "optionalPool": [
                 {
                     "code": "ALO002",
+                    "name": "ORTOPEDIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "ALO004",
+                    "name": "REUMATOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "APM004",
+                    "name": "MEDICINA LEGAL E DEONTOLOGIA MEDICA II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "APM006",
+                    "name": "TOPICOS EM ANATOMIA PATOLOGICA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "BIG015",
+                    "name": "TOPICOS EM ECOLOGIA E SAUDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CIR005",
+                    "name": "ANESTESIOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "CIR007",
+                    "name": "TOPICOS EM CIRURGIA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CIR014"
                     ]
                 },
                 {
                     "code": "CIR008",
+                    "name": "UROLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "CIR009",
+                    "name": "ANATOMIA CIRURGICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "CIR010",
+                    "name": "COLOPROCTOLOGIA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM025",
                         "APM002",
@@ -2988,14 +3028,22 @@
                 },
                 {
                     "code": "CIR011",
+                    "name": "NEUROCIRURGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "CIR012",
+                    "name": "CIRURGIA PEDIATRICA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM025",
                         "APM002",
@@ -3004,7 +3052,11 @@
                 },
                 {
                     "code": "CIR019",
+                    "name": "CIRURGIA CARDIOVASCULAR",
+                    "hours": 30,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "FIB040",
                         "APM002"
@@ -3012,435 +3064,711 @@
                 },
                 {
                     "code": "CLM008",
+                    "name": "DERMATOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM025"
                     ]
                 },
                 {
                     "code": "CLM009",
+                    "name": "ONCOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "CLM011",
+                    "name": "TOPICOS EM CLINICA MEDICA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM025"
                     ]
                 },
                 {
                     "code": "CLM012",
+                    "name": "GERIATRIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "CLM019",
+                    "name": "ENDOCRINOLOGIA DO ADULTO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "CLM020",
+                    "name": "CURSO BAS. INTERP. ELETROCARD. REPOUSO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM025"
                     ]
                 },
                 {
                     "code": "GOB005",
+                    "name": "TOPICOS EM GINECOLOGIA E OBSTETRICIA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM025"
                     ]
                 },
                 {
                     "code": "GOB006",
+                    "name": "MASTOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "GOB008"
                     ]
                 },
                 {
                     "code": "ICB001",
+                    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "IMA005",
+                    "name": "IMAGEM III",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "IMA004"
                     ]
                 },
                 {
                     "code": "IMA006",
+                    "name": "MEDICINA NUCLEAR",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM025"
                     ]
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MED007",
+                    "name": "DOENCAS INFECCIOSAS E PARASITARIAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "MED009",
+                    "name": "ENDOSCOPIA DO SISTEMA DIGESTIVO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "MED010",
+                    "name": "GASTROENTEROLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "MED011",
+                    "name": "HEMATOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "MED012",
+                    "name": "INFORMATICA MEDICA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "MPS004"
                     ]
                 },
                 {
                     "code": "MED014",
+                    "name": "NEUROLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "MED015",
+                    "name": "PNEUMOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "MED017",
+                    "name": "TRANSPLANTE DE ORGAOS E TECIDOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CIR014"
                     ]
                 },
                 {
                     "code": "MED020",
+                    "name": "HISTORIA DA MEDICINA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MED035",
+                    "name": "ESTAGIO EM TOXICOLOGIA CLINICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM025"
                     ]
                 },
                 {
                     "code": "MED036",
+                    "name": "ESTAGIO CURRICULAR",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MED049",
+                    "name": "NEFROLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "MED050",
+                    "name": "CARDIOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "MED079",
+                    "name": "PROGRAMA DE INICIAÇÃO À DOCÊNCIA A",
+                    "hours": 90,
+                    "credits": null,
                     "group": "5",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED080",
+                    "name": "PROGRAMA DE INICIAÇÃO À PESQUISA A",
+                    "hours": 90,
+                    "credits": null,
                     "group": "5",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED081",
+                    "name": "PROGRAMA DE INICIAÇÃO À DOCÊNCIA B",
+                    "hours": 180,
+                    "credits": null,
                     "group": "5",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED082",
+                    "name": "PROGRAMA DE INICIAÇÃO À PESQUISA B",
+                    "hours": 180,
+                    "credits": null,
                     "group": "5",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED083",
+                    "name": "PROGRAMA DE INICIAÇÃO À EXTENSÃO B",
+                    "hours": 180,
+                    "credits": null,
                     "group": "5",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED084",
+                    "name": "DISCUSSÕES TEMÁTICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED085",
+                    "name": "VIVÊNCIA PROFISSIONAL COMPLEMENTAR A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "5",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED086",
+                    "name": "VIVÊNCIA PROFISSIONAL COMPLEMENTAR B",
+                    "hours": 90,
+                    "credits": null,
                     "group": "5",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED087",
+                    "name": "VIVÊNCIA PROFISSIONAL COMPLEMENTAR C",
+                    "hours": 180,
+                    "credits": null,
                     "group": "5",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED088",
+                    "name": "ATIVIDADE ACADÊMICA COMPLEMENTAR A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED089",
+                    "name": "ATIVIDADE ACADÊMICA COMPLEMENTAR B",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED090",
+                    "name": "PARTICIPAÇÃO EM EVENTOS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "5",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED091",
+                    "name": "PARTICIPAÇÃO EM EVENTOS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED092",
+                    "name": "PROGRAMA DE INICIAÇÃO À EXTENSÃO A",
+                    "hours": 90,
+                    "credits": null,
                     "group": "5",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED093",
+                    "name": "TERAPÊUTICA CLÍNICA I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "FAR035"
                     ]
                 },
                 {
                     "code": "MED094",
+                    "name": "TERAPÊUTICA CLÍNICA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "FAR035"
                     ]
                 },
                 {
                     "code": "MED095",
+                    "name": "TERAPÊUTICA CLÍNICA III",
+                    "hours": 30,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "FAR035"
                     ]
                 },
                 {
                     "code": "MED096",
+                    "name": "TERAPÊUTICA CLÍNICA IV",
+                    "hours": 30,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "FAR035"
                     ]
                 },
                 {
                     "code": "MED099",
+                    "name": "TUTORIA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "MED066"
                     ]
                 },
                 {
                     "code": "MPS008",
+                    "name": "SOCIOLOGIA MEDICA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "MPS031"
                     ]
                 },
                 {
                     "code": "MPS009",
+                    "name": "TECNICA PESQ.BIBL.PLANEJ.TRAB.CIENTIFICO",
+                    "hours": 15,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MPS010",
+                    "name": "FUNDAMENTOS PENSAM.CIENTIF.SABER MEDICO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "MPS031"
                     ]
                 },
                 {
                     "code": "MPS011",
+                    "name": "TOPICOS EM SAUDE COLETIVA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MPS024",
+                    "name": "ETICA E DIREITO MEDICO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "PED017"
                     ]
                 },
                 {
                     "code": "MPS025",
+                    "name": "ECONOMIA DA SAUDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "OFT035",
+                    "name": "OTORRINOLARINGOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM025"
                     ]
                 },
                 {
                     "code": "OFT106",
+                    "name": "OFTALMOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM025"
                     ]
                 },
                 {
                     "code": "OFT107",
+                    "name": "TOPICOS EM OFTALMOLOGIA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM025"
                     ]
                 },
                 {
                     "code": "OFT108",
+                    "name": "TOPICOS EM OTORRINOLARINGOLOGIA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM025"
                     ]
                 },
                 {
                     "code": "PED005",
+                    "name": "TOPICOS EM PEDIATRIA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "PED018"
                     ]
                 },
                 {
                     "code": "PED008",
+                    "name": "EDUCACAO E SAUDE EM CRECHES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "PED015",
+                    "name": "ENDOCRINOLOGIA PEDIATRICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "PED019"
                     ]
                 },
                 {
                     "code": "PED023",
+                    "name": "MEDICINA DO ADOLESCENTE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "PED019"
                     ]
                 },
                 {
                     "code": "PED024",
+                    "name": "GASTROENTEROLOGIA PEDIÁTRICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "PED018"
                     ]
                 },
                 {
                     "code": "PED025",
+                    "name": "HEMATOLOGIA PEDIÁTRICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "PED018"
                     ]
                 },
                 {
                     "code": "PED026",
+                    "name": "NEUROLOGIA PEDIÁTRICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "PED018"
                     ]
                 },
                 {
                     "code": "PED027",
+                    "name": "PNEUMOLOGIA PEDIÁTRICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "PED018"
                     ]
                 },
                 {
                     "code": "PED028",
+                    "name": "NEFROLOGIA PEDIÁTRICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "PED018"
                     ]
                 },
                 {
                     "code": "PED029",
+                    "name": "CARDIOLOGIA PEDIÁTRICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "PED018"
                     ]
                 },
                 {
                     "code": "PFA053",
+                    "name": "FITOTERAPICOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "PRO009",
+                    "name": "TOPICOS EM PROPEDEUTICA COMPLEMENTAR",
+                    "hours": 15,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "PRO011",
+                    "name": "PATOLOGIA CLINICA III",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "PRO072"
                     ]
                 },
                 {
                     "code": "SAM019",
+                    "name": "FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "FAR035"
                     ]
                 },
                 {
                     "code": "SAM020",
+                    "name": "TOPICOS EM PSIQUIATRIA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas",
                     "prereqs": []
                 }
             ],
@@ -3674,64 +4002,104 @@
             "optionalPool": [
                 {
                     "code": "ALO002",
+                    "name": "ORTOPEDIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "ALO004",
+                    "name": "REUMATOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "APM004",
+                    "name": "MEDICINA LEGAL E DEONTOLOGIA MEDICA II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "APM006",
+                    "name": "TOPICOS EM ANATOMIA PATOLOGICA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "BIG015",
+                    "name": "TOPICOS EM ECOLOGIA E SAUDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CIR005",
+                    "name": "ANESTESIOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "CIR007",
+                    "name": "TOPICOS EM CIRURGIA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CIR014"
                     ]
                 },
                 {
                     "code": "CIR008",
+                    "name": "UROLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "CIR009",
+                    "name": "ANATOMIA CIRURGICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "CIR010",
+                    "name": "COLOPROCTOLOGIA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM025",
                         "APM002",
@@ -3741,14 +4109,22 @@
                 },
                 {
                     "code": "CIR011",
+                    "name": "NEUROCIRURGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "CIR012",
+                    "name": "CIRURGIA PEDIATRICA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM025",
                         "APM002",
@@ -3757,7 +4133,11 @@
                 },
                 {
                     "code": "CIR019",
+                    "name": "CIRURGIA CARDIOVASCULAR",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "FIB040",
                         "APM002"
@@ -3765,435 +4145,711 @@
                 },
                 {
                     "code": "CLM008",
+                    "name": "DERMATOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM025"
                     ]
                 },
                 {
                     "code": "CLM009",
+                    "name": "ONCOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "CLM011",
+                    "name": "TOPICOS EM CLINICA MEDICA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM025"
                     ]
                 },
                 {
                     "code": "CLM012",
+                    "name": "GERIATRIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "CLM019",
+                    "name": "ENDOCRINOLOGIA DO ADULTO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "CLM020",
+                    "name": "CURSO BAS. INTERP. ELETROCARD. REPOUSO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM025"
                     ]
                 },
                 {
                     "code": "GOB005",
+                    "name": "TOPICOS EM GINECOLOGIA E OBSTETRICIA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM025"
                     ]
                 },
                 {
                     "code": "GOB006",
+                    "name": "MASTOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "GOB008"
                     ]
                 },
                 {
                     "code": "ICB001",
+                    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "IMA005",
+                    "name": "IMAGEM III",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "IMA004"
                     ]
                 },
                 {
                     "code": "IMA006",
+                    "name": "MEDICINA NUCLEAR",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM025"
                     ]
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MED007",
+                    "name": "DOENCAS INFECCIOSAS E PARASITARIAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "MED009",
+                    "name": "ENDOSCOPIA DO SISTEMA DIGESTIVO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "MED010",
+                    "name": "GASTROENTEROLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "MED011",
+                    "name": "HEMATOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "MED012",
+                    "name": "INFORMATICA MEDICA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "MPS004"
                     ]
                 },
                 {
                     "code": "MED014",
+                    "name": "NEUROLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "MED015",
+                    "name": "PNEUMOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "MED017",
+                    "name": "TRANSPLANTE DE ORGAOS E TECIDOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CIR014"
                     ]
                 },
                 {
                     "code": "MED020",
+                    "name": "HISTORIA DA MEDICINA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MED035",
+                    "name": "ESTAGIO EM TOXICOLOGIA CLINICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM025"
                     ]
                 },
                 {
                     "code": "MED036",
+                    "name": "ESTAGIO CURRICULAR",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MED049",
+                    "name": "NEFROLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "MED050",
+                    "name": "CARDIOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM026"
                     ]
                 },
                 {
                     "code": "MED079",
+                    "name": "PROGRAMA DE INICIAÇÃO À DOCÊNCIA A",
+                    "hours": 90,
+                    "credits": null,
                     "group": "10",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED080",
+                    "name": "PROGRAMA DE INICIAÇÃO À PESQUISA A",
+                    "hours": 90,
+                    "credits": null,
                     "group": "10",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED081",
+                    "name": "PROGRAMA DE INICIAÇÃO À DOCÊNCIA B",
+                    "hours": 180,
+                    "credits": null,
                     "group": "10",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED082",
+                    "name": "PROGRAMA DE INICIAÇÃO À PESQUISA B",
+                    "hours": 180,
+                    "credits": null,
                     "group": "10",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED083",
+                    "name": "PROGRAMA DE INICIAÇÃO À EXTENSÃO B",
+                    "hours": 180,
+                    "credits": null,
                     "group": "10",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED084",
+                    "name": "DISCUSSÕES TEMÁTICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED085",
+                    "name": "VIVÊNCIA PROFISSIONAL COMPLEMENTAR A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "10",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED086",
+                    "name": "VIVÊNCIA PROFISSIONAL COMPLEMENTAR B",
+                    "hours": 90,
+                    "credits": null,
                     "group": "10",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED087",
+                    "name": "VIVÊNCIA PROFISSIONAL COMPLEMENTAR C",
+                    "hours": 180,
+                    "credits": null,
                     "group": "10",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED088",
+                    "name": "ATIVIDADE ACADÊMICA COMPLEMENTAR A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED089",
+                    "name": "ATIVIDADE ACADÊMICA COMPLEMENTAR B",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED090",
+                    "name": "PARTICIPAÇÃO EM EVENTOS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "10",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED091",
+                    "name": "PARTICIPAÇÃO EM EVENTOS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED092",
+                    "name": "PROGRAMA DE INICIAÇÃO À EXTENSÃO A",
+                    "hours": 90,
+                    "credits": null,
                     "group": "10",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MED093",
+                    "name": "TERAPÊUTICA CLÍNICA I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "FAR035"
                     ]
                 },
                 {
                     "code": "MED094",
+                    "name": "TERAPÊUTICA CLÍNICA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "FAR035"
                     ]
                 },
                 {
                     "code": "MED095",
+                    "name": "TERAPÊUTICA CLÍNICA III",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "FAR035"
                     ]
                 },
                 {
                     "code": "MED096",
+                    "name": "TERAPÊUTICA CLÍNICA IV",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "FAR035"
                     ]
                 },
                 {
                     "code": "MED099",
+                    "name": "TUTORIA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "MED066"
                     ]
                 },
                 {
                     "code": "MPS008",
+                    "name": "SOCIOLOGIA MEDICA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "MPS031"
                     ]
                 },
                 {
                     "code": "MPS009",
+                    "name": "TECNICA PESQ.BIBL.PLANEJ.TRAB.CIENTIFICO",
+                    "hours": 15,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MPS010",
+                    "name": "FUNDAMENTOS PENSAM.CIENTIF.SABER MEDICO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "MPS031"
                     ]
                 },
                 {
                     "code": "MPS011",
+                    "name": "TOPICOS EM SAUDE COLETIVA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MPS024",
+                    "name": "ETICA E DIREITO MEDICO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "PED017"
                     ]
                 },
                 {
                     "code": "MPS025",
+                    "name": "ECONOMIA DA SAUDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "OFT035",
+                    "name": "OTORRINOLARINGOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM025"
                     ]
                 },
                 {
                     "code": "OFT106",
+                    "name": "OFTALMOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM025"
                     ]
                 },
                 {
                     "code": "OFT107",
+                    "name": "TOPICOS EM OFTALMOLOGIA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM025"
                     ]
                 },
                 {
                     "code": "OFT108",
+                    "name": "TOPICOS EM OTORRINOLARINGOLOGIA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "CLM025"
                     ]
                 },
                 {
                     "code": "PED005",
+                    "name": "TOPICOS EM PEDIATRIA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "PED018"
                     ]
                 },
                 {
                     "code": "PED008",
+                    "name": "EDUCACAO E SAUDE EM CRECHES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "PED015",
+                    "name": "ENDOCRINOLOGIA PEDIATRICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "PED019"
                     ]
                 },
                 {
                     "code": "PED023",
+                    "name": "MEDICINA DO ADOLESCENTE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "PED019"
                     ]
                 },
                 {
                     "code": "PED024",
+                    "name": "GASTROENTEROLOGIA PEDIÁTRICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "PED018"
                     ]
                 },
                 {
                     "code": "PED025",
+                    "name": "HEMATOLOGIA PEDIÁTRICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "PED018"
                     ]
                 },
                 {
                     "code": "PED026",
+                    "name": "NEUROLOGIA PEDIÁTRICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "PED018"
                     ]
                 },
                 {
                     "code": "PED027",
+                    "name": "PNEUMOLOGIA PEDIÁTRICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "PED018"
                     ]
                 },
                 {
                     "code": "PED028",
+                    "name": "NEFROLOGIA PEDIÁTRICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "PED018"
                     ]
                 },
                 {
                     "code": "PED029",
+                    "name": "CARDIOLOGIA PEDIÁTRICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "PED018"
                     ]
                 },
                 {
                     "code": "PFA053",
+                    "name": "FITOTERAPICOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "PRO009",
+                    "name": "TOPICOS EM PROPEDEUTICA COMPLEMENTAR",
+                    "hours": 15,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "PRO011",
+                    "name": "PATOLOGIA CLINICA III",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "PRO072"
                     ]
                 },
                 {
                     "code": "SAM019",
+                    "name": "FARMACOLOGIA DO SISTEMA NERVOSO CENTRAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "FAR035"
                     ]
                 },
                 {
                     "code": "SAM020",
+                    "name": "TOPICOS EM PSIQUIATRIA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas",
                     "prereqs": []
                 }
             ],

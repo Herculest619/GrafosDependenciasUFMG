@@ -162,6 +162,28 @@ export function buildGraph(course, options = {}) {
     }
     nodes.push(...slots)
 
+    // Disciplinas escolhidas para cada espaço de optativa
+    const choices = options.choices ?? {}
+    for (const slot of slots) {
+        const code = choices[slot.id]
+        if (!code) continue
+        const discipline = findByCode(course, code)
+        const poolEntry = (percurso.optionalPool ?? []).find((entry) => entry.code === code)
+        const name = discipline?.name ?? poolEntry?.name ?? code
+        const hours = discipline ? disciplineHours(discipline) : poolEntry?.hours ?? slot.hours
+        slot.chosen = { code, name, hours }
+        slot.label = truncate(name, 30)
+        slot.name = name
+        slot.title = `${code} — ${name} (${hours} h)`
+        slot.hours = hours
+
+        const prereqs = (poolEntry?.prereqs?.length ? poolEntry.prereqs : discipline?.prereqs) ?? []
+        for (const prereq of prereqs) {
+            if (!seen.has(prereq)) continue
+            edges.push({ from: prereq, to: slot.id })
+        }
+    }
+
     return {
         percursoId: percurso.id,
         percursoName: percurso.name ?? percurso.id,

@@ -9,7 +9,7 @@ const props = defineProps({
     status: { type: Map, required: true },
 })
 
-const emit = defineEmits(['toggle'])
+const emit = defineEmits(['toggle', 'choose-slot'])
 
 const theme = inject('theme', null)
 const container = ref(null)
@@ -158,7 +158,15 @@ function destroyNetwork() {
     }
 }
 
-function mountNetwork() {
+function mountNetwork(options = {}) {
+    const previousView =
+        options.keepView && network
+            ? {
+                  position: network.getViewPosition(),
+                  scale: network.getScale(),
+              }
+            : null
+
     destroyNetwork()
     if (!container.value || !props.graph.nodes.length) return
 
@@ -168,6 +176,8 @@ function mountNetwork() {
 
     network = new Network(container.value, { nodes: nodesSet, edges: edgesSet }, baseOptions())
 
+    const kindById = new Map(props.graph.nodes.map((node) => [node.id, node.kind]))
+
     network.on('click', (params) => {
         // O evento "click" do vis-network traz params.nodes apenas quando há seleção;
         // como os nós não são selecionáveis, fazemos o hit-test pelo ponteiro.
@@ -175,6 +185,10 @@ function mountNetwork() {
         if (nodeId === undefined || nodeId === null) return
         network.unselectAll()
         if (String(nodeId).startsWith('__level_')) return
+        if (kindById.get(nodeId) === 'slot') {
+            emit('choose-slot', nodeId)
+            return
+        }
         emit('toggle', nodeId)
     })
 
@@ -197,7 +211,11 @@ function mountNetwork() {
         window.__graphNetwork = network
     }
 
-    scheduleInitialView(0)
+    if (previousView) {
+        network.moveTo({ ...previousView, animation: false })
+    } else {
+        scheduleInitialView(0)
+    }
 }
 
 /** Espera o container ganhar dimensões antes de posicionar a câmera. */
@@ -417,7 +435,7 @@ if (typeof window !== 'undefined' && window.location.search.includes('debug')) {
 
 watch(
     () => props.graph,
-    () => mountNetwork()
+    () => mountNetwork({ keepView: true })
 )
 
 watch(

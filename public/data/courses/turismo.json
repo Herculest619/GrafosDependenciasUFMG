@@ -19,7 +19,7 @@
         },
         "note": null
     },
-    "generatedAt": "2026-11-05T21:02:20.760Z",
+    "generatedAt": "2026-11-06T15:21:12.717Z",
     "disciplines": {
         "ECN101": {
             "code": "ECN101",
@@ -1557,404 +1557,724 @@
             "optionalPool": [
                 {
                     "code": "CAD036",
+                    "name": "PLANEJAMENTO ESTRATEGICO DO TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "CRT008",
+                    "name": "CARTOGRAFIA MULTIMIDIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": [
                         "CRT007"
                     ]
                 },
                 {
                     "code": "DCP022",
+                    "name": "INTROD. AO PENSAMENTO POLITICO CLASSICO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "3",
+                    "groupName": "GRUPO DE OPTATIVAS EM CIÊNCIAS HUMANAS",
                     "prereqs": []
                 },
                 {
                     "code": "EFI038",
+                    "name": "CONTEUDOS CULTURAIS DO LAZER",
+                    "hours": 30,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "EFI039",
+                    "name": "FORMACAO/ATUACAO PROFISSIONAL NO LAZER",
+                    "hours": 30,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "FIL028",
+                    "name": "INTRODUCAO A FILOSOFIA: ETICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "3",
+                    "groupName": "GRUPO DE OPTATIVAS EM CIÊNCIAS HUMANAS",
                     "prereqs": []
                 },
                 {
                     "code": "GEL044",
+                    "name": "GEOL.E MINERACAO NO POTENC. TURIST.DE MG",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEL045",
+                    "name": "GEOLOGIA COMO ATRATIVO TURISTICO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO035",
+                    "name": "GEOGRAFIA DE MINAS GERAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO036",
+                    "name": "GEOGRAFIA E TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO037",
+                    "name": "INTERPRETACAO GEO-AMBIENTAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO047",
+                    "name": "TOPICOS EM PLANEJAMENTO DO TURISMO I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO048",
+                    "name": "TOPICOS EM PLANEJAMENTO DO TURISMO II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO378",
+                    "name": "PROJETOS DE EXTENSÃO IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO383",
+                    "name": "PUBLICAÇÃO DE ARTIGOS EM PERIÓDICOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO384",
+                    "name": "APRESENTAÇÃO DE TRABALHOS CIENTÍFICOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO385",
+                    "name": "ORGANIZAÇÃO DE EVENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO386",
+                    "name": "PARTICIPAÇÃO EM EVENTOS I (OUVINTE)",
+                    "hours": 15,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO387",
+                    "name": "PARTICIPAÇÃO EM EVENTOS II (OUVINTE)",
+                    "hours": 30,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO388",
+                    "name": "APRENDIZAGEM COMPLEMENTAR EM INSTITUIÇÕES CONVENIADAS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO389",
+                    "name": "APRENDIZAGEM COMPLEMENTAR EM INSTITUIÇÕES CONVENIADAS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO390",
+                    "name": "APRENDIZAGEM COMPLEMENTAR EM INSTITUIÇÕES CONVENIADAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO391",
+                    "name": "APRENDIZAGEM COMPLEMENTAR EM INSTITUIÇÕES CONVENIADAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO392",
+                    "name": "TÓPICOS AVANÇADOS I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO393",
+                    "name": "TÓPICOS AVANÇADOS II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO394",
+                    "name": "VIVÊNCIA PROFISSIONAL COMPLEMENTAR",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO395",
+                    "name": "EXPERIÊNCIAS PESSOAIS PROGRAMADAS I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO396",
+                    "name": "EXPERIÊNCIAS PESSOAIS PROGRAMADAS II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO397",
+                    "name": "INICIAÇÃO A DOCÊNCIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO398",
+                    "name": "PROJETOS DE EXTENSÃO I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO399",
+                    "name": "PROJETOS DE EXTENSÃO II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO400",
+                    "name": "PROJETOS DE EXTENSÃO III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO410",
+                    "name": "CULINÁRIA, GASTRONOMIA E TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO411",
+                    "name": "ELABORAÇÃO E FORMATAÇÃO DE ROTEIROS TURÍSTICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO412",
+                    "name": "OPERADORAS TURÍSTICAS, AGÊNCIAS DE VIAGEM E TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO413",
+                    "name": "MEIOS DE HOSPEDAGEM, HOSPITALIDADE E TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO414",
+                    "name": "TÓPICOS EM GESTÃO DO TURISMO I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO415",
+                    "name": "TÓPICOS EM GESTÃO DO TURISMO II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO416",
+                    "name": "TURISMO E CULTURA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO417",
+                    "name": "TURISMO E DESENVOLVIMENTO REGIONAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO418",
+                    "name": "TURISMO EM ESPAÇO RURAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO419",
+                    "name": "TURISMO E EVENTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO420",
+                    "name": "TURISMO E MUSEUS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO421",
+                    "name": "INICIAÇÃO A PESQUISA I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO425",
+                    "name": "TURISMO, NATUREZA E EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO426",
+                    "name": "TENDÊNCIAS DO TURISMO CONTEMPORÂNEO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO427",
+                    "name": "TURISMO E MEIO AMBIENTE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO433",
+                    "name": "COMUNIDADE, TERRITÓRIO E TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO434",
+                    "name": "ECONOMIA DO TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO435",
+                    "name": "ELABORAÇÃO E ANÁLISE DE PROJETOS TURÍSTICOS E CULTURAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO436",
+                    "name": "FORMAÇÃO EM EXTENSÃO I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO437",
+                    "name": "FORMAÇÃO EM EXTENSÃO II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO438",
+                    "name": "GEODIVERSIDADE E TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO439",
+                    "name": "E-TURISMO E CULTURA DIGITAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO440",
+                    "name": "GESTÃO RESPONSÁVEL DE DESTINOS TURÍSTICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO441",
+                    "name": "INOVAÇÃO EM TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO442",
+                    "name": "MÉTODOS E TÉCNICAS DE ANÁLISE DA INFORM. PLANEJ. TURÍSTICO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO443",
+                    "name": "PAISAGEM, TERRITÓRIO E TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO444",
+                    "name": "SOCIOLOGIA DO DESVIO E TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO445",
+                    "name": "TÓPICOS EM GESTÃO DO TURISMO III",
+                    "hours": 30,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO446",
+                    "name": "TÓPICOS EM PLANEJAMENTO DO TURISMO III",
+                    "hours": 30,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO447",
+                    "name": "TRANSPORTE E TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO448",
+                    "name": "TURISMO, CULTURA E RELAÇÕES INTERNACIONAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO449",
+                    "name": "INICIAÇÃO A PESQUISA II",
+                    "hours": 120,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO681",
+                    "name": "DISCUSSÕES TEMÁTICAS I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO682",
+                    "name": "DISCUSSÕES TEMÁTICAS II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO683",
+                    "name": "DISCUSSÕES TEMÁTICAS III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO684",
+                    "name": "DISCUSSÕES TEMÁTICAS IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "ICB001",
+                    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "LER028",
+                    "name": "OF.DE CONVERSACAO E REDACAO EM L. ESPANH",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "LET416",
+                    "name": "LÍNGUA FRANCESA I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "PRJ039",
+                    "name": "ARQUITETURA SEM BARREIRAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "SOA046",
+                    "name": "ABORDAGENS TEMATICAS EM SOCIOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "3",
+                    "groupName": "GRUPO DE OPTATIVAS EM CIÊNCIAS HUMANAS",
                     "prereqs": []
                 },
                 {
                     "code": "SOA047",
+                    "name": "ABORDAGENS TEMATICAS EM ANTROPOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "3",
+                    "groupName": "GRUPO DE OPTATIVAS EM CIÊNCIAS HUMANAS",
                     "prereqs": []
                 },
                 {
                     "code": "SOA048",
+                    "name": "FUNDAMENTOS DE ANALISE SOCIOLOGICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "3",
+                    "groupName": "GRUPO DE OPTATIVAS EM CIÊNCIAS HUMANAS",
                     "prereqs": []
                 },
                 {
                     "code": "SOA049",
+                    "name": "ACAO E ESTRUTURA SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "3",
+                    "groupName": "GRUPO DE OPTATIVAS EM CIÊNCIAS HUMANAS",
                     "prereqs": []
                 },
                 {
                     "code": "SOA050",
+                    "name": "MODERNIDADE E MUDANCA SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "3",
+                    "groupName": "GRUPO DE OPTATIVAS EM CIÊNCIAS HUMANAS",
                     "prereqs": []
                 },
                 {
                     "code": "URB014",
+                    "name": "PAISAGENS E TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "URB015",
+                    "name": "PLANEJAMENTO INTERPRETATIVO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 }
             ],
@@ -2134,164 +2454,292 @@
             "optionalPool": [
                 {
                     "code": "CAD036",
+                    "name": "PLANEJAMENTO ESTRATEGICO DO TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "CRT008",
+                    "name": "CARTOGRAFIA MULTIMIDIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": [
                         "CRT007"
                     ]
                 },
                 {
                     "code": "DCP022",
+                    "name": "INTROD. AO PENSAMENTO POLITICO CLASSICO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "GRUPO DE OPTATIVAS EM CIÊNCIAS HUMANAS",
                     "prereqs": []
                 },
                 {
                     "code": "EFI038",
+                    "name": "CONTEUDOS CULTURAIS DO LAZER",
+                    "hours": 30,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "EFI039",
+                    "name": "FORMACAO/ATUACAO PROFISSIONAL NO LAZER",
+                    "hours": 30,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "FIL028",
+                    "name": "INTRODUCAO A FILOSOFIA: ETICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "GRUPO DE OPTATIVAS EM CIÊNCIAS HUMANAS",
                     "prereqs": []
                 },
                 {
                     "code": "GEL044",
+                    "name": "GEOL.E MINERACAO NO POTENC. TURIST.DE MG",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEL045",
+                    "name": "GEOLOGIA COMO ATRATIVO TURISTICO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO035",
+                    "name": "GEOGRAFIA DE MINAS GERAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO036",
+                    "name": "GEOGRAFIA E TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO037",
+                    "name": "INTERPRETACAO GEO-AMBIENTAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO047",
+                    "name": "TOPICOS EM PLANEJAMENTO DO TURISMO I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO048",
+                    "name": "TOPICOS EM PLANEJAMENTO DO TURISMO II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO378",
+                    "name": "PROJETOS DE EXTENSÃO IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO383",
+                    "name": "PUBLICAÇÃO DE ARTIGOS EM PERIÓDICOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO384",
+                    "name": "APRESENTAÇÃO DE TRABALHOS CIENTÍFICOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO385",
+                    "name": "ORGANIZAÇÃO DE EVENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO386",
+                    "name": "PARTICIPAÇÃO EM EVENTOS I (OUVINTE)",
+                    "hours": 15,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO387",
+                    "name": "PARTICIPAÇÃO EM EVENTOS II (OUVINTE)",
+                    "hours": 30,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO388",
+                    "name": "APRENDIZAGEM COMPLEMENTAR EM INSTITUIÇÕES CONVENIADAS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO389",
+                    "name": "APRENDIZAGEM COMPLEMENTAR EM INSTITUIÇÕES CONVENIADAS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO390",
+                    "name": "APRENDIZAGEM COMPLEMENTAR EM INSTITUIÇÕES CONVENIADAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO391",
+                    "name": "APRENDIZAGEM COMPLEMENTAR EM INSTITUIÇÕES CONVENIADAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO392",
+                    "name": "TÓPICOS AVANÇADOS I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO393",
+                    "name": "TÓPICOS AVANÇADOS II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO394",
+                    "name": "VIVÊNCIA PROFISSIONAL COMPLEMENTAR",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO395",
+                    "name": "EXPERIÊNCIAS PESSOAIS PROGRAMADAS I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO396",
+                    "name": "EXPERIÊNCIAS PESSOAIS PROGRAMADAS II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO397",
+                    "name": "INICIAÇÃO A DOCÊNCIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO398",
+                    "name": "PROJETOS DE EXTENSÃO I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO399",
+                    "name": "PROJETOS DE EXTENSÃO II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO400",
+                    "name": "PROJETOS DE EXTENSÃO III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": [
                         "GEO401",
                         "GEO402",
@@ -2301,242 +2749,434 @@
                 },
                 {
                     "code": "GEO410",
+                    "name": "CULINÁRIA, GASTRONOMIA E TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO411",
+                    "name": "ELABORAÇÃO E FORMATAÇÃO DE ROTEIROS TURÍSTICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO412",
+                    "name": "OPERADORAS TURÍSTICAS, AGÊNCIAS DE VIAGEM E TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO413",
+                    "name": "MEIOS DE HOSPEDAGEM, HOSPITALIDADE E TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO414",
+                    "name": "TÓPICOS EM GESTÃO DO TURISMO I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO415",
+                    "name": "TÓPICOS EM GESTÃO DO TURISMO II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO416",
+                    "name": "TURISMO E CULTURA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO417",
+                    "name": "TURISMO E DESENVOLVIMENTO REGIONAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO418",
+                    "name": "TURISMO EM ESPAÇO RURAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO419",
+                    "name": "TURISMO E EVENTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO420",
+                    "name": "TURISMO E MUSEUS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO421",
+                    "name": "INICIAÇÃO A PESQUISA I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO425",
+                    "name": "TURISMO, NATUREZA E EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO426",
+                    "name": "TENDÊNCIAS DO TURISMO CONTEMPORÂNEO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO427",
+                    "name": "TURISMO E MEIO AMBIENTE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO433",
+                    "name": "COMUNIDADE, TERRITÓRIO E TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO434",
+                    "name": "ECONOMIA DO TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO435",
+                    "name": "ELABORAÇÃO E ANÁLISE DE PROJETOS TURÍSTICOS E CULTURAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO436",
+                    "name": "FORMAÇÃO EM EXTENSÃO I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO437",
+                    "name": "FORMAÇÃO EM EXTENSÃO II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO438",
+                    "name": "GEODIVERSIDADE E TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO439",
+                    "name": "E-TURISMO E CULTURA DIGITAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO440",
+                    "name": "GESTÃO RESPONSÁVEL DE DESTINOS TURÍSTICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO441",
+                    "name": "INOVAÇÃO EM TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO442",
+                    "name": "MÉTODOS E TÉCNICAS DE ANÁLISE DA INFORM. PLANEJ. TURÍSTICO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO443",
+                    "name": "PAISAGEM, TERRITÓRIO E TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO444",
+                    "name": "SOCIOLOGIA DO DESVIO E TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO445",
+                    "name": "TÓPICOS EM GESTÃO DO TURISMO III",
+                    "hours": 30,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO446",
+                    "name": "TÓPICOS EM PLANEJAMENTO DO TURISMO III",
+                    "hours": 30,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO447",
+                    "name": "TRANSPORTE E TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO448",
+                    "name": "TURISMO, CULTURA E RELAÇÕES INTERNACIONAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO449",
+                    "name": "INICIAÇÃO A PESQUISA II",
+                    "hours": 120,
+                    "credits": null,
                     "group": "4",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEO681",
+                    "name": "DISCUSSÕES TEMÁTICAS I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO682",
+                    "name": "DISCUSSÕES TEMÁTICAS II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO683",
+                    "name": "DISCUSSÕES TEMÁTICAS III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "GEO684",
+                    "name": "DISCUSSÕES TEMÁTICAS IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "ICB001",
+                    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "LER028",
+                    "name": "OF.DE CONVERSACAO E REDACAO EM L. ESPANH",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "LET416",
+                    "name": "LÍNGUA FRANCESA I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "PRJ039",
+                    "name": "ARQUITETURA SEM BARREIRAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "SOA046",
+                    "name": "ABORDAGENS TEMATICAS EM SOCIOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "GRUPO DE OPTATIVAS EM CIÊNCIAS HUMANAS",
                     "prereqs": []
                 },
                 {
                     "code": "SOA047",
+                    "name": "ABORDAGENS TEMATICAS EM ANTROPOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "GRUPO DE OPTATIVAS EM CIÊNCIAS HUMANAS",
                     "prereqs": []
                 },
                 {
                     "code": "SOA048",
+                    "name": "FUNDAMENTOS DE ANALISE SOCIOLOGICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "GRUPO DE OPTATIVAS EM CIÊNCIAS HUMANAS",
                     "prereqs": []
                 },
                 {
                     "code": "SOA049",
+                    "name": "ACAO E ESTRUTURA SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "GRUPO DE OPTATIVAS EM CIÊNCIAS HUMANAS",
                     "prereqs": []
                 },
                 {
                     "code": "SOA050",
+                    "name": "MODERNIDADE E MUDANCA SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "GRUPO DE OPTATIVAS EM CIÊNCIAS HUMANAS",
                     "prereqs": []
                 },
                 {
                     "code": "URB014",
+                    "name": "PAISAGENS E TURISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 },
                 {
                     "code": "URB015",
+                    "name": "PLANEJAMENTO INTERPRETATIVO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "GRUPO DE OPTATIVAS GERAIS",
                     "prereqs": []
                 }
             ],

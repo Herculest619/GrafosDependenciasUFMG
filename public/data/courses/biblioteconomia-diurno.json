@@ -19,7 +19,7 @@
         },
         "note": null
     },
-    "generatedAt": "2026-11-05T21:02:20.554Z",
+    "generatedAt": "2026-11-06T15:21:12.486Z",
     "disciplines": {
         "CAD103": {
             "code": "CAD103",
@@ -1906,6 +1906,11 @@
                     "optional": []
                 },
                 {
+                    "number": 7,
+                    "codes": [],
+                    "optional": []
+                },
+                {
                     "number": 8,
                     "codes": [
                         "ECI155"
@@ -1966,522 +1971,938 @@
             "optionalPool": [
                 {
                     "code": "ECI035",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI036",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI037",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI038",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI039",
+                    "name": "TOPICOS EM COMPETENCIA INFORMACIONAL A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI040",
+                    "name": "TOPICOS EM COMPETENCIA INFORMACIONAL B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI041",
+                    "name": "TOPICOS EM COMPETENCIA INFORMACIONAL C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI042",
+                    "name": "TOPICOS EM COMPETENCIA INFORMACIONAL D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI043",
+                    "name": "TOPICOS EM ONTOLOGIAS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI044",
+                    "name": "TOPICOS EM ONTOLOGIAS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI045",
+                    "name": "TOPICOS EM ONTOLOGIAS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI046",
+                    "name": "TOPICOS EM ONTOLOGIAS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI156",
+                    "name": "Iniciação à Pesquisa A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI157",
+                    "name": "Iniciação a Pesquisa B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI158",
+                    "name": "Iniciação à Pesquisa C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI159",
+                    "name": "Iniciação à Pesquisa D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI160",
+                    "name": "Iniciação à Docência A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI161",
+                    "name": "Iniciação à Docência B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI162",
+                    "name": "Iniciação à Docência C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI163",
+                    "name": "Iniciação à Docência D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI164",
+                    "name": "Iniciação à Extensão A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI165",
+                    "name": "Iniciação à Extensão B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI166",
+                    "name": "Iniciação à Extensão C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI167",
+                    "name": "Iniciação à Extensão D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI168",
+                    "name": "Participação em Eventos A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI169",
+                    "name": "Participação em Eventos B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI170",
+                    "name": "Participação em Eventos C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI171",
+                    "name": "Participação em Eventos D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI172",
+                    "name": "Oficinas A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI173",
+                    "name": "Oficinas B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI174",
+                    "name": "Oficinas C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI175",
+                    "name": "Oficinas D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI176",
+                    "name": "Estágio Curricular A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI177",
+                    "name": "Estágio Curricular B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI178",
+                    "name": "Estágio Curricular C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI179",
+                    "name": "Estágio Curricular D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI180",
+                    "name": "Vivência Profissional Complementar A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI181",
+                    "name": "Vivência Profissional Complementar B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI182",
+                    "name": "Vivência Profissional Complementar C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI183",
+                    "name": "Vivência Profissional Complementar D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI184",
+                    "name": "Publicações (Artigos, Capítulos, Livros) A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI185",
+                    "name": "Publicações ( Artigos, Capítulos, Livrros) B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI186",
+                    "name": "Publicações (Artigos, Capítulos, Livros) C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI187",
+                    "name": "Publicações (Artigos, Capítulos, Livros) D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI188",
+                    "name": "Monografia A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI189",
+                    "name": "Monografia B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI190",
+                    "name": "Monografia C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI191",
+                    "name": "Monografia D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI192",
+                    "name": "Seminários A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI193",
+                    "name": "Seminários B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI194",
+                    "name": "Seminários C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI195",
+                    "name": "Seminários D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI089",
+                    "name": "REPRESENTACAO DA INFORMACAO DIGITAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI090",
+                    "name": "AVALIACAO DE SISTEMAS DE INFORMACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI091",
+                    "name": "CONSTRUCAO DE LINGUAGENS DE INDEXACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI092",
+                    "name": "INTRODUCAO A BIBLIOMETRIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI093",
+                    "name": "PESQUISA EM CIENCIA DA INFORMACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI094",
+                    "name": "PRATICA EM CLASSIFICACAO: CDD",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI095",
+                    "name": "PRATICA EM CLASSIFICACAO: CDU",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI096",
+                    "name": "TOP. CATALOG. CLASSIFICACAO INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI097",
+                    "name": "TOP. CATALOG. CLASSIFICACAO INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI098",
+                    "name": "TOP. CATALOG. CLASSIFICACAO INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI099",
+                    "name": "TOP.CATALOG. CLASSIFICACAO INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI100",
+                    "name": "TOPICOS EM INDEXACAO DA INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI101",
+                    "name": "TOPICOS EM INDEXACAO DA INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI102",
+                    "name": "TOPICOS EM INDEXACAO DA INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI103",
+                    "name": "TOPICOS EM INDEXACAO DA INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI104",
+                    "name": "TOP. SERVICOS COMUNIDADES ESPECIFICAS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI105",
+                    "name": "TOP. SERVICOS COMUNIDADES ESPECIFICAS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI106",
+                    "name": "TOP. SERVICOS COMUNIDADES ESPECIFICAS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI107",
+                    "name": "TOP. SERVICOS COMUNIDADES ESPECIFICAS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI108",
+                    "name": "TOP. USO DA TEC. ORG. TRAT. INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI109",
+                    "name": "TOP. USO TEC. ORG. TRAT. INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI110",
+                    "name": "TOP. USO TEC. ORG. TRAT. INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI111",
+                    "name": "TOP.USO TEC. ORG.TRAT. INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI112",
+                    "name": "USO FONTES INFORMACAO AREAS ESPECIFICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI113",
+                    "name": "SERVICOS ESPECIFICOS DE INFORMACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI114",
+                    "name": "TOP.EM FONTES INFORM.AREAS ESPECIFICAS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI115",
+                    "name": "TOP.EM FONTES INFORM.AREAS ESPECIFICAS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI116",
+                    "name": "TOP.FONTES DE INFORM.AREAS ESPECIFICAS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI117",
+                    "name": "TOP.FONTES INFORM.EM AREAS ESPECIFICAS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI037",
+                    "name": "GESTAO DA INFORMACAO E DO CONHECIMENTO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI038",
+                    "name": "INFORMACAO E CIDADANIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI039",
+                    "name": "INFORMACAO E DEMOCRACIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI040",
+                    "name": "SOCIEDADE DA INFORMACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI048",
+                    "name": "GESTAO DE CONTEUDO NA WEB",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI049",
+                    "name": "INTELIGENCIA COMPETITIVA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI050",
+                    "name": "TOPICOS EM GESTAO DA INF. CONHECIMENTO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI051",
+                    "name": "TOPICOS GESTAO INFORMACAO CONHECIMENTO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI052",
+                    "name": "TOPICOS GESTAO INFORMACAO CONHECIMENTO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI053",
+                    "name": "TOPICOS GESTAO INFORMACAO CONHECIMENTO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI054",
+                    "name": "TOPICOS GESTAO UNIDADES DE INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI055",
+                    "name": "TOPICOS GESTAO UNIDADES DE INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI056",
+                    "name": "TOPICOS GESTAO UNIDADES DE INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI057",
+                    "name": "TOPICOS GESTAO UNIDADES DE INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI058",
+                    "name": "TOPICOS EM INFORMACAO E CULTURA A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI059",
+                    "name": "TOPICOS EM INFORMACAO E CULTURA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI060",
+                    "name": "TOPICOS EM INFORMACAO E CULTURA C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI061",
+                    "name": "TOPICOS EM INFORMACAO E CULTURA D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI062",
+                    "name": "TOPICOS EM USUARIOS DA INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI063",
+                    "name": "TOPICOS EM USUARIOS DA INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI064",
+                    "name": "TOPICOS EM USUARIOS DA INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI065",
+                    "name": "TOPICOS EM USUARIOS DA INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 }
             ],
@@ -2594,6 +3015,11 @@
                     "optional": []
                 },
                 {
+                    "number": 7,
+                    "codes": [],
+                    "optional": []
+                },
+                {
                     "number": 8,
                     "codes": [
                         "ECI155"
@@ -2636,537 +3062,965 @@
             "optionalPool": [
                 {
                     "code": "APL058",
+                    "name": "CONSERVACAO PREVENTIVA",
+                    "hours": 75,
+                    "credits": null,
                     "group": "13002-D-20141-7",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "APL066",
+                    "name": "CONSERVACAO DE PAPEL I",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-7",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "APL074",
+                    "name": "RESTAURACAO DE LIVROS E DOCUMENTOS",
+                    "hours": 75,
+                    "credits": null,
                     "group": "13002-D-20141-7",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI035",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI036",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI037",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI038",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI039",
+                    "name": "TOPICOS EM COMPETENCIA INFORMACIONAL A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI040",
+                    "name": "TOPICOS EM COMPETENCIA INFORMACIONAL B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI041",
+                    "name": "TOPICOS EM COMPETENCIA INFORMACIONAL C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI042",
+                    "name": "TOPICOS EM COMPETENCIA INFORMACIONAL D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI043",
+                    "name": "TOPICOS EM ONTOLOGIAS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI044",
+                    "name": "TOPICOS EM ONTOLOGIAS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI045",
+                    "name": "TOPICOS EM ONTOLOGIAS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI046",
+                    "name": "TOPICOS EM ONTOLOGIAS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI156",
+                    "name": "Iniciação à Pesquisa A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI157",
+                    "name": "Iniciação a Pesquisa B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI158",
+                    "name": "Iniciação à Pesquisa C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI159",
+                    "name": "Iniciação à Pesquisa D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI160",
+                    "name": "Iniciação à Docência A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI161",
+                    "name": "Iniciação à Docência B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI162",
+                    "name": "Iniciação à Docência C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI163",
+                    "name": "Iniciação à Docência D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI164",
+                    "name": "Iniciação à Extensão A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI165",
+                    "name": "Iniciação à Extensão B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI166",
+                    "name": "Iniciação à Extensão C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI167",
+                    "name": "Iniciação à Extensão D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI168",
+                    "name": "Participação em Eventos A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI169",
+                    "name": "Participação em Eventos B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI170",
+                    "name": "Participação em Eventos C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI171",
+                    "name": "Participação em Eventos D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI172",
+                    "name": "Oficinas A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI173",
+                    "name": "Oficinas B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI174",
+                    "name": "Oficinas C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI175",
+                    "name": "Oficinas D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI176",
+                    "name": "Estágio Curricular A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI177",
+                    "name": "Estágio Curricular B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI178",
+                    "name": "Estágio Curricular C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI179",
+                    "name": "Estágio Curricular D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI180",
+                    "name": "Vivência Profissional Complementar A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI181",
+                    "name": "Vivência Profissional Complementar B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI182",
+                    "name": "Vivência Profissional Complementar C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI183",
+                    "name": "Vivência Profissional Complementar D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI184",
+                    "name": "Publicações (Artigos, Capítulos, Livros) A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI185",
+                    "name": "Publicações ( Artigos, Capítulos, Livrros) B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI186",
+                    "name": "Publicações (Artigos, Capítulos, Livros) C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI187",
+                    "name": "Publicações (Artigos, Capítulos, Livros) D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI188",
+                    "name": "Monografia A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI189",
+                    "name": "Monografia B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI190",
+                    "name": "Monografia C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI191",
+                    "name": "Monografia D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI192",
+                    "name": "Seminários A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI193",
+                    "name": "Seminários B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI194",
+                    "name": "Seminários C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI195",
+                    "name": "Seminários D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI089",
+                    "name": "REPRESENTACAO DA INFORMACAO DIGITAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI090",
+                    "name": "AVALIACAO DE SISTEMAS DE INFORMACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI091",
+                    "name": "CONSTRUCAO DE LINGUAGENS DE INDEXACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI092",
+                    "name": "INTRODUCAO A BIBLIOMETRIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI093",
+                    "name": "PESQUISA EM CIENCIA DA INFORMACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI094",
+                    "name": "PRATICA EM CLASSIFICACAO: CDD",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI095",
+                    "name": "PRATICA EM CLASSIFICACAO: CDU",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI096",
+                    "name": "TOP. CATALOG. CLASSIFICACAO INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI097",
+                    "name": "TOP. CATALOG. CLASSIFICACAO INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI098",
+                    "name": "TOP. CATALOG. CLASSIFICACAO INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI099",
+                    "name": "TOP.CATALOG. CLASSIFICACAO INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI100",
+                    "name": "TOPICOS EM INDEXACAO DA INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI101",
+                    "name": "TOPICOS EM INDEXACAO DA INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI102",
+                    "name": "TOPICOS EM INDEXACAO DA INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI103",
+                    "name": "TOPICOS EM INDEXACAO DA INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI104",
+                    "name": "TOP. SERVICOS COMUNIDADES ESPECIFICAS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI105",
+                    "name": "TOP. SERVICOS COMUNIDADES ESPECIFICAS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI106",
+                    "name": "TOP. SERVICOS COMUNIDADES ESPECIFICAS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI107",
+                    "name": "TOP. SERVICOS COMUNIDADES ESPECIFICAS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI108",
+                    "name": "TOP. USO DA TEC. ORG. TRAT. INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI109",
+                    "name": "TOP. USO TEC. ORG. TRAT. INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI110",
+                    "name": "TOP. USO TEC. ORG. TRAT. INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI111",
+                    "name": "TOP.USO TEC. ORG.TRAT. INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI112",
+                    "name": "USO FONTES INFORMACAO AREAS ESPECIFICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI113",
+                    "name": "SERVICOS ESPECIFICOS DE INFORMACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI114",
+                    "name": "TOP.EM FONTES INFORM.AREAS ESPECIFICAS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI115",
+                    "name": "TOP.EM FONTES INFORM.AREAS ESPECIFICAS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI116",
+                    "name": "TOP.FONTES DE INFORM.AREAS ESPECIFICAS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI117",
+                    "name": "TOP.FONTES INFORM.EM AREAS ESPECIFICAS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI037",
+                    "name": "GESTAO DA INFORMACAO E DO CONHECIMENTO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI038",
+                    "name": "INFORMACAO E CIDADANIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI039",
+                    "name": "INFORMACAO E DEMOCRACIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI040",
+                    "name": "SOCIEDADE DA INFORMACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI048",
+                    "name": "GESTAO DE CONTEUDO NA WEB",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI049",
+                    "name": "INTELIGENCIA COMPETITIVA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI050",
+                    "name": "TOPICOS EM GESTAO DA INF. CONHECIMENTO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI051",
+                    "name": "TOPICOS GESTAO INFORMACAO CONHECIMENTO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI052",
+                    "name": "TOPICOS GESTAO INFORMACAO CONHECIMENTO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI053",
+                    "name": "TOPICOS GESTAO INFORMACAO CONHECIMENTO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI054",
+                    "name": "TOPICOS GESTAO UNIDADES DE INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI055",
+                    "name": "TOPICOS GESTAO UNIDADES DE INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI056",
+                    "name": "TOPICOS GESTAO UNIDADES DE INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI057",
+                    "name": "TOPICOS GESTAO UNIDADES DE INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI058",
+                    "name": "TOPICOS EM INFORMACAO E CULTURA A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI059",
+                    "name": "TOPICOS EM INFORMACAO E CULTURA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI060",
+                    "name": "TOPICOS EM INFORMACAO E CULTURA C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI061",
+                    "name": "TOPICOS EM INFORMACAO E CULTURA D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI062",
+                    "name": "TOPICOS EM USUARIOS DA INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI063",
+                    "name": "TOPICOS EM USUARIOS DA INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI064",
+                    "name": "TOPICOS EM USUARIOS DA INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI065",
+                    "name": "TOPICOS EM USUARIOS DA INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 }
             ],
@@ -3279,6 +4133,11 @@
                     "optional": []
                 },
                 {
+                    "number": 7,
+                    "codes": [],
+                    "optional": []
+                },
+                {
                     "number": 8,
                     "codes": [
                         "ECI155"
@@ -3315,532 +4174,956 @@
             "optionalPool": [
                 {
                     "code": "ECI035",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI036",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI037",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI038",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI039",
+                    "name": "TOPICOS EM COMPETENCIA INFORMACIONAL A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI040",
+                    "name": "TOPICOS EM COMPETENCIA INFORMACIONAL B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI041",
+                    "name": "TOPICOS EM COMPETENCIA INFORMACIONAL C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI042",
+                    "name": "TOPICOS EM COMPETENCIA INFORMACIONAL D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI043",
+                    "name": "TOPICOS EM ONTOLOGIAS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI044",
+                    "name": "TOPICOS EM ONTOLOGIAS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI045",
+                    "name": "TOPICOS EM ONTOLOGIAS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI046",
+                    "name": "TOPICOS EM ONTOLOGIAS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI156",
+                    "name": "Iniciação à Pesquisa A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI157",
+                    "name": "Iniciação a Pesquisa B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI158",
+                    "name": "Iniciação à Pesquisa C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI159",
+                    "name": "Iniciação à Pesquisa D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI160",
+                    "name": "Iniciação à Docência A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI161",
+                    "name": "Iniciação à Docência B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI162",
+                    "name": "Iniciação à Docência C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI163",
+                    "name": "Iniciação à Docência D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI164",
+                    "name": "Iniciação à Extensão A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI165",
+                    "name": "Iniciação à Extensão B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI166",
+                    "name": "Iniciação à Extensão C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI167",
+                    "name": "Iniciação à Extensão D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI168",
+                    "name": "Participação em Eventos A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI169",
+                    "name": "Participação em Eventos B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI170",
+                    "name": "Participação em Eventos C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI171",
+                    "name": "Participação em Eventos D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI172",
+                    "name": "Oficinas A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI173",
+                    "name": "Oficinas B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI174",
+                    "name": "Oficinas C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI175",
+                    "name": "Oficinas D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI176",
+                    "name": "Estágio Curricular A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI177",
+                    "name": "Estágio Curricular B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI178",
+                    "name": "Estágio Curricular C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI179",
+                    "name": "Estágio Curricular D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI180",
+                    "name": "Vivência Profissional Complementar A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI181",
+                    "name": "Vivência Profissional Complementar B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI182",
+                    "name": "Vivência Profissional Complementar C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI183",
+                    "name": "Vivência Profissional Complementar D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI184",
+                    "name": "Publicações (Artigos, Capítulos, Livros) A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI185",
+                    "name": "Publicações ( Artigos, Capítulos, Livrros) B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI186",
+                    "name": "Publicações (Artigos, Capítulos, Livros) C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI187",
+                    "name": "Publicações (Artigos, Capítulos, Livros) D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI188",
+                    "name": "Monografia A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI189",
+                    "name": "Monografia B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI190",
+                    "name": "Monografia C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI191",
+                    "name": "Monografia D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI192",
+                    "name": "Seminários A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI193",
+                    "name": "Seminários B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI194",
+                    "name": "Seminários C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI195",
+                    "name": "Seminários D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI089",
+                    "name": "REPRESENTACAO DA INFORMACAO DIGITAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI090",
+                    "name": "AVALIACAO DE SISTEMAS DE INFORMACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI091",
+                    "name": "CONSTRUCAO DE LINGUAGENS DE INDEXACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI092",
+                    "name": "INTRODUCAO A BIBLIOMETRIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI093",
+                    "name": "PESQUISA EM CIENCIA DA INFORMACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI094",
+                    "name": "PRATICA EM CLASSIFICACAO: CDD",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI095",
+                    "name": "PRATICA EM CLASSIFICACAO: CDU",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI096",
+                    "name": "TOP. CATALOG. CLASSIFICACAO INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI097",
+                    "name": "TOP. CATALOG. CLASSIFICACAO INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI098",
+                    "name": "TOP. CATALOG. CLASSIFICACAO INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI099",
+                    "name": "TOP.CATALOG. CLASSIFICACAO INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI100",
+                    "name": "TOPICOS EM INDEXACAO DA INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI101",
+                    "name": "TOPICOS EM INDEXACAO DA INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI102",
+                    "name": "TOPICOS EM INDEXACAO DA INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI103",
+                    "name": "TOPICOS EM INDEXACAO DA INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI104",
+                    "name": "TOP. SERVICOS COMUNIDADES ESPECIFICAS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI105",
+                    "name": "TOP. SERVICOS COMUNIDADES ESPECIFICAS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI106",
+                    "name": "TOP. SERVICOS COMUNIDADES ESPECIFICAS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI107",
+                    "name": "TOP. SERVICOS COMUNIDADES ESPECIFICAS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI108",
+                    "name": "TOP. USO DA TEC. ORG. TRAT. INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI109",
+                    "name": "TOP. USO TEC. ORG. TRAT. INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI110",
+                    "name": "TOP. USO TEC. ORG. TRAT. INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI111",
+                    "name": "TOP.USO TEC. ORG.TRAT. INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI112",
+                    "name": "USO FONTES INFORMACAO AREAS ESPECIFICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI113",
+                    "name": "SERVICOS ESPECIFICOS DE INFORMACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI114",
+                    "name": "TOP.EM FONTES INFORM.AREAS ESPECIFICAS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI115",
+                    "name": "TOP.EM FONTES INFORM.AREAS ESPECIFICAS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI116",
+                    "name": "TOP.FONTES DE INFORM.AREAS ESPECIFICAS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI117",
+                    "name": "TOP.FONTES INFORM.EM AREAS ESPECIFICAS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "PSI601",
+                    "name": "PSICOLOGIA SOCIAL I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "PSI605",
+                    "name": "PSICOLOGIA GERAL I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI037",
+                    "name": "GESTAO DA INFORMACAO E DO CONHECIMENTO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI038",
+                    "name": "INFORMACAO E CIDADANIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI039",
+                    "name": "INFORMACAO E DEMOCRACIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI040",
+                    "name": "SOCIEDADE DA INFORMACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI048",
+                    "name": "GESTAO DE CONTEUDO NA WEB",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI049",
+                    "name": "INTELIGENCIA COMPETITIVA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI050",
+                    "name": "TOPICOS EM GESTAO DA INF. CONHECIMENTO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI051",
+                    "name": "TOPICOS GESTAO INFORMACAO CONHECIMENTO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI052",
+                    "name": "TOPICOS GESTAO INFORMACAO CONHECIMENTO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI053",
+                    "name": "TOPICOS GESTAO INFORMACAO CONHECIMENTO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI054",
+                    "name": "TOPICOS GESTAO UNIDADES DE INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI055",
+                    "name": "TOPICOS GESTAO UNIDADES DE INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI056",
+                    "name": "TOPICOS GESTAO UNIDADES DE INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI057",
+                    "name": "TOPICOS GESTAO UNIDADES DE INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI058",
+                    "name": "TOPICOS EM INFORMACAO E CULTURA A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI059",
+                    "name": "TOPICOS EM INFORMACAO E CULTURA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI060",
+                    "name": "TOPICOS EM INFORMACAO E CULTURA C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI061",
+                    "name": "TOPICOS EM INFORMACAO E CULTURA D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI062",
+                    "name": "TOPICOS EM USUARIOS DA INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI063",
+                    "name": "TOPICOS EM USUARIOS DA INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI064",
+                    "name": "TOPICOS EM USUARIOS DA INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI065",
+                    "name": "TOPICOS EM USUARIOS DA INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 }
             ],
@@ -3953,6 +5236,11 @@
                     "optional": []
                 },
                 {
+                    "number": 7,
+                    "codes": [],
+                    "optional": []
+                },
+                {
                     "number": 8,
                     "codes": [
                         "ECI155"
@@ -4001,522 +5289,938 @@
             "optionalPool": [
                 {
                     "code": "ECI035",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI036",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI037",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI038",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI039",
+                    "name": "TOPICOS EM COMPETENCIA INFORMACIONAL A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI040",
+                    "name": "TOPICOS EM COMPETENCIA INFORMACIONAL B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI041",
+                    "name": "TOPICOS EM COMPETENCIA INFORMACIONAL C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI042",
+                    "name": "TOPICOS EM COMPETENCIA INFORMACIONAL D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI043",
+                    "name": "TOPICOS EM ONTOLOGIAS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI044",
+                    "name": "TOPICOS EM ONTOLOGIAS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI045",
+                    "name": "TOPICOS EM ONTOLOGIAS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI046",
+                    "name": "TOPICOS EM ONTOLOGIAS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI156",
+                    "name": "Iniciação à Pesquisa A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI157",
+                    "name": "Iniciação a Pesquisa B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI158",
+                    "name": "Iniciação à Pesquisa C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI159",
+                    "name": "Iniciação à Pesquisa D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI160",
+                    "name": "Iniciação à Docência A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI161",
+                    "name": "Iniciação à Docência B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI162",
+                    "name": "Iniciação à Docência C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI163",
+                    "name": "Iniciação à Docência D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI164",
+                    "name": "Iniciação à Extensão A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI165",
+                    "name": "Iniciação à Extensão B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI166",
+                    "name": "Iniciação à Extensão C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI167",
+                    "name": "Iniciação à Extensão D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI168",
+                    "name": "Participação em Eventos A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI169",
+                    "name": "Participação em Eventos B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI170",
+                    "name": "Participação em Eventos C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI171",
+                    "name": "Participação em Eventos D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI172",
+                    "name": "Oficinas A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI173",
+                    "name": "Oficinas B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI174",
+                    "name": "Oficinas C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI175",
+                    "name": "Oficinas D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI176",
+                    "name": "Estágio Curricular A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI177",
+                    "name": "Estágio Curricular B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI178",
+                    "name": "Estágio Curricular C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI179",
+                    "name": "Estágio Curricular D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI180",
+                    "name": "Vivência Profissional Complementar A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI181",
+                    "name": "Vivência Profissional Complementar B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI182",
+                    "name": "Vivência Profissional Complementar C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI183",
+                    "name": "Vivência Profissional Complementar D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI184",
+                    "name": "Publicações (Artigos, Capítulos, Livros) A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI185",
+                    "name": "Publicações ( Artigos, Capítulos, Livrros) B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI186",
+                    "name": "Publicações (Artigos, Capítulos, Livros) C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI187",
+                    "name": "Publicações (Artigos, Capítulos, Livros) D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI188",
+                    "name": "Monografia A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI189",
+                    "name": "Monografia B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI190",
+                    "name": "Monografia C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI191",
+                    "name": "Monografia D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI192",
+                    "name": "Seminários A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI193",
+                    "name": "Seminários B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI194",
+                    "name": "Seminários C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI195",
+                    "name": "Seminários D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI089",
+                    "name": "REPRESENTACAO DA INFORMACAO DIGITAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI090",
+                    "name": "AVALIACAO DE SISTEMAS DE INFORMACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI091",
+                    "name": "CONSTRUCAO DE LINGUAGENS DE INDEXACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI092",
+                    "name": "INTRODUCAO A BIBLIOMETRIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI093",
+                    "name": "PESQUISA EM CIENCIA DA INFORMACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI094",
+                    "name": "PRATICA EM CLASSIFICACAO: CDD",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI095",
+                    "name": "PRATICA EM CLASSIFICACAO: CDU",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI096",
+                    "name": "TOP. CATALOG. CLASSIFICACAO INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI097",
+                    "name": "TOP. CATALOG. CLASSIFICACAO INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI098",
+                    "name": "TOP. CATALOG. CLASSIFICACAO INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI099",
+                    "name": "TOP.CATALOG. CLASSIFICACAO INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI100",
+                    "name": "TOPICOS EM INDEXACAO DA INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI101",
+                    "name": "TOPICOS EM INDEXACAO DA INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI102",
+                    "name": "TOPICOS EM INDEXACAO DA INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI103",
+                    "name": "TOPICOS EM INDEXACAO DA INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI104",
+                    "name": "TOP. SERVICOS COMUNIDADES ESPECIFICAS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI105",
+                    "name": "TOP. SERVICOS COMUNIDADES ESPECIFICAS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI106",
+                    "name": "TOP. SERVICOS COMUNIDADES ESPECIFICAS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI107",
+                    "name": "TOP. SERVICOS COMUNIDADES ESPECIFICAS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI108",
+                    "name": "TOP. USO DA TEC. ORG. TRAT. INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI109",
+                    "name": "TOP. USO TEC. ORG. TRAT. INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI110",
+                    "name": "TOP. USO TEC. ORG. TRAT. INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI111",
+                    "name": "TOP.USO TEC. ORG.TRAT. INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI112",
+                    "name": "USO FONTES INFORMACAO AREAS ESPECIFICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI113",
+                    "name": "SERVICOS ESPECIFICOS DE INFORMACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI114",
+                    "name": "TOP.EM FONTES INFORM.AREAS ESPECIFICAS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI115",
+                    "name": "TOP.EM FONTES INFORM.AREAS ESPECIFICAS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI116",
+                    "name": "TOP.FONTES DE INFORM.AREAS ESPECIFICAS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI117",
+                    "name": "TOP.FONTES INFORM.EM AREAS ESPECIFICAS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI037",
+                    "name": "GESTAO DA INFORMACAO E DO CONHECIMENTO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI038",
+                    "name": "INFORMACAO E CIDADANIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI039",
+                    "name": "INFORMACAO E DEMOCRACIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI040",
+                    "name": "SOCIEDADE DA INFORMACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI048",
+                    "name": "GESTAO DE CONTEUDO NA WEB",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI049",
+                    "name": "INTELIGENCIA COMPETITIVA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI050",
+                    "name": "TOPICOS EM GESTAO DA INF. CONHECIMENTO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI051",
+                    "name": "TOPICOS GESTAO INFORMACAO CONHECIMENTO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI052",
+                    "name": "TOPICOS GESTAO INFORMACAO CONHECIMENTO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI053",
+                    "name": "TOPICOS GESTAO INFORMACAO CONHECIMENTO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI054",
+                    "name": "TOPICOS GESTAO UNIDADES DE INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI055",
+                    "name": "TOPICOS GESTAO UNIDADES DE INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI056",
+                    "name": "TOPICOS GESTAO UNIDADES DE INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI057",
+                    "name": "TOPICOS GESTAO UNIDADES DE INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI058",
+                    "name": "TOPICOS EM INFORMACAO E CULTURA A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI059",
+                    "name": "TOPICOS EM INFORMACAO E CULTURA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI060",
+                    "name": "TOPICOS EM INFORMACAO E CULTURA C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI061",
+                    "name": "TOPICOS EM INFORMACAO E CULTURA D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI062",
+                    "name": "TOPICOS EM USUARIOS DA INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI063",
+                    "name": "TOPICOS EM USUARIOS DA INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI064",
+                    "name": "TOPICOS EM USUARIOS DA INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI065",
+                    "name": "TOPICOS EM USUARIOS DA INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 }
             ],
@@ -4629,6 +6333,11 @@
                     "optional": []
                 },
                 {
+                    "number": 7,
+                    "codes": [],
+                    "optional": []
+                },
+                {
                     "number": 8,
                     "codes": [
                         "ECI155"
@@ -4653,522 +6362,938 @@
             "optionalPool": [
                 {
                     "code": "ECI035",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI036",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI037",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI038",
+                    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI039",
+                    "name": "TOPICOS EM COMPETENCIA INFORMACIONAL A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI040",
+                    "name": "TOPICOS EM COMPETENCIA INFORMACIONAL B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI041",
+                    "name": "TOPICOS EM COMPETENCIA INFORMACIONAL C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI042",
+                    "name": "TOPICOS EM COMPETENCIA INFORMACIONAL D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI043",
+                    "name": "TOPICOS EM ONTOLOGIAS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI044",
+                    "name": "TOPICOS EM ONTOLOGIAS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI045",
+                    "name": "TOPICOS EM ONTOLOGIAS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI046",
+                    "name": "TOPICOS EM ONTOLOGIAS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI156",
+                    "name": "Iniciação à Pesquisa A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI157",
+                    "name": "Iniciação a Pesquisa B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI158",
+                    "name": "Iniciação à Pesquisa C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI159",
+                    "name": "Iniciação à Pesquisa D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI160",
+                    "name": "Iniciação à Docência A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI161",
+                    "name": "Iniciação à Docência B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI162",
+                    "name": "Iniciação à Docência C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI163",
+                    "name": "Iniciação à Docência D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI164",
+                    "name": "Iniciação à Extensão A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI165",
+                    "name": "Iniciação à Extensão B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI166",
+                    "name": "Iniciação à Extensão C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI167",
+                    "name": "Iniciação à Extensão D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI168",
+                    "name": "Participação em Eventos A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI169",
+                    "name": "Participação em Eventos B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI170",
+                    "name": "Participação em Eventos C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI171",
+                    "name": "Participação em Eventos D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI172",
+                    "name": "Oficinas A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI173",
+                    "name": "Oficinas B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI174",
+                    "name": "Oficinas C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI175",
+                    "name": "Oficinas D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI176",
+                    "name": "Estágio Curricular A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI177",
+                    "name": "Estágio Curricular B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI178",
+                    "name": "Estágio Curricular C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI179",
+                    "name": "Estágio Curricular D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI180",
+                    "name": "Vivência Profissional Complementar A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI181",
+                    "name": "Vivência Profissional Complementar B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI182",
+                    "name": "Vivência Profissional Complementar C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI183",
+                    "name": "Vivência Profissional Complementar D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI184",
+                    "name": "Publicações (Artigos, Capítulos, Livros) A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI185",
+                    "name": "Publicações ( Artigos, Capítulos, Livrros) B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI186",
+                    "name": "Publicações (Artigos, Capítulos, Livros) C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI187",
+                    "name": "Publicações (Artigos, Capítulos, Livros) D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI188",
+                    "name": "Monografia A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI189",
+                    "name": "Monografia B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI190",
+                    "name": "Monografia C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI191",
+                    "name": "Monografia D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI192",
+                    "name": "Seminários A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI193",
+                    "name": "Seminários B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI194",
+                    "name": "Seminários C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ECI195",
+                    "name": "Seminários D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI089",
+                    "name": "REPRESENTACAO DA INFORMACAO DIGITAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI090",
+                    "name": "AVALIACAO DE SISTEMAS DE INFORMACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI091",
+                    "name": "CONSTRUCAO DE LINGUAGENS DE INDEXACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI092",
+                    "name": "INTRODUCAO A BIBLIOMETRIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI093",
+                    "name": "PESQUISA EM CIENCIA DA INFORMACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI094",
+                    "name": "PRATICA EM CLASSIFICACAO: CDD",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI095",
+                    "name": "PRATICA EM CLASSIFICACAO: CDU",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI096",
+                    "name": "TOP. CATALOG. CLASSIFICACAO INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI097",
+                    "name": "TOP. CATALOG. CLASSIFICACAO INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI098",
+                    "name": "TOP. CATALOG. CLASSIFICACAO INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI099",
+                    "name": "TOP.CATALOG. CLASSIFICACAO INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI100",
+                    "name": "TOPICOS EM INDEXACAO DA INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI101",
+                    "name": "TOPICOS EM INDEXACAO DA INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI102",
+                    "name": "TOPICOS EM INDEXACAO DA INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI103",
+                    "name": "TOPICOS EM INDEXACAO DA INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI104",
+                    "name": "TOP. SERVICOS COMUNIDADES ESPECIFICAS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI105",
+                    "name": "TOP. SERVICOS COMUNIDADES ESPECIFICAS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI106",
+                    "name": "TOP. SERVICOS COMUNIDADES ESPECIFICAS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI107",
+                    "name": "TOP. SERVICOS COMUNIDADES ESPECIFICAS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI108",
+                    "name": "TOP. USO DA TEC. ORG. TRAT. INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI109",
+                    "name": "TOP. USO TEC. ORG. TRAT. INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI110",
+                    "name": "TOP. USO TEC. ORG. TRAT. INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI111",
+                    "name": "TOP.USO TEC. ORG.TRAT. INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI112",
+                    "name": "USO FONTES INFORMACAO AREAS ESPECIFICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI113",
+                    "name": "SERVICOS ESPECIFICOS DE INFORMACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI114",
+                    "name": "TOP.EM FONTES INFORM.AREAS ESPECIFICAS A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI115",
+                    "name": "TOP.EM FONTES INFORM.AREAS ESPECIFICAS B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI116",
+                    "name": "TOP.FONTES DE INFORM.AREAS ESPECIFICAS C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "OTI117",
+                    "name": "TOP.FONTES INFORM.EM AREAS ESPECIFICAS D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI037",
+                    "name": "GESTAO DA INFORMACAO E DO CONHECIMENTO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI038",
+                    "name": "INFORMACAO E CIDADANIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI039",
+                    "name": "INFORMACAO E DEMOCRACIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI040",
+                    "name": "SOCIEDADE DA INFORMACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI048",
+                    "name": "GESTAO DE CONTEUDO NA WEB",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI049",
+                    "name": "INTELIGENCIA COMPETITIVA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI050",
+                    "name": "TOPICOS EM GESTAO DA INF. CONHECIMENTO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI051",
+                    "name": "TOPICOS GESTAO INFORMACAO CONHECIMENTO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI052",
+                    "name": "TOPICOS GESTAO INFORMACAO CONHECIMENTO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI053",
+                    "name": "TOPICOS GESTAO INFORMACAO CONHECIMENTO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI054",
+                    "name": "TOPICOS GESTAO UNIDADES DE INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI055",
+                    "name": "TOPICOS GESTAO UNIDADES DE INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI056",
+                    "name": "TOPICOS GESTAO UNIDADES DE INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI057",
+                    "name": "TOPICOS GESTAO UNIDADES DE INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI058",
+                    "name": "TOPICOS EM INFORMACAO E CULTURA A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI059",
+                    "name": "TOPICOS EM INFORMACAO E CULTURA B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI060",
+                    "name": "TOPICOS EM INFORMACAO E CULTURA C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI061",
+                    "name": "TOPICOS EM INFORMACAO E CULTURA D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI062",
+                    "name": "TOPICOS EM USUARIOS DA INFORMACAO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI063",
+                    "name": "TOPICOS EM USUARIOS DA INFORMACAO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI064",
+                    "name": "TOPICOS EM USUARIOS DA INFORMACAO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TGI065",
+                    "name": "TOPICOS EM USUARIOS DA INFORMACAO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13002-D-20141-3",
+                    "groupName": null,
                     "prereqs": []
                 }
             ],

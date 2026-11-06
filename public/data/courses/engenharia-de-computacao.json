@@ -19,7 +19,7 @@
         },
         "note": null
     },
-    "generatedAt": "2026-11-05T21:02:20.414Z",
+    "generatedAt": "2026-11-06T15:21:12.319Z",
     "disciplines": {
         "DCC203": {
             "code": "DCC203",
@@ -2909,734 +2909,1318 @@
             "optionalPool": [
                 {
                     "code": "CAD004",
+                    "name": "ADMINISTRAÇÃO DA PRODUÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD089",
+                    "name": "GESTAO DE CUSTOS E INVESTIMENTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD153",
+                    "name": "ADMINISTRAÇÃO DE CUSTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD163",
+                    "name": "ADMINISTRAÇÃO DE RECURSOS HUMANOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD164",
+                    "name": "ADMINISTRAÇÃO MERCADOLÓGICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD167",
+                    "name": "ADMINISTRAÇÃO FINANCEIRA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CIC010",
+                    "name": "INTRODUÇÃO À CONTABILIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC027",
+                    "name": "COMPUTAÇÃO GRÁFICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC028",
+                    "name": "INTELIGENCIA ARTIFICIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC029",
+                    "name": "PROCESSAMENTOS DIGITAL DE IMAGENS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC041",
+                    "name": "INTRODUÇÃO À ROBÓTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC042",
+                    "name": "ROBÓTICA MÓVEL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC053",
+                    "name": "COMPILADORES I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC055",
+                    "name": "EMPREENDIMENTOS EM INFORMÁTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC072",
+                    "name": "ENGENHARIA DE SOFTWARE II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC076",
+                    "name": "RECUPERAÇÃO DE INFORMAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC077",
+                    "name": "INTRODUÇÃO À COMPUTAÇÃO VISUAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC078",
+                    "name": "BANCOS DE DADOS GEOGRÁFICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC079",
+                    "name": "BIOINFORMÁTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC081",
+                    "name": "FUNDAMENTOS ESTATÍSTICOS DE CIÊNCIA DOS DADOS A",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC082",
+                    "name": "FUNDAMENTOS ESTATÍSTICOS DE CIÊNCIA DOS DADOS B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC083",
+                    "name": "GESTÃO DE EQUIPES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC084",
+                    "name": "PROGRAMAÇÃO COMPETITIVA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC085",
+                    "name": "PRÁTICA DE DESENVOLVIMENTO DE SOFTWARE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC086",
+                    "name": "REDES COMPLEXAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC087",
+                    "name": "MÉTODOS QUALITATIVOS APLICADOS EM COMPUTAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC088",
+                    "name": "SISTEMAS EM REDES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC089",
+                    "name": "TESTE DE SOFTWARE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC090",
+                    "name": "TEORIA DA INFORMAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC091",
+                    "name": "FLUXO DE INFORMAÇÃO QUANTITATIVO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC092",
+                    "name": "MÉTODOS FORMAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC093",
+                    "name": "SISTEMAS DE RECOMENDAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC186",
+                    "name": "ALGORITMOS PARA BIOINFORMÁTICA I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC188",
+                    "name": "ANALISE E MODELAGEM DE DESEMP. SIST.COMP",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC189",
+                    "name": "ARMAZÉNS DE DADOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC190",
+                    "name": "BIBLIOTECAS DIGITAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC191",
+                    "name": "COMPUTAÇÃO NATURAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC192",
+                    "name": "DESENVOLVIMENTO DE JOGOS DIGITAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC193",
+                    "name": "ENGENHARIA DE USABILIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC195",
+                    "name": "MÉTODOS QUANTIT. DE PESQ. EXPERIMENTAL EM CIÊNCIA COMPUTAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC198",
+                    "name": "REDES COMPLEXAS EM COMP.: MODELAGEM, ALGORITMOS E APLICAÇÕES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC199",
+                    "name": "TEORIA DOS GRAFOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC207",
+                    "name": "ALGORITMOS II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC212",
+                    "name": "INTRODUÇÃO À CIÊNCIA DOS DADOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC215",
+                    "name": "HEURÍSTICAS E METAHEURÍSTICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "EEE006",
+                    "name": "TECNOLOGIA DISPOSITIVOS SEMICONDUTORES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "EEE017",
+                    "name": "CONFIABILIDADE DE SISTEMAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "EEE025",
+                    "name": "INSTRUMENTAÇÃO BIOMÉDICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "EEE056",
+                    "name": "LABORATÓRIO DE ROBÓTICA MÓVEL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "EEE059",
+                    "name": "APRENDIZADO DE MÁQUINA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELE037",
+                    "name": "OTIMIZACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELE041",
+                    "name": "MANIPULADORES ROBÓTICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELE059",
+                    "name": "FUNDAMENTOS DE ENGENHARIA BIOMÉDICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELE066",
+                    "name": "ANALISE DE CIRCUITOS ELETRICOS III",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELE077",
+                    "name": "OTIMIZACAO NAO LINEAR",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELE083",
+                    "name": "COMPUTACAO EVOLUCIONARIA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELE088",
+                    "name": "TEORIA DA DECISAO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELE164",
+                    "name": "FUNDAMENTOS E APLICAÇÕES DE SISTEMAS ÓPTICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELE165",
+                    "name": "ENGENHARIA DE REABILITAÇÃO E TECNOLOGIAS ASSISTIVAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELE166",
+                    "name": "SISTEMAS DE MEDIÇÃO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELE167",
+                    "name": "LABORATÓRIO DE SISTEMAS DE MEDIÇÃO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELE168",
+                    "name": "PROCESSAMENTO DIGITAL DE IMAGENS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT037",
+                    "name": "MULTIMIDIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT043",
+                    "name": "FONTES DE ALIMENTACAO CC E CA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT047",
+                    "name": "COMUNICACOES DIGITAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT048",
+                    "name": "COMUNICACOES MOVEIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT049",
+                    "name": "COMUNICACOES OPTICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT071",
+                    "name": "DOMÓTICA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT075",
+                    "name": "REDES NEURAIS ARTIFICIAIS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT085",
+                    "name": "CIRCUITOS ELETRONICOS ANALOGICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT086",
+                    "name": "TEORIA DE COMUNICACOES",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT087",
+                    "name": "LABORATORIO DE COMUNICACOES",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT090",
+                    "name": "LABORATORIO DE CIRCUITOS ELETRONICOS II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT091",
+                    "name": "REDES TCP IP",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT095",
+                    "name": "PROJ. AMPLIF. OPER. CIRC. ELETR. ANALOG.",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT135",
+                    "name": "INTRODUÇÃO AO RECONHECIMENTO DE PADRÕES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT137",
+                    "name": "PROGRAMAÇÃO DE SISTEMAS EMBARCADOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT618",
+                    "name": "LAB. DE PROJ. COM AMPLIFICADORES OP. E CIRCUITOS ANAL. INTEG",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT619",
+                    "name": "MULTIMÍDIA SOBRE IP",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ENG201",
+                    "name": "INICIAÇÃO À PESQUISA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG202",
+                    "name": "INICIAÇÃO À PESQUISA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG203",
+                    "name": "INICIAÇÃO À PESQUISA III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG204",
+                    "name": "INICIAÇÃO À DOCÊNCIA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG205",
+                    "name": "INICIAÇÃO À DOCÊNCIA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG206",
+                    "name": "INICIAÇÃO À DOCÊNCIA III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG207",
+                    "name": "MONITORIA OU TUTORIA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG208",
+                    "name": "MONITORIA OU TUTORIA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG209",
+                    "name": "MONITORIA OU TUTORIA III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG210",
+                    "name": "INICIAÇÃO À EXTENSÃO I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG211",
+                    "name": "INICIAÇÃO À EXTENSÃO II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG212",
+                    "name": "INICIAÇÃO À EXTENSÃO III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG213",
+                    "name": "PARTICIPAÇÃO EM EQUIPE DE COMPETIÇÃO I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG214",
+                    "name": "PARTICIPAÇÃO EM EQUIPE DE COMPETIÇÃO II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG215",
+                    "name": "PARTICIPAÇÃO EM EQUIPE DE COMPETIÇÃO III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG216",
+                    "name": "PARTICIPAÇÃO EM EMPRESA JÚNIOR I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG217",
+                    "name": "PARTICIPAÇÃO EM EMPRESA JÚNIOR II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG218",
+                    "name": "PARTICIPAÇÃO EM EMPRESA JÚNIOR III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG222",
+                    "name": "PUBLICAÇÃO I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG223",
+                    "name": "PUBLICAÇÃO II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG224",
+                    "name": "PUBLICAÇÃO III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG225",
+                    "name": "PARTICIPAÇÃO EM EVENTO PRESENCIAL I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG226",
+                    "name": "PARTICIPAÇÃO EM EVENTO PRESENCIAL II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG229",
+                    "name": "PARTICIPAÇÃO EM EVENTO A DISTÂNCIA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG230",
+                    "name": "PARTICIPAÇÃO EM EVENTO A DISTÂNCIA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG233",
+                    "name": "ORGANIZAÇÃO DE EVENTO INTERNO I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG234",
+                    "name": "ORGANIZAÇÃO DE EVENTO INTERNO II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG235",
+                    "name": "ORGANIZAÇÃO DE EVENTO INTERNO III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG236",
+                    "name": "ORGANIZAÇÃO DE EVENTO INTERNO IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG237",
+                    "name": "ORGANIZAÇÃO DE EVENTO EXTERNO I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG238",
+                    "name": "ORGANIZAÇÃO DE EVENTO EXTERNO II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG239",
+                    "name": "ORGANIZAÇÃO DE EVENTO EXTERNO III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG240",
+                    "name": "ORGANIZAÇÃO DE EVENTO EXTERNO IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG245",
+                    "name": "CURSO COMPLEMENTAR PRESENCIAL I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG246",
+                    "name": "CURSO COMPLEMENTAR PRESENCIAL II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG247",
+                    "name": "CURSO COMPLEMENTAR PRESENCIAL III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG248",
+                    "name": "CURSO COMPLEMENTAR PRESENCIAL IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG249",
+                    "name": "CURSO COMPLEMENTAR A DISTÂNCIA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG250",
+                    "name": "CURSO COMPLEMENTAR A DISTÂNCIA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG261",
+                    "name": "ESTAGIO NÃO OBRIGATÓRIO I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG262",
+                    "name": "ESTAGIO NÃO OBRIGATÓRIO II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "FIS086",
+                    "name": "FUNDAMENTOS DE OSCILAÇÕES,ONDAS E ÓPTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "FIS069"
                     ]
                 },
                 {
                     "code": "INU047",
+                    "name": "LABORATÓRIO DE PROJETOS INTEGRADORES DE ÁREAS TEMÁTICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "INU048",
+                    "name": "TÓPICOS EM ENGENHARIA DE COMPUTAÇÃO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "INU049",
+                    "name": "TÓPICOS EM ENGENHARIA DE COMPUTAÇÃO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "INU050",
+                    "name": "FORMAÇÃO AVANÇADA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "INU051",
+                    "name": "FORMAÇÃO AVANÇADA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "INU052",
+                    "name": "FORMAÇÃO AVANÇADA III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "INU053",
+                    "name": "FORMAÇÃO AVANÇADA IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "8",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "INU054",
+                    "name": "PARTICIPAÇÃO EM EVENTOS I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU055",
+                    "name": "INICIAÇÃO CIENTÍFICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU056",
+                    "name": "ESTÁGIO NÃO OBRIGATÓRIO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU057",
+                    "name": "PARTICIPAÇÃO EM EMPRESA JÚNIOR I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU058",
+                    "name": "PARTICIPAÇÃO EM EMPRESA JÚNIOR II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU059",
+                    "name": "CURSOS DE CAPACITAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU060",
+                    "name": "MONITORIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU061",
+                    "name": "REPRESENTAÇÃO EM ÓRGÃOS COLEGIADOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU062",
+                    "name": "DISCUSSÕES TEMÁTICAS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU063",
+                    "name": "PARTICIPAÇÃO EM ATIVIDADE DE EXTENSÃO I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU064",
+                    "name": "PARTICIPAÇÃO EM ATIVIDADE DE EXTENSÃO II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU065",
+                    "name": "PARTICIPAÇÃO EM ATIVIDADE DE EXTENSÃO III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU066",
+                    "name": "PARTICIPAÇÃO EM ATIVIDADE DE EXTENSÃO IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU067",
+                    "name": "DIVULGAÇÃO DO CONHECIMENTO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "MAT034",
+                    "name": "ÁLGEBRA A",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "MAT047",
+                    "name": "ANÁLISE COMBINATÓRIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "MAT048",
+                    "name": "ÁLGEBRA LINEAR I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 }
             ],
@@ -3843,719 +4427,1291 @@
             "optionalPool": [
                 {
                     "code": "CAD004",
+                    "name": "ADMINISTRAÇÃO DA PRODUÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD089",
+                    "name": "GESTAO DE CUSTOS E INVESTIMENTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD153",
+                    "name": "ADMINISTRAÇÃO DE CUSTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD163",
+                    "name": "ADMINISTRAÇÃO DE RECURSOS HUMANOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD164",
+                    "name": "ADMINISTRAÇÃO MERCADOLÓGICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD167",
+                    "name": "ADMINISTRAÇÃO FINANCEIRA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CIC010",
+                    "name": "INTRODUÇÃO À CONTABILIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC027",
+                    "name": "COMPUTAÇÃO GRÁFICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC028",
+                    "name": "INTELIGENCIA ARTIFICIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC029",
+                    "name": "PROCESSAMENTOS DIGITAL DE IMAGENS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC041",
+                    "name": "INTRODUÇÃO À ROBÓTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC042",
+                    "name": "ROBÓTICA MÓVEL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC053",
+                    "name": "COMPILADORES I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC055",
+                    "name": "EMPREENDIMENTOS EM INFORMÁTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC072",
+                    "name": "ENGENHARIA DE SOFTWARE II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC076",
+                    "name": "RECUPERAÇÃO DE INFORMAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC077",
+                    "name": "INTRODUÇÃO À COMPUTAÇÃO VISUAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC078",
+                    "name": "BANCOS DE DADOS GEOGRÁFICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC079",
+                    "name": "BIOINFORMÁTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC081",
+                    "name": "FUNDAMENTOS ESTATÍSTICOS DE CIÊNCIA DOS DADOS A",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC082",
+                    "name": "FUNDAMENTOS ESTATÍSTICOS DE CIÊNCIA DOS DADOS B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC083",
+                    "name": "GESTÃO DE EQUIPES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC084",
+                    "name": "PROGRAMAÇÃO COMPETITIVA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC085",
+                    "name": "PRÁTICA DE DESENVOLVIMENTO DE SOFTWARE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC086",
+                    "name": "REDES COMPLEXAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC087",
+                    "name": "MÉTODOS QUALITATIVOS APLICADOS EM COMPUTAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC088",
+                    "name": "SISTEMAS EM REDES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC089",
+                    "name": "TESTE DE SOFTWARE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC090",
+                    "name": "TEORIA DA INFORMAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC091",
+                    "name": "FLUXO DE INFORMAÇÃO QUANTITATIVO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC092",
+                    "name": "MÉTODOS FORMAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC093",
+                    "name": "SISTEMAS DE RECOMENDAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC186",
+                    "name": "ALGORITMOS PARA BIOINFORMÁTICA I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC188",
+                    "name": "ANALISE E MODELAGEM DE DESEMP. SIST.COMP",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC189",
+                    "name": "ARMAZÉNS DE DADOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC190",
+                    "name": "BIBLIOTECAS DIGITAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC191",
+                    "name": "COMPUTAÇÃO NATURAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC192",
+                    "name": "DESENVOLVIMENTO DE JOGOS DIGITAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC193",
+                    "name": "ENGENHARIA DE USABILIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC195",
+                    "name": "MÉTODOS QUANTIT. DE PESQ. EXPERIMENTAL EM CIÊNCIA COMPUTAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC198",
+                    "name": "REDES COMPLEXAS EM COMP.: MODELAGEM, ALGORITMOS E APLICAÇÕES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC199",
+                    "name": "TEORIA DOS GRAFOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC207",
+                    "name": "ALGORITMOS II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC212",
+                    "name": "INTRODUÇÃO À CIÊNCIA DOS DADOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "DCC215",
+                    "name": "HEURÍSTICAS E METAHEURÍSTICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "EEE006",
+                    "name": "TECNOLOGIA DISPOSITIVOS SEMICONDUTORES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "EEE017",
+                    "name": "CONFIABILIDADE DE SISTEMAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "EEE025",
+                    "name": "INSTRUMENTAÇÃO BIOMÉDICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "EEE056",
+                    "name": "LABORATÓRIO DE ROBÓTICA MÓVEL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "EEE059",
+                    "name": "APRENDIZADO DE MÁQUINA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELE037",
+                    "name": "OTIMIZACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELE041",
+                    "name": "MANIPULADORES ROBÓTICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELE059",
+                    "name": "FUNDAMENTOS DE ENGENHARIA BIOMÉDICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELE066",
+                    "name": "ANALISE DE CIRCUITOS ELETRICOS III",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELE077",
+                    "name": "OTIMIZACAO NAO LINEAR",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELE083",
+                    "name": "COMPUTACAO EVOLUCIONARIA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELE088",
+                    "name": "TEORIA DA DECISAO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELE164",
+                    "name": "FUNDAMENTOS E APLICAÇÕES DE SISTEMAS ÓPTICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELE165",
+                    "name": "ENGENHARIA DE REABILITAÇÃO E TECNOLOGIAS ASSISTIVAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELE166",
+                    "name": "SISTEMAS DE MEDIÇÃO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELE167",
+                    "name": "LABORATÓRIO DE SISTEMAS DE MEDIÇÃO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELE168",
+                    "name": "PROCESSAMENTO DIGITAL DE IMAGENS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT037",
+                    "name": "MULTIMIDIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT043",
+                    "name": "FONTES DE ALIMENTACAO CC E CA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT047",
+                    "name": "COMUNICACOES DIGITAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT048",
+                    "name": "COMUNICACOES MOVEIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT049",
+                    "name": "COMUNICACOES OPTICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT071",
+                    "name": "DOMÓTICA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT075",
+                    "name": "REDES NEURAIS ARTIFICIAIS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT085",
+                    "name": "CIRCUITOS ELETRONICOS ANALOGICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT086",
+                    "name": "TEORIA DE COMUNICACOES",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT087",
+                    "name": "LABORATORIO DE COMUNICACOES",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT090",
+                    "name": "LABORATORIO DE CIRCUITOS ELETRONICOS II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT091",
+                    "name": "REDES TCP IP",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT095",
+                    "name": "PROJ. AMPLIF. OPER. CIRC. ELETR. ANALOG.",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT135",
+                    "name": "INTRODUÇÃO AO RECONHECIMENTO DE PADRÕES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT137",
+                    "name": "PROGRAMAÇÃO DE SISTEMAS EMBARCADOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT618",
+                    "name": "LAB. DE PROJ. COM AMPLIFICADORES OP. E CIRCUITOS ANAL. INTEG",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ELT619",
+                    "name": "MULTIMÍDIA SOBRE IP",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "ENG201",
+                    "name": "INICIAÇÃO À PESQUISA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG202",
+                    "name": "INICIAÇÃO À PESQUISA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG203",
+                    "name": "INICIAÇÃO À PESQUISA III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG204",
+                    "name": "INICIAÇÃO À DOCÊNCIA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG205",
+                    "name": "INICIAÇÃO À DOCÊNCIA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG206",
+                    "name": "INICIAÇÃO À DOCÊNCIA III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG207",
+                    "name": "MONITORIA OU TUTORIA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG208",
+                    "name": "MONITORIA OU TUTORIA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG209",
+                    "name": "MONITORIA OU TUTORIA III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG210",
+                    "name": "INICIAÇÃO À EXTENSÃO I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG211",
+                    "name": "INICIAÇÃO À EXTENSÃO II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG212",
+                    "name": "INICIAÇÃO À EXTENSÃO III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG213",
+                    "name": "PARTICIPAÇÃO EM EQUIPE DE COMPETIÇÃO I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG214",
+                    "name": "PARTICIPAÇÃO EM EQUIPE DE COMPETIÇÃO II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG215",
+                    "name": "PARTICIPAÇÃO EM EQUIPE DE COMPETIÇÃO III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG216",
+                    "name": "PARTICIPAÇÃO EM EMPRESA JÚNIOR I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG217",
+                    "name": "PARTICIPAÇÃO EM EMPRESA JÚNIOR II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG218",
+                    "name": "PARTICIPAÇÃO EM EMPRESA JÚNIOR III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG222",
+                    "name": "PUBLICAÇÃO I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG223",
+                    "name": "PUBLICAÇÃO II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG224",
+                    "name": "PUBLICAÇÃO III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG225",
+                    "name": "PARTICIPAÇÃO EM EVENTO PRESENCIAL I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG226",
+                    "name": "PARTICIPAÇÃO EM EVENTO PRESENCIAL II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG229",
+                    "name": "PARTICIPAÇÃO EM EVENTO A DISTÂNCIA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG233",
+                    "name": "ORGANIZAÇÃO DE EVENTO INTERNO I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG234",
+                    "name": "ORGANIZAÇÃO DE EVENTO INTERNO II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG235",
+                    "name": "ORGANIZAÇÃO DE EVENTO INTERNO III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG236",
+                    "name": "ORGANIZAÇÃO DE EVENTO INTERNO IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG237",
+                    "name": "ORGANIZAÇÃO DE EVENTO EXTERNO I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG238",
+                    "name": "ORGANIZAÇÃO DE EVENTO EXTERNO II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG239",
+                    "name": "ORGANIZAÇÃO DE EVENTO EXTERNO III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG240",
+                    "name": "ORGANIZAÇÃO DE EVENTO EXTERNO IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG253",
+                    "name": "PROJETO DE EXPERIÊNCIA TÉCNICA COMPLEMENTAR I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG254",
+                    "name": "PROJETO DE EXPERIÊNCIA TÉCNICA COMPLEMENTAR II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG255",
+                    "name": "VIVÊNCIA PROFISSIONAL COMPLEMENTAR I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG256",
+                    "name": "VIVÊNCIA PROFISSIONAL COMPLEMENTAR II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG261",
+                    "name": "ESTAGIO NÃO OBRIGATÓRIO I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ENG262",
+                    "name": "ESTAGIO NÃO OBRIGATÓRIO II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "FIS086",
+                    "name": "FUNDAMENTOS DE OSCILAÇÕES,ONDAS E ÓPTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "FIS069"
                     ]
                 },
                 {
                     "code": "INU047",
+                    "name": "LABORATÓRIO DE PROJETOS INTEGRADORES DE ÁREAS TEMÁTICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "INU048",
+                    "name": "TÓPICOS EM ENGENHARIA DE COMPUTAÇÃO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "INU049",
+                    "name": "TÓPICOS EM ENGENHARIA DE COMPUTAÇÃO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas de Área Temática",
                     "prereqs": []
                 },
                 {
                     "code": "INU050",
+                    "name": "FORMAÇÃO AVANÇADA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "INU051",
+                    "name": "FORMAÇÃO AVANÇADA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "INU052",
+                    "name": "FORMAÇÃO AVANÇADA III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "INU053",
+                    "name": "FORMAÇÃO AVANÇADA IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "INU054",
+                    "name": "PARTICIPAÇÃO EM EVENTOS I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU055",
+                    "name": "INICIAÇÃO CIENTÍFICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU056",
+                    "name": "ESTÁGIO NÃO OBRIGATÓRIO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU057",
+                    "name": "PARTICIPAÇÃO EM EMPRESA JÚNIOR I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU058",
+                    "name": "PARTICIPAÇÃO EM EMPRESA JÚNIOR II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU059",
+                    "name": "CURSOS DE CAPACITAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU060",
+                    "name": "MONITORIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU061",
+                    "name": "REPRESENTAÇÃO EM ÓRGÃOS COLEGIADOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU062",
+                    "name": "DISCUSSÕES TEMÁTICAS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU063",
+                    "name": "PARTICIPAÇÃO EM ATIVIDADE DE EXTENSÃO I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU064",
+                    "name": "PARTICIPAÇÃO EM ATIVIDADE DE EXTENSÃO II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU065",
+                    "name": "PARTICIPAÇÃO EM ATIVIDADE DE EXTENSÃO III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU066",
+                    "name": "PARTICIPAÇÃO EM ATIVIDADE DE EXTENSÃO IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "INU067",
+                    "name": "DIVULGAÇÃO DO CONHECIMENTO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "16",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "MAT034",
+                    "name": "ÁLGEBRA A",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "MAT047",
+                    "name": "ANÁLISE COMBINATÓRIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "MAT048",
+                    "name": "ÁLGEBRA LINEAR I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 }
             ],

@@ -19,7 +19,7 @@
         },
         "note": null
     },
-    "generatedAt": "2026-11-05T21:02:20.664Z",
+    "generatedAt": "2026-11-06T15:21:12.615Z",
     "disciplines": {
         "ADE058": {
             "code": "ADE058",
@@ -1675,6 +1675,16 @@
                         "MTE214"
                     ],
                     "optional": []
+                },
+                {
+                    "number": 9,
+                    "codes": [],
+                    "optional": []
+                },
+                {
+                    "number": 10,
+                    "codes": [],
+                    "optional": []
                 }
             ],
             "optionalSlots": [
@@ -1730,397 +1740,713 @@
             "optionalPool": [
                 {
                     "code": "ADE026",
+                    "name": "ORGANIZACAO DA EDUC DE JOVENS E ADULTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE048",
+                    "name": "POLITICAS PUBLICAS,MOVM.SOCIAIS E CIDADA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE052",
+                    "name": "ECONOMIA E POLITICA FINANCIAMENTO ED.BAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE053",
+                    "name": "PRATICA EM EDUCACAO DE JOVENS E ADULTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE054",
+                    "name": "TRAB. DOC. E RELACOES TRAB.NOS SIST.ENSI",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE067",
+                    "name": "ECONOMIA POLÍTICA E EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE068",
+                    "name": "GÊNEROS E SEXUALIDADES NOS CURRÍCULOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE069",
+                    "name": "GESTÃO EDUCACIONAL: AS ESCOLAS NOS SISTEMAS DE ENSINO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE070",
+                    "name": "ORGANIZAÇÃO DE ESPAÇOS E AMBIENTES NA EDUCAÇÃO INFANTIL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE071",
+                    "name": "TECNOLOGIAS DIGITAIS NA ESCOLA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE072",
+                    "name": "TÓPICOS EM EDUCAÇÃO E RELAÇÕES ÉTNICO-RACIAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE073",
+                    "name": "TÓPICOS EM EDUCAÇÃO ESPECIAL E INCLUSÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE074",
+                    "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE075",
+                    "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE076",
+                    "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO C",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE077",
+                    "name": "TÓPICOS EM PENSAMENTO COMPUTACIONAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE078",
+                    "name": "TÓPICOS EM POLÍTICAS E EXPERIÊNCIAS EDUCATIVAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE079",
+                    "name": "TÓPICOS EM POLÍTICAS PÚBLICAS EM TECNOLOGIAS DA EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE080",
+                    "name": "TRABALHO E EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE054",
+                    "name": "A ESCOLA E SEUS SUJEITOS: COND. JUVENIL E DOCÊNCIA NO CINEMA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE055",
+                    "name": "A PRÁTICA EDUCATIVA EM TELA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE056",
+                    "name": "A PRÁTICA EDUCATIVA NO CINEMA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE057",
+                    "name": "ABORDAGENS SOCIOLÓGICAS DA ESCOLA E DA SALA DE AULA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE058",
+                    "name": "ANTROPOLOGIA E ARTE INDÍGENA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE059",
+                    "name": "CONSTITUIÇÃO SUBJETIVA DO ADOLESCENTE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE060",
+                    "name": "DINÂMICA DA SALA DE AULA E PROCESSOS INCLUSIVOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE061",
+                    "name": "EDUCAÇÃO E ESPIRITUALIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE062",
+                    "name": "EDUCAÇÃO E SOCIALISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE063",
+                    "name": "EDUCAÇÃO, GÊNERO E SEXUALIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE064",
+                    "name": "HISTÓRIA DA EDU. DOS SENTIDOS E DAS SENSIBILIDADES NA ESCOLA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE065",
+                    "name": "HISTÓRIA DA EDUCAÇÃO SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE066",
+                    "name": "HIST. DA INFÂNCIA: ESCOLA E TRABALHO NA EUROPA E AM. LATINA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE067",
+                    "name": "HISTÓRIA DAS PRÁTICAS EDUCATIVAS NO BRASIL COLONIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE068",
+                    "name": "HISTÓRIA DO CURRÍCULO E DOS SABERES ESCOLARES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE069",
+                    "name": "HISTÓRIAS E CULTURAS INDÍGENAS NO BRASIL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE070",
+                    "name": "JUVENTUDE, ESCOLA E IMPASSES CONTEMPORÂNEOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE071",
+                    "name": "JUVENTUDES NA CONTEMPORANEIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE072",
+                    "name": "MEIO AMBIENTE E CULTURA: FUND. PARA UMA ECOLOGIA POLÍTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE073",
+                    "name": "METODOLOGIAS DE PESQUISA QUALITATIVA EM EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE074",
+                    "name": "METODOLOGIAS DE PESQUISA QUANTITATIVA EM EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE075",
+                    "name": "PROCESSOS DE APRENDIZAGEM DA CULTURA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE076",
+                    "name": "RELIGIÕES DE MATRIZ AFRICANA NO BRASIL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE077",
+                    "name": "TÓPICOS EM CIÊNCIAS DA EDUCAÇÃO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE078",
+                    "name": "TÓPICOS EM CIÊNCIAS DA EDUCAÇÃO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE079",
+                    "name": "TÓPICOS EM CIÊNCIAS DA EDUCAÇÃO C",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE149",
+                    "name": "METODOLOGIA DE PESQUISA EM EDUCACAO II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE150",
+                    "name": "SISTEMA DE AVALIACAO EDUCACIONAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE151",
+                    "name": "FUNDAMENTOS TEORICO-METOD. EDUCACAO POPU",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE152",
+                    "name": "MONOGRAFIA NA AREA DE CIENCIAS EDUCACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE153",
+                    "name": "EDUCACAO SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE161",
+                    "name": "ESTATISTICA EDUCACIONAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE162",
+                    "name": "RELACAO FAMILIA-ESCOLA:UMA PERSP.SOCIOL.",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE165",
+                    "name": "EDUCACAO E MODERNIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE167",
+                    "name": "TOPICOS ESPECIAIS EM SOCIOL. DA EDUCACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DIT121",
+                    "name": "DIREITOS HUMANOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE371",
+                    "name": "TOPICOS EM EDUCACAO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE480",
+                    "name": "TOPICOS DE ENSINO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE481",
+                    "name": "TOPICOS DE ENSINO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE482",
+                    "name": "TOPICOS DE ENSINO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE483",
+                    "name": "TOPICOS DE ENSINO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICB001",
+                    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE216",
+                    "name": "PRATICA EM EDUCACAO SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE217",
+                    "name": "METODOLOGIA DA ALF. DE JOVENS E ADULTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE218",
+                    "name": "TOPICOS EM EDUCACAO SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE220",
+                    "name": "LEITURA E PRODUCAO DE GENEROS ACADEMICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE221",
+                    "name": "A LEITURA LITERARIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE269",
+                    "name": "A EDUCAÇÃO DOS BEBÊS: A CONSTRUÇÃO DE PROPOSTAS PEDAGÓGICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE270",
+                    "name": "LABORATÓRIO DE BRINQUEDOS E BRINCADEIRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE272",
+                    "name": "LEITURA E ESCRITA NA CULTURA DIGITAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE273",
+                    "name": "PRÁT. PEDAG. NA EDUC. INFANTIL: APREN. INICIAL DA L. ESCRITA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE448",
+                    "name": "TEORIAS PEDAGÓGICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE449",
+                    "name": "TÓPICOS EM EDUCAÇÃO E LINGUAGEM",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE450",
+                    "name": "TÓPICOS EM ENSINO DE CIÊNCIAS",
+                    "hours": 120,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE451",
+                    "name": "TÓPICOS EM LABORATÓRIO DE ALFABETIZAÇÃO E LETRAMENTO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE452",
+                    "name": "TÓPICOS EM PROCESSO DE ENSINO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE453",
+                    "name": "TÓPICOS EM PROCESSO DE ENSINO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE454",
+                    "name": "TÓPICOS EM PROCESSO DE ENSINO C",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE455",
+                    "name": "TÓP. EM PROC. DE ENSINO: ALFAB. NA EDUC. DE JOVENS E ADULTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "UNI103",
+                    "name": "LIBRAS, SURDEZ E ALFABETIZAÇÃO: UMA INTRODUÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas",
                     "prereqs": []
                 }
             ],
@@ -2255,6 +2581,16 @@
                         "MTE214"
                     ],
                     "optional": []
+                },
+                {
+                    "number": 9,
+                    "codes": [],
+                    "optional": []
+                },
+                {
+                    "number": 10,
+                    "codes": [],
+                    "optional": []
                 }
             ],
             "optionalSlots": [
@@ -2340,397 +2676,713 @@
             "optionalPool": [
                 {
                     "code": "ADE026",
+                    "name": "ORGANIZACAO DA EDUC DE JOVENS E ADULTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE048",
+                    "name": "POLITICAS PUBLICAS,MOVM.SOCIAIS E CIDADA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE052",
+                    "name": "ECONOMIA E POLITICA FINANCIAMENTO ED.BAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE053",
+                    "name": "PRATICA EM EDUCACAO DE JOVENS E ADULTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE054",
+                    "name": "TRAB. DOC. E RELACOES TRAB.NOS SIST.ENSI",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE067",
+                    "name": "ECONOMIA POLÍTICA E EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE068",
+                    "name": "GÊNEROS E SEXUALIDADES NOS CURRÍCULOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE069",
+                    "name": "GESTÃO EDUCACIONAL: AS ESCOLAS NOS SISTEMAS DE ENSINO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE070",
+                    "name": "ORGANIZAÇÃO DE ESPAÇOS E AMBIENTES NA EDUCAÇÃO INFANTIL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE071",
+                    "name": "TECNOLOGIAS DIGITAIS NA ESCOLA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE072",
+                    "name": "TÓPICOS EM EDUCAÇÃO E RELAÇÕES ÉTNICO-RACIAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE073",
+                    "name": "TÓPICOS EM EDUCAÇÃO ESPECIAL E INCLUSÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE074",
+                    "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE075",
+                    "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE076",
+                    "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO C",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE077",
+                    "name": "TÓPICOS EM PENSAMENTO COMPUTACIONAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE078",
+                    "name": "TÓPICOS EM POLÍTICAS E EXPERIÊNCIAS EDUCATIVAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE079",
+                    "name": "TÓPICOS EM POLÍTICAS PÚBLICAS EM TECNOLOGIAS DA EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE080",
+                    "name": "TRABALHO E EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE054",
+                    "name": "A ESCOLA E SEUS SUJEITOS: COND. JUVENIL E DOCÊNCIA NO CINEMA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE055",
+                    "name": "A PRÁTICA EDUCATIVA EM TELA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE056",
+                    "name": "A PRÁTICA EDUCATIVA NO CINEMA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE057",
+                    "name": "ABORDAGENS SOCIOLÓGICAS DA ESCOLA E DA SALA DE AULA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE058",
+                    "name": "ANTROPOLOGIA E ARTE INDÍGENA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE059",
+                    "name": "CONSTITUIÇÃO SUBJETIVA DO ADOLESCENTE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE060",
+                    "name": "DINÂMICA DA SALA DE AULA E PROCESSOS INCLUSIVOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE061",
+                    "name": "EDUCAÇÃO E ESPIRITUALIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE062",
+                    "name": "EDUCAÇÃO E SOCIALISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE063",
+                    "name": "EDUCAÇÃO, GÊNERO E SEXUALIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE064",
+                    "name": "HISTÓRIA DA EDU. DOS SENTIDOS E DAS SENSIBILIDADES NA ESCOLA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE065",
+                    "name": "HISTÓRIA DA EDUCAÇÃO SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE066",
+                    "name": "HIST. DA INFÂNCIA: ESCOLA E TRABALHO NA EUROPA E AM. LATINA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE067",
+                    "name": "HISTÓRIA DAS PRÁTICAS EDUCATIVAS NO BRASIL COLONIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE068",
+                    "name": "HISTÓRIA DO CURRÍCULO E DOS SABERES ESCOLARES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE069",
+                    "name": "HISTÓRIAS E CULTURAS INDÍGENAS NO BRASIL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE070",
+                    "name": "JUVENTUDE, ESCOLA E IMPASSES CONTEMPORÂNEOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE071",
+                    "name": "JUVENTUDES NA CONTEMPORANEIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE072",
+                    "name": "MEIO AMBIENTE E CULTURA: FUND. PARA UMA ECOLOGIA POLÍTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE073",
+                    "name": "METODOLOGIAS DE PESQUISA QUALITATIVA EM EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE074",
+                    "name": "METODOLOGIAS DE PESQUISA QUANTITATIVA EM EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE075",
+                    "name": "PROCESSOS DE APRENDIZAGEM DA CULTURA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE076",
+                    "name": "RELIGIÕES DE MATRIZ AFRICANA NO BRASIL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE077",
+                    "name": "TÓPICOS EM CIÊNCIAS DA EDUCAÇÃO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE078",
+                    "name": "TÓPICOS EM CIÊNCIAS DA EDUCAÇÃO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE079",
+                    "name": "TÓPICOS EM CIÊNCIAS DA EDUCAÇÃO C",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE149",
+                    "name": "METODOLOGIA DE PESQUISA EM EDUCACAO II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE150",
+                    "name": "SISTEMA DE AVALIACAO EDUCACIONAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE151",
+                    "name": "FUNDAMENTOS TEORICO-METOD. EDUCACAO POPU",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE152",
+                    "name": "MONOGRAFIA NA AREA DE CIENCIAS EDUCACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE153",
+                    "name": "EDUCACAO SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE161",
+                    "name": "ESTATISTICA EDUCACIONAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE162",
+                    "name": "RELACAO FAMILIA-ESCOLA:UMA PERSP.SOCIOL.",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE165",
+                    "name": "EDUCACAO E MODERNIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE167",
+                    "name": "TOPICOS ESPECIAIS EM SOCIOL. DA EDUCACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DIT121",
+                    "name": "DIREITOS HUMANOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE371",
+                    "name": "TOPICOS EM EDUCACAO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE480",
+                    "name": "TOPICOS DE ENSINO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE481",
+                    "name": "TOPICOS DE ENSINO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE482",
+                    "name": "TOPICOS DE ENSINO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE483",
+                    "name": "TOPICOS DE ENSINO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICB001",
+                    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE216",
+                    "name": "PRATICA EM EDUCACAO SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE217",
+                    "name": "METODOLOGIA DA ALF. DE JOVENS E ADULTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE218",
+                    "name": "TOPICOS EM EDUCACAO SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE220",
+                    "name": "LEITURA E PRODUCAO DE GENEROS ACADEMICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE221",
+                    "name": "A LEITURA LITERARIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE269",
+                    "name": "A EDUCAÇÃO DOS BEBÊS: A CONSTRUÇÃO DE PROPOSTAS PEDAGÓGICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE270",
+                    "name": "LABORATÓRIO DE BRINQUEDOS E BRINCADEIRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE272",
+                    "name": "LEITURA E ESCRITA NA CULTURA DIGITAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE273",
+                    "name": "PRÁT. PEDAG. NA EDUC. INFANTIL: APREN. INICIAL DA L. ESCRITA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE448",
+                    "name": "TEORIAS PEDAGÓGICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE449",
+                    "name": "TÓPICOS EM EDUCAÇÃO E LINGUAGEM",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE450",
+                    "name": "TÓPICOS EM ENSINO DE CIÊNCIAS",
+                    "hours": 120,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE451",
+                    "name": "TÓPICOS EM LABORATÓRIO DE ALFABETIZAÇÃO E LETRAMENTO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE452",
+                    "name": "TÓPICOS EM PROCESSO DE ENSINO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE453",
+                    "name": "TÓPICOS EM PROCESSO DE ENSINO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE454",
+                    "name": "TÓPICOS EM PROCESSO DE ENSINO C",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE455",
+                    "name": "TÓP. EM PROC. DE ENSINO: ALFAB. NA EDUC. DE JOVENS E ADULTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "UNI103",
+                    "name": "LIBRAS, SURDEZ E ALFABETIZAÇÃO: UMA INTRODUÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas",
                     "prereqs": []
                 }
             ],
@@ -2873,6 +3525,11 @@
                         "CAE152"
                     ],
                     "optional": []
+                },
+                {
+                    "number": 10,
+                    "codes": [],
+                    "optional": []
                 }
             ],
             "optionalSlots": [
@@ -2928,387 +3585,695 @@
             "optionalPool": [
                 {
                     "code": "ADE026",
+                    "name": "ORGANIZACAO DA EDUC DE JOVENS E ADULTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE048",
+                    "name": "POLITICAS PUBLICAS,MOVM.SOCIAIS E CIDADA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE052",
+                    "name": "ECONOMIA E POLITICA FINANCIAMENTO ED.BAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE053",
+                    "name": "PRATICA EM EDUCACAO DE JOVENS E ADULTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE054",
+                    "name": "TRAB. DOC. E RELACOES TRAB.NOS SIST.ENSI",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE067",
+                    "name": "ECONOMIA POLÍTICA E EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE068",
+                    "name": "GÊNEROS E SEXUALIDADES NOS CURRÍCULOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE069",
+                    "name": "GESTÃO EDUCACIONAL: AS ESCOLAS NOS SISTEMAS DE ENSINO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE070",
+                    "name": "ORGANIZAÇÃO DE ESPAÇOS E AMBIENTES NA EDUCAÇÃO INFANTIL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE071",
+                    "name": "TECNOLOGIAS DIGITAIS NA ESCOLA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE072",
+                    "name": "TÓPICOS EM EDUCAÇÃO E RELAÇÕES ÉTNICO-RACIAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE073",
+                    "name": "TÓPICOS EM EDUCAÇÃO ESPECIAL E INCLUSÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE074",
+                    "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE075",
+                    "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE076",
+                    "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO C",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE077",
+                    "name": "TÓPICOS EM PENSAMENTO COMPUTACIONAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE078",
+                    "name": "TÓPICOS EM POLÍTICAS E EXPERIÊNCIAS EDUCATIVAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE079",
+                    "name": "TÓPICOS EM POLÍTICAS PÚBLICAS EM TECNOLOGIAS DA EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE080",
+                    "name": "TRABALHO E EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE054",
+                    "name": "A ESCOLA E SEUS SUJEITOS: COND. JUVENIL E DOCÊNCIA NO CINEMA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE055",
+                    "name": "A PRÁTICA EDUCATIVA EM TELA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE056",
+                    "name": "A PRÁTICA EDUCATIVA NO CINEMA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE057",
+                    "name": "ABORDAGENS SOCIOLÓGICAS DA ESCOLA E DA SALA DE AULA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE058",
+                    "name": "ANTROPOLOGIA E ARTE INDÍGENA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE059",
+                    "name": "CONSTITUIÇÃO SUBJETIVA DO ADOLESCENTE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE060",
+                    "name": "DINÂMICA DA SALA DE AULA E PROCESSOS INCLUSIVOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE061",
+                    "name": "EDUCAÇÃO E ESPIRITUALIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE062",
+                    "name": "EDUCAÇÃO E SOCIALISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE063",
+                    "name": "EDUCAÇÃO, GÊNERO E SEXUALIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE064",
+                    "name": "HISTÓRIA DA EDU. DOS SENTIDOS E DAS SENSIBILIDADES NA ESCOLA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE065",
+                    "name": "HISTÓRIA DA EDUCAÇÃO SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE066",
+                    "name": "HIST. DA INFÂNCIA: ESCOLA E TRABALHO NA EUROPA E AM. LATINA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE067",
+                    "name": "HISTÓRIA DAS PRÁTICAS EDUCATIVAS NO BRASIL COLONIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE068",
+                    "name": "HISTÓRIA DO CURRÍCULO E DOS SABERES ESCOLARES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE069",
+                    "name": "HISTÓRIAS E CULTURAS INDÍGENAS NO BRASIL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE070",
+                    "name": "JUVENTUDE, ESCOLA E IMPASSES CONTEMPORÂNEOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE071",
+                    "name": "JUVENTUDES NA CONTEMPORANEIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE072",
+                    "name": "MEIO AMBIENTE E CULTURA: FUND. PARA UMA ECOLOGIA POLÍTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE073",
+                    "name": "METODOLOGIAS DE PESQUISA QUALITATIVA EM EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE074",
+                    "name": "METODOLOGIAS DE PESQUISA QUANTITATIVA EM EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE075",
+                    "name": "PROCESSOS DE APRENDIZAGEM DA CULTURA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE076",
+                    "name": "RELIGIÕES DE MATRIZ AFRICANA NO BRASIL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE077",
+                    "name": "TÓPICOS EM CIÊNCIAS DA EDUCAÇÃO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE078",
+                    "name": "TÓPICOS EM CIÊNCIAS DA EDUCAÇÃO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE079",
+                    "name": "TÓPICOS EM CIÊNCIAS DA EDUCAÇÃO C",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE150",
+                    "name": "SISTEMA DE AVALIACAO EDUCACIONAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE151",
+                    "name": "FUNDAMENTOS TEORICO-METOD. EDUCACAO POPU",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE153",
+                    "name": "EDUCACAO SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE161",
+                    "name": "ESTATISTICA EDUCACIONAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE162",
+                    "name": "RELACAO FAMILIA-ESCOLA:UMA PERSP.SOCIOL.",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE165",
+                    "name": "EDUCACAO E MODERNIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE167",
+                    "name": "TOPICOS ESPECIAIS EM SOCIOL. DA EDUCACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "DIT121",
+                    "name": "DIREITOS HUMANOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE371",
+                    "name": "TOPICOS EM EDUCACAO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE480",
+                    "name": "TOPICOS DE ENSINO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE481",
+                    "name": "TOPICOS DE ENSINO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE482",
+                    "name": "TOPICOS DE ENSINO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE483",
+                    "name": "TOPICOS DE ENSINO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICB001",
+                    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE216",
+                    "name": "PRATICA EM EDUCACAO SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE217",
+                    "name": "METODOLOGIA DA ALF. DE JOVENS E ADULTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE218",
+                    "name": "TOPICOS EM EDUCACAO SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE220",
+                    "name": "LEITURA E PRODUCAO DE GENEROS ACADEMICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE221",
+                    "name": "A LEITURA LITERARIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE269",
+                    "name": "A EDUCAÇÃO DOS BEBÊS: A CONSTRUÇÃO DE PROPOSTAS PEDAGÓGICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE270",
+                    "name": "LABORATÓRIO DE BRINQUEDOS E BRINCADEIRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE272",
+                    "name": "LEITURA E ESCRITA NA CULTURA DIGITAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE273",
+                    "name": "PRÁT. PEDAG. NA EDUC. INFANTIL: APREN. INICIAL DA L. ESCRITA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE448",
+                    "name": "TEORIAS PEDAGÓGICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE449",
+                    "name": "TÓPICOS EM EDUCAÇÃO E LINGUAGEM",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE450",
+                    "name": "TÓPICOS EM ENSINO DE CIÊNCIAS",
+                    "hours": 120,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE451",
+                    "name": "TÓPICOS EM LABORATÓRIO DE ALFABETIZAÇÃO E LETRAMENTO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE452",
+                    "name": "TÓPICOS EM PROCESSO DE ENSINO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE453",
+                    "name": "TÓPICOS EM PROCESSO DE ENSINO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE454",
+                    "name": "TÓPICOS EM PROCESSO DE ENSINO C",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE455",
+                    "name": "TÓP. EM PROC. DE ENSINO: ALFAB. NA EDUC. DE JOVENS E ADULTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "UNI103",
+                    "name": "LIBRAS, SURDEZ E ALFABETIZAÇÃO: UMA INTRODUÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas",
                     "prereqs": []
                 }
             ],
@@ -3452,6 +4417,11 @@
                         "ADE054"
                     ],
                     "optional": []
+                },
+                {
+                    "number": 10,
+                    "codes": [],
+                    "optional": []
                 }
             ],
             "optionalSlots": [
@@ -3507,382 +4477,686 @@
             "optionalPool": [
                 {
                     "code": "ADE026",
+                    "name": "ORGANIZACAO DA EDUC DE JOVENS E ADULTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ADE048",
+                    "name": "POLITICAS PUBLICAS,MOVM.SOCIAIS E CIDADA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ADE053",
+                    "name": "PRATICA EM EDUCACAO DE JOVENS E ADULTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ADE067",
+                    "name": "ECONOMIA POLÍTICA E EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ADE068",
+                    "name": "GÊNEROS E SEXUALIDADES NOS CURRÍCULOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ADE069",
+                    "name": "GESTÃO EDUCACIONAL: AS ESCOLAS NOS SISTEMAS DE ENSINO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ADE070",
+                    "name": "ORGANIZAÇÃO DE ESPAÇOS E AMBIENTES NA EDUCAÇÃO INFANTIL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ADE071",
+                    "name": "TECNOLOGIAS DIGITAIS NA ESCOLA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ADE072",
+                    "name": "TÓPICOS EM EDUCAÇÃO E RELAÇÕES ÉTNICO-RACIAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ADE073",
+                    "name": "TÓPICOS EM EDUCAÇÃO ESPECIAL E INCLUSÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ADE074",
+                    "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ADE075",
+                    "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ADE076",
+                    "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO C",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ADE077",
+                    "name": "TÓPICOS EM PENSAMENTO COMPUTACIONAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ADE078",
+                    "name": "TÓPICOS EM POLÍTICAS E EXPERIÊNCIAS EDUCATIVAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ADE079",
+                    "name": "TÓPICOS EM POLÍTICAS PÚBLICAS EM TECNOLOGIAS DA EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ADE080",
+                    "name": "TRABALHO E EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "CAE054",
+                    "name": "A ESCOLA E SEUS SUJEITOS: COND. JUVENIL E DOCÊNCIA NO CINEMA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE055",
+                    "name": "A PRÁTICA EDUCATIVA EM TELA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE056",
+                    "name": "A PRÁTICA EDUCATIVA NO CINEMA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE057",
+                    "name": "ABORDAGENS SOCIOLÓGICAS DA ESCOLA E DA SALA DE AULA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE058",
+                    "name": "ANTROPOLOGIA E ARTE INDÍGENA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE059",
+                    "name": "CONSTITUIÇÃO SUBJETIVA DO ADOLESCENTE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE060",
+                    "name": "DINÂMICA DA SALA DE AULA E PROCESSOS INCLUSIVOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE061",
+                    "name": "EDUCAÇÃO E ESPIRITUALIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE062",
+                    "name": "EDUCAÇÃO E SOCIALISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE063",
+                    "name": "EDUCAÇÃO, GÊNERO E SEXUALIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE064",
+                    "name": "HISTÓRIA DA EDU. DOS SENTIDOS E DAS SENSIBILIDADES NA ESCOLA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE065",
+                    "name": "HISTÓRIA DA EDUCAÇÃO SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE066",
+                    "name": "HIST. DA INFÂNCIA: ESCOLA E TRABALHO NA EUROPA E AM. LATINA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE067",
+                    "name": "HISTÓRIA DAS PRÁTICAS EDUCATIVAS NO BRASIL COLONIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE068",
+                    "name": "HISTÓRIA DO CURRÍCULO E DOS SABERES ESCOLARES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE069",
+                    "name": "HISTÓRIAS E CULTURAS INDÍGENAS NO BRASIL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE070",
+                    "name": "JUVENTUDE, ESCOLA E IMPASSES CONTEMPORÂNEOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE071",
+                    "name": "JUVENTUDES NA CONTEMPORANEIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE072",
+                    "name": "MEIO AMBIENTE E CULTURA: FUND. PARA UMA ECOLOGIA POLÍTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE073",
+                    "name": "METODOLOGIAS DE PESQUISA QUALITATIVA EM EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE074",
+                    "name": "METODOLOGIAS DE PESQUISA QUANTITATIVA EM EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE075",
+                    "name": "PROCESSOS DE APRENDIZAGEM DA CULTURA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE076",
+                    "name": "RELIGIÕES DE MATRIZ AFRICANA NO BRASIL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE077",
+                    "name": "TÓPICOS EM CIÊNCIAS DA EDUCAÇÃO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE078",
+                    "name": "TÓPICOS EM CIÊNCIAS DA EDUCAÇÃO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE079",
+                    "name": "TÓPICOS EM CIÊNCIAS DA EDUCAÇÃO C",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE149",
+                    "name": "METODOLOGIA DE PESQUISA EM EDUCACAO II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE151",
+                    "name": "FUNDAMENTOS TEORICO-METOD. EDUCACAO POPU",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE152",
+                    "name": "MONOGRAFIA NA AREA DE CIENCIAS EDUCACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE153",
+                    "name": "EDUCACAO SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE161",
+                    "name": "ESTATISTICA EDUCACIONAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE162",
+                    "name": "RELACAO FAMILIA-ESCOLA:UMA PERSP.SOCIOL.",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE165",
+                    "name": "EDUCACAO E MODERNIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE167",
+                    "name": "TOPICOS ESPECIAIS EM SOCIOL. DA EDUCACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DIT121",
+                    "name": "DIREITOS HUMANOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE371",
+                    "name": "TOPICOS EM EDUCACAO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE480",
+                    "name": "TOPICOS DE ENSINO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE481",
+                    "name": "TOPICOS DE ENSINO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE482",
+                    "name": "TOPICOS DE ENSINO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE483",
+                    "name": "TOPICOS DE ENSINO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICB001",
+                    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE216",
+                    "name": "PRATICA EM EDUCACAO SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE217",
+                    "name": "METODOLOGIA DA ALF. DE JOVENS E ADULTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE218",
+                    "name": "TOPICOS EM EDUCACAO SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE220",
+                    "name": "LEITURA E PRODUCAO DE GENEROS ACADEMICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE221",
+                    "name": "A LEITURA LITERARIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE269",
+                    "name": "A EDUCAÇÃO DOS BEBÊS: A CONSTRUÇÃO DE PROPOSTAS PEDAGÓGICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE270",
+                    "name": "LABORATÓRIO DE BRINQUEDOS E BRINCADEIRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE272",
+                    "name": "LEITURA E ESCRITA NA CULTURA DIGITAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE273",
+                    "name": "PRÁT. PEDAG. NA EDUC. INFANTIL: APREN. INICIAL DA L. ESCRITA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE448",
+                    "name": "TEORIAS PEDAGÓGICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE449",
+                    "name": "TÓPICOS EM EDUCAÇÃO E LINGUAGEM",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE450",
+                    "name": "TÓPICOS EM ENSINO DE CIÊNCIAS",
+                    "hours": 120,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE451",
+                    "name": "TÓPICOS EM LABORATÓRIO DE ALFABETIZAÇÃO E LETRAMENTO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE452",
+                    "name": "TÓPICOS EM PROCESSO DE ENSINO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE453",
+                    "name": "TÓPICOS EM PROCESSO DE ENSINO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE454",
+                    "name": "TÓPICOS EM PROCESSO DE ENSINO C",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE455",
+                    "name": "TÓP. EM PROC. DE ENSINO: ALFAB. NA EDUC. DE JOVENS E ADULTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "UNI103",
+                    "name": "LIBRAS, SURDEZ E ALFABETIZAÇÃO: UMA INTRODUÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Optativas",
                     "prereqs": []
                 }
             ],
@@ -4028,6 +5302,11 @@
                         "ADE053"
                     ],
                     "optional": []
+                },
+                {
+                    "number": 10,
+                    "codes": [],
+                    "optional": []
                 }
             ],
             "optionalSlots": [
@@ -4083,372 +5362,668 @@
             "optionalPool": [
                 {
                     "code": "ADE052",
+                    "name": "ECONOMIA E POLITICA FINANCIAMENTO ED.BAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE054",
+                    "name": "TRAB. DOC. E RELACOES TRAB.NOS SIST.ENSI",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE067",
+                    "name": "ECONOMIA POLÍTICA E EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE068",
+                    "name": "GÊNEROS E SEXUALIDADES NOS CURRÍCULOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE069",
+                    "name": "GESTÃO EDUCACIONAL: AS ESCOLAS NOS SISTEMAS DE ENSINO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE070",
+                    "name": "ORGANIZAÇÃO DE ESPAÇOS E AMBIENTES NA EDUCAÇÃO INFANTIL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE071",
+                    "name": "TECNOLOGIAS DIGITAIS NA ESCOLA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE072",
+                    "name": "TÓPICOS EM EDUCAÇÃO E RELAÇÕES ÉTNICO-RACIAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE073",
+                    "name": "TÓPICOS EM EDUCAÇÃO ESPECIAL E INCLUSÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE074",
+                    "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE075",
+                    "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE076",
+                    "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO C",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE077",
+                    "name": "TÓPICOS EM PENSAMENTO COMPUTACIONAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE078",
+                    "name": "TÓPICOS EM POLÍTICAS E EXPERIÊNCIAS EDUCATIVAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE079",
+                    "name": "TÓPICOS EM POLÍTICAS PÚBLICAS EM TECNOLOGIAS DA EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE080",
+                    "name": "TRABALHO E EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE054",
+                    "name": "A ESCOLA E SEUS SUJEITOS: COND. JUVENIL E DOCÊNCIA NO CINEMA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE055",
+                    "name": "A PRÁTICA EDUCATIVA EM TELA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE056",
+                    "name": "A PRÁTICA EDUCATIVA NO CINEMA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE057",
+                    "name": "ABORDAGENS SOCIOLÓGICAS DA ESCOLA E DA SALA DE AULA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE058",
+                    "name": "ANTROPOLOGIA E ARTE INDÍGENA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE059",
+                    "name": "CONSTITUIÇÃO SUBJETIVA DO ADOLESCENTE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE060",
+                    "name": "DINÂMICA DA SALA DE AULA E PROCESSOS INCLUSIVOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE061",
+                    "name": "EDUCAÇÃO E ESPIRITUALIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE062",
+                    "name": "EDUCAÇÃO E SOCIALISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE063",
+                    "name": "EDUCAÇÃO, GÊNERO E SEXUALIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE064",
+                    "name": "HISTÓRIA DA EDU. DOS SENTIDOS E DAS SENSIBILIDADES NA ESCOLA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE065",
+                    "name": "HISTÓRIA DA EDUCAÇÃO SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE066",
+                    "name": "HIST. DA INFÂNCIA: ESCOLA E TRABALHO NA EUROPA E AM. LATINA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE067",
+                    "name": "HISTÓRIA DAS PRÁTICAS EDUCATIVAS NO BRASIL COLONIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE068",
+                    "name": "HISTÓRIA DO CURRÍCULO E DOS SABERES ESCOLARES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE069",
+                    "name": "HISTÓRIAS E CULTURAS INDÍGENAS NO BRASIL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE070",
+                    "name": "JUVENTUDE, ESCOLA E IMPASSES CONTEMPORÂNEOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE071",
+                    "name": "JUVENTUDES NA CONTEMPORANEIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE072",
+                    "name": "MEIO AMBIENTE E CULTURA: FUND. PARA UMA ECOLOGIA POLÍTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE073",
+                    "name": "METODOLOGIAS DE PESQUISA QUALITATIVA EM EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE074",
+                    "name": "METODOLOGIAS DE PESQUISA QUANTITATIVA EM EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE075",
+                    "name": "PROCESSOS DE APRENDIZAGEM DA CULTURA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE076",
+                    "name": "RELIGIÕES DE MATRIZ AFRICANA NO BRASIL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE077",
+                    "name": "TÓPICOS EM CIÊNCIAS DA EDUCAÇÃO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE078",
+                    "name": "TÓPICOS EM CIÊNCIAS DA EDUCAÇÃO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE079",
+                    "name": "TÓPICOS EM CIÊNCIAS DA EDUCAÇÃO C",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE149",
+                    "name": "METODOLOGIA DE PESQUISA EM EDUCACAO II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE150",
+                    "name": "SISTEMA DE AVALIACAO EDUCACIONAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE152",
+                    "name": "MONOGRAFIA NA AREA DE CIENCIAS EDUCACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE153",
+                    "name": "EDUCACAO SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE161",
+                    "name": "ESTATISTICA EDUCACIONAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE162",
+                    "name": "RELACAO FAMILIA-ESCOLA:UMA PERSP.SOCIOL.",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE165",
+                    "name": "EDUCACAO E MODERNIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE167",
+                    "name": "TOPICOS ESPECIAIS EM SOCIOL. DA EDUCACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DIT121",
+                    "name": "DIREITOS HUMANOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE371",
+                    "name": "TOPICOS EM EDUCACAO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE480",
+                    "name": "TOPICOS DE ENSINO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE481",
+                    "name": "TOPICOS DE ENSINO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE482",
+                    "name": "TOPICOS DE ENSINO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE483",
+                    "name": "TOPICOS DE ENSINO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICB001",
+                    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE216",
+                    "name": "PRATICA EM EDUCACAO SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE218",
+                    "name": "TOPICOS EM EDUCACAO SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE220",
+                    "name": "LEITURA E PRODUCAO DE GENEROS ACADEMICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE221",
+                    "name": "A LEITURA LITERARIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE269",
+                    "name": "A EDUCAÇÃO DOS BEBÊS: A CONSTRUÇÃO DE PROPOSTAS PEDAGÓGICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE270",
+                    "name": "LABORATÓRIO DE BRINQUEDOS E BRINCADEIRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE272",
+                    "name": "LEITURA E ESCRITA NA CULTURA DIGITAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE273",
+                    "name": "PRÁT. PEDAG. NA EDUC. INFANTIL: APREN. INICIAL DA L. ESCRITA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE448",
+                    "name": "TEORIAS PEDAGÓGICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE449",
+                    "name": "TÓPICOS EM EDUCAÇÃO E LINGUAGEM",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE450",
+                    "name": "TÓPICOS EM ENSINO DE CIÊNCIAS",
+                    "hours": 120,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE451",
+                    "name": "TÓPICOS EM LABORATÓRIO DE ALFABETIZAÇÃO E LETRAMENTO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE452",
+                    "name": "TÓPICOS EM PROCESSO DE ENSINO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE453",
+                    "name": "TÓPICOS EM PROCESSO DE ENSINO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE454",
+                    "name": "TÓPICOS EM PROCESSO DE ENSINO C",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE455",
+                    "name": "TÓP. EM PROC. DE ENSINO: ALFAB. NA EDUC. DE JOVENS E ADULTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "UNI103",
+                    "name": "LIBRAS, SURDEZ E ALFABETIZAÇÃO: UMA INTRODUÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas",
                     "prereqs": []
                 }
             ],
@@ -4593,6 +6168,11 @@
                         "MTE216"
                     ],
                     "optional": []
+                },
+                {
+                    "number": 10,
+                    "codes": [],
+                    "optional": []
                 }
             ],
             "optionalSlots": [
@@ -4648,287 +6228,515 @@
             "optionalPool": [
                 {
                     "code": "ADE026",
+                    "name": "ORGANIZACAO DA EDUC DE JOVENS E ADULTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE052",
+                    "name": "ECONOMIA E POLITICA FINANCIAMENTO ED.BAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE053",
+                    "name": "PRATICA EM EDUCACAO DE JOVENS E ADULTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE054",
+                    "name": "TRAB. DOC. E RELACOES TRAB.NOS SIST.ENSI",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE067",
+                    "name": "ECONOMIA POLÍTICA E EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE068",
+                    "name": "GÊNEROS E SEXUALIDADES NOS CURRÍCULOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE069",
+                    "name": "GESTÃO EDUCACIONAL: AS ESCOLAS NOS SISTEMAS DE ENSINO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE070",
+                    "name": "ORGANIZAÇÃO DE ESPAÇOS E AMBIENTES NA EDUCAÇÃO INFANTIL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE071",
+                    "name": "TECNOLOGIAS DIGITAIS NA ESCOLA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE072",
+                    "name": "TÓPICOS EM EDUCAÇÃO E RELAÇÕES ÉTNICO-RACIAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE073",
+                    "name": "TÓPICOS EM EDUCAÇÃO ESPECIAL E INCLUSÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE074",
+                    "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE075",
+                    "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE076",
+                    "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO C",
+                    "hours": 30,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE077",
+                    "name": "TÓPICOS EM PENSAMENTO COMPUTACIONAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE078",
+                    "name": "TÓPICOS EM POLÍTICAS E EXPERIÊNCIAS EDUCATIVAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE079",
+                    "name": "TÓPICOS EM POLÍTICAS PÚBLICAS EM TECNOLOGIAS DA EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ADE080",
+                    "name": "TRABALHO E EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE054",
+                    "name": "A ESCOLA E SEUS SUJEITOS: COND. JUVENIL E DOCÊNCIA NO CINEMA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE055",
+                    "name": "A PRÁTICA EDUCATIVA EM TELA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE056",
+                    "name": "A PRÁTICA EDUCATIVA NO CINEMA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE057",
+                    "name": "ABORDAGENS SOCIOLÓGICAS DA ESCOLA E DA SALA DE AULA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE058",
+                    "name": "ANTROPOLOGIA E ARTE INDÍGENA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE059",
+                    "name": "CONSTITUIÇÃO SUBJETIVA DO ADOLESCENTE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE060",
+                    "name": "DINÂMICA DA SALA DE AULA E PROCESSOS INCLUSIVOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE061",
+                    "name": "EDUCAÇÃO E ESPIRITUALIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE062",
+                    "name": "EDUCAÇÃO E SOCIALISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE063",
+                    "name": "EDUCAÇÃO, GÊNERO E SEXUALIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE064",
+                    "name": "HISTÓRIA DA EDU. DOS SENTIDOS E DAS SENSIBILIDADES NA ESCOLA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE065",
+                    "name": "HISTÓRIA DA EDUCAÇÃO SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE066",
+                    "name": "HIST. DA INFÂNCIA: ESCOLA E TRABALHO NA EUROPA E AM. LATINA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE067",
+                    "name": "HISTÓRIA DAS PRÁTICAS EDUCATIVAS NO BRASIL COLONIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE068",
+                    "name": "HISTÓRIA DO CURRÍCULO E DOS SABERES ESCOLARES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE069",
+                    "name": "HISTÓRIAS E CULTURAS INDÍGENAS NO BRASIL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE070",
+                    "name": "JUVENTUDE, ESCOLA E IMPASSES CONTEMPORÂNEOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE071",
+                    "name": "JUVENTUDES NA CONTEMPORANEIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE072",
+                    "name": "MEIO AMBIENTE E CULTURA: FUND. PARA UMA ECOLOGIA POLÍTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE073",
+                    "name": "METODOLOGIAS DE PESQUISA QUALITATIVA EM EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE074",
+                    "name": "METODOLOGIAS DE PESQUISA QUANTITATIVA EM EDUCAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE075",
+                    "name": "PROCESSOS DE APRENDIZAGEM DA CULTURA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE076",
+                    "name": "RELIGIÕES DE MATRIZ AFRICANA NO BRASIL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE077",
+                    "name": "TÓPICOS EM CIÊNCIAS DA EDUCAÇÃO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE078",
+                    "name": "TÓPICOS EM CIÊNCIAS DA EDUCAÇÃO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE079",
+                    "name": "TÓPICOS EM CIÊNCIAS DA EDUCAÇÃO C",
+                    "hours": 30,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE149",
+                    "name": "METODOLOGIA DE PESQUISA EM EDUCACAO II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE150",
+                    "name": "SISTEMA DE AVALIACAO EDUCACIONAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE152",
+                    "name": "MONOGRAFIA NA AREA DE CIENCIAS EDUCACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE161",
+                    "name": "ESTATISTICA EDUCACIONAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE162",
+                    "name": "RELACAO FAMILIA-ESCOLA:UMA PERSP.SOCIOL.",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE165",
+                    "name": "EDUCACAO E MODERNIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "CAE167",
+                    "name": "TOPICOS ESPECIAIS EM SOCIOL. DA EDUCACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "17",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "DIT121",
+                    "name": "DIREITOS HUMANOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE371",
+                    "name": "TOPICOS EM EDUCACAO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE480",
+                    "name": "TOPICOS DE ENSINO A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE481",
+                    "name": "TOPICOS DE ENSINO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE482",
+                    "name": "TOPICOS DE ENSINO C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "FAE483",
+                    "name": "TOPICOS DE ENSINO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "FAE495",
                         "FAE496",
@@ -4940,92 +6748,164 @@
                 },
                 {
                     "code": "ICB001",
+                    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE217",
+                    "name": "METODOLOGIA DA ALF. DE JOVENS E ADULTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE218",
+                    "name": "TOPICOS EM EDUCACAO SOCIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "17",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MTE220",
+                    "name": "LEITURA E PRODUCAO DE GENEROS ACADEMICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE221",
+                    "name": "A LEITURA LITERARIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE269",
+                    "name": "A EDUCAÇÃO DOS BEBÊS: A CONSTRUÇÃO DE PROPOSTAS PEDAGÓGICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE270",
+                    "name": "LABORATÓRIO DE BRINQUEDOS E BRINCADEIRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE272",
+                    "name": "LEITURA E ESCRITA NA CULTURA DIGITAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE273",
+                    "name": "PRÁT. PEDAG. NA EDUC. INFANTIL: APREN. INICIAL DA L. ESCRITA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE448",
+                    "name": "TEORIAS PEDAGÓGICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE449",
+                    "name": "TÓPICOS EM EDUCAÇÃO E LINGUAGEM",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE450",
+                    "name": "TÓPICOS EM ENSINO DE CIÊNCIAS",
+                    "hours": 120,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE451",
+                    "name": "TÓPICOS EM LABORATÓRIO DE ALFABETIZAÇÃO E LETRAMENTO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE452",
+                    "name": "TÓPICOS EM PROCESSO DE ENSINO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE453",
+                    "name": "TÓPICOS EM PROCESSO DE ENSINO A",
+                    "hours": 30,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE454",
+                    "name": "TÓPICOS EM PROCESSO DE ENSINO C",
+                    "hours": 30,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MTE455",
+                    "name": "TÓP. EM PROC. DE ENSINO: ALFAB. NA EDUC. DE JOVENS E ADULTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "UNI103",
+                    "name": "LIBRAS, SURDEZ E ALFABETIZAÇÃO: UMA INTRODUÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Optativas",
                     "prereqs": []
                 }
             ],

@@ -19,7 +19,7 @@
         },
         "note": null
     },
-    "generatedAt": "2026-11-05T21:02:20.388Z",
+    "generatedAt": "2026-11-06T15:21:12.290Z",
     "disciplines": {
         "CAD103": {
             "code": "CAD103",
@@ -1242,224 +1242,392 @@
             "optionalPool": [
                 {
                     "code": "DCC007",
+                    "name": "ORGANIZAÇÃO DE COMPUTADORES II",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "DCC006"
                     ]
                 },
                 {
                     "code": "DCC008",
+                    "name": "SOFTWARE BASICO",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC014",
+                    "name": "SISTEMA DE TEMPO REAL",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC027",
+                    "name": "COMPUTAÇÃO GRÁFICA",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC028",
+                    "name": "INTELIGENCIA ARTIFICIAL",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC029",
+                    "name": "PROCESSAMENTOS DIGITAL DE IMAGENS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC041",
+                    "name": "INTRODUÇÃO À ROBÓTICA",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC042",
+                    "name": "ROBÓTICA MÓVEL",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC049",
+                    "name": "TOPICOS EM SISTEMAS DE INFORMACAO",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC053",
+                    "name": "COMPILADORES I",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "DCC129"
                     ]
                 },
                 {
                     "code": "DCC054",
+                    "name": "COMPILADORES II",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "DCC053"
                     ]
                 },
                 {
                     "code": "DCC056",
+                    "name": "ENGENHARIA DE APLICACAO EM REDE",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "DCC023"
                     ]
                 },
                 {
                     "code": "DCC057",
+                    "name": "MINERACAO DE DADOS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC058",
+                    "name": "PROJETOS E CONCEITOS DE SISTEMAS PARALELOS E DISTRIBUÍDOS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC059",
+                    "name": "SEMANTICA FORMAL",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "DCC024"
                     ]
                 },
                 {
                     "code": "DCC068",
+                    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA I",
+                    "hours": 15,
+                    "credits": 1,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC069",
+                    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA II",
+                    "hours": 30,
+                    "credits": 2,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC070",
+                    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA III",
+                    "hours": 45,
+                    "credits": 3,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC071",
+                    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA IV",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC129",
+                    "name": "FUNDAMENTOS DA TEORIA DA COMPUTAÇÃO",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC186",
+                    "name": "ALGORITMOS PARA BIOINFORMÁTICA I",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC187",
+                    "name": "ALGORITMOS PARA BIOINFORMATICA II",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC188",
+                    "name": "ANALISE E MODELAGEM DE DESEMP. SIST.COMP",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC189",
+                    "name": "ARMAZÉNS DE DADOS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC190",
+                    "name": "BIBLIOTECAS DIGITAIS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC191",
+                    "name": "COMPUTAÇÃO NATURAL",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC192",
+                    "name": "DESENVOLVIMENTO DE JOGOS DIGITAIS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC193",
+                    "name": "ENGENHARIA DE USABILIDADE",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC195",
+                    "name": "MÉTODOS QUANTIT. DE PESQ. EXPERIMENTAL EM CIÊNCIA COMPUTAÇÃO",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC196",
+                    "name": "MODELAGEM DE PROCESSOS DE NEGOCIO",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC197",
+                    "name": "PROCESSAMENTO DIGITAL DE SOM E VIDEO",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC198",
+                    "name": "REDES COMPLEXAS EM COMP.: MODELAGEM, ALGORITMOS E APLICAÇÕES",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC199",
+                    "name": "TEORIA DOS GRAFOS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "DCC207",
+                    "name": "ALGORITMOS II",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICE019",
+                    "name": "PARTICIPACAO EM EVENTOS I",
+                    "hours": 15,
+                    "credits": 1,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICE025",
+                    "name": "INICIACAO CIENTIFICA",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICE026",
+                    "name": "ESTAGIO",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICE027",
+                    "name": "PARTICIPACAO EM EMPRESA JUNIOR",
+                    "hours": 15,
+                    "credits": 1,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICE028",
+                    "name": "EMPREENDENDORISMO",
+                    "hours": 15,
+                    "credits": 1,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "ICE029",
+                    "name": "DISCUSSOES TEMATICAS",
+                    "hours": 15,
+                    "credits": 1,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": [
                         "ICE035"
                     ]
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 },
                 {
                     "code": "MAT034",
+                    "name": "ÁLGEBRA A",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Optativas",
                     "prereqs": []
                 }
             ],

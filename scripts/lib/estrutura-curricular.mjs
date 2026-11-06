@@ -146,8 +146,10 @@ export function parseEstruturaCurricular(text) {
                             `período ${current.number}: horas declaradas (${current.declared.hours}) != soma (${sumHours})`
                         )
                     }
-                    blocks.push(current)
                 }
+                // mantém também períodos sem disciplinas obrigatórias (ex.: último
+                // período da Física 2013, que tem só optativas sugeridas)
+                blocks.push(current)
                 current = { number: current.number + 1, rows: [], declared: null }
             }
         }

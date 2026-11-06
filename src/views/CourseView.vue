@@ -32,6 +32,9 @@ const selectedPercurso = ref(null)
 const showOptionalSlots = ref(true)
 const viewMode = ref('graph')
 const taken = ref(new Set())
+const choices = ref({})
+const choosingSlot = ref(null)
+const choiceSearch = ref('')
 const search = ref('')
 
 const meta = computed(() => state.course?.meta ?? null)
@@ -48,8 +51,41 @@ const graph = computed(() =>
         ? buildGraph(state.course, {
               percursoId: selectedPercurso.value,
               includeOptionalSlots: showOptionalSlots.value,
+              choices: choices.value,
           })
         : null
+)
+
+const chosenCodes = computed(() => new Set(Object.values(choices.value)))
+
+/** Opções de optativa do percurso atual, filtradas pela busca do modal. */
+const optionalOptions = computed(() => {
+    const pool = selectedPercursoData.value?.optionalPool ?? []
+    const term = choiceSearch.value.trim().toLowerCase()
+    return pool
+        .filter((entry) => {
+            if (!term) return true
+            const haystack = `${entry.code} ${entry.name ?? ''} ${entry.groupName ?? ''}`
+            return haystack.toLowerCase().includes(term)
+        })
+        .slice()
+        .sort((left, right) =>
+            String(left.name ?? left.code).localeCompare(String(right.name ?? right.code), 'pt-BR')
+        )
+        .map((entry) => {
+            const missing = (entry.prereqs ?? []).filter((code) => !taken.value.has(code))
+            return {
+                ...entry,
+                missing,
+                alreadyChosen:
+                    chosenCodes.value.has(entry.code) &&
+                    choices.value[choosingSlot.value] !== entry.code,
+            }
+        })
+})
+
+const choosingSlotNode = computed(
+    () => graph.value?.nodes.find((node) => node.id === choosingSlot.value) ?? null
 )
 
 const progress = computed(() => (graph.value ? summarizeProgress(graph.value, taken.value) : null))
@@ -85,7 +121,9 @@ async function load() {
         const course = await loadCourse(entry.file)
         state.course = course
         selectedPercurso.value = course.percursos?.[0]?.id ?? null
-        taken.value = new Set(loadProgress(storage, course.id)?.taken ?? [])
+        const stored = loadProgress(storage, course.id)
+        taken.value = new Set(stored?.taken ?? [])
+        choices.value = stored?.choices ?? {}
         document.title = `${course.meta.name} — Grafos de Dependências UFMG`
     } catch (problem) {
         state.error = problem.message
@@ -98,10 +136,10 @@ onMounted(load)
 watch(() => props.slug, load)
 
 watch(
-    taken,
-    (value) => {
+    [taken, choices],
+    ([takenCodes, chosen]) => {
         if (!state.course) return
-        saveProgress(storage, state.course.id, value)
+        saveProgress(storage, state.course.id, takenCodes, chosen)
     },
     { deep: false }
 )
@@ -111,6 +149,47 @@ function toggle(code) {
     if (next.has(code)) next.delete(code)
     else next.add(code)
     taken.value = next
+}
+
+function openSlot(slotId) {
+    choiceSearch.value = ''
+    choosingSlot.value = slotId
+}
+
+function closeSlot() {
+    choosingSlot.value = null
+    choiceSearch.value = ''
+}
+
+function setTaken(slotId, isTaken) {
+    const next = new Set(taken.value)
+    if (isTaken) next.add(slotId)
+    else next.delete(slotId)
+    taken.value = next
+}
+
+/** Escolhe a disciplina que preenche o espaço de optativa aberto no modal. */
+function pickOptional(code) {
+    const slotId = choosingSlot.value
+    if (!slotId) return
+    choices.value = { ...choices.value, [slotId]: code }
+    setTaken(slotId, true)
+    closeSlot()
+}
+
+/** Remove a escolha (e o "cursada") do espaço de optativa. */
+function removeChoice(slotId) {
+    const next = { ...choices.value }
+    delete next[slotId]
+    choices.value = next
+    setTaken(slotId, false)
+    closeSlot()
+}
+
+/** Fallback para cursos sem lista de optativas: marca o espaço sem escolher. */
+function toggleSlotTaken(slotId) {
+    if (choices.value[slotId]) removeChoice(slotId)
+    else setTaken(slotId, !taken.value.has(slotId))
 }
 
 function toggleAllFor(period) {
@@ -134,6 +213,7 @@ function slotsForPeriod(number) {
 
 function clearAll() {
     taken.value = new Set()
+    choices.value = {}
     if (state.course) clearProgress(storage, state.course.id)
 }
 
@@ -368,8 +448,9 @@ function prerequisiteLabel(code) {
                         <p class="mt-3 text-xs text-gray-500 dark:text-gray-400">
                             Clique em uma disciplina para marcar/desmarcar. Você pode marcar mesmo
                             sem os pré-requisitos (“quebra”) para simular cenários. Cada coluna é um
-                            período sugerido. Arraste para navegar e use o scroll (ou pinça) para
-                            dar zoom; “Ajustar” mostra o grafo inteiro.
+                            período sugerido. Clique em uma <strong>optativa</strong> para escolher
+                            a disciplina que vai preenchê-la. Arraste para navegar e use o scroll
+                            (ou pinça) para dar zoom; “Ajustar” mostra o grafo inteiro.
                         </p>
                     </section>
                 </aside>
@@ -384,6 +465,7 @@ function prerequisiteLabel(code) {
                             :graph="graph"
                             :status="progress.status"
                             @toggle="toggle"
+                            @choose-slot="openSlot"
                         />
                     </div>
 
@@ -456,26 +538,39 @@ function prerequisiteLabel(code) {
                                     :key="slot.id"
                                     class="flex items-start gap-3 bg-violet-50 px-3 py-2 dark:bg-violet-900/20"
                                 >
-                                    <input
-                                        type="checkbox"
-                                        class="mt-1 h-4 w-4 rounded"
-                                        :checked="taken.has(slot.id)"
-                                        @change="toggle(slot.id)"
-                                    />
-                                    <div class="min-w-0">
+                                    <div class="min-w-0 flex-1">
                                         <p class="text-sm font-medium">
                                             <span
                                                 class="font-mono text-xs text-violet-600 dark:text-violet-300"
                                             >
                                                 optativa
                                             </span>
-                                            {{ slot.label }}
+                                            {{ slot.chosen ? slot.chosen.name : slot.label }}
                                         </p>
                                         <p class="text-xs text-gray-500 dark:text-gray-400">
-                                            {{ formatHours(slot.hours) }} · espaço de optativa (sem
-                                            pré-requisito)
+                                            {{ formatHours(slot.hours) }} ·
+                                            {{
+                                                slot.chosen
+                                                    ? `${slot.chosen.code} · escolhida`
+                                                    : 'escolha uma disciplina da lista'
+                                            }}
                                         </p>
                                     </div>
+                                    <button
+                                        type="button"
+                                        class="btn text-xs"
+                                        @click="openSlot(slot.id)"
+                                    >
+                                        {{ slot.chosen ? 'Trocar' : 'Escolher' }}
+                                    </button>
+                                    <button
+                                        v-if="slot.chosen"
+                                        type="button"
+                                        class="btn text-xs"
+                                        @click="removeChoice(slot.id)"
+                                    >
+                                        Remover
+                                    </button>
                                 </li>
                             </ul>
                         </div>
@@ -483,5 +578,104 @@ function prerequisiteLabel(code) {
                 </section>
             </div>
         </template>
+
+        <div
+            v-if="choosingSlot"
+            class="fixed inset-0 z-50 flex items-center justify-center bg-black/60 p-4"
+            @click.self="closeSlot"
+        >
+            <div
+                class="flex max-h-[80vh] w-full max-w-xl flex-col rounded-xl border border-gray-200 bg-white p-4 shadow-xl dark:border-gray-700 dark:bg-gray-800"
+            >
+                <div class="flex items-start justify-between gap-3">
+                    <div>
+                        <h3 class="text-lg font-semibold">
+                            Escolher disciplina — {{ choosingSlotNode?.label }}
+                        </h3>
+                        <p class="text-xs text-gray-500 dark:text-gray-400">
+                            Optativas do percurso {{ selectedPercursoData?.name }}. A disciplina
+                            escolhida substitui o espaço no grafo e entra na carga horária.
+                        </p>
+                    </div>
+                    <button type="button" class="btn text-xs" @click="closeSlot">Fechar</button>
+                </div>
+
+                <input
+                    v-model="choiceSearch"
+                    class="input mt-3"
+                    type="search"
+                    placeholder="Buscar por código, nome ou grupo…"
+                />
+
+                <ul
+                    class="mt-3 min-h-0 flex-1 divide-y divide-gray-200 overflow-auto rounded-lg border border-gray-200 dark:divide-gray-700 dark:border-gray-700"
+                >
+                    <li
+                        v-for="option in optionalOptions"
+                        :key="option.code"
+                        class="flex items-start gap-3 px-3 py-2"
+                        :class="{ 'opacity-50': option.alreadyChosen }"
+                    >
+                        <div class="min-w-0 flex-1">
+                            <p class="text-sm font-medium">
+                                <span class="font-mono text-xs text-gray-500 dark:text-gray-400">
+                                    {{ option.code }}
+                                </span>
+                                {{ option.name ?? option.code }}
+                            </p>
+                            <p class="text-xs text-gray-500 dark:text-gray-400">
+                                {{ formatHours(option.hours) }}
+                                <template v-if="option.groupName">
+                                    · {{ option.groupName }}
+                                </template>
+                                ·
+                                {{
+                                    option.missing.length
+                                        ? `faltam: ${option.missing.join(', ')}`
+                                        : 'pré-requisitos ok'
+                                }}
+                            </p>
+                        </div>
+                        <button
+                            type="button"
+                            class="btn text-xs"
+                            :disabled="option.alreadyChosen"
+                            @click="pickOptional(option.code)"
+                        >
+                            {{ option.alreadyChosen ? 'já escolhida' : 'Escolher' }}
+                        </button>
+                    </li>
+                    <li
+                        v-if="!optionalOptions.length"
+                        class="px-3 py-4 text-sm text-gray-500 dark:text-gray-400"
+                    >
+                        Nenhuma optativa mapeada para este percurso. Você ainda pode marcar o espaço
+                        como cursado.
+                    </li>
+                </ul>
+
+                <div class="mt-3 flex flex-wrap items-center justify-between gap-2">
+                    <button
+                        type="button"
+                        class="btn text-xs"
+                        @click="toggleSlotTaken(choosingSlot)"
+                    >
+                        {{
+                            taken.has(choosingSlot)
+                                ? 'Desmarcar este espaço'
+                                : 'Marcar espaço sem escolher disciplina'
+                        }}
+                    </button>
+                    <button
+                        v-if="choices[choosingSlot]"
+                        type="button"
+                        class="btn text-xs"
+                        @click="removeChoice(choosingSlot)"
+                    >
+                        Remover escolha atual
+                    </button>
+                </div>
+            </div>
+        </div>
     </div>
 </template>

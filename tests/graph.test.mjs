@@ -58,6 +58,16 @@ const course = {
                 { id: 'OPT-01-01-01', label: 'Optativa 1', hours: 60, group: 'Optativas' },
                 { id: 'OPT-01-01-02', label: 'Optativa 2', hours: 60, group: 'Optativas' },
             ],
+            optionalPool: [
+                {
+                    code: 'TST200',
+                    name: 'Optativa Qualquer',
+                    hours: 60,
+                    group: 'G1',
+                    groupName: 'Optativas',
+                    prereqs: ['TST101'],
+                },
+            ],
             summary: {
                 obligatoryHours: { min: 180, max: 180 },
                 optionalHours: { min: 120, max: 120 },
@@ -153,6 +163,27 @@ test('permite esconder os slots de optativa', () => {
     const graph = buildGraph(course, { includeOptionalSlots: false })
     assert.equal(graph.stats.optionalSlots, 0)
     assert.equal(graph.nodes.length, 3)
+})
+
+test('permite escolher a disciplina de cada espaço de optativa', () => {
+    const slotId = 'OPT-01-01-01'
+    const graph = buildGraph(course, { choices: { [slotId]: 'TST200' } })
+    const slot = graph.nodes.find((node) => node.id === slotId)
+
+    assert.equal(slot.label, 'Optativa Qualquer')
+    assert.deepEqual(slot.chosen, { code: 'TST200', name: 'Optativa Qualquer', hours: 60 })
+    // pré-requisito da disciplina escolhida vira aresta para o espaço
+    assert.deepEqual(
+        graph.edges.filter((edge) => edge.to === slotId),
+        [{ from: 'TST101', to: slotId }]
+    )
+
+    const status = computeAvailability(graph, new Set([slotId]))
+    assert.equal(status.get(slotId), 'taken')
+
+    // sem escolha, o slot continua "Optativa N"
+    const plain = buildGraph(course)
+    assert.equal(plain.nodes.find((node) => node.id === slotId).label, 'Optativa 1')
 })
 
 test('calcula disponibilidade a partir dos pré-requisitos cursados', () => {

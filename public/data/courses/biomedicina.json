@@ -19,7 +19,7 @@
         },
         "note": null
     },
-    "generatedAt": "2026-11-05T21:02:20.525Z",
+    "generatedAt": "2026-11-06T15:21:12.452Z",
     "disciplines": {
         "ACT080": {
             "code": "ACT080",
@@ -2603,197 +2603,337 @@
             "optionalPool": [
                 {
                     "code": "ACT067",
+                    "name": "TOXICOLOGIA FORENSE",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "FAR122"
                     ]
                 },
                 {
                     "code": "ACT073",
+                    "name": "BIOTECNOLOGIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "BIQ058"
                     ]
                 },
                 {
                     "code": "ACT087",
+                    "name": "REPRODUÇÃO HUMANA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "MOF143"
                     ]
                 },
                 {
                     "code": "ACT134",
+                    "name": "IMAGENS BIOMÉDICAS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "ACT135",
+                    "name": "SAÚDE DE POPULAÇÕES VULNERABILIZADAS I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ACT136",
+                    "name": "SAÚDE DE POPULAÇÕES VULNERABILIZADAS II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ACT135"
                     ]
                 },
                 {
                     "code": "ACT138",
+                    "name": "TOXICOLOGIA SOCIAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "ACT139",
+                    "name": "VACINAS E IMUNIZAÇÕES",
+                    "hours": 15,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ACT146",
+                    "name": "BANCO DE SANGUE E ANÁLISES IMUNO-HEMATOLÓGICAS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": [
                         "BIQ602"
                     ]
                 },
                 {
                     "code": "ACT147",
+                    "name": "CITOLOGIA CLÍNICA APLICADA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ACT602"
                     ]
                 },
                 {
                     "code": "ACT148",
+                    "name": "FISIOPATOLOGIA DAS DOENÇAS HEPÁTICAS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ACT149",
+                    "name": "FISIOPATOLOGIA DAS DOENÇAS RENAIS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ACT150",
+                    "name": "VIROLOGIA CLÍNICA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "BIQ602"
                     ]
                 },
                 {
                     "code": "ACT151",
+                    "name": "MICOLOGIA CLÍNICA APLICADA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "ACT152",
+                    "name": "ORGANIZAÇÃO DE EVENTOS E CURSOS DE EXTENSÃO",
+                    "hours": 15,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "ACT153",
+                    "name": "PARTICIPAÇÃO EM GESTÃO DE CENTRO ACADÊMICO",
+                    "hours": 15,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Vivências Formativas Universitárias",
                     "prereqs": []
                 },
                 {
                     "code": "ACT154",
+                    "name": "PSEUDOCIÊNCIAS E OUTRAS LOROTAS EM SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": [
                         "ACT026"
                     ]
                 },
                 {
                     "code": "ACT155",
+                    "name": "SAÚDE E SEXUALIDADE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "ACT156",
+                    "name": "TÓPICOS AVANÇADOS EM BIOMEDICINA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ACT157",
+                    "name": "TÓPICOS AVANÇADOS EM BIOMEDICINA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ACT158",
+                    "name": "TÓPICOS AVANÇADOS EM BIOMEDICINA III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ACT159",
+                    "name": "TÓPICOS AVANÇADOS EM BIOMEDICINA IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ACT160",
+                    "name": "TÓPICOS AVANÇADOS EM BIOMEDICINA V",
+                    "hours": 75,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ACT161",
+                    "name": "TÓPICOS AVANÇADOS EM BIOMEDICINA VI",
+                    "hours": 90,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ACT162",
+                    "name": "TÓPICOS AVANÇADOS EM BIOMEDICINA VII",
+                    "hours": 105,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ACT163",
+                    "name": "TÓPICOS AVANÇADOS EM BIOMEDICINA VIII",
+                    "hours": 120,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ACT165",
+                    "name": "TÉCNICAS DE DIAGNÓSTICO MORFOLÓGICO APLICADAS À ONCOLOGIA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "PAG011"
                     ]
                 },
                 {
                     "code": "ACT166",
+                    "name": "INTEGRAÇÃO PROFISSIONAL COMPLEMENTAR",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Vivências Formativas Universitárias",
                     "prereqs": []
                 },
                 {
                     "code": "ALM020",
+                    "name": "ANALISE SENSORIAL DE ALIMENTOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ALM021",
+                    "name": "ALIMENTOS FUNCIONAIS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ALM032",
+                    "name": "MICROBIOLOGIA INDUSTRIAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ALM039",
+                    "name": "BIOTECNOLOGIA NA PROD. BEB. E ALIMENTOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ALM124",
+                    "name": "GARANTIA DA QUALIDADE DE ALIMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ALM125",
+                    "name": "ALTERAÇÕES QUÍMICAS E BIOQUÍMICAS DE ALIMENTOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "QUI095"
                     ]
                 },
                 {
                     "code": "ALM126",
+                    "name": "BROMATOLOGIA",
+                    "hours": 90,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "QUI297",
                         "QUI298"
@@ -2801,476 +2941,852 @@
                 },
                 {
                     "code": "ALM128",
+                    "name": "ANÁLISE BROMATOLÓGICA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ALM126"
                     ]
                 },
                 {
                     "code": "ALM133",
+                    "name": "CIÊNCIA E TECNOLOGIA DE PANIFICAÇÃO: EXTENSÃO UNIVERSITÁRIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "ALM137",
+                    "name": "TECNOLOGIA DE ALIMENTOS E SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "ALM138",
+                    "name": "TOXICOLOGIA DE ALIMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "BIG033",
+                    "name": "EVOLUCAO II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "BIG036",
+                    "name": "GENETICA DE POPULACOES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "BIG053",
+                    "name": "CITOGENETICA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "BIG155",
+                    "name": "EVOLUCAO I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "BIG156",
+                    "name": "GESTÃO AMBIENTAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "BIG618",
+                    "name": "GENETICA DE MICRORGANISMOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "BIQ053",
+                    "name": "BIOQUIMICA DE PROTEINAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD009",
+                    "name": "ADMINISTRAÇÃO DE RECURSOS MATERIAIS E PATRIMONIAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD048",
+                    "name": "COMPORTAMENTO HUMANO NAS ORGANIZACOES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD050",
+                    "name": "MARKETING ESTRATEGICO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD059",
+                    "name": "EMPREENDEDORISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD072",
+                    "name": "GESTAO ESTRATEGICA DE RECURSOS HUMANOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD163",
+                    "name": "ADMINISTRAÇÃO DE RECURSOS HUMANOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "CAD048"
                     ]
                 },
                 {
                     "code": "CAD167",
+                    "name": "ADMINISTRAÇÃO FINANCEIRA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD189",
+                    "name": "TEORIA DA ADMINISTRAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD195",
+                    "name": "ADMINISTRACAO DA PRODUCAO E OPERACOES",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CIC010",
+                    "name": "INTRODUÇÃO À CONTABILIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DAA003",
+                    "name": "ANTROPOLOGIA BRASILEIRA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DAA005",
+                    "name": "ANTROPOLOGIA BIOLÓGICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCP026",
+                    "name": "MOVIMENTOS SOCIAIS E SOCIEDADE CIVIL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCP053",
+                    "name": "GENERO E POLITICAS PUBLICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCP069",
+                    "name": "DIREITOS E CIDADANIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCP071",
+                    "name": "DEMOCRACIA E PARTICIPACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCP074",
+                    "name": "CORRUPCAO,DEMOCRACIA E INTERESSE PUBLICO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCP079",
+                    "name": "GESTAO PUB.COM FOCO EM DIREITOS HUMANOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECN140",
+                    "name": "INTRODUÇÃO À ECONOMIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "EMI028",
+                    "name": "SAUDE E GENERO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "EMI036",
+                    "name": "SAUDE REPRODUTIVA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ESA011",
+                    "name": "SISTEMA DE ABASTECIMENTO DE AGUA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ESA013",
+                    "name": "QUALIDADE DA AGUA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ESA017",
+                    "name": "SANEAMENTO E ESTUDOS AMBIENTAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ESA119",
+                    "name": "GERENCIAMENTO RESIDUOS SOLIDOS URBANOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ESA123",
+                    "name": "DIAG. E AVAL. DA POLUICAO ATMOSFERICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ESA128",
+                    "name": "LEGISL. GESTAO DE SANEAM.E MEIO AMBIENTE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ESA135",
+                    "name": "SANEAMENTO AMBIENTAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ESA138",
+                    "name": "CIÊNCIAS AMBIENTAIS E CONTROLE DA POLUIÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "FAF080",
+                    "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À PESQUISA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Vivências Formativas Universitárias",
                     "prereqs": []
                 },
                 {
                     "code": "FAF081",
+                    "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À PESQUISA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Vivências Formativas Universitárias",
                     "prereqs": []
                 },
                 {
                     "code": "FAF082",
+                    "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À PESQUISA III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Vivências Formativas Universitárias",
                     "prereqs": []
                 },
                 {
                     "code": "FAF083",
+                    "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À PESQUISA IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Vivências Formativas Universitárias",
                     "prereqs": []
                 },
                 {
                     "code": "FAF084",
+                    "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À EXTENSÃO I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "FAF085",
+                    "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À EXTENSÃO II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "FAF086",
+                    "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À EXTENSÃO III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "FAF087",
+                    "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À EXTENSÃO IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "FAF088",
+                    "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À DOCÊNCIA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Vivências Formativas Universitárias",
                     "prereqs": []
                 },
                 {
                     "code": "FAF089",
+                    "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À DOCÊNCIA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Vivências Formativas Universitárias",
                     "prereqs": []
                 },
                 {
                     "code": "FAF090",
+                    "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À DOCÊNCIA III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Vivências Formativas Universitárias",
                     "prereqs": []
                 },
                 {
                     "code": "FAF091",
+                    "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À DOCÊNCIA IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Vivências Formativas Universitárias",
                     "prereqs": []
                 },
                 {
                     "code": "FAF092",
+                    "name": "PARTICIPAÇÃO EM EVENTOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Vivências Formativas Universitárias",
                     "prereqs": []
                 },
                 {
                     "code": "FAF129",
+                    "name": "TÓPICOS EM CIÊNCIAS BIOMÉDICAS I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "FAF130",
+                    "name": "TÓPICOS EM CIÊNCIAS BIOMÉDICAS II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "FAF131",
+                    "name": "TÓPICOS EM CIÊNCIAS BIOMÉDICAS III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "FAF132",
+                    "name": "TÓPICOS EM CIÊNCIAS BIOMÉDICAS IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "FAF133",
+                    "name": "TÓPICOS EM EXTENSÃO UNIVERSITÁRIA I: BIOMEDICINA E COMUNIDAD",
+                    "hours": 15,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "FAF134",
+                    "name": "TÓPICOS EM EXTENSÃO UNIVERSITÁRIA II: BIOMEDICINA E COMUNIDA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "FAF135",
+                    "name": "TÓPICOS EM EXTENSÃO UNIVERSITÁRIA III: BIOMEDICINA E COMUNID",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "FAF136",
+                    "name": "TÓPICOS EM EXTENSÃO UNIVERSITÁRIA IV: BIOMEDICINA E COMUNIDA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "FIB025",
+                    "name": "SIST DE REGULACAO CONTROLE EM FISIOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "FIS093",
+                    "name": "FUNDAMENTOS DE FISICA F",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GEE015",
+                    "name": "ECOLOGIA HUMANA",
+                    "hours": 75,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES004",
+                    "name": "EDUCAÇÃO NA SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES005",
+                    "name": "AUDITORIA EM SERVIÇOS DE SAÚDE",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES006",
+                    "name": "DIREITO DO CONSUMIDOR NA SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES011",
+                    "name": "MODELOS DE ATENÇÃO À SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES012",
+                    "name": "SAÚDE SUPLEMENTAR",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "GES013",
+                    "name": "SISTEMAS DE INFORMAÇÃO EM SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES014",
+                    "name": "PROCESSO DE TRABALHO E TECNOLOGIAS EM SAÚDE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "GES015",
+                    "name": "VIGILÂNCIA EM SAÚDE",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "GES016",
+                    "name": "PLANEJAMENTO , PROGRAMAÇÃO E AVALIAÇÃO EM SAÚDE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "GES018",
+                    "name": "GESTÃO DA QUALIDADE EM SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES020",
+                    "name": "GESTÃO DE RISCOS NAS ORGANIZAÇÕES DE SAÚDE",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "GES026",
+                    "name": "GERENCIAMENTO DE RESÍDUOS DE SERVIÇOS DE SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES027",
+                    "name": "RELAÇÕES DE PODER E CONFLITO NAS ORGANIZAÇÕES DE SAÚDE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES028",
+                    "name": "PLANEJAMENTO ESTRATÉGICO EM ORGANIZAÇÕES DE SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES029",
+                    "name": "ACREDITAÇÃO DE SERVIÇOS DE SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES030",
+                    "name": "AVALIAÇÃO EM SERVIÇOS DE SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES036",
+                    "name": "COMUNICAÇÃO NAS ORGANIZAÇÕES DE SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES037",
+                    "name": "GESTÃO DA INOVAÇÃO EM SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES038",
+                    "name": "FINANCIAMENTO EM SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES039",
+                    "name": "ATENÇÃO PRIMÁRIA À SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES040",
+                    "name": "RISCOS OCUPACIONAIS DA SAÚDE DOS TRABALHADORES",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES041",
+                    "name": "GESTÃO DA CULTURA E DA MUDANÇA NAS ORGANIZAÇÕES DE SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES044",
+                    "name": "GESTÃO DE COMPETÊNCIAS NAS ORGANIZAÇÕES DE SAÚDE",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES045",
+                    "name": "ELABORAÇÃO E GESTÃO DE PROJETOS DE INTERVENÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICB055",
+                    "name": "BIOINFORMATICA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "MAT130",
+                    "name": "MATEMATICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "MIC016",
+                    "name": "BIOLOGIA DE VIRUS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "MIC020",
+                    "name": "MICROBIOLOGIA AMBIENTAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "MOF144",
+                    "name": "NEUROANATOMIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "MOF008",
                         "MOF009"
@@ -3278,53 +3794,89 @@
                 },
                 {
                     "code": "PFA181",
+                    "name": "A QUÍMICA DA CÉLULA - BASE MOLECULAR DA VIDA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "SOA091",
+                    "name": "CULTURA E AMBIENTE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "SOA168",
+                    "name": "ANTROPOLOGIA CULTURAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "UNI003",
+                    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "UNI040",
+                    "name": "INGLÊS PARA FINS ACADÊMICOS I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "UNI041",
+                    "name": "INGLÊS PARA FINS ACADÊMICOS II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "UNI040"
                     ]
                 },
                 {
                     "code": "UNI042",
+                    "name": "INGLÊS PARA FINS ACADÊMICOS III",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "UNI041"
                     ]
                 },
                 {
                     "code": "UNI043",
+                    "name": "INGLÊS PARA FINS ACADÊMICOS IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "UNI042"
                     ]
                 },
                 {
                     "code": "UNI044",
+                    "name": "INGLÊS PARA FINS ACADÊMICOS V",
+                    "hours": 60,
+                    "credits": null,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "UNI043"
                     ]
@@ -3503,197 +4055,337 @@
             "optionalPool": [
                 {
                     "code": "ACT067",
+                    "name": "TOXICOLOGIA FORENSE",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "FAR122"
                     ]
                 },
                 {
                     "code": "ACT073",
+                    "name": "BIOTECNOLOGIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "BIQ058"
                     ]
                 },
                 {
                     "code": "ACT087",
+                    "name": "REPRODUÇÃO HUMANA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "MOF143"
                     ]
                 },
                 {
                     "code": "ACT134",
+                    "name": "IMAGENS BIOMÉDICAS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "ACT135",
+                    "name": "SAÚDE DE POPULAÇÕES VULNERABILIZADAS I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ACT136",
+                    "name": "SAÚDE DE POPULAÇÕES VULNERABILIZADAS II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ACT135"
                     ]
                 },
                 {
                     "code": "ACT138",
+                    "name": "TOXICOLOGIA SOCIAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "ACT139",
+                    "name": "VACINAS E IMUNIZAÇÕES",
+                    "hours": 15,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ACT146",
+                    "name": "BANCO DE SANGUE E ANÁLISES IMUNO-HEMATOLÓGICAS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": [
                         "BIQ602"
                     ]
                 },
                 {
                     "code": "ACT147",
+                    "name": "CITOLOGIA CLÍNICA APLICADA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ACT602"
                     ]
                 },
                 {
                     "code": "ACT148",
+                    "name": "FISIOPATOLOGIA DAS DOENÇAS HEPÁTICAS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ACT149",
+                    "name": "FISIOPATOLOGIA DAS DOENÇAS RENAIS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ACT150",
+                    "name": "VIROLOGIA CLÍNICA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "BIQ602"
                     ]
                 },
                 {
                     "code": "ACT151",
+                    "name": "MICOLOGIA CLÍNICA APLICADA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "ACT152",
+                    "name": "ORGANIZAÇÃO DE EVENTOS E CURSOS DE EXTENSÃO",
+                    "hours": 15,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "ACT153",
+                    "name": "PARTICIPAÇÃO EM GESTÃO DE CENTRO ACADÊMICO",
+                    "hours": 15,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Vivências Formativas Universitárias",
                     "prereqs": []
                 },
                 {
                     "code": "ACT154",
+                    "name": "PSEUDOCIÊNCIAS E OUTRAS LOROTAS EM SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": [
                         "ACT026"
                     ]
                 },
                 {
                     "code": "ACT155",
+                    "name": "SAÚDE E SEXUALIDADE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "ACT156",
+                    "name": "TÓPICOS AVANÇADOS EM BIOMEDICINA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ACT157",
+                    "name": "TÓPICOS AVANÇADOS EM BIOMEDICINA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ACT158",
+                    "name": "TÓPICOS AVANÇADOS EM BIOMEDICINA III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ACT159",
+                    "name": "TÓPICOS AVANÇADOS EM BIOMEDICINA IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ACT160",
+                    "name": "TÓPICOS AVANÇADOS EM BIOMEDICINA V",
+                    "hours": 75,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ACT161",
+                    "name": "TÓPICOS AVANÇADOS EM BIOMEDICINA VI",
+                    "hours": 90,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ACT162",
+                    "name": "TÓPICOS AVANÇADOS EM BIOMEDICINA VII",
+                    "hours": 105,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ACT163",
+                    "name": "TÓPICOS AVANÇADOS EM BIOMEDICINA VIII",
+                    "hours": 120,
+                    "credits": null,
                     "group": "14",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ACT165",
+                    "name": "TÉCNICAS DE DIAGNÓSTICO MORFOLÓGICO APLICADAS À ONCOLOGIA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "PAG011"
                     ]
                 },
                 {
                     "code": "ACT166",
+                    "name": "INTEGRAÇÃO PROFISSIONAL COMPLEMENTAR",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Vivências Formativas Universitárias",
                     "prereqs": []
                 },
                 {
                     "code": "ALM020",
+                    "name": "ANALISE SENSORIAL DE ALIMENTOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ALM021",
+                    "name": "ALIMENTOS FUNCIONAIS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ALM032",
+                    "name": "MICROBIOLOGIA INDUSTRIAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ALM039",
+                    "name": "BIOTECNOLOGIA NA PROD. BEB. E ALIMENTOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ALM124",
+                    "name": "GARANTIA DA QUALIDADE DE ALIMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ALM125",
+                    "name": "ALTERAÇÕES QUÍMICAS E BIOQUÍMICAS DE ALIMENTOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "QUI095"
                     ]
                 },
                 {
                     "code": "ALM126",
+                    "name": "BROMATOLOGIA",
+                    "hours": 90,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "QUI297",
                         "QUI298"
@@ -3701,476 +4393,852 @@
                 },
                 {
                     "code": "ALM128",
+                    "name": "ANÁLISE BROMATOLÓGICA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ALM126"
                     ]
                 },
                 {
                     "code": "ALM133",
+                    "name": "CIÊNCIA E TECNOLOGIA DE PANIFICAÇÃO: EXTENSÃO UNIVERSITÁRIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "ALM137",
+                    "name": "TECNOLOGIA DE ALIMENTOS E SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "ALM138",
+                    "name": "TOXICOLOGIA DE ALIMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "BIG033",
+                    "name": "EVOLUCAO II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "BIG036",
+                    "name": "GENETICA DE POPULACOES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "BIG053",
+                    "name": "CITOGENETICA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "BIG155",
+                    "name": "EVOLUCAO I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "BIG156",
+                    "name": "GESTÃO AMBIENTAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "BIG618",
+                    "name": "GENETICA DE MICRORGANISMOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "BIQ053",
+                    "name": "BIOQUIMICA DE PROTEINAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD009",
+                    "name": "ADMINISTRAÇÃO DE RECURSOS MATERIAIS E PATRIMONIAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD048",
+                    "name": "COMPORTAMENTO HUMANO NAS ORGANIZACOES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD050",
+                    "name": "MARKETING ESTRATEGICO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD059",
+                    "name": "EMPREENDEDORISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD072",
+                    "name": "GESTAO ESTRATEGICA DE RECURSOS HUMANOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD163",
+                    "name": "ADMINISTRAÇÃO DE RECURSOS HUMANOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "CAD048"
                     ]
                 },
                 {
                     "code": "CAD167",
+                    "name": "ADMINISTRAÇÃO FINANCEIRA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD189",
+                    "name": "TEORIA DA ADMINISTRAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD195",
+                    "name": "ADMINISTRACAO DA PRODUCAO E OPERACOES",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CIC010",
+                    "name": "INTRODUÇÃO À CONTABILIDADE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DAA003",
+                    "name": "ANTROPOLOGIA BRASILEIRA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DAA005",
+                    "name": "ANTROPOLOGIA BIOLÓGICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCP026",
+                    "name": "MOVIMENTOS SOCIAIS E SOCIEDADE CIVIL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCP053",
+                    "name": "GENERO E POLITICAS PUBLICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCP069",
+                    "name": "DIREITOS E CIDADANIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCP071",
+                    "name": "DEMOCRACIA E PARTICIPACAO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCP074",
+                    "name": "CORRUPCAO,DEMOCRACIA E INTERESSE PUBLICO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCP079",
+                    "name": "GESTAO PUB.COM FOCO EM DIREITOS HUMANOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ECN140",
+                    "name": "INTRODUÇÃO À ECONOMIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "EMI028",
+                    "name": "SAUDE E GENERO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "EMI036",
+                    "name": "SAUDE REPRODUTIVA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ESA011",
+                    "name": "SISTEMA DE ABASTECIMENTO DE AGUA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ESA013",
+                    "name": "QUALIDADE DA AGUA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ESA017",
+                    "name": "SANEAMENTO E ESTUDOS AMBIENTAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ESA119",
+                    "name": "GERENCIAMENTO RESIDUOS SOLIDOS URBANOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ESA123",
+                    "name": "DIAG. E AVAL. DA POLUICAO ATMOSFERICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ESA128",
+                    "name": "LEGISL. GESTAO DE SANEAM.E MEIO AMBIENTE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ESA135",
+                    "name": "SANEAMENTO AMBIENTAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ESA138",
+                    "name": "CIÊNCIAS AMBIENTAIS E CONTROLE DA POLUIÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "FAF080",
+                    "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À PESQUISA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Vivências Formativas Universitárias",
                     "prereqs": []
                 },
                 {
                     "code": "FAF081",
+                    "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À PESQUISA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Vivências Formativas Universitárias",
                     "prereqs": []
                 },
                 {
                     "code": "FAF082",
+                    "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À PESQUISA III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Vivências Formativas Universitárias",
                     "prereqs": []
                 },
                 {
                     "code": "FAF083",
+                    "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À PESQUISA IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Vivências Formativas Universitárias",
                     "prereqs": []
                 },
                 {
                     "code": "FAF084",
+                    "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À EXTENSÃO I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "FAF085",
+                    "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À EXTENSÃO II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "FAF086",
+                    "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À EXTENSÃO III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "FAF087",
+                    "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À EXTENSÃO IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "FAF088",
+                    "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À DOCÊNCIA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Vivências Formativas Universitárias",
                     "prereqs": []
                 },
                 {
                     "code": "FAF089",
+                    "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À DOCÊNCIA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Vivências Formativas Universitárias",
                     "prereqs": []
                 },
                 {
                     "code": "FAF090",
+                    "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À DOCÊNCIA III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Vivências Formativas Universitárias",
                     "prereqs": []
                 },
                 {
                     "code": "FAF091",
+                    "name": "PARTICIPAÇÃO EM PROJETOS - INICIAÇÃO À DOCÊNCIA IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Vivências Formativas Universitárias",
                     "prereqs": []
                 },
                 {
                     "code": "FAF092",
+                    "name": "PARTICIPAÇÃO EM EVENTOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Vivências Formativas Universitárias",
                     "prereqs": []
                 },
                 {
                     "code": "FAF129",
+                    "name": "TÓPICOS EM CIÊNCIAS BIOMÉDICAS I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "FAF130",
+                    "name": "TÓPICOS EM CIÊNCIAS BIOMÉDICAS II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "FAF131",
+                    "name": "TÓPICOS EM CIÊNCIAS BIOMÉDICAS III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "FAF132",
+                    "name": "TÓPICOS EM CIÊNCIAS BIOMÉDICAS IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "FAF133",
+                    "name": "TÓPICOS EM EXTENSÃO UNIVERSITÁRIA I: BIOMEDICINA E COMUNIDAD",
+                    "hours": 15,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "FAF134",
+                    "name": "TÓPICOS EM EXTENSÃO UNIVERSITÁRIA II: BIOMEDICINA E COMUNIDA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "FAF135",
+                    "name": "TÓPICOS EM EXTENSÃO UNIVERSITÁRIA III: BIOMEDICINA E COMUNID",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "FAF136",
+                    "name": "TÓPICOS EM EXTENSÃO UNIVERSITÁRIA IV: BIOMEDICINA E COMUNIDA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "FIB025",
+                    "name": "SIST DE REGULACAO CONTROLE EM FISIOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "FIS093",
+                    "name": "FUNDAMENTOS DE FISICA F",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GEE015",
+                    "name": "ECOLOGIA HUMANA",
+                    "hours": 75,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES004",
+                    "name": "EDUCAÇÃO NA SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES005",
+                    "name": "AUDITORIA EM SERVIÇOS DE SAÚDE",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES006",
+                    "name": "DIREITO DO CONSUMIDOR NA SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES011",
+                    "name": "MODELOS DE ATENÇÃO À SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES012",
+                    "name": "SAÚDE SUPLEMENTAR",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "GES013",
+                    "name": "SISTEMAS DE INFORMAÇÃO EM SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES014",
+                    "name": "PROCESSO DE TRABALHO E TECNOLOGIAS EM SAÚDE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "GES015",
+                    "name": "VIGILÂNCIA EM SAÚDE",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "GES016",
+                    "name": "PLANEJAMENTO , PROGRAMAÇÃO E AVALIAÇÃO EM SAÚDE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "GES018",
+                    "name": "GESTÃO DA QUALIDADE EM SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES020",
+                    "name": "GESTÃO DE RISCOS NAS ORGANIZAÇÕES DE SAÚDE",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": "Atividades de Extensão Acadêmica",
                     "prereqs": []
                 },
                 {
                     "code": "GES026",
+                    "name": "GERENCIAMENTO DE RESÍDUOS DE SERVIÇOS DE SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES027",
+                    "name": "RELAÇÕES DE PODER E CONFLITO NAS ORGANIZAÇÕES DE SAÚDE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES028",
+                    "name": "PLANEJAMENTO ESTRATÉGICO EM ORGANIZAÇÕES DE SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES029",
+                    "name": "ACREDITAÇÃO DE SERVIÇOS DE SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES030",
+                    "name": "AVALIAÇÃO EM SERVIÇOS DE SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES036",
+                    "name": "COMUNICAÇÃO NAS ORGANIZAÇÕES DE SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES037",
+                    "name": "GESTÃO DA INOVAÇÃO EM SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES038",
+                    "name": "FINANCIAMENTO EM SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES039",
+                    "name": "ATENÇÃO PRIMÁRIA À SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES040",
+                    "name": "RISCOS OCUPACIONAIS DA SAÚDE DOS TRABALHADORES",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES041",
+                    "name": "GESTÃO DA CULTURA E DA MUDANÇA NAS ORGANIZAÇÕES DE SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES044",
+                    "name": "GESTÃO DE COMPETÊNCIAS NAS ORGANIZAÇÕES DE SAÚDE",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "GES045",
+                    "name": "ELABORAÇÃO E GESTÃO DE PROJETOS DE INTERVENÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICB055",
+                    "name": "BIOINFORMATICA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "MAT130",
+                    "name": "MATEMATICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "MIC016",
+                    "name": "BIOLOGIA DE VIRUS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "MIC020",
+                    "name": "MICROBIOLOGIA AMBIENTAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "MOF144",
+                    "name": "NEUROANATOMIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "MOF008",
                         "MOF009"
@@ -4178,53 +5246,89 @@
                 },
                 {
                     "code": "PFA181",
+                    "name": "A QUÍMICA DA CÉLULA - BASE MOLECULAR DA VIDA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "SOA091",
+                    "name": "CULTURA E AMBIENTE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "SOA168",
+                    "name": "ANTROPOLOGIA CULTURAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "UNI003",
+                    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "UNI040",
+                    "name": "INGLÊS PARA FINS ACADÊMICOS I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "UNI041",
+                    "name": "INGLÊS PARA FINS ACADÊMICOS II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "UNI040"
                     ]
                 },
                 {
                     "code": "UNI042",
+                    "name": "INGLÊS PARA FINS ACADÊMICOS III",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "UNI041"
                     ]
                 },
                 {
                     "code": "UNI043",
+                    "name": "INGLÊS PARA FINS ACADÊMICOS IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "UNI042"
                     ]
                 },
                 {
                     "code": "UNI044",
+                    "name": "INGLÊS PARA FINS ACADÊMICOS V",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "UNI043"
                     ]

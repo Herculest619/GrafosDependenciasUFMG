@@ -19,7 +19,7 @@
         },
         "note": null
     },
-    "generatedAt": "2026-11-05T21:02:20.987Z",
+    "generatedAt": "2026-11-06T15:21:12.848Z",
     "disciplines": {
         "GEO306": {
             "code": "GEO306",
@@ -1536,231 +1536,403 @@
             "optionalPool": [
                 {
                     "code": "CCV029",
+                    "name": "A ULTRA-SONOGRAFIA NA AQUACULTURA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEE044",
+                    "name": "LEGISLAÇÃO AMBIENTAL COM ÊNF. NA GEST. DE RECURSOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEE059",
+                    "name": "IMPACTO AMBIENTAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ICA206",
+                    "name": "ASPECTOS ECON E POL DO SETOR AGROP.BRAS.",
+                    "hours": 45,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ICA209",
+                    "name": "PLANEJAMENTO DA EMPRESA AGROINDUSTRIAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ICB001",
+                    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MVP006",
+                    "name": "TRANSPORTE DE PEIXES VIVOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MVP007",
+                    "name": "DESINFECCAO DE INSTALACOES E EQUIPAMENT.",
+                    "hours": 30,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MVP008",
+                    "name": "REAPROVEITAMENTO E REUSO DE AGUAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MVP017",
+                    "name": "SANIDADE DE ANIMAIS AQUATICOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Extensao",
                     "prereqs": []
                 },
                 {
                     "code": "MVP116",
+                    "name": "DIAGNÓSTICO E CONTROLE DE DOENÇAS EM PISCICULTURAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Extensao",
                     "prereqs": [
                         "ZOO029"
                     ]
                 },
                 {
                     "code": "MVP117",
+                    "name": "LEGISLAÇÃO E LICENCIAMENTO AMBIENTAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TEI004",
+                    "name": "DESENVOLVIMENTO DE PRODUTOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TEI005",
+                    "name": "APROVEITAMENTO INTEGRAL DO PESCADO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TEI006",
+                    "name": "CONTROLE DE QUALIDADE NA IND.DE PESCADO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET002",
+                    "name": "PROGRAMA DE INICIACAO A PESQUISA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET004",
+                    "name": "PROGRAMA DE EXTENSAO I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET006",
+                    "name": "PROGRAMA DE INICIACAO A DOCENCIA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET009",
+                    "name": "PARTICIPACAO EM EVENTOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET012",
+                    "name": "TOPICOS ESPECIAIS EM AQUACULTURA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET013",
+                    "name": "TOPICOS ESPECIAIS EM AQUACULTURA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET014",
+                    "name": "TOPICOS ESPECIAIS EM AQUACULTURA III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET015",
+                    "name": "TOPICOS ESPECIAIS EM AQUACULTURA IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET016",
+                    "name": "VIVENCIA CURRICULAR I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET017",
+                    "name": "VIVENCIA CURRICULAR II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET018",
+                    "name": "VIVENCIA CURRICULAR III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET019",
+                    "name": "VIVENCIA CURRICULAR IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET020",
+                    "name": "VIVENCIA CURRICULAR V",
+                    "hours": 75,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET021",
+                    "name": "DISCUSSOES TEMATICAS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ZOO022",
+                    "name": "CLIMATOLOGIA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ZOO023",
+                    "name": "GENETICA DE POPULACOES",
+                    "hours": 30,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ZOO024",
+                    "name": "PRODUCAO DE PEIXES ORNAMENTAIS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ZOO025",
+                    "name": "AULAS PRAT.INT.EM AQUACULTURA1-APIAQUAS",
+                    "hours": 75,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Extensao",
                     "prereqs": []
                 },
                 {
                     "code": "ZOO026",
+                    "name": "AULAS PRAT.INT.EM AQUACULTURA2-APIAQUAS",
+                    "hours": 75,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Extensao",
                     "prereqs": [
                         "ZOO016"
                     ]
                 },
                 {
                     "code": "ZOO027",
+                    "name": "AULAS PRAT.INT.EM AQUACULTURA3-APIAQUAS",
+                    "hours": 75,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Extensao",
                     "prereqs": [
                         "ZOO018"
                     ]
                 },
                 {
                     "code": "ZOO030",
+                    "name": "EXTENSAO EM AQUACULTURA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Extensao",
                     "prereqs": [
                         "ZOO004"
                     ]
                 },
                 {
                     "code": "ZOO051",
+                    "name": "PRÁTICAS DE MARICULTURA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Extensao",
                     "prereqs": []
                 },
                 {
                     "code": "ZOO052",
+                    "name": "AVALIAÇÃO DE SIST. PROD. PEIXES ORNAMENTAIS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Extensao",
                     "prereqs": []
                 },
                 {
                     "code": "ZOO121",
+                    "name": "PRÁTICAS EM TANQUE-REDE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": [
                         "ZOO029"
                     ]
                 },
                 {
                     "code": "ZOO122",
+                    "name": "COMPORTAMENTO E BEM ESTAR EM PEIXES",
+                    "hours": 30,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": [
                         "MOF046"
                     ]
                 },
                 {
                     "code": "ZOO124",
+                    "name": "PISCICULTURA ORNAMENTAL DE ÁGUA DOCE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": [
                         "ZOO127"
                     ]
                 },
                 {
                     "code": "ZOO126",
+                    "name": "HEMATOLOGIA DE PEIXES TELEÓSTEOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "3",
+                    "groupName": null,
                     "prereqs": [
                         "MVP003"
                     ]
@@ -1940,231 +2112,403 @@
             "optionalPool": [
                 {
                     "code": "CCV029",
+                    "name": "A ULTRA-SONOGRAFIA NA AQUACULTURA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEE044",
+                    "name": "LEGISLAÇÃO AMBIENTAL COM ÊNF. NA GEST. DE RECURSOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEE059",
+                    "name": "IMPACTO AMBIENTAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ICA206",
+                    "name": "ASPECTOS ECON E POL DO SETOR AGROP.BRAS.",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ICA209",
+                    "name": "PLANEJAMENTO DA EMPRESA AGROINDUSTRIAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ICB001",
+                    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MVP006",
+                    "name": "TRANSPORTE DE PEIXES VIVOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MVP007",
+                    "name": "DESINFECCAO DE INSTALACOES E EQUIPAMENT.",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MVP008",
+                    "name": "REAPROVEITAMENTO E REUSO DE AGUAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MVP017",
+                    "name": "SANIDADE DE ANIMAIS AQUATICOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MVP116",
+                    "name": "DIAGNÓSTICO E CONTROLE DE DOENÇAS EM PISCICULTURAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": [
                         "ZOO029"
                     ]
                 },
                 {
                     "code": "MVP117",
+                    "name": "LEGISLAÇÃO E LICENCIAMENTO AMBIENTAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TEI004",
+                    "name": "DESENVOLVIMENTO DE PRODUTOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TEI005",
+                    "name": "APROVEITAMENTO INTEGRAL DO PESCADO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TEI006",
+                    "name": "CONTROLE DE QUALIDADE NA IND.DE PESCADO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET002",
+                    "name": "PROGRAMA DE INICIACAO A PESQUISA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET004",
+                    "name": "PROGRAMA DE EXTENSAO I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET006",
+                    "name": "PROGRAMA DE INICIACAO A DOCENCIA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET009",
+                    "name": "PARTICIPACAO EM EVENTOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET012",
+                    "name": "TOPICOS ESPECIAIS EM AQUACULTURA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET013",
+                    "name": "TOPICOS ESPECIAIS EM AQUACULTURA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET014",
+                    "name": "TOPICOS ESPECIAIS EM AQUACULTURA III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET015",
+                    "name": "TOPICOS ESPECIAIS EM AQUACULTURA IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET016",
+                    "name": "VIVENCIA CURRICULAR I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET017",
+                    "name": "VIVENCIA CURRICULAR II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET018",
+                    "name": "VIVENCIA CURRICULAR III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET019",
+                    "name": "VIVENCIA CURRICULAR IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET020",
+                    "name": "VIVENCIA CURRICULAR V",
+                    "hours": 75,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET021",
+                    "name": "DISCUSSOES TEMATICAS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ZOO022",
+                    "name": "CLIMATOLOGIA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ZOO023",
+                    "name": "GENETICA DE POPULACOES",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ZOO024",
+                    "name": "PRODUCAO DE PEIXES ORNAMENTAIS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ZOO025",
+                    "name": "AULAS PRAT.INT.EM AQUACULTURA1-APIAQUAS",
+                    "hours": 75,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ZOO026",
+                    "name": "AULAS PRAT.INT.EM AQUACULTURA2-APIAQUAS",
+                    "hours": 75,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": [
                         "ZOO016"
                     ]
                 },
                 {
                     "code": "ZOO027",
+                    "name": "AULAS PRAT.INT.EM AQUACULTURA3-APIAQUAS",
+                    "hours": 75,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": [
                         "ZOO018"
                     ]
                 },
                 {
                     "code": "ZOO030",
+                    "name": "EXTENSAO EM AQUACULTURA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": [
                         "ZOO004"
                     ]
                 },
                 {
                     "code": "ZOO051",
+                    "name": "PRÁTICAS DE MARICULTURA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ZOO052",
+                    "name": "AVALIAÇÃO DE SIST. PROD. PEIXES ORNAMENTAIS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ZOO121",
+                    "name": "PRÁTICAS EM TANQUE-REDE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": [
                         "ZOO029"
                     ]
                 },
                 {
                     "code": "ZOO122",
+                    "name": "COMPORTAMENTO E BEM ESTAR EM PEIXES",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": [
                         "MOF046"
                     ]
                 },
                 {
                     "code": "ZOO124",
+                    "name": "PISCICULTURA ORNAMENTAL DE ÁGUA DOCE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": [
                         "ZOO127"
                     ]
                 },
                 {
                     "code": "ZOO126",
+                    "name": "HEMATOLOGIA DE PEIXES TELEÓSTEOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": [
                         "MVP003"
                     ]
@@ -2374,253 +2718,441 @@
             "optionalPool": [
                 {
                     "code": "CCV029",
+                    "name": "A ULTRA-SONOGRAFIA NA AQUACULTURA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEE044",
+                    "name": "LEGISLAÇÃO AMBIENTAL COM ÊNF. NA GEST. DE RECURSOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "GEE059",
+                    "name": "IMPACTO AMBIENTAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ICA206",
+                    "name": "ASPECTOS ECON E POL DO SETOR AGROP.BRAS.",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ICA209",
+                    "name": "PLANEJAMENTO DA EMPRESA AGROINDUSTRIAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ICB001",
+                    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MVP006",
+                    "name": "TRANSPORTE DE PEIXES VIVOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MVP007",
+                    "name": "DESINFECCAO DE INSTALACOES E EQUIPAMENT.",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MVP008",
+                    "name": "REAPROVEITAMENTO E REUSO DE AGUAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MVP017",
+                    "name": "SANIDADE DE ANIMAIS AQUATICOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "MVP116",
+                    "name": "DIAGNÓSTICO E CONTROLE DE DOENÇAS EM PISCICULTURAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": [
                         "ZOO029"
                     ]
                 },
                 {
                     "code": "MVP117",
+                    "name": "LEGISLAÇÃO E LICENCIAMENTO AMBIENTAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TEI004",
+                    "name": "DESENVOLVIMENTO DE PRODUTOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TEI005",
+                    "name": "APROVEITAMENTO INTEGRAL DO PESCADO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "TEI006",
+                    "name": "CONTROLE DE QUALIDADE NA IND.DE PESCADO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET002",
+                    "name": "PROGRAMA DE INICIACAO A PESQUISA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET004",
+                    "name": "PROGRAMA DE EXTENSAO I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET006",
+                    "name": "PROGRAMA DE INICIACAO A DOCENCIA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET009",
+                    "name": "PARTICIPACAO EM EVENTOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET012",
+                    "name": "TOPICOS ESPECIAIS EM AQUACULTURA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET013",
+                    "name": "TOPICOS ESPECIAIS EM AQUACULTURA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET014",
+                    "name": "TOPICOS ESPECIAIS EM AQUACULTURA III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET015",
+                    "name": "TOPICOS ESPECIAIS EM AQUACULTURA IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET016",
+                    "name": "VIVENCIA CURRICULAR I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET017",
+                    "name": "VIVENCIA CURRICULAR II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET018",
+                    "name": "VIVENCIA CURRICULAR III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET019",
+                    "name": "VIVENCIA CURRICULAR IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET020",
+                    "name": "VIVENCIA CURRICULAR V",
+                    "hours": 75,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "VET021",
+                    "name": "DISCUSSOES TEMATICAS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ZOO022",
+                    "name": "CLIMATOLOGIA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ZOO023",
+                    "name": "GENETICA DE POPULACOES",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ZOO024",
+                    "name": "PRODUCAO DE PEIXES ORNAMENTAIS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ZOO025",
+                    "name": "AULAS PRAT.INT.EM AQUACULTURA1-APIAQUAS",
+                    "hours": 75,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ZOO026",
+                    "name": "AULAS PRAT.INT.EM AQUACULTURA2-APIAQUAS",
+                    "hours": 75,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": [
                         "ZOO016"
                     ]
                 },
                 {
                     "code": "ZOO027",
+                    "name": "AULAS PRAT.INT.EM AQUACULTURA3-APIAQUAS",
+                    "hours": 75,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": [
                         "ZOO018"
                     ]
                 },
                 {
                     "code": "ZOO030",
+                    "name": "EXTENSAO EM AQUACULTURA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": [
                         "ZOO004"
                     ]
                 },
                 {
                     "code": "ZOO051",
+                    "name": "PRÁTICAS DE MARICULTURA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ZOO052",
+                    "name": "AVALIAÇÃO DE SIST. PROD. PEIXES ORNAMENTAIS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ZOO121",
+                    "name": "PRÁTICAS EM TANQUE-REDE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": [
                         "ZOO029"
                     ]
                 },
                 {
                     "code": "ZOO122",
+                    "name": "COMPORTAMENTO E BEM ESTAR EM PEIXES",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": [
                         "MOF046"
                     ]
                 },
                 {
                     "code": "ZOO124",
+                    "name": "PISCICULTURA ORNAMENTAL DE ÁGUA DOCE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": [
                         "ZOO127"
                     ]
                 },
                 {
                     "code": "ZOO126",
+                    "name": "HEMATOLOGIA DE PEIXES TELEÓSTEOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": null,
                     "prereqs": [
                         "MVP003"
                     ]
                 },
                 {
                     "code": "ZOO129",
+                    "name": "TÓPICOS AVANÇADOS EM AQUACULTURA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ZOO130",
+                    "name": "TÓPICOS AVANÇADOS EM AQUACULTURA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ZOO131",
+                    "name": "TÓPICOS AVANÇADOS EM AQUACULTURA III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ZOO132",
+                    "name": "TÓPICOS AVANÇADOS EM AQUACULTURA IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 }
             ],

@@ -1,6 +1,6 @@
 {
     "schemaVersion": 2,
-    "generatedAt": "2026-11-05T21:02:21.038Z",
+    "generatedAt": "2026-11-06T15:21:12.881Z",
     "courses": [
         {
             "id": "aquacultura",
@@ -495,7 +495,7 @@
             "stats": {
                 "disciplines": 30,
                 "edges": 32,
-                "periods": 7,
+                "periods": 8,
                 "optionalSlots": 13,
                 "totalHours": 2400
             },
@@ -845,7 +845,7 @@
             "stats": {
                 "disciplines": 41,
                 "edges": 0,
-                "periods": 9,
+                "periods": 10,
                 "optionalSlots": 13,
                 "totalHours": 3240
             },

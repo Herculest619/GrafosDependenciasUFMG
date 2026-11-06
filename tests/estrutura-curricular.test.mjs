@@ -19,11 +19,14 @@ test('estrutura curricular: Física Bacharelado matriz 2013/1', () => {
     assert.equal(parsed.kind, 'bacharelado')
     assert.equal(parsed.shift, 'Diurno')
     assert.equal(parsed.versions.length, 3)
-    assert.equal(parsed.blocks.length, 7)
+    assert.equal(parsed.blocks.length, 8)
     assert.equal(
         parsed.blocks.reduce((total, block) => total + block.rows.length, 0),
         30
     )
+    // o 8º período não tem obrigatórias: só optativas sugeridas
+    assert.equal(parsed.blocks[7].number, 8)
+    assert.deepEqual(parsed.blocks[7].rows, [])
     assert.deepEqual(
         parsed.blocks[0].rows.map((row) => row.code),
         ['DCC001', 'FIS054', 'MAT001', 'MAT038']
@@ -81,8 +84,10 @@ test('converte a estrutura curricular no JSON v2', () => {
     const percurso = course.percursos[0]
     assert.deepEqual(
         percurso.periods.map((period) => period.number),
-        [1, 2, 3, 4, 5, 6, 7]
+        [1, 2, 3, 4, 5, 6, 7, 8]
     )
+    // o último período existe mesmo sem disciplina obrigatória
+    assert.deepEqual(percurso.periods[7].codes, [])
     assert.equal(percurso.optionalSlots.length, 13) // 735 h / 60 h
     assert.equal(percurso.summary.optionalHours.min, 735)
     assert.equal(percurso.summary.totalHours, 2400)
@@ -98,7 +103,7 @@ test('converte a estrutura curricular no JSON v2', () => {
     assert.ok(percurso.optionalPool.some((entry) => entry.code === 'FIS148'))
 
     assert.equal(catalog.stats.disciplines, 30)
-    assert.equal(catalog.stats.periods, 7)
+    assert.equal(catalog.stats.periods, 8)
     assert.ok(catalog.stats.edges > 0)
 })
 

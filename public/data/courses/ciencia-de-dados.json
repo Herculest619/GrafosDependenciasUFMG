@@ -19,7 +19,7 @@
         },
         "note": null
     },
-    "generatedAt": "2026-11-05T21:02:20.430Z",
+    "generatedAt": "2026-11-06T15:21:12.337Z",
     "disciplines": {
         "CAD103": {
             "code": "CAD103",
@@ -2231,257 +2231,461 @@
             "optionalPool": [
                 {
                     "code": "CAD004",
+                    "name": "ADMINISTRAÇÃO DA PRODUÇÃO",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD153",
+                    "name": "ADMINISTRAÇÃO DE CUSTOS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD163",
+                    "name": "ADMINISTRAÇÃO DE RECURSOS HUMANOS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD164",
+                    "name": "ADMINISTRAÇÃO MERCADOLÓGICA",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CAD167",
+                    "name": "ADMINISTRAÇÃO FINANCEIRA",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "CIC010",
+                    "name": "INTRODUÇÃO À CONTABILIDADE",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC006",
+                    "name": "ORGANIZAÇÃO DE COMPUTADORES I",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC007",
+                    "name": "ORGANIZAÇÃO DE COMPUTADORES II",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC023",
+                    "name": "REDES DE COMPUTADORES",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC027",
+                    "name": "COMPUTAÇÃO GRÁFICA",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC035",
+                    "name": "PESQUISA OPERACIONAL",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC041",
+                    "name": "INTRODUÇÃO À ROBÓTICA",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC042",
+                    "name": "ROBÓTICA MÓVEL",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC053",
+                    "name": "COMPILADORES I",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC055",
+                    "name": "EMPREENDIMENTOS EM INFORMÁTICA",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC068",
+                    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA I",
+                    "hours": 15,
+                    "credits": 1,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC069",
+                    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA II",
+                    "hours": 30,
+                    "credits": 2,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC070",
+                    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA III",
+                    "hours": 45,
+                    "credits": 3,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC071",
+                    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA IV",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC078",
+                    "name": "BANCOS DE DADOS GEOGRÁFICOS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC079",
+                    "name": "BIOINFORMÁTICA",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC080",
+                    "name": "CIBERSEGURANÇA",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC081",
+                    "name": "FUNDAMENTOS ESTATÍSTICOS DE CIÊNCIA DOS DADOS A",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC082",
+                    "name": "FUNDAMENTOS ESTATÍSTICOS DE CIÊNCIA DOS DADOS B",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC083",
+                    "name": "GESTÃO DE EQUIPES",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC084",
+                    "name": "PROGRAMAÇÃO COMPETITIVA",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC085",
+                    "name": "PRÁTICA DE DESENVOLVIMENTO DE SOFTWARE",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC086",
+                    "name": "REDES COMPLEXAS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC087",
+                    "name": "MÉTODOS QUALITATIVOS APLICADOS EM COMPUTAÇÃO",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC088",
+                    "name": "SISTEMAS EM REDES",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC089",
+                    "name": "TESTE DE SOFTWARE",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC090",
+                    "name": "TEORIA DA INFORMAÇÃO",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC091",
+                    "name": "FLUXO DE INFORMAÇÃO QUANTITATIVO",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC092",
+                    "name": "MÉTODOS FORMAIS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC093",
+                    "name": "SISTEMAS DE RECOMENDAÇÃO",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC114",
+                    "name": "INTRODUÇÃO AOS SISTEMAS LÓGICOS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC129",
+                    "name": "FUNDAMENTOS DA TEORIA DA COMPUTAÇÃO",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC186",
+                    "name": "ALGORITMOS PARA BIOINFORMÁTICA I",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC189",
+                    "name": "ARMAZÉNS DE DADOS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC190",
+                    "name": "BIBLIOTECAS DIGITAIS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC191",
+                    "name": "COMPUTAÇÃO NATURAL",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC192",
+                    "name": "DESENVOLVIMENTO DE JOGOS DIGITAIS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC193",
+                    "name": "ENGENHARIA DE USABILIDADE",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC195",
+                    "name": "MÉTODOS QUANTIT. DE PESQ. EXPERIMENTAL EM CIÊNCIA COMPUTAÇÃO",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC198",
+                    "name": "REDES COMPLEXAS EM COMP.: MODELAGEM, ALGORITMOS E APLICAÇÕES",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC199",
+                    "name": "TEORIA DOS GRAFOS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC207",
+                    "name": "ALGORITMOS II",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC215",
+                    "name": "HEURÍSTICAS E METAHEURÍSTICAS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC605",
+                    "name": "SISTEMAS OPERACIONAIS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "DCC641",
+                    "name": "FUNDAMENTOS DE SISTEMAS PARALELOS E DISTRIBUÍDOS",
+                    "hours": 30,
+                    "credits": 2,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "EST010",
+                    "name": "CONTROLE DE QUALIDADE",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "EST035",
                         "EST231"
@@ -2489,7 +2693,11 @@
                 },
                 {
                     "code": "EST014",
+                    "name": "ASPECTOS ESTATÍSTICOS DA ECONOMIA",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "EST035",
                         "EST231"
@@ -2497,7 +2705,11 @@
                 },
                 {
                     "code": "EST017",
+                    "name": "PLANEJAMENTO DE EXPERIMENTOS INDUSTRIAIS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "EST035",
                         "EST231"
@@ -2505,7 +2717,11 @@
                 },
                 {
                     "code": "EST019",
+                    "name": "APLICAÇÕES DE AMOSTRAGEM",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "EST037",
                         "EST231"
@@ -2513,7 +2729,11 @@
                 },
                 {
                     "code": "EST028",
+                    "name": "PROBABILIDADE II",
+                    "hours": 90,
+                    "credits": 6,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "EST232",
                         "MAT039"
@@ -2521,7 +2741,11 @@
                 },
                 {
                     "code": "EST036",
+                    "name": "PLANEJAMENTO DE EXPERIMENTOS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "EST035",
                         "EST231"
@@ -2529,47 +2753,75 @@
                 },
                 {
                     "code": "EST037",
+                    "name": "AMOSTRAGEM",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "EST231"
                     ]
                 },
                 {
                     "code": "EST039",
+                    "name": "PROCESSOS ESTOCÁSTICOS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "EST230"
                     ]
                 },
                 {
                     "code": "EST046",
+                    "name": "INTRODUÇÃO AO SEGURO E PREVIDÊNCIA",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "EST047",
+                    "name": "TÉCNICAS ATUARIAIS I",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "EST230"
                     ]
                 },
                 {
                     "code": "EST049",
+                    "name": "TÉCNICAS ATUARIAIS II",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "EST230"
                     ]
                 },
                 {
                     "code": "EST050",
+                    "name": "TEORIA DO RISCO",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "EST230"
                     ]
                 },
                 {
                     "code": "EST060",
+                    "name": "PESQUISA DE OPINIÃO E MERCADO",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "EST037",
                         "EST231"
@@ -2577,7 +2829,11 @@
                 },
                 {
                     "code": "EST061",
+                    "name": "AMOSTRAGEM INDUSTRIAL",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "EST037",
                         "EST231"
@@ -2585,7 +2841,11 @@
                 },
                 {
                     "code": "EST067",
+                    "name": "ANÁLISE DE DADOS LONGITUDINAIS E EM CONGLOMERADOS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "EST035",
                         "EST231"
@@ -2593,7 +2853,11 @@
                 },
                 {
                     "code": "EST089",
+                    "name": "ANÁLISE DE DADOS CATEGÓRICOS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "EST035",
                         "EST231"
@@ -2601,12 +2865,20 @@
                 },
                 {
                     "code": "EST093",
+                    "name": "ESTATÍSTICA E SOCIEDADE",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "EST169",
+                    "name": "ANÁLISE DE DADOS DISCRETOS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "EST035",
                         "EST231"
@@ -2614,7 +2886,11 @@
                 },
                 {
                     "code": "EST232",
+                    "name": "PROBABILIDADE I",
+                    "hours": 90,
+                    "credits": 6,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "MAT001",
                         "EST230"
@@ -2622,19 +2898,31 @@
                 },
                 {
                     "code": "EST233",
+                    "name": "MÉTODOS COMPUTACIONAIS PARA CIÊNCIA DE DADOS I",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "EST234",
+                    "name": "INTRODUÇÃO À INFERÊNCIA ESTATÍSTICA",
+                    "hours": 90,
+                    "credits": 6,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "EST232"
                     ]
                 },
                 {
                     "code": "EST235",
+                    "name": "INFERÊNCIA I",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "EST230",
                         "EST231"
@@ -2642,28 +2930,44 @@
                 },
                 {
                     "code": "EST236",
+                    "name": "INFERÊNCIA II",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "EST235"
                     ]
                 },
                 {
                     "code": "EST238",
+                    "name": "MÉTODOS COMPUTACIONAIS PARA CIÊNCIA DE DADOS II",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "EST231"
                     ]
                 },
                 {
                     "code": "EST239",
+                    "name": "LABORATÓRIO DE ESTATÍSTICA I",
+                    "hours": 90,
+                    "credits": 6,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "EST079"
                     ]
                 },
                 {
                     "code": "EST240",
+                    "name": "ESTATÍSTICA ESPACIAL",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "EST035",
                         "EST231"
@@ -2671,166 +2975,294 @@
                 },
                 {
                     "code": "ICE047",
+                    "name": "PARTICIPAÇÃO EM EMPRESA JÚNIOR I",
+                    "hours": 15,
+                    "credits": 1,
                     "group": "9",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ICE052",
+                    "name": "PARTICIPAÇÃO EM EMPRESA JÚNIOR II",
+                    "hours": 30,
+                    "credits": 2,
                     "group": "9",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ICE053",
+                    "name": "MONITORIA I",
+                    "hours": 30,
+                    "credits": 2,
                     "group": "9",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ICE054",
+                    "name": "MONITORIA II",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "9",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ICE067",
+                    "name": "REPRESENTAÇÃO EM ÓRGÃOS COLEGIADOS",
+                    "hours": 15,
+                    "credits": 1,
                     "group": "9",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ICE068",
+                    "name": "PARTICIPAÇÃO EM EVENTOS I",
+                    "hours": 15,
+                    "credits": 1,
                     "group": "9",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ICE075",
+                    "name": "INICIAÇÃO CIENTÍFICA",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "9",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ICE153",
+                    "name": "CURSOS DE CAPACITAÇÃO",
+                    "hours": 15,
+                    "credits": 1,
                     "group": "9",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ICE156",
+                    "name": "PARTICIPAÇÃO EM ATIVIDADES DE EXTENSÃO I",
+                    "hours": 15,
+                    "credits": 1,
                     "group": "9",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ICE157",
+                    "name": "PARTICIPAÇÃO EM ATIVIDADE DE EXTENSÃO II",
+                    "hours": 30,
+                    "credits": 2,
                     "group": "9",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ICE158",
+                    "name": "PARTICIPAÇÃO EM ATIVIDADE DE EXTENSÃO III",
+                    "hours": 45,
+                    "credits": 3,
                     "group": "9",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ICE159",
+                    "name": "PARTICIPAÇÃO EM ATIVIDADE DE EXTENSÃO IV",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "9",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ICE160",
+                    "name": "FORMAÇÃO AVANÇADA I",
+                    "hours": 15,
+                    "credits": 1,
                     "group": "3",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ICE161",
+                    "name": "FORMAÇÃO AVANÇADA II",
+                    "hours": 30,
+                    "credits": 2,
                     "group": "3",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ICE162",
+                    "name": "FORMAÇÃO AVANÇADA III",
+                    "hours": 45,
+                    "credits": 3,
                     "group": "3",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ICE163",
+                    "name": "FORMAÇÃO AVANÇADA IV",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "3",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ICE164",
+                    "name": "DIVULGAÇÃO DO CONHECIMENTO",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "9",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ICE169",
+                    "name": "TÓPICOS EM CIÊNCIA DE DADOS I",
+                    "hours": 15,
+                    "credits": 1,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICE170",
+                    "name": "TÓPICOS EM CIÊNCIA DE DADOS II",
+                    "hours": 30,
+                    "credits": 2,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICE171",
+                    "name": "TÓPICOS EM CIÊNCIA DE DADOS III",
+                    "hours": 45,
+                    "credits": 3,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICE172",
+                    "name": "TÓPICOS EM CIÊNCIA DE DADOS IV",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICE173",
+                    "name": "ESTÁGIO",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "9",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ICE174",
+                    "name": "DISCUSSÕES TEMÁTICAS",
+                    "hours": 15,
+                    "credits": 1,
                     "group": "9",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ICE179",
+                    "name": "PARTICIPAÇÃO EM EMPRESA JÚNIOR III",
+                    "hours": 45,
+                    "credits": 3,
                     "group": "9",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ICE180",
+                    "name": "PARTICIPAÇÃO EM EMPRESA JÚNIOR IV",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "9",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "MAT015",
+                    "name": "EQUAÇÕES DIFERENCIAIS A",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "MAT039"
                     ]
                 },
                 {
                     "code": "MAT034",
+                    "name": "ÁLGEBRA A",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "MAT047",
+                    "name": "ANÁLISE COMBINATÓRIA",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "MAT048",
+                    "name": "ÁLGEBRA LINEAR I",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "MAT038"
                     ]
                 },
                 {
                     "code": "OTI071",
+                    "name": "ORGANIZAÇÃO E TRATAMENTO DA INFORMAÇÃO",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "TGI004",
+                    "name": "USUÁRIOS DA INFORMAÇÃO",
+                    "hours": 60,
+                    "credits": 4,
                     "group": "10",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 }
             ],

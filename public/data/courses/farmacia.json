@@ -19,7 +19,7 @@
         },
         "note": null
     },
-    "generatedAt": "2026-11-05T21:02:20.459Z",
+    "generatedAt": "2026-11-06T15:21:12.371Z",
     "disciplines": {
         "FAF116": {
             "code": "FAF116",
@@ -3016,14 +3016,22 @@
             "optionalPool": [
                 {
                     "code": "ACT010",
+                    "name": "BACTERIOLOGIA CLINICA",
+                    "hours": 90,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "ACT128"
                     ]
                 },
                 {
                     "code": "ACT017",
+                    "name": "BIOLOGIA MOLECULAR APLICADA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "BIG157",
                         "BIQ058"
@@ -3031,54 +3039,86 @@
                 },
                 {
                     "code": "ACT018",
+                    "name": "GESTAO DA QUALIDADE NO LAB. CLINICO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": [
                         "ACT133"
                     ]
                 },
                 {
                     "code": "ACT045",
+                    "name": "HEMATOLOGIA CLINICA",
+                    "hours": 105,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "ACT127"
                     ]
                 },
                 {
                     "code": "ACT067",
+                    "name": "TOXICOLOGIA FORENSE",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "FAR024"
                     ]
                 },
                 {
                     "code": "ACT072",
+                    "name": "MICOLOGIA CLINICA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "ACT128"
                     ]
                 },
                 {
                     "code": "ACT077",
+                    "name": "BIOQUÍMICA CLÍNICA II",
+                    "hours": 105,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "ACT613"
                     ]
                 },
                 {
                     "code": "ACT126",
+                    "name": "RADIOFARMÁCIA II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "ACT125"
                     ]
                 },
                 {
                     "code": "ACT129",
+                    "name": "EMPREENDEDORISMO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "ACT130",
+                    "name": "ESTÁGIO OPTATIVO EM ANÁLISES CLÍNICAS E TOXICOLÓGICAS I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "QUI298",
                         "FIB619",
@@ -3087,7 +3127,11 @@
                 },
                 {
                     "code": "ACT131",
+                    "name": "ESTÁGIO OPTATIVO EM ANÁLISES CLÍNICAS E TOXICOLÓGICAS II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "QUI298",
                         "FIB619",
@@ -3096,427 +3140,719 @@
                 },
                 {
                     "code": "ACT132",
+                    "name": "EXAMES LABORATORIAIS NA URGÊNCIA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "PAG611"
                     ]
                 },
                 {
                     "code": "ACT134",
+                    "name": "IMAGENS BIOMÉDICAS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ACT135",
+                    "name": "SAÚDE DE POPULAÇÕES VULNERABILIZADAS I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "FAS012"
                     ]
                 },
                 {
                     "code": "ACT136",
+                    "name": "SAÚDE DE POPULAÇÕES VULNERABILIZADAS II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "ACT135"
                     ]
                 },
                 {
                     "code": "ACT137",
+                    "name": "SAÚDE E SEXUALIDADE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "ACT128"
                     ]
                 },
                 {
                     "code": "ACT138",
+                    "name": "TOXICOLOGIA SOCIAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ACT139",
+                    "name": "VACINAS E IMUNIZAÇÕES",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "BIQ602"
                     ]
                 },
                 {
                     "code": "ACT602",
+                    "name": "CITOLOGIA CLINICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "PAG611"
                     ]
                 },
                 {
                     "code": "ACT604",
+                    "name": "ANALISES TOXICOLOGICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "ACT124"
                     ]
                 },
                 {
                     "code": "ACT605",
+                    "name": "IMUNOLOGIA CLINICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "BIQ602"
                     ]
                 },
                 {
                     "code": "ACT606",
+                    "name": "PARASITOLOGIA CLINICA",
+                    "hours": 75,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "ACT128"
                     ]
                 },
                 {
                     "code": "ACT613",
+                    "name": "BIOQUIMICA CLINICA I",
+                    "hours": 90,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "ACT127"
                     ]
                 },
                 {
                     "code": "ALM007",
+                    "name": "MICROBIOLOGIA DE ALIMENTOS",
+                    "hours": 75,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "MIC122"
                     ]
                 },
                 {
                     "code": "ALM021",
+                    "name": "ALIMENTOS FUNCIONAIS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "ALM028",
+                    "name": "HIGIENE DE ALIMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "MIC122"
                     ]
                 },
                 {
                     "code": "ALM029",
+                    "name": "CONSERVACAO DE ALIMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "ALM032",
+                    "name": "MICROBIOLOGIA INDUSTRIAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "MIC122"
                     ]
                 },
                 {
                     "code": "ALM033",
+                    "name": "ANALISE S. AREA FARMACEUTICA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ALM039",
+                    "name": "BIOTECNOLOGIA NA PROD. BEB. E ALIMENTOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "MIC122"
                     ]
                 },
                 {
                     "code": "ALM040",
+                    "name": "MATERIAS DE EMBALAGEM NA A. FARMACEUTICA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "ALM041",
+                    "name": "PROCESSAMENTO DE ALIMENTOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "ALM126"
                     ]
                 },
                 {
                     "code": "ALM058",
+                    "name": "INTERAÇÕES MEDICAMENTO-ALIMENTO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "FAR024"
                     ]
                 },
                 {
                     "code": "ALM124",
+                    "name": "GARANTIA DA QUALIDADE DE ALIMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "ALM125",
+                    "name": "ALTERAÇÕES QUÍMICAS E BIOQUÍMICAS DE ALIMENTOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "QUI207"
                     ]
                 },
                 {
                     "code": "ALM127",
+                    "name": "TERAPIA NUTRICIONAL ENTERAL E PARENTERAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "ALM126"
                     ]
                 },
                 {
                     "code": "ALM128",
+                    "name": "ANÁLISE BROMATOLÓGICA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "ALM126"
                     ]
                 },
                 {
                     "code": "ALM129",
+                    "name": "ESTÁGIO OPTATIVO EM ALIMENTOS I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ALM130",
+                    "name": "ESTÁGIO OPTATIVO EM ALIMENTOS II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ALM131",
+                    "name": "ALIMENTOS PARA FINS ESPECIAIS: TECNOLOGIA E PROCESSAMENTO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "ALM132",
+                    "name": "CIÊNCIA DE ALIMENTOS E A INTERFACE COM A SOCIEDADE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ALM133",
+                    "name": "CIÊNCIA E TECNOLOGIA DE PANIFICAÇÃO: EXTENSÃO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ALM134",
+                    "name": "MITOS E VERDADES SOBRE ALIMENTOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "ALM135",
+                    "name": "PROBIÓTICOS: AVANÇOS, DESAFIOS E APLICAÇÕES",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "ALM136",
+                    "name": "ROTULAGEM DE ALIMENTOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ALM137",
+                    "name": "TECNOLOGIA DE ALIMENTOS E SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ALM138",
+                    "name": "TOXICOLOGIA DE ALIMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "BIQ050"
                     ]
                 },
                 {
                     "code": "BIQ058",
+                    "name": "BIOLOGIA MOLECULAR F",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "BIQ050"
                     ]
                 },
                 {
                     "code": "DCP021",
+                    "name": "INTRODUÇÃO A TEORIA DEMOCRÁTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "DCP023",
+                    "name": "ESTADO MODERNO E CAPITALISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "ECN101",
+                    "name": "ECONOMIA A I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "ECN140",
+                    "name": "INTRODUÇÃO À ECONOMIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "FAF096",
+                    "name": "INICIAÇÃO CIENTÍFICA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "FAF097",
+                    "name": "INICIAÇÃO CIENTÍFICA II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "FAF098",
+                    "name": "MONITORIA DE GRADUAÇÃO I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "FAF099",
+                    "name": "MONITORIA DE GRADUAÇÃO II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "FAF101",
+                    "name": "TÓPICOS EM ESTUDOS AVANÇADOS I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "20",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "FAF102",
+                    "name": "TÓPICOS EM ESTUDOS AVANÇADOS II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "20",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "FAF103",
+                    "name": "VISITAS TÉCNICAS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "FAF104",
+                    "name": "VISITAS TÉCNICAS II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "FAF106",
+                    "name": "BIOSSEGURANÇA E SEGURANÇA DO TRABALHO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "FAF109",
+                    "name": "FORMAÇÃO EM EXTENSÃO UNIVERSITÁRIA I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "FAF116"
                     ]
                 },
                 {
                     "code": "FAF110",
+                    "name": "FORMAÇÃO EM EXTENSÃO UNIVERSITÁRIA II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "FAF116"
                     ]
                 },
                 {
                     "code": "FAF111",
+                    "name": "FORMAÇÃO EM EXTENSÃO UNIVERSITÁRIA III",
+                    "hours": 90,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "FAF116"
                     ]
                 },
                 {
                     "code": "FAF112",
+                    "name": "FORMAÇÃO EM EXTENSÃO UNIVERSITÁRIA IV",
+                    "hours": 180,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "FAF116"
                     ]
                 },
                 {
                     "code": "FAF113",
+                    "name": "FORMAÇÃO EM EXTENSÃO UNIVERSITÁRIA V",
+                    "hours": 360,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "FAF116"
                     ]
                 },
                 {
                     "code": "FAF118",
+                    "name": "TÓPICOS EM CUIDADO EM SAÚDE A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "FAF119",
+                    "name": "TÓPICOS EM CUIDADO EM SAÚDE B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "FAF120",
+                    "name": "TÓPICOS EM CUIDADO EM SAÚDE C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "FAF121",
+                    "name": "TÓPICOS EM ESTUDOS AVANÇADOS III",
+                    "hours": 45,
+                    "credits": null,
                     "group": "20",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "FAF122",
+                    "name": "TÓPICOS EM ESTUDOS AVANÇADOS IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "20",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "FAF123",
+                    "name": "TÓPICOS EM GESTÃO EM SAÚDE A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "FAF124",
+                    "name": "TÓPICOS EM GESTÃO EM SAÚDE B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "FAF125",
+                    "name": "TÓPICOS EM GESTÃO EM SAÚDE C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "FAF126",
+                    "name": "TÓPICOS EM TECNOLOGIA E INOVAÇÃO EM SAÚDE A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "FAF127",
+                    "name": "TÓPICOS EM TECNOLOGIA E INOVAÇÃO EM SAÚDE B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "FAF128",
+                    "name": "TÓPICOS EM TECNOLOGIA E INOVAÇÃO EM SAÚDE C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "FAS027",
+                    "name": "FARMACOECONOMIA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": [
                         "FAS113"
                     ]
                 },
                 {
                     "code": "FAS115",
+                    "name": "INFORMAÇÃO SOBRE MEDICAMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "FAS116",
+                    "name": "ENSAIOS CLÍNICOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "FAS113"
                     ]
                 },
                 {
                     "code": "FAS119",
+                    "name": "COMPETÊNCIAS CLÍNICAS AVANÇADAS II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "FAS118"
                     ]
                 },
                 {
                     "code": "FAS120",
+                    "name": "CUIDADO FARMACÊUTICO CENTRADO NO PACIENTE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "FAS117"
                     ]
                 },
                 {
                     "code": "FAS121",
+                    "name": "EDUCAÇÃO INTERPROFISSIONAL PARA TOMADA DE DECISÃO EM SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "FAS125",
+                    "name": "ESTÁGIO OPTATIVO EM CUIDADO EM SAÚDE I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "FAF117",
                         "FAS124",
@@ -3525,7 +3861,11 @@
                 },
                 {
                     "code": "FAS126",
+                    "name": "ESTÁGIO OPTATIVO EM CUIDADO EM SAÚDE II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "FAF117",
                         "FAS124",
@@ -3534,7 +3874,11 @@
                 },
                 {
                     "code": "FAS127",
+                    "name": "ESTÁGIO OPTATIVO EM FARMÁCIA COMUNITÁRIA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "FAR024",
                         "FAS124",
@@ -3543,7 +3887,11 @@
                 },
                 {
                     "code": "FAS128",
+                    "name": "ESTÁGIO OPTATIVO EM FARMÁCIA COMUNITÁRIA II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "FAR024",
                         "FAS124",
@@ -3552,7 +3900,11 @@
                 },
                 {
                     "code": "FAS129",
+                    "name": "ESTÁGIO OPTATIVO EM GESTÃO EM SAÚDE I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "FAS011",
                         "FAS012"
@@ -3560,7 +3912,11 @@
                 },
                 {
                     "code": "FAS130",
+                    "name": "ESTÁGIO OPTATIVO EM GESTÃO EM SAÚDE II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "FAS011",
                         "FAS012"
@@ -3568,106 +3924,178 @@
                 },
                 {
                     "code": "FAS131",
+                    "name": "FARMACOGENÔMICA E MEDICINA PERSONALIZADA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "FAS113"
                     ]
                 },
                 {
                     "code": "FAS132",
+                    "name": "IMPLEMENTAÇÃO E GESTÃO DE SERVIÇOS DE GERENCIAMENTO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "FAS117"
                     ]
                 },
                 {
                     "code": "FIL028",
+                    "name": "INTRODUÇÃO A FILOSOFIA: ÉTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "FIL029",
+                    "name": "INTR. A FILOSOFIA:FIL DA CIEN E EPISTEM.",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "FIL030",
+                    "name": "INTRODUÇÃO A FILOSOFIA: ESTÉTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "FIS093",
+                    "name": "FUNDAMENTOS DE FISICA F",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "GES056",
+                    "name": "TÓPICOS EM SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "MOF008",
+                    "name": "EMBRIOLOGIA GERAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "MOF024",
+                    "name": "TOPICOS EM NEUROBIOLOGIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "PFA004",
+                    "name": "SEMINARIOS EM FITOTERAPIA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "PFA028"
                     ]
                 },
                 {
                     "code": "PFA034",
+                    "name": "ESTABILIDADE DE P.F. E COSMETICOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "PFA029"
                     ]
                 },
                 {
                     "code": "PFA049",
+                    "name": "MEDICAMENTOS PROBLEMA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "PFA135",
+                    "name": "FARMACOTERAPIA DAS NEOPLASIAS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "PFA031"
                     ]
                 },
                 {
                     "code": "PFA137",
+                    "name": "CÁLCULOS FARMACOTÉCNICOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "PFA151",
+                    "name": "CONTROLE DE QUALIDADE DE PRODUTOS FARMACÊUTICOS E COSMÉTICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "PFA029"
                     ]
                 },
                 {
                     "code": "PFA152",
+                    "name": "QUÍMICA FARMACÊUTICA E MEDICINAL II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "PFA026"
                     ]
                 },
                 {
                     "code": "PFA156",
+                    "name": "FARMACOTERAPIA III",
+                    "hours": 60,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "FAF117",
                         "PFA154",
@@ -3676,7 +4104,11 @@
                 },
                 {
                     "code": "PFA157",
+                    "name": "CONTROLE DAS INFECÇÕES RELACIONADAS À ASSISTÊNCIA À SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "ACT127",
                         "PFA155",
@@ -3685,40 +4117,64 @@
                 },
                 {
                     "code": "PFA159",
+                    "name": "DO MEDICAMENTO AO FÁRMACO: O QUE SÃO, O QUE FAZEM",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "PFA160",
+                    "name": "ESTÁGIO OPTATIVO EM FARMÁCIA HOSPITALAR I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "PFA154"
                     ]
                 },
                 {
                     "code": "PFA161",
+                    "name": "ESTÁGIO OPTATIVO EM FARMÁCIA HOSPITALAR II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "PFA154"
                     ]
                 },
                 {
                     "code": "PFA162",
+                    "name": "ESTÁGIO OPTATIVO EM HOMEOPATIA ATÉ 120 HORAS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "PFA180"
                     ]
                 },
                 {
                     "code": "PFA163",
+                    "name": "ESTÁGIO OPTATIVO EM HOMEOPATIA SUPERIOR A 120 HORAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "PFA180"
                     ]
                 },
                 {
                     "code": "PFA164",
+                    "name": "ESTÁGIO OPTATIVO EM INDÚSTRIA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "PFA177",
                         "QUI295"
@@ -3726,7 +4182,11 @@
                 },
                 {
                     "code": "PFA165",
+                    "name": "ESTÁGIO OPTATIVO EM INDÚSTRIA II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "PFA177",
                         "QUI295"
@@ -3734,7 +4194,11 @@
                 },
                 {
                     "code": "PFA167",
+                    "name": "GERENCIAMENTO DO USO DE ANTIMICROBIANOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "PFA174",
                         "PFA155",
@@ -3743,7 +4207,11 @@
                 },
                 {
                     "code": "PFA168",
+                    "name": "INTRODUÇÃO À NANOTECNOLOGIA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "FAR024",
                         "QUI299"
@@ -3751,59 +4219,95 @@
                 },
                 {
                     "code": "PFA170",
+                    "name": "MEDICAMENTOS BIOLÓGICOS II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "PFA169"
                     ]
                 },
                 {
                     "code": "PFA171",
+                    "name": "MODELAGEM MOLECULAR E QUÍMICA COMPUTACIONAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "QUI207"
                     ]
                 },
                 {
                     "code": "PFA172",
+                    "name": "MOLÉCULAS QUE MUDARAM A HISTÓRIA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "PFA179",
+                    "name": "SÍNTESE DE FÁRMACOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "QUI294"
                     ]
                 },
                 {
                     "code": "PFA180",
+                    "name": "HOMEOPATIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "PFA601",
+                    "name": "FITOQUIMICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "PFA028"
                     ]
                 },
                 {
                     "code": "PFA615",
+                    "name": "TECNOLOGIA DE COSMETICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "PFA166"
                     ]
                 },
                 {
                     "code": "QUI211",
+                    "name": "ANALISE ESPECT. DE COMPOSTO ORGANICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "QUI294"
                     ]
                 },
                 {
                     "code": "QUI296",
+                    "name": "EXPERIMENTOS DE FÍSICO-QUÍMICA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "MAT130",
                         "QUI203",
@@ -4010,14 +4514,22 @@
             "optionalPool": [
                 {
                     "code": "ACT010",
+                    "name": "BACTERIOLOGIA CLINICA",
+                    "hours": 90,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "ACT128"
                     ]
                 },
                 {
                     "code": "ACT017",
+                    "name": "BIOLOGIA MOLECULAR APLICADA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "BIG157",
                         "BIQ058"
@@ -4025,54 +4537,86 @@
                 },
                 {
                     "code": "ACT018",
+                    "name": "GESTAO DA QUALIDADE NO LAB. CLINICO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "28",
+                    "groupName": "Atividades Gestão",
                     "prereqs": [
                         "ACT133"
                     ]
                 },
                 {
                     "code": "ACT045",
+                    "name": "HEMATOLOGIA CLINICA",
+                    "hours": 105,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "ACT127"
                     ]
                 },
                 {
                     "code": "ACT067",
+                    "name": "TOXICOLOGIA FORENSE",
+                    "hours": 45,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "FAR024"
                     ]
                 },
                 {
                     "code": "ACT072",
+                    "name": "MICOLOGIA CLINICA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "ACT128"
                     ]
                 },
                 {
                     "code": "ACT077",
+                    "name": "BIOQUÍMICA CLÍNICA II",
+                    "hours": 105,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "ACT613"
                     ]
                 },
                 {
                     "code": "ACT126",
+                    "name": "RADIOFARMÁCIA II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "ACT125"
                     ]
                 },
                 {
                     "code": "ACT129",
+                    "name": "EMPREENDEDORISMO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "28",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "ACT130",
+                    "name": "ESTÁGIO OPTATIVO EM ANÁLISES CLÍNICAS E TOXICOLÓGICAS I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "29",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "QUI298",
                         "FIB619",
@@ -4081,7 +4625,11 @@
                 },
                 {
                     "code": "ACT131",
+                    "name": "ESTÁGIO OPTATIVO EM ANÁLISES CLÍNICAS E TOXICOLÓGICAS II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "29",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "QUI298",
                         "FIB619",
@@ -4090,407 +4638,683 @@
                 },
                 {
                     "code": "ACT132",
+                    "name": "EXAMES LABORATORIAIS NA URGÊNCIA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "PAG611"
                     ]
                 },
                 {
                     "code": "ACT134",
+                    "name": "IMAGENS BIOMÉDICAS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ACT135",
+                    "name": "SAÚDE DE POPULAÇÕES VULNERABILIZADAS I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "FAS012"
                     ]
                 },
                 {
                     "code": "ACT136",
+                    "name": "SAÚDE DE POPULAÇÕES VULNERABILIZADAS II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "ACT135"
                     ]
                 },
                 {
                     "code": "ACT137",
+                    "name": "SAÚDE E SEXUALIDADE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "ACT128"
                     ]
                 },
                 {
                     "code": "ACT138",
+                    "name": "TOXICOLOGIA SOCIAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ACT139",
+                    "name": "VACINAS E IMUNIZAÇÕES",
+                    "hours": 15,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "BIQ602"
                     ]
                 },
                 {
                     "code": "ACT602",
+                    "name": "CITOLOGIA CLINICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "PAG611"
                     ]
                 },
                 {
                     "code": "ACT604",
+                    "name": "ANALISES TOXICOLOGICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "ACT124"
                     ]
                 },
                 {
                     "code": "ACT605",
+                    "name": "IMUNOLOGIA CLINICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "BIQ602"
                     ]
                 },
                 {
                     "code": "ACT606",
+                    "name": "PARASITOLOGIA CLINICA",
+                    "hours": 75,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "ACT128"
                     ]
                 },
                 {
                     "code": "ACT613",
+                    "name": "BIOQUIMICA CLINICA I",
+                    "hours": 90,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "ACT127"
                     ]
                 },
                 {
                     "code": "ALM007",
+                    "name": "MICROBIOLOGIA DE ALIMENTOS",
+                    "hours": 75,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "MIC122"
                     ]
                 },
                 {
                     "code": "ALM021",
+                    "name": "ALIMENTOS FUNCIONAIS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "ALM028",
+                    "name": "HIGIENE DE ALIMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "MIC122"
                     ]
                 },
                 {
                     "code": "ALM029",
+                    "name": "CONSERVACAO DE ALIMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "ALM032",
+                    "name": "MICROBIOLOGIA INDUSTRIAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "MIC122"
                     ]
                 },
                 {
                     "code": "ALM033",
+                    "name": "ANALISE S. AREA FARMACEUTICA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ALM039",
+                    "name": "BIOTECNOLOGIA NA PROD. BEB. E ALIMENTOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "MIC122"
                     ]
                 },
                 {
                     "code": "ALM040",
+                    "name": "MATERIAS DE EMBALAGEM NA A. FARMACEUTICA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "ALM041",
+                    "name": "PROCESSAMENTO DE ALIMENTOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "ALM126"
                     ]
                 },
                 {
                     "code": "ALM058",
+                    "name": "INTERAÇÕES MEDICAMENTO-ALIMENTO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "FAR024"
                     ]
                 },
                 {
                     "code": "ALM124",
+                    "name": "GARANTIA DA QUALIDADE DE ALIMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "28",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "ALM125",
+                    "name": "ALTERAÇÕES QUÍMICAS E BIOQUÍMICAS DE ALIMENTOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "QUI207"
                     ]
                 },
                 {
                     "code": "ALM127",
+                    "name": "TERAPIA NUTRICIONAL ENTERAL E PARENTERAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "ALM126"
                     ]
                 },
                 {
                     "code": "ALM128",
+                    "name": "ANÁLISE BROMATOLÓGICA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "ALM126"
                     ]
                 },
                 {
                     "code": "ALM129",
+                    "name": "ESTÁGIO OPTATIVO EM ALIMENTOS I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "29",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ALM130",
+                    "name": "ESTÁGIO OPTATIVO EM ALIMENTOS II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "29",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ALM131",
+                    "name": "ALIMENTOS PARA FINS ESPECIAIS: TECNOLOGIA E PROCESSAMENTO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "ALM132",
+                    "name": "CIÊNCIA DE ALIMENTOS E A INTERFACE COM A SOCIEDADE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ALM133",
+                    "name": "CIÊNCIA E TECNOLOGIA DE PANIFICAÇÃO: EXTENSÃO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ALM134",
+                    "name": "MITOS E VERDADES SOBRE ALIMENTOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "ALM135",
+                    "name": "PROBIÓTICOS: AVANÇOS, DESAFIOS E APLICAÇÕES",
+                    "hours": 30,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "ALM136",
+                    "name": "ROTULAGEM DE ALIMENTOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ALM137",
+                    "name": "TECNOLOGIA DE ALIMENTOS E SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ALM138",
+                    "name": "TOXICOLOGIA DE ALIMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "BIQ050"
                     ]
                 },
                 {
                     "code": "BIQ058",
+                    "name": "BIOLOGIA MOLECULAR F",
+                    "hours": 30,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "BIQ050"
                     ]
                 },
                 {
                     "code": "DCP021",
+                    "name": "INTRODUÇÃO A TEORIA DEMOCRÁTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "28",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "DCP023",
+                    "name": "ESTADO MODERNO E CAPITALISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "28",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "ECN101",
+                    "name": "ECONOMIA A I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "28",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "ECN140",
+                    "name": "INTRODUÇÃO À ECONOMIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "28",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "FAF096",
+                    "name": "INICIAÇÃO CIENTÍFICA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "29",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "FAF097",
+                    "name": "INICIAÇÃO CIENTÍFICA II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "29",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "FAF098",
+                    "name": "MONITORIA DE GRADUAÇÃO I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "29",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "FAF099",
+                    "name": "MONITORIA DE GRADUAÇÃO II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "29",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "FAF103",
+                    "name": "VISITAS TÉCNICAS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "29",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "FAF104",
+                    "name": "VISITAS TÉCNICAS II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "29",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "FAF106",
+                    "name": "BIOSSEGURANÇA E SEGURANÇA DO TRABALHO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "28",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "FAF109",
+                    "name": "FORMAÇÃO EM EXTENSÃO UNIVERSITÁRIA I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "FAF116"
                     ]
                 },
                 {
                     "code": "FAF110",
+                    "name": "FORMAÇÃO EM EXTENSÃO UNIVERSITÁRIA II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "FAF116"
                     ]
                 },
                 {
                     "code": "FAF111",
+                    "name": "FORMAÇÃO EM EXTENSÃO UNIVERSITÁRIA III",
+                    "hours": 90,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "FAF116"
                     ]
                 },
                 {
                     "code": "FAF112",
+                    "name": "FORMAÇÃO EM EXTENSÃO UNIVERSITÁRIA IV",
+                    "hours": 180,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "FAF116"
                     ]
                 },
                 {
                     "code": "FAF113",
+                    "name": "FORMAÇÃO EM EXTENSÃO UNIVERSITÁRIA V",
+                    "hours": 360,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "FAF116"
                     ]
                 },
                 {
                     "code": "FAF118",
+                    "name": "TÓPICOS EM CUIDADO EM SAÚDE A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "FAF119",
+                    "name": "TÓPICOS EM CUIDADO EM SAÚDE B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "FAF120",
+                    "name": "TÓPICOS EM CUIDADO EM SAÚDE C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "FAF123",
+                    "name": "TÓPICOS EM GESTÃO EM SAÚDE A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "28",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "FAF124",
+                    "name": "TÓPICOS EM GESTÃO EM SAÚDE B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "28",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "FAF125",
+                    "name": "TÓPICOS EM GESTÃO EM SAÚDE C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "28",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "FAF126",
+                    "name": "TÓPICOS EM TECNOLOGIA E INOVAÇÃO EM SAÚDE A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "FAF127",
+                    "name": "TÓPICOS EM TECNOLOGIA E INOVAÇÃO EM SAÚDE B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "FAF128",
+                    "name": "TÓPICOS EM TECNOLOGIA E INOVAÇÃO EM SAÚDE C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "FAS027",
+                    "name": "FARMACOECONOMIA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "28",
+                    "groupName": "Atividades Gestão",
                     "prereqs": [
                         "FAS113"
                     ]
                 },
                 {
                     "code": "FAS115",
+                    "name": "INFORMAÇÃO SOBRE MEDICAMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "FAS116",
+                    "name": "ENSAIOS CLÍNICOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "FAS113"
                     ]
                 },
                 {
                     "code": "FAS119",
+                    "name": "COMPETÊNCIAS CLÍNICAS AVANÇADAS II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "FAS118"
                     ]
                 },
                 {
                     "code": "FAS120",
+                    "name": "CUIDADO FARMACÊUTICO CENTRADO NO PACIENTE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "FAS117"
                     ]
                 },
                 {
                     "code": "FAS121",
+                    "name": "EDUCAÇÃO INTERPROFISSIONAL PARA TOMADA DE DECISÃO EM SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "FAS125",
+                    "name": "ESTÁGIO OPTATIVO EM CUIDADO EM SAÚDE I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "29",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "FAF117",
                         "FAS124",
@@ -4499,7 +5323,11 @@
                 },
                 {
                     "code": "FAS126",
+                    "name": "ESTÁGIO OPTATIVO EM CUIDADO EM SAÚDE II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "29",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "FAF117",
                         "FAS124",
@@ -4508,7 +5336,11 @@
                 },
                 {
                     "code": "FAS127",
+                    "name": "ESTÁGIO OPTATIVO EM FARMÁCIA COMUNITÁRIA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "29",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "FAR024",
                         "FAS124",
@@ -4517,7 +5349,11 @@
                 },
                 {
                     "code": "FAS128",
+                    "name": "ESTÁGIO OPTATIVO EM FARMÁCIA COMUNITÁRIA II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "29",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "FAR024",
                         "FAS124",
@@ -4526,7 +5362,11 @@
                 },
                 {
                     "code": "FAS129",
+                    "name": "ESTÁGIO OPTATIVO EM GESTÃO EM SAÚDE I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "29",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "FAS011",
                         "FAS012"
@@ -4534,7 +5374,11 @@
                 },
                 {
                     "code": "FAS130",
+                    "name": "ESTÁGIO OPTATIVO EM GESTÃO EM SAÚDE II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "29",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "FAS011",
                         "FAS012"
@@ -4542,106 +5386,178 @@
                 },
                 {
                     "code": "FAS131",
+                    "name": "FARMACOGENÔMICA E MEDICINA PERSONALIZADA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "FAS113"
                     ]
                 },
                 {
                     "code": "FAS132",
+                    "name": "IMPLEMENTAÇÃO E GESTÃO DE SERVIÇOS DE GERENCIAMENTO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "FAS117"
                     ]
                 },
                 {
                     "code": "FIL028",
+                    "name": "INTRODUÇÃO A FILOSOFIA: ÉTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "28",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "FIL029",
+                    "name": "INTR. A FILOSOFIA:FIL DA CIEN E EPISTEM.",
+                    "hours": 60,
+                    "credits": null,
                     "group": "28",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "FIL030",
+                    "name": "INTRODUÇÃO A FILOSOFIA: ESTÉTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "28",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "FIS093",
+                    "name": "FUNDAMENTOS DE FISICA F",
+                    "hours": 60,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "GES056",
+                    "name": "TÓPICOS EM SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "28",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "28",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "MOF008",
+                    "name": "EMBRIOLOGIA GERAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "MOF024",
+                    "name": "TOPICOS EM NEUROBIOLOGIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "PFA004",
+                    "name": "SEMINARIOS EM FITOTERAPIA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "PFA028"
                     ]
                 },
                 {
                     "code": "PFA034",
+                    "name": "ESTABILIDADE DE P.F. E COSMETICOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "PFA029"
                     ]
                 },
                 {
                     "code": "PFA049",
+                    "name": "MEDICAMENTOS PROBLEMA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "PFA135",
+                    "name": "FARMACOTERAPIA DAS NEOPLASIAS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "23",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "PFA031"
                     ]
                 },
                 {
                     "code": "PFA137",
+                    "name": "CÁLCULOS FARMACOTÉCNICOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "PFA151",
+                    "name": "CONTROLE DE QUALIDADE DE PRODUTOS FARMACÊUTICOS E COSMÉTICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "PFA029"
                     ]
                 },
                 {
                     "code": "PFA152",
+                    "name": "QUÍMICA FARMACÊUTICA E MEDICINAL II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "PFA026"
                     ]
                 },
                 {
                     "code": "PFA156",
+                    "name": "FARMACOTERAPIA III",
+                    "hours": 60,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "FAF117",
                         "PFA154",
@@ -4650,7 +5566,11 @@
                 },
                 {
                     "code": "PFA157",
+                    "name": "CONTROLE DAS INFECÇÕES RELACIONADAS À ASSISTÊNCIA À SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "ACT127",
                         "PFA155",
@@ -4659,40 +5579,64 @@
                 },
                 {
                     "code": "PFA159",
+                    "name": "DO MEDICAMENTO AO FÁRMACO: O QUE SÃO, O QUE FAZEM",
+                    "hours": 30,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "PFA160",
+                    "name": "ESTÁGIO OPTATIVO EM FARMÁCIA HOSPITALAR I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "29",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "PFA154"
                     ]
                 },
                 {
                     "code": "PFA161",
+                    "name": "ESTÁGIO OPTATIVO EM FARMÁCIA HOSPITALAR II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "29",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "PFA154"
                     ]
                 },
                 {
                     "code": "PFA162",
+                    "name": "ESTÁGIO OPTATIVO EM HOMEOPATIA ATÉ 120 HORAS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "29",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "PFA180"
                     ]
                 },
                 {
                     "code": "PFA163",
+                    "name": "ESTÁGIO OPTATIVO EM HOMEOPATIA SUPERIOR A 120 HORAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "29",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "PFA180"
                     ]
                 },
                 {
                     "code": "PFA164",
+                    "name": "ESTÁGIO OPTATIVO EM INDÚSTRIA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "29",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "PFA177",
                         "QUI295"
@@ -4700,7 +5644,11 @@
                 },
                 {
                     "code": "PFA165",
+                    "name": "ESTÁGIO OPTATIVO EM INDÚSTRIA II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "29",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "PFA177",
                         "QUI295"
@@ -4708,7 +5656,11 @@
                 },
                 {
                     "code": "PFA167",
+                    "name": "GERENCIAMENTO DO USO DE ANTIMICROBIANOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "PFA174",
                         "PFA155",
@@ -4717,7 +5669,11 @@
                 },
                 {
                     "code": "PFA168",
+                    "name": "INTRODUÇÃO À NANOTECNOLOGIA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "FAR024",
                         "QUI299"
@@ -4725,59 +5681,95 @@
                 },
                 {
                     "code": "PFA170",
+                    "name": "MEDICAMENTOS BIOLÓGICOS II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "PFA169"
                     ]
                 },
                 {
                     "code": "PFA171",
+                    "name": "MODELAGEM MOLECULAR E QUÍMICA COMPUTACIONAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "QUI207"
                     ]
                 },
                 {
                     "code": "PFA172",
+                    "name": "MOLÉCULAS QUE MUDARAM A HISTÓRIA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "PFA179",
+                    "name": "SÍNTESE DE FÁRMACOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "QUI294"
                     ]
                 },
                 {
                     "code": "PFA180",
+                    "name": "HOMEOPATIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "PFA601",
+                    "name": "FITOQUIMICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "PFA028"
                     ]
                 },
                 {
                     "code": "PFA615",
+                    "name": "TECNOLOGIA DE COSMETICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "PFA166"
                     ]
                 },
                 {
                     "code": "QUI211",
+                    "name": "ANALISE ESPECT. DE COMPOSTO ORGANICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "QUI294"
                     ]
                 },
                 {
                     "code": "QUI296",
+                    "name": "EXPERIMENTOS DE FÍSICO-QUÍMICA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "25",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "MAT130",
                         "QUI203",
@@ -5014,14 +6006,22 @@
             "optionalPool": [
                 {
                     "code": "ACT010",
+                    "name": "BACTERIOLOGIA CLINICA",
+                    "hours": 90,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "ACT128"
                     ]
                 },
                 {
                     "code": "ACT017",
+                    "name": "BIOLOGIA MOLECULAR APLICADA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "BIG157",
                         "BIQ058"
@@ -5029,54 +6029,86 @@
                 },
                 {
                     "code": "ACT018",
+                    "name": "GESTAO DA QUALIDADE NO LAB. CLINICO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": [
                         "ACT133"
                     ]
                 },
                 {
                     "code": "ACT045",
+                    "name": "HEMATOLOGIA CLINICA",
+                    "hours": 105,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "ACT127"
                     ]
                 },
                 {
                     "code": "ACT067",
+                    "name": "TOXICOLOGIA FORENSE",
+                    "hours": 45,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "FAR024"
                     ]
                 },
                 {
                     "code": "ACT072",
+                    "name": "MICOLOGIA CLINICA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "ACT128"
                     ]
                 },
                 {
                     "code": "ACT077",
+                    "name": "BIOQUÍMICA CLÍNICA II",
+                    "hours": 105,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "ACT613"
                     ]
                 },
                 {
                     "code": "ACT126",
+                    "name": "RADIOFARMÁCIA II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "ACT125"
                     ]
                 },
                 {
                     "code": "ACT129",
+                    "name": "EMPREENDEDORISMO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "ACT130",
+                    "name": "ESTÁGIO OPTATIVO EM ANÁLISES CLÍNICAS E TOXICOLÓGICAS I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "QUI298",
                         "FIB619",
@@ -5085,7 +6117,11 @@
                 },
                 {
                     "code": "ACT131",
+                    "name": "ESTÁGIO OPTATIVO EM ANÁLISES CLÍNICAS E TOXICOLÓGICAS II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "QUI298",
                         "FIB619",
@@ -5094,411 +6130,687 @@
                 },
                 {
                     "code": "ACT132",
+                    "name": "EXAMES LABORATORIAIS NA URGÊNCIA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "PAG611"
                     ]
                 },
                 {
                     "code": "ACT134",
+                    "name": "IMAGENS BIOMÉDICAS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ACT135",
+                    "name": "SAÚDE DE POPULAÇÕES VULNERABILIZADAS I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "FAS012"
                     ]
                 },
                 {
                     "code": "ACT136",
+                    "name": "SAÚDE DE POPULAÇÕES VULNERABILIZADAS II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "ACT135"
                     ]
                 },
                 {
                     "code": "ACT137",
+                    "name": "SAÚDE E SEXUALIDADE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "ACT128"
                     ]
                 },
                 {
                     "code": "ACT138",
+                    "name": "TOXICOLOGIA SOCIAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ACT139",
+                    "name": "VACINAS E IMUNIZAÇÕES",
+                    "hours": 15,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "BIQ602"
                     ]
                 },
                 {
                     "code": "ACT602",
+                    "name": "CITOLOGIA CLINICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "PAG611"
                     ]
                 },
                 {
                     "code": "ACT604",
+                    "name": "ANALISES TOXICOLOGICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "ACT124"
                     ]
                 },
                 {
                     "code": "ACT605",
+                    "name": "IMUNOLOGIA CLINICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "BIQ602"
                     ]
                 },
                 {
                     "code": "ACT606",
+                    "name": "PARASITOLOGIA CLINICA",
+                    "hours": 75,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "ACT128"
                     ]
                 },
                 {
                     "code": "ACT613",
+                    "name": "BIOQUIMICA CLINICA I",
+                    "hours": 90,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "ACT127"
                     ]
                 },
                 {
                     "code": "ALM007",
+                    "name": "MICROBIOLOGIA DE ALIMENTOS",
+                    "hours": 75,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "MIC122"
                     ]
                 },
                 {
                     "code": "ALM021",
+                    "name": "ALIMENTOS FUNCIONAIS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "ALM028",
+                    "name": "HIGIENE DE ALIMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "MIC122"
                     ]
                 },
                 {
                     "code": "ALM029",
+                    "name": "CONSERVACAO DE ALIMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "ALM032",
+                    "name": "MICROBIOLOGIA INDUSTRIAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "MIC122"
                     ]
                 },
                 {
                     "code": "ALM033",
+                    "name": "ANALISE S. AREA FARMACEUTICA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ALM039",
+                    "name": "BIOTECNOLOGIA NA PROD. BEB. E ALIMENTOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "MIC122"
                     ]
                 },
                 {
                     "code": "ALM040",
+                    "name": "MATERIAS DE EMBALAGEM NA A. FARMACEUTICA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "ALM041",
+                    "name": "PROCESSAMENTO DE ALIMENTOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "ALM126"
                     ]
                 },
                 {
                     "code": "ALM058",
+                    "name": "INTERAÇÕES MEDICAMENTO-ALIMENTO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "FAR024"
                     ]
                 },
                 {
                     "code": "ALM124",
+                    "name": "GARANTIA DA QUALIDADE DE ALIMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "ALM125",
+                    "name": "ALTERAÇÕES QUÍMICAS E BIOQUÍMICAS DE ALIMENTOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "QUI207"
                     ]
                 },
                 {
                     "code": "ALM127",
+                    "name": "TERAPIA NUTRICIONAL ENTERAL E PARENTERAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "ALM126"
                     ]
                 },
                 {
                     "code": "ALM128",
+                    "name": "ANÁLISE BROMATOLÓGICA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "ALM126"
                     ]
                 },
                 {
                     "code": "ALM129",
+                    "name": "ESTÁGIO OPTATIVO EM ALIMENTOS I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ALM130",
+                    "name": "ESTÁGIO OPTATIVO EM ALIMENTOS II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "ALM131",
+                    "name": "ALIMENTOS PARA FINS ESPECIAIS: TECNOLOGIA E PROCESSAMENTO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "ALM132",
+                    "name": "CIÊNCIA DE ALIMENTOS E A INTERFACE COM A SOCIEDADE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ALM133",
+                    "name": "CIÊNCIA E TECNOLOGIA DE PANIFICAÇÃO: EXTENSÃO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ALM134",
+                    "name": "MITOS E VERDADES SOBRE ALIMENTOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "ALM135",
+                    "name": "PROBIÓTICOS: AVANÇOS, DESAFIOS E APLICAÇÕES",
+                    "hours": 30,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "ALM136",
+                    "name": "ROTULAGEM DE ALIMENTOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ALM137",
+                    "name": "TECNOLOGIA DE ALIMENTOS E SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ALM138",
+                    "name": "TOXICOLOGIA DE ALIMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "BIQ050"
                     ]
                 },
                 {
                     "code": "BIQ058",
+                    "name": "BIOLOGIA MOLECULAR F",
+                    "hours": 30,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "BIQ050"
                     ]
                 },
                 {
                     "code": "DCP021",
+                    "name": "INTRODUÇÃO A TEORIA DEMOCRÁTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "DCP023",
+                    "name": "ESTADO MODERNO E CAPITALISMO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "ECN101",
+                    "name": "ECONOMIA A I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "ECN140",
+                    "name": "INTRODUÇÃO À ECONOMIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "FAF096",
+                    "name": "INICIAÇÃO CIENTÍFICA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "FAF097",
+                    "name": "INICIAÇÃO CIENTÍFICA II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "FAF098",
+                    "name": "MONITORIA DE GRADUAÇÃO I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "FAF099",
+                    "name": "MONITORIA DE GRADUAÇÃO II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "FAF100"
                     ]
                 },
                 {
                     "code": "FAF103",
+                    "name": "VISITAS TÉCNICAS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": []
                 },
                 {
                     "code": "FAF104",
+                    "name": "VISITAS TÉCNICAS II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "FAF105"
                     ]
                 },
                 {
                     "code": "FAF106",
+                    "name": "BIOSSEGURANÇA E SEGURANÇA DO TRABALHO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "FAF109",
+                    "name": "FORMAÇÃO EM EXTENSÃO UNIVERSITÁRIA I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "FAF116"
                     ]
                 },
                 {
                     "code": "FAF110",
+                    "name": "FORMAÇÃO EM EXTENSÃO UNIVERSITÁRIA II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "FAF116"
                     ]
                 },
                 {
                     "code": "FAF111",
+                    "name": "FORMAÇÃO EM EXTENSÃO UNIVERSITÁRIA III",
+                    "hours": 90,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "FAF116"
                     ]
                 },
                 {
                     "code": "FAF112",
+                    "name": "FORMAÇÃO EM EXTENSÃO UNIVERSITÁRIA IV",
+                    "hours": 180,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "FAF116"
                     ]
                 },
                 {
                     "code": "FAF113",
+                    "name": "FORMAÇÃO EM EXTENSÃO UNIVERSITÁRIA V",
+                    "hours": 360,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "FAF116"
                     ]
                 },
                 {
                     "code": "FAF118",
+                    "name": "TÓPICOS EM CUIDADO EM SAÚDE A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "FAF119",
+                    "name": "TÓPICOS EM CUIDADO EM SAÚDE B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "FAF120",
+                    "name": "TÓPICOS EM CUIDADO EM SAÚDE C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "FAF123",
+                    "name": "TÓPICOS EM GESTÃO EM SAÚDE A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "FAF124",
+                    "name": "TÓPICOS EM GESTÃO EM SAÚDE B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "FAF125",
+                    "name": "TÓPICOS EM GESTÃO EM SAÚDE C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "FAF126",
+                    "name": "TÓPICOS EM TECNOLOGIA E INOVAÇÃO EM SAÚDE A",
+                    "hours": 15,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "FAF127",
+                    "name": "TÓPICOS EM TECNOLOGIA E INOVAÇÃO EM SAÚDE B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "FAF128",
+                    "name": "TÓPICOS EM TECNOLOGIA E INOVAÇÃO EM SAÚDE C",
+                    "hours": 45,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "FAS027",
+                    "name": "FARMACOECONOMIA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": [
                         "FAS113"
                     ]
                 },
                 {
                     "code": "FAS115",
+                    "name": "INFORMAÇÃO SOBRE MEDICAMENTOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "FAS116",
+                    "name": "ENSAIOS CLÍNICOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "FAS113"
                     ]
                 },
                 {
                     "code": "FAS119",
+                    "name": "COMPETÊNCIAS CLÍNICAS AVANÇADAS II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "FAS118"
                     ]
                 },
                 {
                     "code": "FAS120",
+                    "name": "CUIDADO FARMACÊUTICO CENTRADO NO PACIENTE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "FAS117"
                     ]
                 },
                 {
                     "code": "FAS121",
+                    "name": "EDUCAÇÃO INTERPROFISSIONAL PARA TOMADA DE DECISÃO EM SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "FAS125",
+                    "name": "ESTÁGIO OPTATIVO EM CUIDADO EM SAÚDE I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "FAF117",
                         "FAS124",
@@ -5507,7 +6819,11 @@
                 },
                 {
                     "code": "FAS126",
+                    "name": "ESTÁGIO OPTATIVO EM CUIDADO EM SAÚDE II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "FAF117",
                         "FAS124",
@@ -5516,7 +6832,11 @@
                 },
                 {
                     "code": "FAS127",
+                    "name": "ESTÁGIO OPTATIVO EM FARMÁCIA COMUNITÁRIA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "FAR024",
                         "FAS124",
@@ -5525,7 +6845,11 @@
                 },
                 {
                     "code": "FAS128",
+                    "name": "ESTÁGIO OPTATIVO EM FARMÁCIA COMUNITÁRIA II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "FAR024",
                         "FAS124",
@@ -5534,7 +6858,11 @@
                 },
                 {
                     "code": "FAS129",
+                    "name": "ESTÁGIO OPTATIVO EM GESTÃO EM SAÚDE I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "FAS011",
                         "FAS012"
@@ -5542,7 +6870,11 @@
                 },
                 {
                     "code": "FAS130",
+                    "name": "ESTÁGIO OPTATIVO EM GESTÃO EM SAÚDE II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "FAS011",
                         "FAS012"
@@ -5550,106 +6882,178 @@
                 },
                 {
                     "code": "FAS131",
+                    "name": "FARMACOGENÔMICA E MEDICINA PERSONALIZADA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "FAS113"
                     ]
                 },
                 {
                     "code": "FAS132",
+                    "name": "IMPLEMENTAÇÃO E GESTÃO DE SERVIÇOS DE GERENCIAMENTO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "FAS117"
                     ]
                 },
                 {
                     "code": "FIL028",
+                    "name": "INTRODUÇÃO A FILOSOFIA: ÉTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "FIL029",
+                    "name": "INTR. A FILOSOFIA:FIL DA CIEN E EPISTEM.",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "FIL030",
+                    "name": "INTRODUÇÃO A FILOSOFIA: ESTÉTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "FIS093",
+                    "name": "FUNDAMENTOS DE FISICA F",
+                    "hours": 60,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "GES056",
+                    "name": "TÓPICOS EM SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Atividades Gestão",
                     "prereqs": []
                 },
                 {
                     "code": "MOF008",
+                    "name": "EMBRIOLOGIA GERAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "MOF024",
+                    "name": "TOPICOS EM NEUROBIOLOGIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "PFA004",
+                    "name": "SEMINARIOS EM FITOTERAPIA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "PFA028"
                     ]
                 },
                 {
                     "code": "PFA034",
+                    "name": "ESTABILIDADE DE P.F. E COSMETICOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "PFA029"
                     ]
                 },
                 {
                     "code": "PFA049",
+                    "name": "MEDICAMENTOS PROBLEMA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": []
                 },
                 {
                     "code": "PFA135",
+                    "name": "FARMACOTERAPIA DAS NEOPLASIAS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "24",
+                    "groupName": "Atividades Cuidado",
                     "prereqs": [
                         "PFA031"
                     ]
                 },
                 {
                     "code": "PFA137",
+                    "name": "CÁLCULOS FARMACOTÉCNICOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "PFA151",
+                    "name": "CONTROLE DE QUALIDADE DE PRODUTOS FARMACÊUTICOS E COSMÉTICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "PFA029"
                     ]
                 },
                 {
                     "code": "PFA152",
+                    "name": "QUÍMICA FARMACÊUTICA E MEDICINAL II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "PFA026"
                     ]
                 },
                 {
                     "code": "PFA156",
+                    "name": "FARMACOTERAPIA III",
+                    "hours": 60,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "FAF117",
                         "PFA154",
@@ -5658,7 +7062,11 @@
                 },
                 {
                     "code": "PFA157",
+                    "name": "CONTROLE DAS INFECÇÕES RELACIONADAS À ASSISTÊNCIA À SAÚDE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "ACT127",
                         "PFA155",
@@ -5667,40 +7075,64 @@
                 },
                 {
                     "code": "PFA159",
+                    "name": "DO MEDICAMENTO AO FÁRMACO: O QUE SÃO, O QUE FAZEM",
+                    "hours": 30,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "PFA160",
+                    "name": "ESTÁGIO OPTATIVO EM FARMÁCIA HOSPITALAR I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "PFA154"
                     ]
                 },
                 {
                     "code": "PFA161",
+                    "name": "ESTÁGIO OPTATIVO EM FARMÁCIA HOSPITALAR II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "PFA154"
                     ]
                 },
                 {
                     "code": "PFA162",
+                    "name": "ESTÁGIO OPTATIVO EM HOMEOPATIA ATÉ 120 HORAS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "PFA180"
                     ]
                 },
                 {
                     "code": "PFA163",
+                    "name": "ESTÁGIO OPTATIVO EM HOMEOPATIA SUPERIOR A 120 HORAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "PFA180"
                     ]
                 },
                 {
                     "code": "PFA164",
+                    "name": "ESTÁGIO OPTATIVO EM INDÚSTRIA I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "PFA177",
                         "QUI295"
@@ -5708,7 +7140,11 @@
                 },
                 {
                     "code": "PFA165",
+                    "name": "ESTÁGIO OPTATIVO EM INDÚSTRIA II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "18",
+                    "groupName": "Atividades Complementares",
                     "prereqs": [
                         "PFA177",
                         "QUI295"
@@ -5716,7 +7152,11 @@
                 },
                 {
                     "code": "PFA167",
+                    "name": "GERENCIAMENTO DO USO DE ANTIMICROBIANOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": [
                         "PFA174",
                         "PFA155",
@@ -5725,7 +7165,11 @@
                 },
                 {
                     "code": "PFA168",
+                    "name": "INTRODUÇÃO À NANOTECNOLOGIA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "FAR024",
                         "QUI299"
@@ -5733,59 +7177,95 @@
                 },
                 {
                     "code": "PFA170",
+                    "name": "MEDICAMENTOS BIOLÓGICOS II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "PFA169"
                     ]
                 },
                 {
                     "code": "PFA171",
+                    "name": "MODELAGEM MOLECULAR E QUÍMICA COMPUTACIONAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "QUI207"
                     ]
                 },
                 {
                     "code": "PFA172",
+                    "name": "MOLÉCULAS QUE MUDARAM A HISTÓRIA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "17",
+                    "groupName": "Atividades Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "PFA179",
+                    "name": "SÍNTESE DE FÁRMACOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "QUI294"
                     ]
                 },
                 {
                     "code": "PFA180",
+                    "name": "HOMEOPATIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": []
                 },
                 {
                     "code": "PFA601",
+                    "name": "FITOQUIMICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "PFA028"
                     ]
                 },
                 {
                     "code": "PFA615",
+                    "name": "TECNOLOGIA DE COSMETICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "PFA166"
                     ]
                 },
                 {
                     "code": "QUI211",
+                    "name": "ANALISE ESPECT. DE COMPOSTO ORGANICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "QUI294"
                     ]
                 },
                 {
                     "code": "QUI296",
+                    "name": "EXPERIMENTOS DE FÍSICO-QUÍMICA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "27",
+                    "groupName": "Atividades Tecnologia",
                     "prereqs": [
                         "MAT130",
                         "QUI203",

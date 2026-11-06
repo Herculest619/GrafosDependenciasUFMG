@@ -19,7 +19,7 @@
         },
         "note": null
     },
-    "generatedAt": "2026-11-05T21:02:20.739Z",
+    "generatedAt": "2026-11-06T15:21:12.697Z",
     "disciplines": {
         "CRT010": {
             "code": "CRT010",
@@ -1360,42 +1360,74 @@
             "optionalPool": [
                 {
                     "code": "ADE074",
+                    "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "CRT006",
+                    "name": "CARTOGRAFIA DIGITAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "CRT017",
+                    "name": "GEOPROCESSAMENTO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "FAE481",
+                    "name": "TOPICOS DE ENSINO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "FAE483",
+                    "name": "TOPICOS DE ENSINO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO294",
+                    "name": "FITOGEOGRAFIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO372",
+                    "name": "COLÓQUIOS EM GEOGRAFIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO502",
+                    "name": "GEOMORFOLOGIA CÁRSTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": [
                         "GEL078",
                         "GEO527"
@@ -1403,88 +1435,152 @@
                 },
                 {
                     "code": "GEO503",
+                    "name": "AMÉRICA LATINA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO504",
+                    "name": "GEOGRAFIA E RECURSOS HÍDRICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO505",
+                    "name": "GEOGRAFIA CULTURAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO506",
+                    "name": "INSTRUMENTAÇÃO EM GEOMORFOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": [
                         "GEO527"
                     ]
                 },
                 {
                     "code": "GEO507",
+                    "name": "LEVANTAMENTO E AVALIAÇÃO DE SOLOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": [
                         "GEO527"
                     ]
                 },
                 {
                     "code": "GEO508",
+                    "name": "SOLOS E MEIO AMBIENTE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO509",
+                    "name": "TÓPICOS ESPECIAIS EM GEOGRAFIA I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO510",
+                    "name": "TÓPICOS ESPECIAIS EM GEOGRAFIA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO511",
+                    "name": "GEOMORFOLOGIA E EDUCAÇÃO GEOGRÁFICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO512",
+                    "name": "GEOGRAFIA DE MINAS GERAIS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO513",
+                    "name": "CLIMATOLOGIA E ANÁLISE AMBIENTAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO514",
+                    "name": "GEOMORFOLOGIA FLUVIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO519",
+                    "name": "SENSORIAMENTO REMOTO APLICADO AO ENSINO DE GEOGRAFIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO520",
+                    "name": "GEOMORFOLOGIA E DINÂMICA DE VERTENTES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO552",
+                    "name": "TRATAMENTO E ANÁLISE DE DADOS ESPACIAIS NO ENS. DE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": [
                         "CRT010"
                     ]
                 },
                 {
                     "code": "GEO553",
+                    "name": "PEDOGEOMORFOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": [
                         "GEO530",
                         "GEO527"
@@ -1492,98 +1588,170 @@
                 },
                 {
                     "code": "GEO554",
+                    "name": "ARTES E EXPERIÊNCIAS GEOGRÁFICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO555",
+                    "name": "PRESSÕES E INTERVENÇÕES EM SISTEMAS HIDROGRÁFICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO556",
+                    "name": "SOLOS ANTRÓPICOS E INTERAÇÕES SOCIOAMBIENTAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": [
                         "GEO530"
                     ]
                 },
                 {
                     "code": "GEO557",
+                    "name": "A CIDADE E O CINEMA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": [
                         "GEO529"
                     ]
                 },
                 {
                     "code": "GEO558",
+                    "name": "SISTEMAS ALIMENTARES, TERRITÓRIOS E AGROECOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": [
                         "GEO531"
                     ]
                 },
                 {
                     "code": "GEO559",
+                    "name": "CARTOGRAFIA ESCOLAR",
+                    "hours": 60,
+                    "credits": null,
                     "group": "6",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO560",
+                    "name": "PROJETO DE INICIAÇÃO CIENTÍFICA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO561",
+                    "name": "PROJETO DE EXTENSÃO",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO562",
+                    "name": "INICIAÇÃO À DOCÊNCIA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO563",
+                    "name": "AUTORIA DE PUBLICAÇÃO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO564",
+                    "name": "COAUTORIA DE PUBLICAÇÃO",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO565",
+                    "name": "APRESENTAÇÃO OU ORGANIZAÇÃO DE EVENTOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO566",
+                    "name": "ATIVIDADE EM ENTIDADES ESTUDANTIS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO567",
+                    "name": "ORGANIZAÇÃO E REPRESENTAÇÃO ESTUDANTIL",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO568",
+                    "name": "ESTÁGIO NÃO-OBRIGATÓRIO",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO569",
+                    "name": "PARTICIPAÇÃO EM EVENTOS ACADÊMICOS I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO570",
+                    "name": "PARTICIPAÇÃO EM EVENTOS ACADÊMICOS II",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "MTE452",
+                    "name": "TÓPICOS EM PROCESSO DE ENSINO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 }
             ],
@@ -1757,42 +1925,74 @@
             "optionalPool": [
                 {
                     "code": "ADE074",
+                    "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "CRT006",
+                    "name": "CARTOGRAFIA DIGITAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "CRT017",
+                    "name": "GEOPROCESSAMENTO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "FAE481",
+                    "name": "TOPICOS DE ENSINO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "FAE483",
+                    "name": "TOPICOS DE ENSINO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO294",
+                    "name": "FITOGEOGRAFIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO372",
+                    "name": "COLÓQUIOS EM GEOGRAFIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO502",
+                    "name": "GEOMORFOLOGIA CÁRSTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": [
                         "GEL078",
                         "GEO527"
@@ -1800,88 +2000,152 @@
                 },
                 {
                     "code": "GEO503",
+                    "name": "AMÉRICA LATINA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO504",
+                    "name": "GEOGRAFIA E RECURSOS HÍDRICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO505",
+                    "name": "GEOGRAFIA CULTURAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO506",
+                    "name": "INSTRUMENTAÇÃO EM GEOMORFOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": [
                         "GEO527"
                     ]
                 },
                 {
                     "code": "GEO507",
+                    "name": "LEVANTAMENTO E AVALIAÇÃO DE SOLOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": [
                         "GEO527"
                     ]
                 },
                 {
                     "code": "GEO508",
+                    "name": "SOLOS E MEIO AMBIENTE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO509",
+                    "name": "TÓPICOS ESPECIAIS EM GEOGRAFIA I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO510",
+                    "name": "TÓPICOS ESPECIAIS EM GEOGRAFIA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO511",
+                    "name": "GEOMORFOLOGIA E EDUCAÇÃO GEOGRÁFICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO512",
+                    "name": "GEOGRAFIA DE MINAS GERAIS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO513",
+                    "name": "CLIMATOLOGIA E ANÁLISE AMBIENTAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO514",
+                    "name": "GEOMORFOLOGIA FLUVIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO519",
+                    "name": "SENSORIAMENTO REMOTO APLICADO AO ENSINO DE GEOGRAFIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO520",
+                    "name": "GEOMORFOLOGIA E DINÂMICA DE VERTENTES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO552",
+                    "name": "TRATAMENTO E ANÁLISE DE DADOS ESPACIAIS NO ENS. DE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": [
                         "CRT010"
                     ]
                 },
                 {
                     "code": "GEO553",
+                    "name": "PEDOGEOMORFOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": [
                         "GEO530",
                         "GEO527"
@@ -1889,98 +2153,170 @@
                 },
                 {
                     "code": "GEO554",
+                    "name": "ARTES E EXPERIÊNCIAS GEOGRÁFICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO555",
+                    "name": "PRESSÕES E INTERVENÇÕES EM SISTEMAS HIDROGRÁFICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO556",
+                    "name": "SOLOS ANTRÓPICOS E INTERAÇÕES SOCIOAMBIENTAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": [
                         "GEO530"
                     ]
                 },
                 {
                     "code": "GEO557",
+                    "name": "A CIDADE E O CINEMA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": [
                         "GEO529"
                     ]
                 },
                 {
                     "code": "GEO558",
+                    "name": "SISTEMAS ALIMENTARES, TERRITÓRIOS E AGROECOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": [
                         "GEO531"
                     ]
                 },
                 {
                     "code": "GEO559",
+                    "name": "CARTOGRAFIA ESCOLAR",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO560",
+                    "name": "PROJETO DE INICIAÇÃO CIENTÍFICA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO561",
+                    "name": "PROJETO DE EXTENSÃO",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO562",
+                    "name": "INICIAÇÃO À DOCÊNCIA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO563",
+                    "name": "AUTORIA DE PUBLICAÇÃO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO564",
+                    "name": "COAUTORIA DE PUBLICAÇÃO",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO565",
+                    "name": "APRESENTAÇÃO OU ORGANIZAÇÃO DE EVENTOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO566",
+                    "name": "ATIVIDADE EM ENTIDADES ESTUDANTIS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO567",
+                    "name": "ORGANIZAÇÃO E REPRESENTAÇÃO ESTUDANTIL",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO568",
+                    "name": "ESTÁGIO NÃO-OBRIGATÓRIO",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO569",
+                    "name": "PARTICIPAÇÃO EM EVENTOS ACADÊMICOS I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO570",
+                    "name": "PARTICIPAÇÃO EM EVENTOS ACADÊMICOS II",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "MTE452",
+                    "name": "TÓPICOS EM PROCESSO DE ENSINO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 }
             ],
@@ -2178,42 +2514,74 @@
             "optionalPool": [
                 {
                     "code": "ADE074",
+                    "name": "TÓPICOS EM GESTÃO DA EDUCAÇÃO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "CRT006",
+                    "name": "CARTOGRAFIA DIGITAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "CRT017",
+                    "name": "GEOPROCESSAMENTO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "FAE481",
+                    "name": "TOPICOS DE ENSINO B",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "FAE483",
+                    "name": "TOPICOS DE ENSINO D",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO294",
+                    "name": "FITOGEOGRAFIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO372",
+                    "name": "COLÓQUIOS EM GEOGRAFIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO502",
+                    "name": "GEOMORFOLOGIA CÁRSTICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": [
                         "GEL078",
                         "GEO527"
@@ -2221,88 +2589,152 @@
                 },
                 {
                     "code": "GEO503",
+                    "name": "AMÉRICA LATINA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO504",
+                    "name": "GEOGRAFIA E RECURSOS HÍDRICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO505",
+                    "name": "GEOGRAFIA CULTURAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO506",
+                    "name": "INSTRUMENTAÇÃO EM GEOMORFOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": [
                         "GEO527"
                     ]
                 },
                 {
                     "code": "GEO507",
+                    "name": "LEVANTAMENTO E AVALIAÇÃO DE SOLOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": [
                         "GEO527"
                     ]
                 },
                 {
                     "code": "GEO508",
+                    "name": "SOLOS E MEIO AMBIENTE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO509",
+                    "name": "TÓPICOS ESPECIAIS EM GEOGRAFIA I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO510",
+                    "name": "TÓPICOS ESPECIAIS EM GEOGRAFIA II",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO511",
+                    "name": "GEOMORFOLOGIA E EDUCAÇÃO GEOGRÁFICA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO512",
+                    "name": "GEOGRAFIA DE MINAS GERAIS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO513",
+                    "name": "CLIMATOLOGIA E ANÁLISE AMBIENTAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO514",
+                    "name": "GEOMORFOLOGIA FLUVIAL",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO519",
+                    "name": "SENSORIAMENTO REMOTO APLICADO AO ENSINO DE GEOGRAFIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO520",
+                    "name": "GEOMORFOLOGIA E DINÂMICA DE VERTENTES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO552",
+                    "name": "TRATAMENTO E ANÁLISE DE DADOS ESPACIAIS NO ENS. DE",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": [
                         "CRT010"
                     ]
                 },
                 {
                     "code": "GEO553",
+                    "name": "PEDOGEOMORFOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": [
                         "GEO530",
                         "GEO527"
@@ -2310,103 +2742,179 @@
                 },
                 {
                     "code": "GEO554",
+                    "name": "ARTES E EXPERIÊNCIAS GEOGRÁFICAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO555",
+                    "name": "PRESSÕES E INTERVENÇÕES EM SISTEMAS HIDROGRÁFICOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO556",
+                    "name": "SOLOS ANTRÓPICOS E INTERAÇÕES SOCIOAMBIENTAIS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": [
                         "GEO530"
                     ]
                 },
                 {
                     "code": "GEO557",
+                    "name": "A CIDADE E O CINEMA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": [
                         "GEO529"
                     ]
                 },
                 {
                     "code": "GEO558",
+                    "name": "SISTEMAS ALIMENTARES, TERRITÓRIOS E AGROECOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": [
                         "GEO531"
                     ]
                 },
                 {
                     "code": "GEO559",
+                    "name": "CARTOGRAFIA ESCOLAR",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Optativas de Formação Específica",
                     "prereqs": []
                 },
                 {
                     "code": "GEO560",
+                    "name": "PROJETO DE INICIAÇÃO CIENTÍFICA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO561",
+                    "name": "PROJETO DE EXTENSÃO",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO562",
+                    "name": "INICIAÇÃO À DOCÊNCIA",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO563",
+                    "name": "AUTORIA DE PUBLICAÇÃO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO564",
+                    "name": "COAUTORIA DE PUBLICAÇÃO",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO565",
+                    "name": "APRESENTAÇÃO OU ORGANIZAÇÃO DE EVENTOS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO566",
+                    "name": "ATIVIDADE EM ENTIDADES ESTUDANTIS",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO567",
+                    "name": "ORGANIZAÇÃO E REPRESENTAÇÃO ESTUDANTIL",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO568",
+                    "name": "ESTÁGIO NÃO-OBRIGATÓRIO",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO569",
+                    "name": "PARTICIPAÇÃO EM EVENTOS ACADÊMICOS I",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "GEO570",
+                    "name": "PARTICIPAÇÃO EM EVENTOS ACADÊMICOS II",
+                    "hours": 15,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 },
                 {
                     "code": "IGC034",
+                    "name": "TÓPICOS EM ESTUDOS AVANÇADOS IV",
+                    "hours": 60,
+                    "credits": null,
                     "group": "15",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "MTE452",
+                    "name": "TÓPICOS EM PROCESSO DE ENSINO B",
+                    "hours": 60,
+                    "credits": null,
                     "group": "7",
+                    "groupName": "Optativas de Formação Geral",
                     "prereqs": []
                 }
             ],

@@ -172,6 +172,19 @@ export function validateCourse(course) {
 
         if (!seen.size) errors.push(`percurso ${percurso.id} sem disciplinas`)
 
+        // Períodos devem ser consecutivos (1..N): um período sem obrigatórias
+        // (só optativas) continua existindo e não pode desaparecer do grafo.
+        const periodNumbers = percurso.periods
+            .map((period) => Number(period.number))
+            .filter((number) => Number.isInteger(number) && number > 0)
+        const lastPeriod = Math.max(...periodNumbers, 0)
+        const periodSet = new Set(periodNumbers)
+        for (let number = 1; number <= lastPeriod; number += 1) {
+            if (!periodSet.has(number)) {
+                errors.push(`percurso ${percurso.id}: falta o período ${number}`)
+            }
+        }
+
         // Slots de optativa
         const slotIds = new Set()
         for (const slot of percurso.optionalSlots ?? []) {

@@ -50,6 +50,21 @@ test('serializa sem duplicatas e ordenado', () => {
     assert.ok(Date.parse(serialized.updatedAt) > 0)
 })
 
+test('guarda as disciplinas escolhidas em cada espaço de optativa', () => {
+    const storage = fakeStorage()
+    saveProgress(storage, 'curso-a', new Set(['TST100', 'OPT-01-01-01']), {
+        'OPT-01-01-01': 'TST200',
+    })
+    const loaded = loadProgress(storage, 'curso-a')
+    assert.deepEqual(loaded.taken.sort(), ['OPT-01-01-01', 'TST100'])
+    assert.deepEqual(loaded.choices, { 'OPT-01-01-01': 'TST200' })
+
+    const serialized = serializeProgress(['A'], { S1: 'X', S2: '', invalid: 'Y' })
+    assert.deepEqual(serialized.choices, { S1: 'X', invalid: 'Y' })
+    assert.deepEqual(parseProgress('{"taken": [], "choices": null}').choices, {})
+    assert.deepEqual(parseProgress('{"taken": [], "choices": {"S1": 42}}').choices, {})
+})
+
 test('rejeita JSON inválido sem quebrar', () => {
     assert.equal(parseProgress(''), null)
     assert.equal(parseProgress(null), null)

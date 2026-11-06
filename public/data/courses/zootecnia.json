@@ -19,7 +19,7 @@
         },
         "note": null
     },
-    "generatedAt": "2026-11-05T21:02:20.906Z",
+    "generatedAt": "2026-11-06T15:21:12.818Z",
     "disciplines": {
         "ICA220": {
             "code": "ICA220",
@@ -1990,246 +1990,430 @@
             "optionalPool": [
                 {
                     "code": "ICA028",
+                    "name": "GESTAO AMBIENTAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA045",
+                    "name": "SENSOREAMENTO REMOTO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA048",
+                    "name": "USO MULTIPLO DO CERRADO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA118",
+                    "name": "FUNDAMENTOS ECONOMICOS E SOCIAIS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": [
                         "ICA603"
                     ]
                 },
                 {
                     "code": "ICA215",
+                    "name": "DESENV.E GESTAO DA AGRICULTURA FAMILIAR",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA218",
+                    "name": "ANATOMIA DAS ESPERMATOFITAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA227",
+                    "name": "PEDOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA228",
+                    "name": "HIDROLOGIA APLICADA A AGRICULTURA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA236",
+                    "name": "AGROECOLOGIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA247",
+                    "name": "ZOOLOGIA GERAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA252",
+                    "name": "SOCIOLOGIA RURAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": [
                         "ICA402"
                     ]
                 },
                 {
                     "code": "ICA255",
+                    "name": "DIREITO AMBIENTAL AGRARIO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA256",
+                    "name": "ECOTURISMO E TURISMO RURAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA263",
+                    "name": "APICULTURA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA278",
+                    "name": "CAPRINOCULTURA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA285",
+                    "name": "OVINOCULTURA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA318",
+                    "name": "IMUNOLOGIA APLICADA A ZOOTECNIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA319",
+                    "name": "FARMACOLOGIA APLICADA A ZOOTECNIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA364",
+                    "name": "ETICA E RESPONSABILIDADE SOCIAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": [
                         "ICA402"
                     ]
                 },
                 {
                     "code": "ICA371",
+                    "name": "ESTUDOS ANTROPOLOGICOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ICA402",
+                    "name": "DIREITOS HUMANOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ICA470",
+                    "name": "BIOTECNOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA575",
+                    "name": "TECNOLOGIA DE PRODUTOS LÁCTEOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA603",
+                    "name": "RELAÇÕES ÉTNICO-RACIAIS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ICA604",
+                    "name": "RELAÇÕES HUMANAS NO TRABALHO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": [
                         "ICA603"
                     ]
                 },
                 {
                     "code": "ICA625",
+                    "name": "HIGIENE EM INDÚSTRIA DE ALIMENTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA630",
+                    "name": "TECNOLOGIA DE CARNE, PESCADO E PRODUTOS DERIVADOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA631",
+                    "name": "EMBALAGENS DE ALIMENTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA634",
+                    "name": "ANÁLISE SENSORIAL DE ALIMENTOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA636",
+                    "name": "GESTÃO DA QUALIDADE NA INDÚSTRIA DE ALIMENTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA644",
+                    "name": "TECNOLOGIA DE OVOS E MEL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA734",
+                    "name": "EXTERIOR E JULGAMENTO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA735",
+                    "name": "EQUIDEOCULTURA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA752"
                     ]
                 },
                 {
                     "code": "ICA736",
+                    "name": "CUNICULTURA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA752"
                     ]
                 },
                 {
                     "code": "ICA737",
+                    "name": "BUBALINOCULTURA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA738",
+                    "name": "PRODUÇÃO E CONSERVAÇÃO DE ANIMAIS SILVESTRES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA739",
+                    "name": "TÓPICOS ESPECIAIS EM ZOOTECNIA I",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA740",
+                    "name": "TÓPICOS ESPECIAIS EM ZOOTECNIA II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA741",
+                    "name": "NUTRIÇÃO E MANEJO EM CONFINAMENTOS DE BOVINOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA742",
+                    "name": "MANEJO SUSTENTÁVEL DE PASTAGENS NO SEMIÁRIDO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA743",
+                    "name": "TRATAMENTO E APROVEIT. DE RESÍDUOS DE ATIVID. ZOOTÉCNICA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA744",
+                    "name": "MARKETING E AGRONEGÓCIO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA745",
+                    "name": "COOPERATIVISMO AGRÍCOLA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA746",
+                    "name": "PISCICULTURA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA728"
                     ]
                 },
                 {
                     "code": "ICA759",
+                    "name": "REDAÇÃO CIENTÍFICA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA760",
+                    "name": "NUTRIÇÃO, ALIMENTAÇÃO E FORMULAÇÃO DE RAÇÕES PARA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA270",
                         "ICA728",
@@ -2238,7 +2422,11 @@
                 },
                 {
                     "code": "ICA761",
+                    "name": "NUTRIÇÃO, ALIMENTAÇÃO E FORMULAÇÃO DE RAÇÕES PARA AVES",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA749",
                         "ICA273"
@@ -2246,165 +2434,289 @@
                 },
                 {
                     "code": "ICA762",
+                    "name": "BIOÉTICA NA PRODUÇÃO ANIMAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA763",
+                    "name": "NUTRIÇÃO BÁSICA E ALIMENTAÇÃO DE CÃES E GATOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA764",
+                    "name": "NUTRIÇÃO AVANÇADA E ALIMENTAÇÃO DE CÃES E GATOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA763"
                     ]
                 },
                 {
                     "code": "ICA765",
+                    "name": "FORMULAÇÃO DE ALIMENTOS PARA CÃES E GATOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA763"
                     ]
                 },
                 {
                     "code": "ICA766",
+                    "name": "EMBALAGEM E ROTULAGEM DE PRODUTOS PARA ANIMAIS DE ESTIM",
+                    "hours": 30,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA763"
                     ]
                 },
                 {
                     "code": "ICA767",
+                    "name": "AVALIAÇÃO DE CARCAÇAS E QUALIDADE DA CARNE DE RUMINANTES",
+                    "hours": 30,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA768",
+                    "name": "BOAS PRÁTICAS AGROPECUÁRIAS NA PRODUÇÃO DE LEITE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA769",
+                    "name": "TOXICOLOGIA E PLANTAS TÓXICAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA770",
+                    "name": "ENTOMOCULTURA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA771",
+                    "name": "INGLÊS ACADÊMICO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA772",
+                    "name": "ENDOCRINOLOGIA E FISIOLOGIA DA LACTAÇÃO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA750"
                     ]
                 },
                 {
                     "code": "ICA773",
+                    "name": "FORMAÇÃO EM EXTENSÃO I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Formação em Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ICA774",
+                    "name": "FORMAÇÃO EM EXTENSÃO II",
+                    "hours": 90,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Formação em Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ICA775",
+                    "name": "FORMAÇÃO EM EXTENSÃO III",
+                    "hours": 105,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Formação em Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ICA776",
+                    "name": "FORMAÇÃO EM EXTENSÃO IV",
+                    "hours": 135,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Formação em Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ICA777",
+                    "name": "TÓPICOS COMPLEMENTARES I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA781",
+                    "name": "TÓPICOS COMPLEMENTARES II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA782",
+                    "name": "TÓPICOS COMPLEMENTARES III",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA783",
+                    "name": "TÓPICOS EAD EM ZOOTECNIA I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA784",
+                    "name": "TÓPICOS EAD EM ZOOTECNIA II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA785",
+                    "name": "TÓPICOS EAD EM ZOOTECNIA III",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA790",
+                    "name": "EDUCAÇÃO E INTERPRETAÇÃO AMBIENTAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA791",
+                    "name": "INFORMÁTICA APLICADA À ZOOTECNIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA792",
+                    "name": "MATÉRIA ORGÂNICA DO SOLO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA793",
+                    "name": "ADUBOS E ADUBAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA794",
+                    "name": "MAPEAMENTO DIGITAL DE SOLOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA795",
+                    "name": "LABORATÓRIO DE BIOLOGIA MOLECULAR",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA796",
+                    "name": "SISTEMAS AGROFLORESTAIS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA797",
+                    "name": "FORRAGICULTURA APLICADA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "UNI010",
+                    "name": "TOPICOS EM CIENCIAS AGRARIAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "2",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 }
             ],
@@ -2615,246 +2927,430 @@
             "optionalPool": [
                 {
                     "code": "ICA028",
+                    "name": "GESTAO AMBIENTAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA045",
+                    "name": "SENSOREAMENTO REMOTO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA048",
+                    "name": "USO MULTIPLO DO CERRADO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA118",
+                    "name": "FUNDAMENTOS ECONOMICOS E SOCIAIS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": [
                         "ICA603"
                     ]
                 },
                 {
                     "code": "ICA215",
+                    "name": "DESENV.E GESTAO DA AGRICULTURA FAMILIAR",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA218",
+                    "name": "ANATOMIA DAS ESPERMATOFITAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA227",
+                    "name": "PEDOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA228",
+                    "name": "HIDROLOGIA APLICADA A AGRICULTURA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA236",
+                    "name": "AGROECOLOGIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA247",
+                    "name": "ZOOLOGIA GERAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA252",
+                    "name": "SOCIOLOGIA RURAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": [
                         "ICA402"
                     ]
                 },
                 {
                     "code": "ICA255",
+                    "name": "DIREITO AMBIENTAL AGRARIO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA256",
+                    "name": "ECOTURISMO E TURISMO RURAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA263",
+                    "name": "APICULTURA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA278",
+                    "name": "CAPRINOCULTURA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA285",
+                    "name": "OVINOCULTURA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA318",
+                    "name": "IMUNOLOGIA APLICADA A ZOOTECNIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA319",
+                    "name": "FARMACOLOGIA APLICADA A ZOOTECNIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA364",
+                    "name": "ETICA E RESPONSABILIDADE SOCIAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": [
                         "ICA402"
                     ]
                 },
                 {
                     "code": "ICA371",
+                    "name": "ESTUDOS ANTROPOLOGICOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ICA402",
+                    "name": "DIREITOS HUMANOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ICA470",
+                    "name": "BIOTECNOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA575",
+                    "name": "TECNOLOGIA DE PRODUTOS LÁCTEOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA603",
+                    "name": "RELAÇÕES ÉTNICO-RACIAIS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ICA604",
+                    "name": "RELAÇÕES HUMANAS NO TRABALHO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": [
                         "ICA603"
                     ]
                 },
                 {
                     "code": "ICA625",
+                    "name": "HIGIENE EM INDÚSTRIA DE ALIMENTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA630",
+                    "name": "TECNOLOGIA DE CARNE, PESCADO E PRODUTOS DERIVADOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA631",
+                    "name": "EMBALAGENS DE ALIMENTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA634",
+                    "name": "ANÁLISE SENSORIAL DE ALIMENTOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA636",
+                    "name": "GESTÃO DA QUALIDADE NA INDÚSTRIA DE ALIMENTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA644",
+                    "name": "TECNOLOGIA DE OVOS E MEL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA734",
+                    "name": "EXTERIOR E JULGAMENTO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA735",
+                    "name": "EQUIDEOCULTURA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA752"
                     ]
                 },
                 {
                     "code": "ICA736",
+                    "name": "CUNICULTURA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA752"
                     ]
                 },
                 {
                     "code": "ICA737",
+                    "name": "BUBALINOCULTURA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA738",
+                    "name": "PRODUÇÃO E CONSERVAÇÃO DE ANIMAIS SILVESTRES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA739",
+                    "name": "TÓPICOS ESPECIAIS EM ZOOTECNIA I",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA740",
+                    "name": "TÓPICOS ESPECIAIS EM ZOOTECNIA II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA741",
+                    "name": "NUTRIÇÃO E MANEJO EM CONFINAMENTOS DE BOVINOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA742",
+                    "name": "MANEJO SUSTENTÁVEL DE PASTAGENS NO SEMIÁRIDO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA743",
+                    "name": "TRATAMENTO E APROVEIT. DE RESÍDUOS DE ATIVID. ZOOTÉCNICA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA744",
+                    "name": "MARKETING E AGRONEGÓCIO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA745",
+                    "name": "COOPERATIVISMO AGRÍCOLA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA746",
+                    "name": "PISCICULTURA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA728"
                     ]
                 },
                 {
                     "code": "ICA759",
+                    "name": "REDAÇÃO CIENTÍFICA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA760",
+                    "name": "NUTRIÇÃO, ALIMENTAÇÃO E FORMULAÇÃO DE RAÇÕES PARA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA270",
                         "ICA728",
@@ -2863,7 +3359,11 @@
                 },
                 {
                     "code": "ICA761",
+                    "name": "NUTRIÇÃO, ALIMENTAÇÃO E FORMULAÇÃO DE RAÇÕES PARA AVES",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA749",
                         "ICA273"
@@ -2871,165 +3371,289 @@
                 },
                 {
                     "code": "ICA762",
+                    "name": "BIOÉTICA NA PRODUÇÃO ANIMAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "11",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ICA763",
+                    "name": "NUTRIÇÃO BÁSICA E ALIMENTAÇÃO DE CÃES E GATOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA764",
+                    "name": "NUTRIÇÃO AVANÇADA E ALIMENTAÇÃO DE CÃES E GATOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA763"
                     ]
                 },
                 {
                     "code": "ICA765",
+                    "name": "FORMULAÇÃO DE ALIMENTOS PARA CÃES E GATOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA763"
                     ]
                 },
                 {
                     "code": "ICA766",
+                    "name": "EMBALAGEM E ROTULAGEM DE PRODUTOS PARA ANIMAIS DE ESTIM",
+                    "hours": 30,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA763"
                     ]
                 },
                 {
                     "code": "ICA767",
+                    "name": "AVALIAÇÃO DE CARCAÇAS E QUALIDADE DA CARNE DE RUMINANTES",
+                    "hours": 30,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA768",
+                    "name": "BOAS PRÁTICAS AGROPECUÁRIAS NA PRODUÇÃO DE LEITE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA769",
+                    "name": "TOXICOLOGIA E PLANTAS TÓXICAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA770",
+                    "name": "ENTOMOCULTURA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA771",
+                    "name": "INGLÊS ACADÊMICO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA772",
+                    "name": "ENDOCRINOLOGIA E FISIOLOGIA DA LACTAÇÃO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA750"
                     ]
                 },
                 {
                     "code": "ICA773",
+                    "name": "FORMAÇÃO EM EXTENSÃO I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Formação em Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ICA774",
+                    "name": "FORMAÇÃO EM EXTENSÃO II",
+                    "hours": 90,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Formação em Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ICA775",
+                    "name": "FORMAÇÃO EM EXTENSÃO III",
+                    "hours": 105,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Formação em Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ICA776",
+                    "name": "FORMAÇÃO EM EXTENSÃO IV",
+                    "hours": 135,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Formação em Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ICA777",
+                    "name": "TÓPICOS COMPLEMENTARES I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA781",
+                    "name": "TÓPICOS COMPLEMENTARES II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA782",
+                    "name": "TÓPICOS COMPLEMENTARES III",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA783",
+                    "name": "TÓPICOS EAD EM ZOOTECNIA I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA784",
+                    "name": "TÓPICOS EAD EM ZOOTECNIA II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA785",
+                    "name": "TÓPICOS EAD EM ZOOTECNIA III",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA790",
+                    "name": "EDUCAÇÃO E INTERPRETAÇÃO AMBIENTAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA791",
+                    "name": "INFORMÁTICA APLICADA À ZOOTECNIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA792",
+                    "name": "MATÉRIA ORGÂNICA DO SOLO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA793",
+                    "name": "ADUBOS E ADUBAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA794",
+                    "name": "MAPEAMENTO DIGITAL DE SOLOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA795",
+                    "name": "LABORATÓRIO DE BIOLOGIA MOLECULAR",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA796",
+                    "name": "SISTEMAS AGROFLORESTAIS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA797",
+                    "name": "FORRAGICULTURA APLICADA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "UNI010",
+                    "name": "TOPICOS EM CIENCIAS AGRARIAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "4",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 }
             ],
@@ -3270,246 +3894,430 @@
             "optionalPool": [
                 {
                     "code": "ICA028",
+                    "name": "GESTAO AMBIENTAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA045",
+                    "name": "SENSOREAMENTO REMOTO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA048",
+                    "name": "USO MULTIPLO DO CERRADO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA118",
+                    "name": "FUNDAMENTOS ECONOMICOS E SOCIAIS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": [
                         "ICA603"
                     ]
                 },
                 {
                     "code": "ICA215",
+                    "name": "DESENV.E GESTAO DA AGRICULTURA FAMILIAR",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA218",
+                    "name": "ANATOMIA DAS ESPERMATOFITAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA227",
+                    "name": "PEDOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA228",
+                    "name": "HIDROLOGIA APLICADA A AGRICULTURA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA236",
+                    "name": "AGROECOLOGIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA247",
+                    "name": "ZOOLOGIA GERAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA252",
+                    "name": "SOCIOLOGIA RURAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": [
                         "ICA402"
                     ]
                 },
                 {
                     "code": "ICA255",
+                    "name": "DIREITO AMBIENTAL AGRARIO",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA256",
+                    "name": "ECOTURISMO E TURISMO RURAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA263",
+                    "name": "APICULTURA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA278",
+                    "name": "CAPRINOCULTURA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA285",
+                    "name": "OVINOCULTURA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA318",
+                    "name": "IMUNOLOGIA APLICADA A ZOOTECNIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA319",
+                    "name": "FARMACOLOGIA APLICADA A ZOOTECNIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA364",
+                    "name": "ETICA E RESPONSABILIDADE SOCIAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": [
                         "ICA402"
                     ]
                 },
                 {
                     "code": "ICA371",
+                    "name": "ESTUDOS ANTROPOLOGICOS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ICA402",
+                    "name": "DIREITOS HUMANOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ICA470",
+                    "name": "BIOTECNOLOGIA",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA575",
+                    "name": "TECNOLOGIA DE PRODUTOS LÁCTEOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA603",
+                    "name": "RELAÇÕES ÉTNICO-RACIAIS",
+                    "hours": 30,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": []
                 },
                 {
                     "code": "ICA604",
+                    "name": "RELAÇÕES HUMANAS NO TRABALHO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "9",
+                    "groupName": null,
                     "prereqs": [
                         "ICA603"
                     ]
                 },
                 {
                     "code": "ICA625",
+                    "name": "HIGIENE EM INDÚSTRIA DE ALIMENTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA630",
+                    "name": "TECNOLOGIA DE CARNE, PESCADO E PRODUTOS DERIVADOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA631",
+                    "name": "EMBALAGENS DE ALIMENTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA634",
+                    "name": "ANÁLISE SENSORIAL DE ALIMENTOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA636",
+                    "name": "GESTÃO DA QUALIDADE NA INDÚSTRIA DE ALIMENTOS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA644",
+                    "name": "TECNOLOGIA DE OVOS E MEL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA734",
+                    "name": "EXTERIOR E JULGAMENTO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA735",
+                    "name": "EQUIDEOCULTURA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA752"
                     ]
                 },
                 {
                     "code": "ICA736",
+                    "name": "CUNICULTURA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA752"
                     ]
                 },
                 {
                     "code": "ICA737",
+                    "name": "BUBALINOCULTURA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA738",
+                    "name": "PRODUÇÃO E CONSERVAÇÃO DE ANIMAIS SILVESTRES",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA739",
+                    "name": "TÓPICOS ESPECIAIS EM ZOOTECNIA I",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA740",
+                    "name": "TÓPICOS ESPECIAIS EM ZOOTECNIA II",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA741",
+                    "name": "NUTRIÇÃO E MANEJO EM CONFINAMENTOS DE BOVINOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA742",
+                    "name": "MANEJO SUSTENTÁVEL DE PASTAGENS NO SEMIÁRIDO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA743",
+                    "name": "TRATAMENTO E APROVEIT. DE RESÍDUOS DE ATIVID. ZOOTÉCNICA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA744",
+                    "name": "MARKETING E AGRONEGÓCIO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA745",
+                    "name": "COOPERATIVISMO AGRÍCOLA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA746",
+                    "name": "PISCICULTURA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA728"
                     ]
                 },
                 {
                     "code": "ICA759",
+                    "name": "REDAÇÃO CIENTÍFICA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA760",
+                    "name": "NUTRIÇÃO, ALIMENTAÇÃO E FORMULAÇÃO DE RAÇÕES PARA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA270",
                         "ICA728",
@@ -3518,7 +4326,11 @@
                 },
                 {
                     "code": "ICA761",
+                    "name": "NUTRIÇÃO, ALIMENTAÇÃO E FORMULAÇÃO DE RAÇÕES PARA AVES",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA749",
                         "ICA273"
@@ -3526,130 +4338,226 @@
                 },
                 {
                     "code": "ICA762",
+                    "name": "BIOÉTICA NA PRODUÇÃO ANIMAL",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA763",
+                    "name": "NUTRIÇÃO BÁSICA E ALIMENTAÇÃO DE CÃES E GATOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA764",
+                    "name": "NUTRIÇÃO AVANÇADA E ALIMENTAÇÃO DE CÃES E GATOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA763"
                     ]
                 },
                 {
                     "code": "ICA765",
+                    "name": "FORMULAÇÃO DE ALIMENTOS PARA CÃES E GATOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA763"
                     ]
                 },
                 {
                     "code": "ICA766",
+                    "name": "EMBALAGEM E ROTULAGEM DE PRODUTOS PARA ANIMAIS DE ESTIM",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA763"
                     ]
                 },
                 {
                     "code": "ICA767",
+                    "name": "AVALIAÇÃO DE CARCAÇAS E QUALIDADE DA CARNE DE RUMINANTES",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA768",
+                    "name": "BOAS PRÁTICAS AGROPECUÁRIAS NA PRODUÇÃO DE LEITE",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA769",
+                    "name": "TOXICOLOGIA E PLANTAS TÓXICAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA770",
+                    "name": "ENTOMOCULTURA",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA771",
+                    "name": "INGLÊS ACADÊMICO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA772",
+                    "name": "ENDOCRINOLOGIA E FISIOLOGIA DA LACTAÇÃO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA750"
                     ]
                 },
                 {
                     "code": "ICA773",
+                    "name": "FORMAÇÃO EM EXTENSÃO I",
+                    "hours": 60,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Formação em Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ICA774",
+                    "name": "FORMAÇÃO EM EXTENSÃO II",
+                    "hours": 90,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Formação em Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ICA775",
+                    "name": "FORMAÇÃO EM EXTENSÃO III",
+                    "hours": 105,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Formação em Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ICA776",
+                    "name": "FORMAÇÃO EM EXTENSÃO IV",
+                    "hours": 135,
+                    "credits": null,
                     "group": "13",
+                    "groupName": "Formação em Extensão",
                     "prereqs": []
                 },
                 {
                     "code": "ICA777",
+                    "name": "TÓPICOS COMPLEMENTARES I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA778",
+                    "name": "TÓPICOS AVANÇADOS EM ZOOTECNIA I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ICA779",
+                    "name": "TÓPICOS AVANÇADOS EM ZOOTECNIA II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ICA780",
+                    "name": "TÓPICOS AVANÇADOS EM ZOOTECNIA III",
+                    "hours": 60,
+                    "credits": null,
                     "group": "12",
+                    "groupName": "Núcleo Avançado",
                     "prereqs": []
                 },
                 {
                     "code": "ICA781",
+                    "name": "TÓPICOS COMPLEMENTARES II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA782",
+                    "name": "TÓPICOS COMPLEMENTARES III",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA783",
+                    "name": "TÓPICOS EAD EM ZOOTECNIA I",
+                    "hours": 30,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA784",
+                    "name": "TÓPICOS EAD EM ZOOTECNIA II",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA785",
+                    "name": "TÓPICOS EAD EM ZOOTECNIA III",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": [
                         "ICA786",
                         "ICA787",
@@ -3659,52 +4567,92 @@
                 },
                 {
                     "code": "ICA790",
+                    "name": "EDUCAÇÃO E INTERPRETAÇÃO AMBIENTAL",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA791",
+                    "name": "INFORMÁTICA APLICADA À ZOOTECNIA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA792",
+                    "name": "MATÉRIA ORGÂNICA DO SOLO",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA793",
+                    "name": "ADUBOS E ADUBAÇÃO",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA794",
+                    "name": "MAPEAMENTO DIGITAL DE SOLOS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA795",
+                    "name": "LABORATÓRIO DE BIOLOGIA MOLECULAR",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA796",
+                    "name": "SISTEMAS AGROFLORESTAIS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "ICA797",
+                    "name": "FORRAGICULTURA APLICADA",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "LET223",
+                    "name": "FUNDAMENTOS DE LIBRAS",
+                    "hours": 60,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 },
                 {
                     "code": "UNI010",
+                    "name": "TOPICOS EM CIENCIAS AGRARIAS",
+                    "hours": 45,
+                    "credits": null,
                     "group": "5",
+                    "groupName": "Optativas Gerais",
                     "prereqs": []
                 }
             ],

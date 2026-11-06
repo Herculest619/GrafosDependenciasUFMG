@@ -34,7 +34,7 @@ Grafo de um curso (Engenharia de Computação):
 | ICEx — Física       | Física — Bacharelado                        | fonte legada           | 7        | 31          | 38             | não mapeadas | —           |
 | ICEx — Física       | Física — Licenciatura (diurno)              | fonte legada           | 9        | 41          | 49             | não mapeadas | —           |
 | ICEx — Física       | Física — Licenciatura (noturno)             | fonte legada           | 10       | 41          | 48             | não mapeadas | —           |
-| ICEx — Física       | Física — Bacharelado (matriz 2013/1)        | PDF em `data/archives` | 7        | 30          | 32             | 13 slots     | 2.400 h     |
+| ICEx — Física       | Física — Bacharelado (matriz 2013/1)        | PDF em `data/archives` | 8        | 30          | 32             | 13 slots     | 2.400 h     |
 | ICEx — Física       | Física — Licenciatura Noturno (matriz 2018) | PDF em `data/archives` | 9        | 35          | 33             | 12 slots     | 2.805 h     |
 | IGC — Geociências   | Geografia — Licenciatura (matutino)         | 04004 · M-20271        | 10       | 43          | 27             | 7 slots      | 3.225 h     |
 | IGC — Geociências   | Geografia — Licenciatura (noturno)          | 04004 · N-20271        | 10       | 43          | 27             | 7 slots      | 3.225 h     |
@@ -51,7 +51,7 @@ Grafo de um curso (Engenharia de Computação):
 | ECI                 | Arquivologia                                | 13001 · N-20151        | 8        | 31          | 6              | 5 slots      | 2.400 h     |
 | ECI                 | Museologia                                  | 13003 · M-20251        | 8        | 32          | 8              | 7 slots      | 2.400 h     |
 | FAE                 | Pedagogia — Diurno                          | 14006 · D-20191        | 9        | 41          | 0              | 13 slots     | 3.240 h     |
-| FAE                 | Pedagogia — Noturno                         | 14006 · N-20191        | 9        | 41          | 0              | 13 slots     | 3.240 h     |
+| FAE                 | Pedagogia — Noturno                         | 14006 · N-20191        | 10       | 41          | 0              | 13 slots     | 3.240 h     |
 
 A UFMG tem **100 cursos de graduação**. Os dados de matriz curricular são publicados
 curso a curso (não existe API pública unificada), então a cobertura cresce de forma
@@ -68,7 +68,10 @@ Observações sobre os dados:
     e pré-requisitos (úteis para quem está sob currículo antigo);
 -   os **espaços de optativa são distribuídos automaticamente** entre as colunas dos
     períodos (abaixo das disciplinas), priorizando os semestres mais vazios — não existe
-    mais uma coluna "Optativas" separada no fim do grafo.
+    mais uma coluna "Optativas" separada no fim do grafo;
+-   **períodos sem disciplina obrigatória continuam no grafo**: é o caso do 8º período da
+    Física 2013/1 (só optativas) e dos últimos períodos da Pedagogia noturno. O build
+    preserva os períodos declarados no documento e a validação barra lacunas na numeração.
 
 O parser entende **três** formatos de documento:
 
@@ -164,10 +167,15 @@ src/core/graph.mjs                regras puras: disponibilidade, cargas horária
 Decisões de modelagem:
 
 -   **Slots de optativa**: as optativas não são pré-requisito de nada e o aluno escolhe quais
-    cursar, então o grafo mostra apenas "Optativa 1, Optativa 2, …" (sem arestas), calculados
-    a partir da carga horária mínima de optativas do percurso (mínima ÷ 60 h). Os slots são
-    distribuídos entre as colunas dos períodos e **numerados na ordem de leitura** do grafo
-    (esquerda → direita, cima → baixo).
+    cursar, então o grafo mostra "Optativa 1, Optativa 2, …" (sem arestas até serem
+    escolhidas), calculados a partir da carga horária mínima de optativas do percurso
+    (mínima ÷ 60 h). Os slots são distribuídos entre as colunas dos períodos e **numerados
+    na ordem de leitura** do grafo (esquerda → direita, cima → baixo).
+-   **Escolher a optativa**: clicar no espaço abre a lista de optativas do percurso
+    (`optionalPool`, com nome, carga horária, grupo e pré-requisitos). A escolha substitui o
+    rótulo do espaço, entra na carga horária do painel de progresso, cria arestas com os
+    pré-requisitos da disciplina escolhida e fica salva no `localStorage` junto do progresso
+    (`choices`). Espaços sem escolha continuam podendo ser marcados como cursados.
 -   **Exportar imagem**: o botão "Baixar imagem" renderiza a grade inteira enquadrada como o
     "Ajustar" e baixa um PNG em resolução 2× (texto grande o suficiente para dar zoom).
 -   **Percurso**: quando a versão curricular permite mais de um percurso (ex.: BCC tem
@@ -219,7 +227,7 @@ npm run lint
 
 O `npm run check` roda três verificações independentes:
 
-1. `npm test` — 66 testes (`node --test`) das regras de grafo/progresso, dos parsers
+1. `npm test` — 69 testes (`node --test`) das regras de grafo/progresso, dos parsers
    (incluindo regressão sobre os 13 relatórios oficiais do Siga e os 2 PDFs de estrutura
    curricular de Física), da conversão para JSON v2 e da integridade dos dados publicados;
 2. `npm run data:validate` — IDs duplicados, arestas órfãs, ciclos, pré-requisito em
@@ -307,10 +315,7 @@ Outros aprendizados do levantamento:
 
 Próximos passos naturais: pedir a extração oficial à PROGRAD/DGI; varrer outras unidades
 WordPress com a mesma receita; e criar um fluxo de contribuição (upload do PDF do
-relatório → texto → `data:build` → PR). Também está no radar permitir **escolher a
-disciplina de cada espaço de optativa**: o `optionalPool` do percurso já guarda códigos,
-grupos e pré-requisitos; falta enriquecer esses itens com nome/carga horária para o aluno
-selecionar numa lista ao clicar no espaço.
+relatório → texto → `data:build` → PR).
 
 ## Limitações e avisos
 
@@ -322,8 +327,8 @@ selecionar numa lista ao clicar no espaço.
     optativas mapeadas; a interface avisa isso.
 -   Alguns cursos têm matrizes antigas em PDF (exportação de Word) sem códigos de disciplina
     e sem pré-requisitos — esses casos não entram no grafo.
--   A carga horária por disciplina usa o total informado no relatório; os slots de optativa
-    assumem 60 h cada (arredondamento para cima da carga mínima de optativas).
+-   A carga horária por disciplina usa o total informado no relatório; os espaços de optativa
+    assumem 60 h cada até o aluno escolher a disciplina (aí vale a carga horária dela).
 
 ## Licença e créditos
 

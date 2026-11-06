@@ -19,7 +19,7 @@
         },
         "note": "PDF de estrutura curricular fornecido em data/archives; versões de Formação Complementar Aberta não modeladas."
     },
-    "generatedAt": "2026-11-05T21:02:20.684Z",
+    "generatedAt": "2026-11-06T15:21:12.633Z",
     "disciplines": {
         "DCC001": {
             "code": "DCC001",
@@ -971,6 +971,11 @@
                         "FIS126",
                         "FIS147"
                     ],
+                    "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [],
                     "optional": []
                 }
             ],
