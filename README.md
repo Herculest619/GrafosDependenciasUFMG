@@ -65,7 +65,10 @@ Observações sobre os dados:
     abrem no percurso padrão e permitem alternar na página do curso;
 -   os 3 cursos de Física "fonte legada" não têm carga horária nem optativas mapeadas;
 -   as duas matrizes de Física em `data/archives` são versões antigas **com** carga horária
-    e pré-requisitos (úteis para quem está sob currículo antigo).
+    e pré-requisitos (úteis para quem está sob currículo antigo);
+-   os **espaços de optativa são distribuídos automaticamente** entre as colunas dos
+    períodos (abaixo das disciplinas), priorizando os semestres mais vazios — não existe
+    mais uma coluna "Optativas" separada no fim do grafo.
 
 O parser entende **três** formatos de documento:
 

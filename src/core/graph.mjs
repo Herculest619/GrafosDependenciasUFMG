@@ -56,6 +56,35 @@ function isTaken(taken, code) {
 }
 
 /**
+ * Distribui os espaços de optativa entre as colunas dos períodos, para que
+ * apareçam abaixo das disciplinas dos semestres mais vazios (em vez de uma
+ * coluna extra no fim do grafo). A cada slot escolhe o período com menos
+ * disciplinas; no empate, prefere o período mais avançado.
+ *
+ * @param {Array<{number: number, codes?: string[]}>} periods
+ * @param {Array<object>} slots
+ */
+function distributeSlots(periods, slots) {
+    if (!slots.length || !periods.length) return slots
+
+    const counts = periods.map((period) => (period.codes ?? []).length)
+
+    for (const slot of slots) {
+        let target = 0
+        for (let index = 1; index < periods.length; index += 1) {
+            const current = counts[index]
+            const best = counts[target]
+            const isLater = Number(periods[index].number) > Number(periods[target].number)
+            if (current < best || (current === best && isLater)) target = index
+        }
+        counts[target] += 1
+        slot.level = Number(periods[target].number)
+    }
+
+    return slots
+}
+
+/**
  * Monta o grafo do percurso (nós + arestas + colunas).
  *
  * @param {object} course JSON do curso (schema v2)
@@ -104,19 +133,21 @@ export function buildGraph(course, options = {}) {
 
     let slots = []
     if (includeOptionalSlots) {
-        slots = (percurso.optionalSlots ?? []).map((slot, index) => ({
-            id: slot.id ?? slotId(percurso.id, index + 1),
-            kind: 'slot',
-            level: (periods.at(-1)?.number ?? 0) + 1,
-            label: slot.label ?? slotLabel(index + 1),
-            name: slot.label ?? slotLabel(index + 1),
-            title: `Optativa ${index + 1} — escolha uma disciplina (${
-                slot.hours ?? DEFAULT_SLOT_HOURS
-            } h)`,
-            hours: slot.hours ?? DEFAULT_SLOT_HOURS,
-            optional: true,
-            group: slot.group ?? null,
-        }))
+        slots = distributeSlots(
+            periods,
+            (percurso.optionalSlots ?? []).map((slot, index) => ({
+                id: slot.id ?? slotId(percurso.id, index + 1),
+                kind: 'slot',
+                label: slot.label ?? slotLabel(index + 1),
+                name: slot.label ?? slotLabel(index + 1),
+                title: `Optativa ${index + 1} — escolha uma disciplina (${
+                    slot.hours ?? DEFAULT_SLOT_HOURS
+                } h)`,
+                hours: slot.hours ?? DEFAULT_SLOT_HOURS,
+                optional: true,
+                group: slot.group ?? null,
+            }))
+        )
     }
     nodes.push(...slots)
 

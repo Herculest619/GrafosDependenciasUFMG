@@ -97,7 +97,14 @@ const HEADER_OFFSET = -110
 
 function levelHeaders(nodes) {
     const levels = [...new Set(nodes.map((node) => Number(node.level) || 1))].sort((a, b) => a - b)
-    const slotLevel = nodes.find((node) => node.kind === 'slot')?.level ?? null
+    const disciplineLevels = nodes
+        .filter((node) => node.kind !== 'slot')
+        .map((node) => Number(node.level) || 1)
+    const lastPeriod = disciplineLevels.length ? Math.max(...disciplineLevels) : 0
+    // slots fora dos períodos (fallback para dados antigos) ganham coluna própria
+    const slotLevel = nodes.find(
+        (node) => node.kind === 'slot' && Number(node.level) > lastPeriod
+    )?.level
     return levels.map((level) => ({
         id: `__level_${level}`,
         label: level === slotLevel ? 'Optativas' : `Período ${level}`,

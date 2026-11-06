@@ -114,13 +114,22 @@ function toggle(code) {
 }
 
 function toggleAllFor(period) {
-    const allTaken = period.codes.every((code) => taken.value.has(code))
+    const slotIds = slotsForPeriod(period.number).map((slot) => slot.id)
+    const allTaken = [...period.codes, ...slotIds].every((code) => taken.value.has(code))
     const next = new Set(taken.value)
-    for (const code of period.codes) {
+    for (const code of [...period.codes, ...slotIds]) {
         if (allTaken) next.delete(code)
         else next.add(code)
     }
     taken.value = next
+}
+
+/** Espaços de optativa que foram distribuídos para este período. */
+function slotsForPeriod(number) {
+    if (!graph.value) return []
+    return graph.value.nodes.filter(
+        (node) => node.kind === 'slot' && Number(node.level) === Number(number)
+    )
 }
 
 function clearAll() {
@@ -433,35 +442,33 @@ function prerequisiteLabel(code) {
                                         }}
                                     </span>
                                 </li>
-                            </ul>
-                        </div>
-
-                        <div v-if="graph.nodes.some((node) => node.kind === 'slot')">
-                            <h2 class="mb-2 text-lg font-semibold">Optativas</h2>
-                            <ul class="flex flex-wrap gap-2">
                                 <li
-                                    v-for="node in graph.nodes.filter(
-                                        (candidate) => candidate.kind === 'slot'
-                                    )"
-                                    :key="node.id"
+                                    v-for="slot in slotsForPeriod(period.number)"
+                                    :key="slot.id"
+                                    class="flex items-start gap-3 bg-violet-50 px-3 py-2 dark:bg-violet-900/20"
                                 >
-                                    <label
-                                        class="flex cursor-pointer items-center gap-2 rounded-lg border border-gray-200 px-3 py-1.5 text-sm dark:border-gray-700"
-                                    >
-                                        <input
-                                            type="checkbox"
-                                            class="h-4 w-4 rounded"
-                                            :checked="taken.has(node.id)"
-                                            @change="toggle(node.id)"
-                                        />
-                                        {{ node.label }}
-                                    </label>
+                                    <input
+                                        type="checkbox"
+                                        class="mt-1 h-4 w-4 rounded"
+                                        :checked="taken.has(slot.id)"
+                                        @change="toggle(slot.id)"
+                                    />
+                                    <div class="min-w-0">
+                                        <p class="text-sm font-medium">
+                                            <span
+                                                class="font-mono text-xs text-violet-600 dark:text-violet-300"
+                                            >
+                                                optativa
+                                            </span>
+                                            {{ slot.label }}
+                                        </p>
+                                        <p class="text-xs text-gray-500 dark:text-gray-400">
+                                            {{ formatHours(slot.hours) }} · espaço de optativa (sem
+                                            pré-requisito)
+                                        </p>
+                                    </div>
                                 </li>
                             </ul>
-                            <p class="mt-2 text-xs text-gray-500 dark:text-gray-400">
-                                Os espaços de optativa não têm pré-requisitos: você escolhe quais
-                                disciplinas usar para preenchê-los.
-                            </p>
                         </div>
                     </div>
                 </section>

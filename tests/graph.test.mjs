@@ -79,11 +79,57 @@ test('monta o grafo com disciplinas, arestas e slots de optativa', () => {
         slots.map((slot) => slot.id),
         ['OPT-01-01-01', 'OPT-01-01-02']
     )
-    assert.ok(slots.every((slot) => slot.level === 3))
+    // slots distribuídos dentro dos períodos (sem coluna extra "Optativas")
+    assert.deepEqual(
+        slots.map((slot) => slot.level),
+        [2, 2]
+    )
+    assert.ok(slots.every((slot) => graph.periods.includes(slot.level)))
+    // ... e depois das disciplinas daquele período, para aparecerem embaixo na coluna
+    for (const level of graph.periods) {
+        const indexes = graph.nodes.map((node, index) => ({ node, index }))
+        const disciplineIndexes = indexes
+            .filter(({ node }) => node.kind === 'discipline' && node.level === level)
+            .map(({ index }) => index)
+        const slotIndexes = indexes
+            .filter(({ node }) => node.kind === 'slot' && node.level === level)
+            .map(({ index }) => index)
+        if (disciplineIndexes.length && slotIndexes.length) {
+            assert.ok(
+                Math.max(...disciplineIndexes) < Math.min(...slotIndexes),
+                `slots do período ${level} deveriam vir depois das disciplinas`
+            )
+        }
+    }
     assert.deepEqual(
         graph.edges.map((edge) => `${edge.from}->${edge.to}`),
         ['TST100->TST101', 'TST101->TST102']
     )
+})
+
+test('distribui os slots de optativa nos períodos mais vazios', () => {
+    const uneven = {
+        ...course,
+        percursos: [
+            {
+                ...course.percursos[0],
+                periods: [
+                    { number: 1, codes: ['TST100', 'TST101'], optional: [] },
+                    { number: 2, codes: ['TST102'], optional: [] },
+                    { number: 3, codes: ['TST100'], optional: [] },
+                ],
+                optionalSlots: [
+                    { id: 'S1', label: 'Optativa 1', hours: 60 },
+                    { id: 'S2', label: 'Optativa 2', hours: 60 },
+                    { id: 'S3', label: 'Optativa 3', hours: 60 },
+                ],
+            },
+        ],
+    }
+    const graph = buildGraph(uneven)
+    const levels = graph.nodes.filter((node) => node.kind === 'slot').map((node) => node.level)
+    // os períodos 2 e 3 (1 disciplina cada) recebem os slots; o período 1 (2 disciplinas) fica por último
+    assert.deepEqual(levels, [3, 2, 3])
 })
 
 test('permite esconder os slots de optativa', () => {
