@@ -226,6 +226,9 @@ O `npm run check` roda três verificações independentes:
 Dicas de diagnóstico:
 
 -   **página em branco** → confira a URL com `/GrafosDependenciasUFMG/`;
+-   **link direto para um curso** (ex.: `/curso/ciencia-da-computacao`) → o build copia
+    `dist/index.html` para `dist/404.html`; é esse fallback que faz o vue-router resolver a
+    rota no GitHub Pages (`npm run build` já executa `scripts/copy-404.mjs`);
 -   **erro 404 em `data/courses.json`** → rode `npm run data:build` (os JSONs de `public/data`
     são versionados, mas essa é a forma de regenerar);
 -   **aviso de `esbuild`/`npm install`** em ambientes restritos → `npm install --ignore-scripts`;
