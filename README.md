@@ -173,11 +173,14 @@ Decisões de modelagem:
     na ordem de leitura** do grafo (esquerda → direita, cima → baixo).
 -   **Escolher a optativa**: clicar no espaço abre a lista de optativas do percurso
     (`optionalPool`, com nome, carga horária, grupo e pré-requisitos). A escolha substitui o
-    rótulo do espaço, entra na carga horária do painel de progresso, cria arestas com os
-    pré-requisitos da disciplina escolhida e fica salva no `localStorage` junto do progresso
-    (`choices`). Espaços sem escolha continuam podendo ser marcados como cursados.
+    rótulo do espaço e deixa o nó **roxo** (planejada); marcar "cursada" é um passo separado
+    (aí fica **azul**) e pode ser desmarcado. A escolha cria arestas com os pré-requisitos da
+    disciplina escolhida (inclusive quando o pré-requisito é outra optativa já escolhida) e
+    fica salva no `localStorage` junto do progresso (`choices`). Espaços sem escolha
+    continuam podendo ser marcados como cursados.
 -   **Exportar imagem**: o botão "Baixar imagem" renderiza a grade inteira enquadrada como o
-    "Ajustar" e baixa um PNG em resolução 2× (texto grande o suficiente para dar zoom).
+    "Ajustar" e baixa um PNG em resolução 2× (texto grande o suficiente para dar zoom). O
+    arquivo sai como `<curso>-<percurso>-grafo.png`, então não se repete entre cursos.
 -   **Percurso**: quando a versão curricular permite mais de um percurso (ex.: BCC tem
     `01-01` Núcleo Comum e `01-02` Núcleo Avançado), a página permite alternar.
 -   **Progresso** fica no `localStorage`, separado por curso:

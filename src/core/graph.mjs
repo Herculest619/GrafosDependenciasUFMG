@@ -164,6 +164,7 @@ export function buildGraph(course, options = {}) {
 
     // Disciplinas escolhidas para cada espaço de optativa
     const choices = options.choices ?? {}
+    const chosenCodeToSlot = new Map()
     for (const slot of slots) {
         const code = choices[slot.id]
         if (!code) continue
@@ -176,11 +177,14 @@ export function buildGraph(course, options = {}) {
         slot.name = name
         slot.title = `${code} — ${name} (${hours} h)`
         slot.hours = hours
+        if (!chosenCodeToSlot.has(code)) chosenCodeToSlot.set(code, slot.id)
 
         const prereqs = (poolEntry?.prereqs?.length ? poolEntry.prereqs : discipline?.prereqs) ?? []
         for (const prereq of prereqs) {
-            if (!seen.has(prereq)) continue
-            edges.push({ from: prereq, to: slot.id })
+            // pré-requisito pode ser uma disciplina da grade ou outra optativa escolhida
+            const source = seen.has(prereq) ? prereq : chosenCodeToSlot.get(prereq)
+            if (!source || source === slot.id) continue
+            edges.push({ from: source, to: slot.id })
         }
     }
 

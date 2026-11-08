@@ -88,6 +88,13 @@ const choosingSlotNode = computed(
     () => graph.value?.nodes.find((node) => node.id === choosingSlot.value) ?? null
 )
 
+/** Nome do arquivo exportado: curso + percurso, para não repetir entre cursos. */
+const exportName = computed(() => {
+    const courseId = state.course?.id ?? 'curso'
+    const percurso = selectedPercurso.value ?? 'percurso'
+    return `${courseId}-${percurso}`
+})
+
 const progress = computed(() => (graph.value ? summarizeProgress(graph.value, taken.value) : null))
 const nextPeriod = computed(() =>
     graph.value ? suggestNextPeriod(graph.value, taken.value) : null
@@ -172,12 +179,12 @@ function setTaken(slotId, isTaken) {
 function pickOptional(code) {
     const slotId = choosingSlot.value
     if (!slotId) return
+    // a escolha deixa o espaço roxo (planejada); "cursada" é um passo separado
     choices.value = { ...choices.value, [slotId]: code }
-    setTaken(slotId, true)
     closeSlot()
 }
 
-/** Remove a escolha (e o "cursada") do espaço de optativa. */
+/** Remove a escolha do espaço de optativa (volta a ser um espaço vazio). */
 function removeChoice(slotId) {
     const next = { ...choices.value }
     delete next[slotId]
@@ -186,10 +193,9 @@ function removeChoice(slotId) {
     closeSlot()
 }
 
-/** Fallback para cursos sem lista de optativas: marca o espaço sem escolher. */
+/** Marca/desmarca o espaço (ou a optativa escolhida) como já cursada. */
 function toggleSlotTaken(slotId) {
-    if (choices.value[slotId]) removeChoice(slotId)
-    else setTaken(slotId, !taken.value.has(slotId))
+    setTaken(slotId, !taken.value.has(slotId))
 }
 
 function toggleAllFor(period) {
@@ -367,7 +373,7 @@ function prerequisiteLabel(code) {
                                     type="button"
                                     class="btn"
                                     title="Baixa um PNG em alta resolução, enquadrado como o Ajustar"
-                                    @click="graphRef?.exportImage(state.course?.id)"
+                                    @click="graphRef?.exportImage(exportName)"
                                 >
                                     Baixar imagem
                                 </button>
@@ -444,12 +450,19 @@ function prerequisiteLabel(code) {
                                 ></span>
                                 Espaço de optativa
                             </li>
+                            <li class="flex items-center gap-2">
+                                <span
+                                    class="h-3 w-3 rounded-sm bg-violet-400 ring-1 ring-violet-800"
+                                ></span>
+                                Optativa escolhida (ainda não cursada)
+                            </li>
                         </ul>
                         <p class="mt-3 text-xs text-gray-500 dark:text-gray-400">
                             Clique em uma disciplina para marcar/desmarcar. Você pode marcar mesmo
                             sem os pré-requisitos (“quebra”) para simular cenários. Cada coluna é um
                             período sugerido. Clique em uma <strong>optativa</strong> para escolher
-                            a disciplina que vai preenchê-la. Arraste para navegar e use o scroll
+                            a disciplina que vai preenchê-la; no mesmo painel dá para marcar se ela
+                            já foi cursada (aí ela fica azul). Arraste para navegar e use o scroll
                             (ou pinça) para dar zoom; “Ajustar” mostra o grafo inteiro.
                         </p>
                     </section>
@@ -536,8 +549,20 @@ function prerequisiteLabel(code) {
                                 <li
                                     v-for="slot in slotsForPeriod(period.number)"
                                     :key="slot.id"
-                                    class="flex items-start gap-3 bg-violet-50 px-3 py-2 dark:bg-violet-900/20"
+                                    class="flex items-start gap-3 px-3 py-2"
+                                    :class="
+                                        taken.has(slot.id)
+                                            ? 'bg-blue-50 dark:bg-blue-900/20'
+                                            : 'bg-violet-50 dark:bg-violet-900/20'
+                                    "
                                 >
+                                    <input
+                                        :id="`slot-${slot.id}`"
+                                        type="checkbox"
+                                        class="mt-1 h-4 w-4 rounded"
+                                        :checked="taken.has(slot.id)"
+                                        @change="toggleSlotTaken(slot.id)"
+                                    />
                                     <div class="min-w-0 flex-1">
                                         <p class="text-sm font-medium">
                                             <span
@@ -551,7 +576,11 @@ function prerequisiteLabel(code) {
                                             {{ formatHours(slot.hours) }} ·
                                             {{
                                                 slot.chosen
-                                                    ? `${slot.chosen.code} · escolhida`
+                                                    ? `${slot.chosen.code} · ${
+                                                          taken.has(slot.id)
+                                                              ? 'cursada'
+                                                              : 'escolhida (planejada)'
+                                                      }`
                                                     : 'escolha uma disciplina da lista'
                                             }}
                                         </p>
@@ -662,7 +691,11 @@ function prerequisiteLabel(code) {
                     >
                         {{
                             taken.has(choosingSlot)
-                                ? 'Desmarcar este espaço'
+                                ? choices[choosingSlot]
+                                    ? 'Desmarcar como cursada'
+                                    : 'Desmarcar este espaço'
+                                : choices[choosingSlot]
+                                ? 'Marcar como cursada'
                                 : 'Marcar espaço sem escolher disciplina'
                         }}
                     </button>

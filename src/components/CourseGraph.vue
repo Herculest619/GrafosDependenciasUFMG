@@ -23,6 +23,7 @@ const COLORS = {
     available: { background: '#34d399', border: '#047857' },
     blocked: { background: '#d1d5db', border: '#6b7280' },
     slot: { background: '#c4b5fd', border: '#7c3aed' },
+    chosen: { background: '#a78bfa', border: '#6d28d9' },
 }
 
 /**
@@ -40,7 +41,9 @@ function paint(color) {
 
 function colorFor(node) {
     if (node.kind === 'slot') {
-        return paint(props.status.get(node.id) === 'taken' ? COLORS.taken : COLORS.slot)
+        // cursada (azul) > escolhida (roxo forte) > espaço vazio (roxo claro)
+        if (props.status.get(node.id) === 'taken') return paint(COLORS.taken)
+        return paint(node.chosen ? COLORS.chosen : COLORS.slot)
     }
     return paint(COLORS[props.status.get(node.id)] ?? COLORS.blocked)
 }
@@ -357,17 +360,35 @@ async function renderGraphImage() {
     }
 }
 
+/** Nome de arquivo seguro (sem acentos/espaços) para o download do grafo. */
+function safeFileName(value) {
+    const base = String(value ?? 'grafo')
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .replace(/[^a-zA-Z0-9-_]+/g, '-')
+        .replace(/-+/g, '-')
+        .replace(/^-+|-+$/g, '')
+        .toLowerCase()
+    return base || 'grafo'
+}
+
 /** Baixa a imagem do grafo (PNG em alta resolução, enquadrado como o Ajustar). */
 async function exportImage(fileBase = 'grafo') {
     try {
         const dataUrl = await renderGraphImage()
         if (!dataUrl) return
+
+        // Blob é mais confiável que data URL para arquivos grandes e preserva o
+        // nome definido em `download` em todos os navegadores.
+        const blob = await (await fetch(dataUrl)).blob()
+        const objectUrl = URL.createObjectURL(blob)
         const link = document.createElement('a')
-        link.href = dataUrl
-        link.download = `${fileBase}-grafo.png`
+        link.href = objectUrl
+        link.download = `${safeFileName(fileBase)}-grafo.png`
         document.body.appendChild(link)
         link.click()
         link.remove()
+        setTimeout(() => URL.revokeObjectURL(objectUrl), 10000)
     } catch (error) {
         console.error('não foi possível exportar a imagem do grafo', error)
     }
