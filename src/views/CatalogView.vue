@@ -1,6 +1,7 @@
 <script setup>
 import { computed, onMounted, ref } from 'vue'
 
+import BrandLogo from '../components/BrandLogo.vue'
 import { filterCourses, formatHours, groupByUnit } from '../core/format.mjs'
 import { loadCatalog } from '../data/courseLoader.mjs'
 
@@ -31,15 +32,22 @@ const total = computed(() => courses.value.length)
 
 <template>
     <div class="mx-auto max-w-6xl px-4 py-8">
-        <header class="mb-8">
-            <h1 class="text-3xl font-bold tracking-tight sm:text-4xl">Cursos de graduação</h1>
-            <p class="mt-2 max-w-3xl text-gray-600 dark:text-gray-400">
-                Escolha um curso para ver o grafo de pré-requisitos, marcar o que já cursou e
-                simular sua matrícula. Cada coluna é um período sugerido.
-            </p>
+        <header class="mb-8 flex items-start gap-4">
+            <BrandLogo class="hidden h-14 w-14 shrink-0 drop-shadow-sm sm:block" />
+            <div>
+                <h1 class="text-3xl font-bold tracking-tight sm:text-4xl">Cursos de graduação</h1>
+                <p class="mt-2 max-w-3xl text-gray-600 dark:text-gray-400">
+                    Escolha um curso para ver o grafo de pré-requisitos, marcar o que já cursou e
+                    simular sua matrícula. Cada coluna é um período sugerido.
+                </p>
+            </div>
         </header>
 
-        <div v-if="loading" class="card text-sm text-gray-500 dark:text-gray-400">
+        <div
+            v-if="loading"
+            class="card flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400"
+        >
+            <BrandLogo class="h-6 w-6 animate-pulse" />
             Carregando catálogo…
         </div>
 

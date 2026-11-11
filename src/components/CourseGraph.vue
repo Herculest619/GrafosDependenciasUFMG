@@ -301,6 +301,47 @@ function fitAll() {
 }
 
 /**
+ * Desenha a marca do projeto (grafo de 3 nós) no canto da imagem exportada.
+ * É desenhada direto no canvas para não depender do carregamento do SVG.
+ */
+function drawBrandMark(context, x, y, size) {
+    const radius = size * 0.22
+    context.save()
+    context.beginPath()
+    context.moveTo(x + radius, y)
+    context.arcTo(x + size, y, x + size, y + size, radius)
+    context.arcTo(x + size, y + size, x, y + size, radius)
+    context.arcTo(x, y + size, x, y, radius)
+    context.arcTo(x, y, x + size, y, radius)
+    context.closePath()
+    context.fillStyle = '#2563eb'
+    context.fill()
+
+    const nodes = [
+        [0.5, 0.297],
+        [0.289, 0.695],
+        [0.711, 0.695],
+    ]
+    context.strokeStyle = '#ffffff'
+    context.lineWidth = size * 0.0625
+    context.lineCap = 'round'
+    context.beginPath()
+    context.moveTo(x + nodes[0][0] * size, y + nodes[0][1] * size)
+    context.lineTo(x + nodes[1][0] * size, y + nodes[1][1] * size)
+    context.lineTo(x + nodes[2][0] * size, y + nodes[2][1] * size)
+    context.lineTo(x + nodes[0][0] * size, y + nodes[0][1] * size)
+    context.stroke()
+
+    context.fillStyle = '#ffffff'
+    for (const [nodeX, nodeY] of nodes) {
+        context.beginPath()
+        context.arc(x + nodeX * size, y + nodeY * size, size * 0.109, 0, Math.PI * 2)
+        context.fill()
+    }
+    context.restore()
+}
+
+/**
  * Renderiza a grade inteira num canvas fora da tela, em resolução natural
  * (escala 1), para gerar uma imagem que aguenta zoom. Retorna o data URL.
  */
@@ -368,6 +409,20 @@ async function renderGraphImage() {
         context.fillStyle = theme?.isDark?.value ? '#111827' : '#ffffff'
         context.fillRect(0, 0, output.width, output.height)
         context.drawImage(source, padding, padding)
+
+        // marca do projeto no canto inferior direito, proporcional ao tamanho
+        const markSize = Math.min(
+            180,
+            Math.max(48 * dpr, Math.round(Math.min(output.width, output.height) * 0.035))
+        )
+        const markMargin = Math.round(18 * dpr)
+        drawBrandMark(
+            context,
+            output.width - markSize - markMargin,
+            output.height - markSize - markMargin,
+            Math.round(markSize)
+        )
+
         return output.toDataURL('image/png')
     } finally {
         exportNetwork.destroy()

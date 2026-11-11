@@ -2,6 +2,8 @@
 import { computed, onMounted, provide, ref, watch } from 'vue'
 import { RouterLink, RouterView } from 'vue-router'
 
+import BrandLogo from './components/BrandLogo.vue'
+
 const THEME_KEY = 'grafos-ufmg:theme'
 const isDark = ref(true)
 
@@ -39,11 +41,7 @@ const themeLabel = computed(() => (isDark.value ? 'Tema claro' : 'Tema escuro'))
         >
             <div class="mx-auto flex max-w-[1500px] items-center gap-4 px-4 py-3">
                 <RouterLink to="/" class="flex items-center gap-2 font-semibold">
-                    <span
-                        class="inline-flex h-8 w-8 items-center justify-center rounded-lg bg-brand-600 text-sm font-bold text-white"
-                        aria-hidden="true"
-                        >GD</span
-                    >
+                    <BrandLogo class="h-8 w-8 shrink-0" />
                     <span class="hidden sm:inline">Grafos de Dependências — UFMG</span>
                     <span class="sm:hidden">Grafos UFMG</span>
                 </RouterLink>
@@ -73,23 +71,29 @@ const themeLabel = computed(() => (isDark.value ? 'Tema claro' : 'Tema escuro'))
         </main>
 
         <footer
-            class="border-t border-gray-200 py-6 text-center text-xs text-gray-500 dark:border-gray-700 dark:text-gray-400"
+            class="border-t border-gray-200 py-6 text-xs text-gray-500 dark:border-gray-700 dark:text-gray-400"
         >
-            <p>
-                Apoio ao planejamento de matrícula. A fonte de verdade é sempre o
-                <a
-                    class="underline hover:text-gray-700 dark:hover:text-gray-200"
-                    href="https://sistemas.ufmg.br/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    >Siga/minhaUFMG</a
-                >
-                e o colegiado do curso.
-            </p>
-            <p class="mt-1">
-                Dados extraídos de relatórios públicos da UFMG (PROGRAD/Siga) — versões e datas em
-                <code class="rounded bg-gray-100 px-1 py-0.5 dark:bg-gray-800">data/sources</code>.
-            </p>
+            <div class="mx-auto flex max-w-3xl flex-col items-center gap-2 px-4 text-center">
+                <BrandLogo class="h-7 w-7 opacity-90" />
+                <p>
+                    Apoio ao planejamento de matrícula. A fonte de verdade é sempre o
+                    <a
+                        class="underline hover:text-gray-700 dark:hover:text-gray-200"
+                        href="https://sistemas.ufmg.br/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        >Siga/minhaUFMG</a
+                    >
+                    e o colegiado do curso.
+                </p>
+                <p class="mt-1">
+                    Dados extraídos de relatórios públicos da UFMG (PROGRAD/Siga) — versões e datas
+                    em
+                    <code class="rounded bg-gray-100 px-1 py-0.5 dark:bg-gray-800"
+                        >data/sources</code
+                    >.
+                </p>
+            </div>
         </footer>
     </div>
 </template>

@@ -2,6 +2,7 @@
 import { computed, onMounted, reactive, ref, watch } from 'vue'
 import { RouterLink } from 'vue-router'
 
+import BrandLogo from '../components/BrandLogo.vue'
 import CourseGraph from '../components/CourseGraph.vue'
 import DisciplineDetails from '../components/DisciplineDetails.vue'
 import ProgressPanel from '../components/ProgressPanel.vue'
@@ -363,11 +364,16 @@ function prerequisiteLabel(code) {
 
 <template>
     <div class="mx-auto max-w-[1500px] px-4 py-6">
-        <div v-if="state.loading" class="card text-sm text-gray-500 dark:text-gray-400">
+        <div
+            v-if="state.loading"
+            class="card flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400"
+        >
+            <BrandLogo class="h-6 w-6 animate-pulse" />
             Carregando matriz curricular…
         </div>
 
         <div v-else-if="state.notFound" class="card">
+            <BrandLogo class="mb-3 h-10 w-10" />
             <p class="font-medium">Curso não encontrado.</p>
             <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">
                 O curso “{{ props.slug }}” ainda não está publicado neste site.
@@ -376,6 +382,7 @@ function prerequisiteLabel(code) {
         </div>
 
         <div v-else-if="state.error" class="card border-red-300 dark:border-red-700">
+            <BrandLogo class="mb-3 h-10 w-10" />
             <p class="font-medium text-red-700 dark:text-red-400">Erro ao carregar o curso.</p>
             <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">{{ state.error }}</p>
             <div class="mt-4 flex gap-2">
