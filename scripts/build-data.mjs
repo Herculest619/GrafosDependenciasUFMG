@@ -10,8 +10,14 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { dirname, join, relative } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
-import { buildEstruturaCourse, buildSigaCourse, convertLegacyCourse } from './lib/course-json.mjs'
+import {
+    buildEstruturaCourse,
+    buildFisica2019Course,
+    buildSigaCourse,
+    convertLegacyCourse,
+} from './lib/course-json.mjs'
 import { parseEstruturaCurricular } from './lib/estrutura-curricular.mjs'
+import { parseEmentas, parseMatriz2019 } from './lib/fisica-2019.mjs'
 import { parseSigaReport } from './lib/siga-report.mjs'
 import { validateCourse } from './lib/validate.mjs'
 
@@ -40,24 +46,11 @@ function unitDefaults(file) {
 /**
  * Cursos publicados no site.
  * - kind "siga": texto do relatório do Siga (data/sources/<file>)
+ * - kind "estrutura": estrutura curricular antiga (PDF em data/archives)
+ * - kind "fisica-2019": matriz 2019 do Bacharelado em Física + Anexo A de ementas
  * - kind "legacy": JSON do projeto original (data/sources/legacy/<file>)
  */
 const COURSES = [
-    {
-        kind: 'legacy',
-        file: 'legacy/fisica-bacharelado.json',
-        options: {
-            id: 'fisica-bacharelado',
-            name: 'Física',
-            variant: 'Bacharelado',
-            unit: 'ICEx — Departamento de Física',
-            campus: 'Pampulha',
-            degree: 'Bacharelado',
-            shift: 'Diurno',
-            curriculum: 'Versão não registrada na fonte legada',
-            percursoName: 'Matriz curricular (fonte legada)',
-        },
-    },
     {
         kind: 'legacy',
         file: 'legacy/fisica-licenciatura-diurno.json',
@@ -69,21 +62,6 @@ const COURSES = [
             campus: 'Pampulha',
             degree: 'Licenciatura',
             shift: 'Diurno',
-            curriculum: 'Versão não registrada na fonte legada',
-            percursoName: 'Matriz curricular (fonte legada)',
-        },
-    },
-    {
-        kind: 'legacy',
-        file: 'legacy/fisica-licenciatura-noturno.json',
-        options: {
-            id: 'fisica-licenciatura-noturno',
-            name: 'Física',
-            variant: 'Licenciatura — Noturno',
-            unit: 'ICEx — Departamento de Física',
-            campus: 'Pampulha',
-            degree: 'Licenciatura',
-            shift: 'Noturno',
             curriculum: 'Versão não registrada na fonte legada',
             percursoName: 'Matriz curricular (fonte legada)',
         },
@@ -210,16 +188,21 @@ const COURSES = [
         },
     },
     {
-        kind: 'estrutura',
-        file: 'fisica/fisica-bacharelado-matriz-2013.txt',
-        sourceId: 'fisica/fisica-bacharelado-matriz-2013',
+        kind: 'fisica-2019',
+        file: 'fisica/fisica-bacharelado-2019.txt',
+        sourceId: 'fisica/fisica-bacharelado-2019',
+        ementasFile: 'fisica/ementas-fisica-2019.txt',
+        ementasSourceId: 'fisica/fisica-bacharelado-ementas-2019',
         options: {
-            id: 'fisica-bacharelado-matriz-2013',
+            id: 'fisica-bacharelado',
             name: 'Física',
-            variant: 'Bacharelado · matriz 2013/1',
+            variant: 'Bacharelado',
+            unit: 'ICEx — Departamento de Física',
+            campus: 'Pampulha',
             degree: 'Bacharelado',
             shift: 'Diurno',
-            curriculum: 'Matriz 2013/1',
+            curriculum: 'Matriz 2019',
+            percursoName: 'Bacharelado — formação padrão (01-01)',
         },
     },
     {
@@ -370,6 +353,33 @@ function buildOne(config, sources) {
 
     const sourceEntry = config.sourceId ? sources.get(config.sourceId) : null
     const text = readFileSync(sourcePath, 'utf8')
+
+    if (config.kind === 'fisica-2019') {
+        if (!config.ementasFile) throw new Error(`curso ${config.file}: ementasFile ausente`)
+        const ementasPath = join(SOURCES_DIR, config.ementasFile)
+        if (!existsSync(ementasPath)) {
+            throw new Error(`fonte ausente: ${relative(ROOT, ementasPath)} (veja o README)`)
+        }
+        const ementasEntry = config.ementasSourceId ? sources.get(config.ementasSourceId) : null
+        const matriz = parseMatriz2019(text)
+        const ementas = parseEmentas(readFileSync(ementasPath, 'utf8'))
+        const options = {
+            ...unitDefaults(config.file),
+            ...config.options,
+            source: {
+                kind: 'estrutura-curricular-pdf',
+                url: sourceEntry?.pdf ? `data/archives/${sourceEntry.pdf}` : null,
+                retrievedAt: sourceEntry?.retrievedAt ?? null,
+                note: sourceEntry?.source ?? null,
+            },
+            ementasSource: {
+                url: ementasEntry?.pdf ? `data/archives/${ementasEntry.pdf}` : null,
+                retrievedAt: ementasEntry?.retrievedAt ?? null,
+                note: ementasEntry?.source ?? null,
+            },
+        }
+        return buildFisica2019Course(matriz, ementas, options)
+    }
 
     if (config.kind === 'estrutura') {
         const parsed = parseEstruturaCurricular(text)

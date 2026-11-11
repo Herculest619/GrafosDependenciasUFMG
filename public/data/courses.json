@@ -1,6 +1,6 @@
 {
     "schemaVersion": 2,
-    "generatedAt": "2026-11-06T15:21:12.881Z",
+    "generatedAt": "2026-11-11T00:51:50.229Z",
     "courses": [
         {
             "id": "aquacultura",
@@ -446,60 +446,34 @@
             "campus": "Pampulha",
             "shift": "Diurno",
             "degree": "Bacharelado",
-            "curriculum": "Versão não registrada na fonte legada",
+            "layout": "matriz-2019",
+            "curriculum": "Matriz 2019",
             "source": {
-                "kind": "legacy-json",
-                "url": null,
-                "retrievedAt": null,
-                "note": "Convertido do JSON do projeto original (importado de PDF do Siga em 2025); carga horária e optativas não estão disponíveis nesta fonte."
+                "kind": "estrutura-curricular-pdf",
+                "url": "data/archives/Física Bacharelado/BacD2019.pdf",
+                "retrievedAt": "2026-11-10T21:10:00-03:00",
+                "note": "PDF do PPC 2019 fornecido pelo usuário em data/archives/Física Bacharelado (tabelas 3.1–3.5 e 4.1–4.3)"
             },
-            "note": null,
+            "ementas": {
+                "url": "data/archives/Física Bacharelado/ementas_curso_fisica_v2019.pdf",
+                "retrievedAt": "2026-11-10T21:10:00-03:00",
+                "note": "Anexo A do PPC 2019 fornecido pelo usuário em data/archives/Física Bacharelado"
+            },
+            "note": "Matriz 2019 (PPC): 8 períodos, 31 obrigatórias e 11 espaços de optativa (660 h). Os percursos 01-02 a 01-05, as AAC (G3) e as disciplinas obrigatórias de percurso não são modelados porque o PDF fornecido não as lista; as optativas de pós-graduação do G8 aparecem como FIS638.",
             "percursos": [
                 {
-                    "id": "padrao",
-                    "name": "Matriz curricular (fonte legada)"
+                    "id": "01-01",
+                    "name": "Bacharelado — formação padrão (01-01)"
                 }
             ],
             "stats": {
                 "disciplines": 31,
                 "edges": 38,
-                "periods": 7,
-                "optionalSlots": 0,
-                "totalHours": null
-            },
-            "file": "data/courses/fisica-bacharelado.json"
-        },
-        {
-            "id": "fisica-bacharelado-matriz-2013",
-            "name": "Física",
-            "variant": "Bacharelado · matriz 2013/1",
-            "unit": "ICEx — Departamento de Física",
-            "campus": "Pampulha",
-            "shift": "Diurno",
-            "degree": "Bacharelado",
-            "layout": "estrutura-curricular",
-            "curriculum": "Matriz 2013/1",
-            "source": {
-                "kind": "estrutura-curricular-pdf",
-                "url": "data/archives/EstrutCurricularBac20131.pdf",
-                "retrievedAt": "2026-11-05T19:39:52.551Z",
-                "note": "PDF fornecido pelo usuário em data/archives"
-            },
-            "note": "PDF de estrutura curricular fornecido em data/archives; versões de Formação Complementar Aberta não modeladas.",
-            "percursos": [
-                {
-                    "id": "padrao",
-                    "name": "Física Bacharelado – Formação Livre"
-                }
-            ],
-            "stats": {
-                "disciplines": 30,
-                "edges": 32,
                 "periods": 8,
-                "optionalSlots": 13,
+                "optionalSlots": 11,
                 "totalHours": 2400
             },
-            "file": "data/courses/fisica-bacharelado-matriz-2013.json"
+            "file": "data/courses/fisica-bacharelado.json"
         },
         {
             "id": "fisica-licenciatura-diurno",
@@ -533,37 +507,6 @@
             "file": "data/courses/fisica-licenciatura-diurno.json"
         },
         {
-            "id": "fisica-licenciatura-noturno",
-            "name": "Física",
-            "variant": "Licenciatura — Noturno",
-            "unit": "ICEx — Departamento de Física",
-            "campus": "Pampulha",
-            "shift": "Noturno",
-            "degree": "Licenciatura",
-            "curriculum": "Versão não registrada na fonte legada",
-            "source": {
-                "kind": "legacy-json",
-                "url": null,
-                "retrievedAt": null,
-                "note": "Convertido do JSON do projeto original (importado de PDF do Siga em 2025); carga horária e optativas não estão disponíveis nesta fonte."
-            },
-            "note": null,
-            "percursos": [
-                {
-                    "id": "padrao",
-                    "name": "Matriz curricular (fonte legada)"
-                }
-            ],
-            "stats": {
-                "disciplines": 41,
-                "edges": 48,
-                "periods": 10,
-                "optionalSlots": 0,
-                "totalHours": null
-            },
-            "file": "data/courses/fisica-licenciatura-noturno.json"
-        },
-        {
             "id": "fisica-licenciatura-noturno-matriz-2018",
             "name": "Física",
             "variant": "Licenciatura · Noturno · matriz 2018",
@@ -575,9 +518,9 @@
             "curriculum": "Matriz 2018 (noturno)",
             "source": {
                 "kind": "estrutura-curricular-pdf",
-                "url": "data/archives/LicN2018.pdf",
+                "url": null,
                 "retrievedAt": "2026-11-05T19:39:52.557Z",
-                "note": "PDF fornecido pelo usuário em data/archives"
+                "note": "PDF fornecido pelo usuário em data/archives; o PDF original (LicN2018.pdf) foi removido de data/archives em 2026-11 e o texto extraído foi preservado"
             },
             "note": "PDF de estrutura curricular fornecido em data/archives; versões de Formação Complementar Aberta não modeladas.",
             "percursos": [

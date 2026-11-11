@@ -102,6 +102,25 @@ export function validateCourse(course) {
         if (MOJIBAKE.test(discipline.name ?? '')) {
             errors.push(`disciplina ${code} com texto corrompido (encoding): ${discipline.name}`)
         }
+        if (discipline.ementa != null) {
+            if (typeof discipline.ementa !== 'string') {
+                errors.push(`disciplina ${code}: ementa deve ser texto`)
+            } else if (MOJIBAKE.test(discipline.ementa)) {
+                errors.push(`disciplina ${code}: ementa com texto corrompido (encoding)`)
+            }
+        }
+        if (discipline.creditsLabel != null && typeof discipline.creditsLabel !== 'string') {
+            errors.push(`disciplina ${code}: creditsLabel deve ser texto`)
+        }
+        if (discipline.group != null && typeof discipline.group !== 'string') {
+            errors.push(`disciplina ${code}: group deve ser texto`)
+        }
+        if (
+            discipline.period != null &&
+            (!Number.isInteger(discipline.period) || discipline.period < 1)
+        ) {
+            errors.push(`disciplina ${code}: period inválido`)
+        }
         if (discipline.hours) {
             const { total, theory, practice } = discipline.hours
             for (const [field, value] of Object.entries({ total, theory, practice })) {
@@ -194,6 +213,47 @@ export function validateCourse(course) {
             slotIds.add(slot.id)
             if (!isFiniteNumber(slot.hours) || slot.hours <= 0) {
                 errors.push(`percurso ${percurso.id}: slot ${slot.id} com horas inválidas`)
+            }
+        }
+
+        // Pool de optativas (usado na escolha de disciplina de cada slot)
+        const poolCodes = new Set()
+        for (const entry of percurso.optionalPool ?? []) {
+            if (!entry?.code) {
+                errors.push(`percurso ${percurso.id}: optativa da pool sem código`)
+                continue
+            }
+            if (!course.disciplines[entry.code]) {
+                errors.push(
+                    `percurso ${percurso.id}: optativa ${entry.code} da pool não existe no curso`
+                )
+            }
+            if (poolCodes.has(entry.code)) {
+                warnings.push(`percurso ${percurso.id}: optativa ${entry.code} repetida na pool`)
+            }
+            poolCodes.add(entry.code)
+            if (entry.ementa != null && typeof entry.ementa !== 'string') {
+                errors.push(`percurso ${percurso.id}: ementa inválida na optativa ${entry.code}`)
+            }
+            if (entry.hours != null && (!isFiniteNumber(entry.hours) || entry.hours <= 0)) {
+                errors.push(`percurso ${percurso.id}: horas inválidas na optativa ${entry.code}`)
+            }
+            if (
+                entry.group != null &&
+                typeof entry.group !== 'string' &&
+                typeof entry.group !== 'number'
+            ) {
+                errors.push(`percurso ${percurso.id}: grupo inválido na optativa ${entry.code}`)
+            }
+        }
+        for (const [period, credits] of Object.entries(percurso.optionalCreditsByPeriod ?? {})) {
+            if (!Number.isInteger(Number(period)) || Number(period) < 1) {
+                errors.push(`percurso ${percurso.id}: optionalCreditsByPeriod com período inválido`)
+            }
+            if (!isFiniteNumber(credits) || credits < 0) {
+                errors.push(
+                    `percurso ${percurso.id}: optionalCreditsByPeriod com créditos inválidos (${period})`
+                )
             }
         }
 

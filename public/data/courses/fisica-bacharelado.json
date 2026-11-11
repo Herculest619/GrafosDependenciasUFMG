@@ -9,117 +9,152 @@
         "campus": "Pampulha",
         "shift": "Diurno",
         "degree": "Bacharelado",
-        "curriculum": "Versão não registrada na fonte legada",
+        "layout": "matriz-2019",
+        "curriculum": "Matriz 2019",
         "source": {
-            "kind": "legacy-json",
-            "url": null,
-            "retrievedAt": null,
-            "note": "Convertido do JSON do projeto original (importado de PDF do Siga em 2025); carga horária e optativas não estão disponíveis nesta fonte."
+            "kind": "estrutura-curricular-pdf",
+            "url": "data/archives/Física Bacharelado/BacD2019.pdf",
+            "retrievedAt": "2026-11-10T21:10:00-03:00",
+            "note": "PDF do PPC 2019 fornecido pelo usuário em data/archives/Física Bacharelado (tabelas 3.1–3.5 e 4.1–4.3)"
         },
-        "note": null
+        "ementas": {
+            "url": "data/archives/Física Bacharelado/ementas_curso_fisica_v2019.pdf",
+            "retrievedAt": "2026-11-10T21:10:00-03:00",
+            "note": "Anexo A do PPC 2019 fornecido pelo usuário em data/archives/Física Bacharelado"
+        },
+        "note": "Matriz 2019 (PPC): 8 períodos, 31 obrigatórias e 11 espaços de optativa (660 h). Os percursos 01-02 a 01-05, as AAC (G3) e as disciplinas obrigatórias de percurso não são modelados porque o PDF fornecido não as lista; as optativas de pós-graduação do G8 aparecem como FIS638."
     },
-    "generatedAt": "2026-11-06T15:21:12.196Z",
+    "generatedAt": "2026-11-11T00:51:50.142Z",
     "disciplines": {
         "DCC208": {
             "code": "DCC208",
             "name": "Introdução à Programação de Computadores",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 4,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 60,
                 "theory": null,
                 "practice": null
             },
             "prereqs": [],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 1,
+            "ementa": "Metodologia de desenvolvimento de programas. Programação em Linguagem de Alto-Nível. Comandos Básicos. Modularização. Estruturas de dados. Bibliotecas científicas."
         },
         "FIS065": {
             "code": "FIS065",
             "name": "Fundamentos de Mecânica",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 4,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 60,
                 "theory": null,
                 "practice": null
             },
             "prereqs": [],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 1,
+            "ementa": "Cinemática da partícula. Força e leis de Newton. Dinâmica da partícula. Trabalho e energia. Conservação de energia. Sistemas de partículas. Conservação do momento linear. Colisões. Cinemática rotacional. Dinâmica de rotação. Torque e equilíbrio de corpos rígidos. Conservação do momento angular. Gravitação."
         },
         "MAT001": {
             "code": "MAT001",
             "name": "Cálculo Diferencial e Integral I",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 6,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 90,
                 "theory": null,
                 "practice": null
             },
             "prereqs": [],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 1,
+            "ementa": "Funções de IR em R. Derivadas. Integrais. Aplicações."
         },
         "MAT038": {
             "code": "MAT038",
             "name": "Geometria Analítica e Álgebra Linear",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 4,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 60,
                 "theory": null,
                 "practice": null
             },
             "prereqs": [],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 1,
+            "ementa": "Álgebra vetorial. Retas e planos. Matrizes, sistemas lineares e determinantes. Espaço vetorial Rn. Autovalores e autovetores de matrizes. Diagonalização de matrizes simétricas."
         },
         "FIS151": {
             "code": "FIS151",
             "name": "Física Experimental Básica: Mecânica",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 2,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 30,
                 "theory": null,
                 "practice": null
             },
             "prereqs": [],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 1,
+            "ementa": "Obtenção, tratamento e análise de dados obtidos em experimentos de mecânica. Utilização de aparelhos de medida. Apresentação de resultados."
         },
         "FIS615": {
             "code": "FIS615",
             "name": "Seminários: Física e Sociedade",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 2,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 30,
                 "theory": null,
                 "practice": null
             },
             "prereqs": [],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 1,
+            "ementa": "Seminários que discutam a relação do físico com a sociedade: questões éticas e ambientais, direitos humanos, diversidade e relações etno-raciais. Palestras de profissionais da área – professores, pesquisadores, físicos da indústria, geofísicos, físicos médicos etc. – com o intuito de mostrar as possíveis áreas de trabalho dos bacharéis e licenciados em Física."
         },
         "FIS003": {
             "code": "FIS003",
             "name": "Evolução das Ideias da Física",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 4,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 60,
                 "theory": null,
                 "practice": null
             },
             "prereqs": [
                 "FIS065"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 2,
+            "ementa": "Filosofia grega da natureza. Ciência alexandrina. Declínio da ciência antiga. Física medieval. Renascença e a revolução científica. Física newtoniana. Física no \"século das luzes\". Decadência do mecanicismo e nascimento do eletromagnetismo e da termodinâmica. Crise finissecular e nascimento da física contemporânea. Problemas atuais."
         },
         "FIS154": {
             "code": "FIS154",
             "name": "Física Experimental Básica: Termodinâmica",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 2,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 30,
                 "theory": null,
                 "practice": null
             },
@@ -127,15 +162,19 @@
                 "FIS151",
                 "FIS065"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 2,
+            "ementa": "Obtenção, tratamento e análise de dados obtidos em experimentos de calor e termodinâmica. Elaboração de relatórios científicos completos."
         },
         "FIS616": {
             "code": "FIS616",
             "name": "Introdução à Computação em Física",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 4,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 60,
                 "theory": null,
                 "practice": null
             },
@@ -143,15 +182,19 @@
                 "DCC208",
                 "MAT001"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 2,
+            "ementa": "Programas gráficos. Tratamento e visualização de dados. Mínimos quadrados, interpolação e extrapolação. Solução de sistemas algébricos lineares. Integração numérica."
         },
         "FIS152": {
             "code": "FIS152",
-            "name": "Fund. Mecânica dos Fluidos e Termodinâmica",
-            "type": null,
-            "credits": null,
+            "name": "Fundamentos de Mecânica dos Fluidos e Termodinâmica",
+            "type": "OB",
+            "credits": 2,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 30,
                 "theory": null,
                 "practice": null
             },
@@ -159,30 +202,38 @@
                 "FIS065",
                 "MAT001"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 2,
+            "ementa": "Estática e dinâmica dos fluidos. Equação de Bernoulli. Temperatura e dilatação. Modelo cinético do gás ideal. Calor e a primeira lei da termodinâmica. Entropia e a segunda lei da termodinâmica."
         },
         "MAT039": {
             "code": "MAT039",
             "name": "Cálculo Diferencial e Integral II",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 4,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 60,
                 "theory": null,
                 "practice": null
             },
             "prereqs": [
                 "MAT001"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 2,
+            "ementa": "Coordenadas polares. Cônicas. Séries. Série e formula de Taylor. Diferenciabilidade de funções de várias variáveis."
         },
         "FIS069": {
             "code": "FIS069",
             "name": "Fundamentos de Eletromagnetismo",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 4,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 60,
                 "theory": null,
                 "practice": null
             },
@@ -190,15 +241,19 @@
                 "FIS065",
                 "MAT039"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 3,
+            "ementa": "Carga elétrica, campo elétrico e a lei de Gauss. Potencial elétrico, capacitores e dielétricos. Corrente e resistência elétricas. Campo magnético e lei de Ampère. Lei de Faraday e indutância. Equações de Maxwell."
         },
         "FIS153": {
             "code": "FIS153",
             "name": "Física Experimental Básica: Eletromagnetismo",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 2,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 30,
                 "theory": null,
                 "practice": null
             },
@@ -206,45 +261,57 @@
                 "FIS151",
                 "FIS065"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 3,
+            "ementa": "Obtenção, tratamento e análise de dados obtidos em experimentos de eletromagnetismo. Elaboração de relatórios científicos completos."
         },
         "MAT002": {
             "code": "MAT002",
             "name": "Cálculo Diferencial e Integral III",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 4,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 60,
                 "theory": null,
                 "practice": null
             },
             "prereqs": [
                 "MAT039"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 3,
+            "ementa": "Integração de função de duas ou mais variáveis. Integrais de linha e de superfície. Teoremas de Gauss e de Stokes."
         },
         "MAT015": {
             "code": "MAT015",
             "name": "Equações Diferenciais A",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 4,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 60,
                 "theory": null,
                 "practice": null
             },
             "prereqs": [
                 "MAT039"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 3,
+            "ementa": "Equações diferenciais de 1ª e 2ª ordens. Sistemas lineares de equações diferenciais lineares. Solução em séries de potência. Transformada de Laplace."
         },
         "FIS034": {
             "code": "FIS034",
             "name": "Mecânica I",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 4,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 60,
                 "theory": null,
                 "practice": null
             },
@@ -252,15 +319,19 @@
                 "FIS065",
                 "MAT015"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 4,
+            "ementa": "Mecânica Newtoniana: movimento em uma dimensão. Oscilações. Movimento Geral em três dimensões. Referenciais não inerciais. Forças Centrais e Gravitação. Dinâmica de Sistema de Partículas."
         },
         "FIS086": {
             "code": "FIS086",
             "name": "Fundamentos de Oscilações, Ondas e Ótica",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 4,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 60,
                 "theory": null,
                 "practice": null
             },
@@ -268,30 +339,38 @@
                 "FIS069",
                 "MAT015"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 4,
+            "ementa": "Oscilações mecânicas. Circuitos elétricos de corrente alternada. Ondas Mecânicas. Som. Ondas Eletromagnéticas. Polarização e birrefringência. Interferência e difração da luz."
         },
         "FIS091": {
             "code": "FIS091",
-            "name": "Fundamentos de Relatividade",
-            "type": null,
-            "credits": null,
+            "name": "Fundamentos da Relatividade",
+            "type": "OB",
+            "credits": 2,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 30,
                 "theory": null,
                 "practice": null
             },
             "prereqs": [
                 "FIS069"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 4,
+            "ementa": "Postulados da relatividade especial; Transformações de Lorentz; Cinemática e dinâmica relativística; Noções de Relatividade Geral."
         },
         "FIS155": {
             "code": "FIS155",
             "name": "Física Experimental Básica: Ondas e Ótica",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 2,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 30,
                 "theory": null,
                 "practice": null
             },
@@ -299,60 +378,76 @@
                 "FIS151",
                 "FIS069"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 4,
+            "ementa": "Obtenção, tratamento e análise de dados obtidos em experimentos de oscilações, ondas e ótica. Elaboração de relatórios científicos completos."
         },
         "MAT016": {
             "code": "MAT016",
             "name": "Equações Diferenciais B",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 4,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 60,
                 "theory": null,
                 "practice": null
             },
             "prereqs": [
                 "MAT015"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 4,
+            "ementa": "Séries integrais de Fourier. Equações diferenciais parciais."
         },
         "FIS036": {
             "code": "FIS036",
             "name": "Mecânica II",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 4,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 60,
                 "theory": null,
                 "practice": null
             },
             "prereqs": [
                 "FIS034"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 5,
+            "ementa": "Mecânica Lagrangeana e Hamiltoniana. Aplicações: Mecânica de Corpos Rígidos, Oscilações Acopladas, Sistemas contínuos."
         },
         "FIS073": {
             "code": "FIS073",
             "name": "Introdução à Física Quântica",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 4,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 60,
                 "theory": null,
                 "practice": null
             },
             "prereqs": [
                 "FIS086"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 5,
+            "ementa": "Quantização da carga, luz e energia. Modelos atômicos. Propriedades ondulatórias das partículas. Equação de Schrödinger. Átomo de hidrogênio."
         },
         "FIS617": {
             "code": "FIS617",
             "name": "Física Experimental: Eletromagnetismo",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 4,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 60,
                 "theory": null,
                 "practice": null
             },
@@ -360,30 +455,38 @@
                 "FIS155",
                 "FIS086"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 5,
+            "ementa": "Experimentos relacionados a fenômenos eletromagnéticos."
         },
         "FIS618": {
             "code": "FIS618",
             "name": "Métodos da Física Teórica I",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 4,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 60,
                 "theory": null,
                 "practice": null
             },
             "prereqs": [
                 "MAT015"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 5,
+            "ementa": "Equações lineares e determinantes. Espaços vetoriais, transformações lineares e matrizes. Autovetores. Produto interno. Operadores autoadjuntos, unitários e normais. Teorema espectral."
         },
         "FIS037": {
             "code": "FIS037",
             "name": "Eletromagnetismo I",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 4,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 60,
                 "theory": null,
                 "practice": null
             },
@@ -391,15 +494,19 @@
                 "FIS069",
                 "MAT002"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 6,
+            "ementa": "Eletrostática. Magnetostática. Campos variáveis no tempo."
         },
         "FIS120": {
             "code": "FIS120",
             "name": "Física Quântica I",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 4,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 60,
                 "theory": null,
                 "practice": null
             },
@@ -407,30 +514,38 @@
                 "FIS073",
                 "FIS618"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 6,
+            "ementa": "Formalismo e postulados da mecânica quântica. Spin ½ e sistemas de 2 níveis. Oscilador harmônico. Momento angular. Potencial central e átomo de hidrogênio."
         },
         "FIS622": {
             "code": "FIS622",
             "name": "Estrutura da Matéria",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 4,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 60,
                 "theory": null,
                 "practice": null
             },
             "prereqs": [
                 "FIS073"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 6,
+            "ementa": "Estatística quântica. Moléculas. Sólidos. Física nuclear. Física de partículas. Cosmologia."
         },
         "FIS621": {
             "code": "FIS621",
             "name": "Física Experimental: Oscilações, Ondas e Ótica",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 4,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 60,
                 "theory": null,
                 "practice": null
             },
@@ -438,45 +553,57 @@
                 "FIS086",
                 "FIS155"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 6,
+            "ementa": "Experimentos relacionados a fenômenos de oscilações, ondas e ótica. Apresentação de seminário sobre um artigo científico experimental."
         },
         "FIS039": {
             "code": "FIS039",
             "name": "Eletromagnetismo II",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 4,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 60,
                 "theory": null,
                 "practice": null
             },
             "prereqs": [
                 "FIS037"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 7,
+            "ementa": "Leis de Conservação. Ondas eletromagnéticas. Potenciais e Campos. Radiação. Eletrodinâmica e Relatividade."
         },
         "FIS628": {
             "code": "FIS628",
             "name": "Termodinâmica e Introdução à Física Estatística",
-            "type": null,
-            "credits": null,
+            "type": "OB",
+            "credits": 4,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 60,
                 "theory": null,
                 "practice": null
             },
             "prereqs": [
                 "FIS622"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 7,
+            "ementa": "Termodinâmica: objetivos e postulados; Equação fundamental e equações de estado, aplicações; Teorema do trabalho máximo, Potenciais termodinâmicos; Relações de Maxwell e estabilidade de sistemas termodinâmicos; Mecânica estatística, ensembles e aplicações."
         },
         "FIS627": {
             "code": "FIS627",
-            "name": "Física Experimental: Fisica Moderna",
-            "type": null,
-            "credits": null,
+            "name": "Física Experimental: Física Moderna",
+            "type": "OB",
+            "credits": 4,
+            "creditsLabel": null,
             "hours": {
-                "total": null,
+                "total": 60,
                 "theory": null,
                 "practice": null
             },
@@ -484,13 +611,1088 @@
                 "FIS621",
                 "FIS073"
             ],
-            "scheduled": true
+            "scheduled": true,
+            "group": null,
+            "period": 7,
+            "ementa": "Experimentos relacionados aos conteúdos de física moderna. Realização de um projeto experimental com apresentação de seminário."
+        },
+        "MAT118": {
+            "code": "MAT118",
+            "name": "Variável Complexa",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MAT002"
+            ],
+            "scheduled": false,
+            "group": "G1",
+            "period": 4,
+            "ementa": "Números complexos. Topologia de C. Funções analíticas, Equações de Cauchy-Riemann. Funções Harmônicas. Integração. Teorema de Cauchy-Goursat. Fórmula integral de Cauchy. Séries de Taylor. Princípio de Máximo. Teorema de Liouville. Singularidades isoladas. Séries de Laurent. Teoremas de resíduos e aplicações."
+        },
+        "FIS630": {
+            "code": "FIS630",
+            "name": "Astronomia Observacional",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS086"
+            ],
+            "scheduled": false,
+            "group": "G1",
+            "period": 5,
+            "ementa": "Medidas da Luz. Sistemas de Coordenadas Astronômicos. Tempo, Posição e Movimento. Telescópios. Detectores. Fotometria. Espectroscopia."
+        },
+        "FIS633": {
+            "code": "FIS633",
+            "name": "Métodos Computacionais em Física",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS616",
+                "MAT016"
+            ],
+            "scheduled": false,
+            "group": "G1",
+            "period": 4,
+            "ementa": "Processamento de sinais, Simulação Monte Carlo, Algoritmos Genéticos, Diferenças Finitas, Dinâmica Molecular."
+        },
+        "FIS006": {
+            "code": "FIS006",
+            "name": "Astrofísica Estelar",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS073"
+            ],
+            "scheduled": false,
+            "group": "G1",
+            "period": 6,
+            "ementa": "Conceitos e Técnicas da Astrofísica. Parâmetros Físicos de Estrelas. Formação, Estrutura e Evolução Estelares."
+        },
+        "FIS623": {
+            "code": "FIS623",
+            "name": "Métodos da Física Teórica II",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS618"
+            ],
+            "scheduled": false,
+            "group": "G1",
+            "period": 6,
+            "ementa": "Espaços vetoriais de dimensão infinita: integral de Lebesgue, espaços Lp. Série e transformada de Fourier. Distribuições e funções de Green. Equações diferenciais via método de Frobenius. Funções especiais."
+        },
+        "FIS632": {
+            "code": "FIS632",
+            "name": "Tópico de Eletrônica Aplicada à Física",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS617"
+            ],
+            "scheduled": false,
+            "group": "G1",
+            "period": 6,
+            "ementa": "Ementa aberta abordando temas de eletrônica e sua aplicação na física."
+        },
+        "FIS007": {
+            "code": "FIS007",
+            "name": "Astrofísica Galáctica",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS006"
+            ],
+            "scheduled": false,
+            "group": "G1",
+            "period": 7,
+            "ementa": "A Via Láctea. Galáxias. Estrutura do Universo."
+        },
+        "FIS042": {
+            "code": "FIS042",
+            "name": "Introdução à Física de Partículas",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS622"
+            ],
+            "scheduled": false,
+            "group": "G1",
+            "period": 7,
+            "ementa": "Partículas Elementares. Simetrias e Leis de Conservação. Equações de Onda Quânticas Relativísticas. Colisões Relativísticas. Invariância de calibre global e local. O Modelo Padrão da Física de Partículas. Física além do modelo padrão: Teorias Efetivas."
+        },
+        "FIS121": {
+            "code": "FIS121",
+            "name": "Física Quântica II",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS120"
+            ],
+            "scheduled": false,
+            "group": "G1",
+            "period": 7,
+            "ementa": "Teoria quântica de espalhamento. Adição de momento angular. Teoria de perturbação independente e dependente do tempo. Estruturas fina e hiperfina do átomo de hidrogênio. Sistema de partículas idênticas. Tópicos modernos diversos."
+        },
+        "FIS127": {
+            "code": "FIS127",
+            "name": "Introdução à Física do Estado Sólido",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS622"
+            ],
+            "scheduled": false,
+            "group": "G1",
+            "period": 7,
+            "ementa": "Estrutura, difração e ligações cristalinas. Rede recíproca. Fônons: vibrações da rede e propriedades térmicas. Gás de Fermi de elétrons livres. Bandas de energia. Cristais semicondutores. Dielétricos e ferroelétricos. Ferromagnetismo. Supercondutividade."
+        },
+        "FIS631": {
+            "code": "FIS631",
+            "name": "Física Atômica e Molecular",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS073"
+            ],
+            "scheduled": false,
+            "group": "G1",
+            "period": 6,
+            "ementa": "Interação elétron-núcleo; Interação elétron-elétron; Interação de átomos e moléculas com campos elétricos e magnéticos; Interação átomo-átomo; Ligações moleculares: iônica, covalente e van der Waals; Teoria de Grupos aplicada ao espectro de átomos e moléculas; átomos de Rydberg."
+        },
+        "FIS040": {
+            "code": "FIS040",
+            "name": "Física Experimental Avançada",
+            "type": "OP",
+            "credits": 6,
+            "creditsLabel": null,
+            "hours": {
+                "total": 90,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS627"
+            ],
+            "scheduled": false,
+            "group": "G1",
+            "period": 8,
+            "ementa": "Realização de experimentos em laboratórios de pesquisa."
+        },
+        "FIS123": {
+            "code": "FIS123",
+            "name": "Ótica",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS039"
+            ],
+            "scheduled": false,
+            "group": "G1",
+            "period": 8,
+            "ementa": "Ótica Geométrica. Natureza vetorial da luz. Equação de onda. Polarização. Interferência e Coerência. Interferência de Feixes múltiplos. Difração. Ótica de sólidos. Lasers"
+        },
+        "FIS634": {
+            "code": "FIS634",
+            "name": "Tópicos de Astrofísica A",
+            "type": "OP",
+            "credits": 2,
+            "creditsLabel": "2–4",
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G1",
+            "period": null,
+            "ementa": null
+        },
+        "FIS639": {
+            "code": "FIS639",
+            "name": "Tópicos de Astrofísica B",
+            "type": "OP",
+            "credits": 2,
+            "creditsLabel": "2–4",
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G1",
+            "period": null,
+            "ementa": null
+        },
+        "FIS640": {
+            "code": "FIS640",
+            "name": "Tópicos de Astrofísica C",
+            "type": "OP",
+            "credits": 2,
+            "creditsLabel": "2–4",
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G1",
+            "period": null,
+            "ementa": null
+        },
+        "FIS644": {
+            "code": "FIS644",
+            "name": "Tópicos de Física dos Materiais A",
+            "type": "OP",
+            "credits": 2,
+            "creditsLabel": "2–4",
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G1",
+            "period": null,
+            "ementa": null
+        },
+        "FIS645": {
+            "code": "FIS645",
+            "name": "Tópicos de Física dos Materiais B",
+            "type": "OP",
+            "credits": 2,
+            "creditsLabel": "2–4",
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G1",
+            "period": null,
+            "ementa": null
+        },
+        "FIS646": {
+            "code": "FIS646",
+            "name": "Tópicos de Física dos Materiais C",
+            "type": "OP",
+            "credits": 2,
+            "creditsLabel": "2–4",
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G1",
+            "period": null,
+            "ementa": null
+        },
+        "FIS641": {
+            "code": "FIS641",
+            "name": "Tópicos de Física Teórica A",
+            "type": "OP",
+            "credits": 2,
+            "creditsLabel": "2–4",
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G1",
+            "period": null,
+            "ementa": null
+        },
+        "FIS642": {
+            "code": "FIS642",
+            "name": "Tópicos de Física Teórica B",
+            "type": "OP",
+            "credits": 2,
+            "creditsLabel": "2–4",
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G1",
+            "period": null,
+            "ementa": null
+        },
+        "FIS643": {
+            "code": "FIS643",
+            "name": "Tópicos de Física Teórica C",
+            "type": "OP",
+            "credits": 2,
+            "creditsLabel": "2–4",
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G1",
+            "period": null,
+            "ementa": null
+        },
+        "FIS635": {
+            "code": "FIS635",
+            "name": "Tópicos Gerais em Física A",
+            "type": "OP",
+            "credits": 2,
+            "creditsLabel": "2–4",
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G1",
+            "period": null,
+            "ementa": null
+        },
+        "FIS636": {
+            "code": "FIS636",
+            "name": "Tópicos Gerais em Física B",
+            "type": "OP",
+            "credits": 2,
+            "creditsLabel": "2–4",
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G1",
+            "period": null,
+            "ementa": null
+        },
+        "FIS637": {
+            "code": "FIS637",
+            "name": "Tópicos Gerais em Física C",
+            "type": "OP",
+            "credits": 2,
+            "creditsLabel": "2–4",
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G1",
+            "period": null,
+            "ementa": null
+        },
+        "ICE061": {
+            "code": "ICE061",
+            "name": "Tópicos Especiais A",
+            "type": "OP",
+            "credits": 2,
+            "creditsLabel": "2–4",
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G9",
+            "period": null,
+            "ementa": null
+        },
+        "ICE062": {
+            "code": "ICE062",
+            "name": "Tópicos Especiais B",
+            "type": "OP",
+            "credits": 2,
+            "creditsLabel": "2–4",
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G9",
+            "period": null,
+            "ementa": null
+        },
+        "ICE063": {
+            "code": "ICE063",
+            "name": "Tópicos Especiais C",
+            "type": "OP",
+            "credits": 2,
+            "creditsLabel": "2–4",
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G9",
+            "period": null,
+            "ementa": null
+        },
+        "ICE055": {
+            "code": "ICE055",
+            "name": "Tópicos em Ensino de Física A",
+            "type": "OP",
+            "credits": 1,
+            "creditsLabel": "1–6",
+            "hours": {
+                "total": 15,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G9",
+            "period": null,
+            "ementa": null
+        },
+        "ICE056": {
+            "code": "ICE056",
+            "name": "Tópicos em Ensino de Física B",
+            "type": "OP",
+            "credits": 1,
+            "creditsLabel": "1–6",
+            "hours": {
+                "total": 15,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G9",
+            "period": null,
+            "ementa": null
+        },
+        "ICE057": {
+            "code": "ICE057",
+            "name": "Tópicos em Ensino de Física C",
+            "type": "OP",
+            "credits": 1,
+            "creditsLabel": "1–6",
+            "hours": {
+                "total": 15,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G9",
+            "period": null,
+            "ementa": null
+        },
+        "ICE058": {
+            "code": "ICE058",
+            "name": "Tópicos em Ensino de Física D",
+            "type": "OP",
+            "credits": 1,
+            "creditsLabel": "1–6",
+            "hours": {
+                "total": 15,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G9",
+            "period": null,
+            "ementa": null
+        },
+        "ICE059": {
+            "code": "ICE059",
+            "name": "Tópicos em Ensino de Física E",
+            "type": "OP",
+            "credits": 1,
+            "creditsLabel": "1–6",
+            "hours": {
+                "total": 15,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G9",
+            "period": null,
+            "ementa": null
+        },
+        "ICE060": {
+            "code": "ICE060",
+            "name": "Tópicos em Ensino de Física F",
+            "type": "OP",
+            "credits": 1,
+            "creditsLabel": "1–6",
+            "hours": {
+                "total": 15,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G9",
+            "period": null,
+            "ementa": null
+        },
+        "LET223": {
+            "code": "LET223",
+            "name": "Fundamentos de Libras",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G9",
+            "period": 2,
+            "ementa": "Visão sócio-antropológica da Surdez. Aspectos históricos da Educação de Surdos e da formação da Libras. Relações entre surdos e ouvintes (educador, intérprete e família) e seu reflexo no contexto educacional. Noções básicas da estrutura lingüística da Libras e de sua gramática. Filosofias educacionais aplicadas aos Surdos e sua produção textual. Comunicação Básica em Libras."
+        },
+        "QUI003": {
+            "code": "QUI003",
+            "name": "Química Geral B",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G9",
+            "period": 1,
+            "ementa": null
+        },
+        "QUI019": {
+            "code": "QUI019",
+            "name": "Química Geral Experimental",
+            "type": "OP",
+            "credits": 2,
+            "creditsLabel": null,
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G9",
+            "period": 1,
+            "ementa": null
+        },
+        "ICB001": {
+            "code": "ICB001",
+            "name": "Bases Ecológicas para o Desenvolvimento Sustentável",
+            "type": "OP",
+            "credits": 2,
+            "creditsLabel": null,
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G9",
+            "period": 1,
+            "ementa": "Conceitos ecológicos fundamentais para os diferentes aspectos do desenvolvimento sustentável. Conscientização de problemas e soluções para a crise ambiental contemporânea."
+        },
+        "DCC203": {
+            "code": "DCC203",
+            "name": "Programação e Desenvolvimento de Software 1",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G9",
+            "period": 2,
+            "ementa": "Introdução ao funcionamento de um computador e ao desenvolvimento de programas. Desenvolvimento de programas em uma linguagem de alto nível. Tipos de dados simples, apontadores, variáveis compostas homogêneas e heterogêneas. Entrada e saída. Estruturas de controle e repetição. Funções e ferramentas de modularização."
+        },
+        "EST031": {
+            "code": "EST031",
+            "name": "Estatística e Probabilidade",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MAT001"
+            ],
+            "scheduled": false,
+            "group": "G9",
+            "period": 2,
+            "ementa": null
+        },
+        "DCC033": {
+            "code": "DCC033",
+            "name": "Análise Numérica",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MAT001"
+            ],
+            "scheduled": false,
+            "group": "G9",
+            "period": null,
+            "ementa": null
+        },
+        "DCC204": {
+            "code": "DCC204",
+            "name": "Programação e Desenvolvimento de Software 2",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "DCC203"
+            ],
+            "scheduled": false,
+            "group": "G9",
+            "period": 3,
+            "ementa": "Programação estruturada e linguagem de programação modular. Metodologias de desenvolvimento de software. Compreensão, corretude e depuração de programas. Resolução de problemas de forma modular e eficiente."
+        },
+        "QUI604": {
+            "code": "QUI604",
+            "name": "Físico-Química II",
+            "type": "OP",
+            "credits": 6,
+            "creditsLabel": null,
+            "hours": {
+                "total": 90,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS152",
+                "QUI003"
+            ],
+            "scheduled": false,
+            "group": "G9",
+            "period": null,
+            "ementa": null
+        },
+        "DCC205": {
+            "code": "DCC205",
+            "name": "Estrutura de Dados",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "DCC204"
+            ],
+            "scheduled": false,
+            "group": "G9",
+            "period": 2,
+            "ementa": "Análise de algoritmos. Abstração de dados. Introdução às técnicas de análise de algoritmos. Estruturas de dados estáticas e dinâmicas na memória principal e secundária. Estruturas de dados para realização eficiente de operações sobre dados."
+        },
+        "FIS004": {
+            "code": "FIS004",
+            "name": "Astronomia Geral",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS065"
+            ],
+            "scheduled": false,
+            "group": "G9",
+            "period": 2,
+            "ementa": "Sistema Solar. Estrelas. A Via Láctea. Galáxias. Cosmologia."
+        },
+        "FIS620": {
+            "code": "FIS620",
+            "name": "Física Conceitual A",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS152"
+            ],
+            "scheduled": false,
+            "group": "G9",
+            "period": 4,
+            "ementa": "Aprofundamento nos conceitos básicos de Física com enfoque de Ensino Médio e contextualização no cotidiano, com aplicações em problemas relacionados ao meio ambiente, nas áreas de: mecânica da partícula e do corpo rígido; propriedades da matéria – sólidos e fluidos; física térmica."
+        },
+        "MAT244": {
+            "code": "MAT244",
+            "name": "Introd. Geometria Diferencial",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MAT002"
+            ],
+            "scheduled": false,
+            "group": "G9",
+            "period": 6,
+            "ementa": "Conceito de curvas, curvatura e torção. Teoria de Curvas. Conceito de superfícies, 1a e 2a formas fundamentais."
+        },
+        "FIS619": {
+            "code": "FIS619",
+            "name": "Recursos Didáticos: Mecânica, Fluidos e Física Térmica",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS155",
+                "FIS086"
+            ],
+            "scheduled": false,
+            "group": "G9",
+            "period": 5,
+            "ementa": "Aplicação de conhecimentos específicos de física e abordagens didáticas em situações de ensino dos conteúdos de mecânica, fluidos e termodinâmica a nível de ensino médio. Estratégias de elaboração de aulas teórico-expositivas e elaboração de planos de aula. Instrumentos didáticos para o ensino: experimentos, demonstrações, softwares interativos, simulações, vídeos e resolução de problemas. Realização pelos estudantes de aulas práticas demonstrativas com a utilização e análise desses recursos."
+        },
+        "FIS624": {
+            "code": "FIS624",
+            "name": "Física Conceitual B",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS073",
+                "FIS091"
+            ],
+            "scheduled": false,
+            "group": "G9",
+            "period": 5,
+            "ementa": "Aprofundamento nos conceitos básicos de Física com enfoque de Ensino Médio e contextualização no cotidiano, com aplicações em problemas relacionados ao meio ambiente, nas áreas de: oscilações e ondas; eletromagnetismo; ótica; física quântica; estrutura atômica e nuclear; teoria da relatividade."
+        },
+        "FIS652": {
+            "code": "FIS652",
+            "name": "Métodos Computacionais no Ensino de Física",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS616"
+            ],
+            "scheduled": false,
+            "group": "G9",
+            "period": 4,
+            "ementa": "Linguagens de simulação interativas, modelos numéricos, formatos de imagem e vídeo, edição de imagem e vídeo."
+        },
+        "MAT243": {
+            "code": "MAT243",
+            "name": "Análise I",
+            "type": "OP",
+            "credits": 6,
+            "creditsLabel": null,
+            "hours": {
+                "total": 90,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MAT002"
+            ],
+            "scheduled": false,
+            "group": "G9",
+            "period": 6,
+            "ementa": null
+        },
+        "MAT246": {
+            "code": "MAT246",
+            "name": "Introd. Equações Diferenciais Ordinárias",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MAT016"
+            ],
+            "scheduled": false,
+            "group": "G9",
+            "period": 6,
+            "ementa": "Equações diferenciais de 1a e 2a ordens. Equações diferenciais lineares. Sistemas de equações diferenciais. Sistemas lineares com coeficientes constantes. Existência e unicidade de soluções."
+        },
+        "MAT247": {
+            "code": "MAT247",
+            "name": "Introd. Equações Diferenciais Parciais",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MAT016"
+            ],
+            "scheduled": false,
+            "group": "G9",
+            "period": 6,
+            "ementa": null
+        },
+        "FIS625": {
+            "code": "FIS625",
+            "name": "Recursos Didáticos: Eletromagnetismo",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS619"
+            ],
+            "scheduled": false,
+            "group": "G9",
+            "period": 6,
+            "ementa": "Aplicação de conhecimentos específicos de física e abordagens didáticas em situações de ensino dos conteúdos de eletromagnetismo a nível de ensino médio. Instrumentos didáticos para o ensino: experimentos, demonstrações, softwares interativos, simulações, vídeos e resolução de problemas. Realização pelos estudantes de aulas práticas demonstrativas com a utilização e análise desses recursos."
+        },
+        "FIS626": {
+            "code": "FIS626",
+            "name": "Recursos Didáticos: Astronomia",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS004",
+                "FIS619"
+            ],
+            "scheduled": false,
+            "group": "G9",
+            "period": 5,
+            "ementa": "Aplicação de conhecimentos específicos de Astronomia e técnicas didáticas em situações concretas no nível de ensino médio e/ou fundamental. Instrumentos didáticos para o ensino: práticas com telescópio, experimentos, demonstrações, softwares interativos, simulações, vídeos e resolução de problemas."
+        },
+        "MAT245": {
+            "code": "MAT245",
+            "name": "Análise II",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "MAT243"
+            ],
+            "scheduled": false,
+            "group": "G9",
+            "period": 6,
+            "ementa": null
+        },
+        "FIS629": {
+            "code": "FIS629",
+            "name": "Recursos Didáticos: Ondas, Ótica e Física Moderna",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [
+                "FIS619",
+                "FIS073",
+                "FIS091"
+            ],
+            "scheduled": false,
+            "group": "G9",
+            "period": 7,
+            "ementa": "Aplicação de conhecimentos específicos de física e abordagens didáticas em situações de ensino dos conteúdos de Ótica, ondas e física moderna a nível de ensino médio. Instrumentos didáticos para o ensino: experimentos, demonstrações, softwares interativos, simulações, vídeos e resolução de problemas. Realização pelos estudantes de aulas praticas demonstrativas com a utilização e análise desses recursos."
+        },
+        "DIT121": {
+            "code": "DIT121",
+            "name": "Direitos Humanos",
+            "type": "OP",
+            "credits": 2,
+            "creditsLabel": null,
+            "hours": {
+                "total": 30,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G9",
+            "period": 1,
+            "ementa": "Proteção, promoção e restauração em direitos humanos e cidadania. Direitos de crianças e adolescentes. Direitos étnico-raciais. Direitos de gênero."
+        },
+        "FIS638": {
+            "code": "FIS638",
+            "name": "Tópicos Avançados de Física",
+            "type": "OP",
+            "credits": 4,
+            "creditsLabel": null,
+            "hours": {
+                "total": 60,
+                "theory": null,
+                "practice": null
+            },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G8",
+            "period": 8,
+            "ementa": null
         }
     },
     "percursos": [
         {
-            "id": "padrao",
-            "name": "Matriz curricular (fonte legada)",
+            "id": "01-01",
+            "name": "Bacharelado — formação padrão (01-01)",
             "periods": [
                 {
                     "number": 1,
@@ -564,12 +1766,889 @@
                         "FIS628"
                     ],
                     "optional": []
+                },
+                {
+                    "number": 8,
+                    "codes": [],
+                    "optional": []
                 }
             ],
-            "optionalSlots": [],
-            "optionalPool": [],
+            "optionalSlots": [
+                {
+                    "id": "OPT-01-01-01",
+                    "label": "Optativa 1",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-02",
+                    "label": "Optativa 2",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-03",
+                    "label": "Optativa 3",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-04",
+                    "label": "Optativa 4",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-05",
+                    "label": "Optativa 5",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-06",
+                    "label": "Optativa 6",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-07",
+                    "label": "Optativa 7",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-08",
+                    "label": "Optativa 8",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-09",
+                    "label": "Optativa 9",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-10",
+                    "label": "Optativa 10",
+                    "hours": 60,
+                    "group": "Optativas"
+                },
+                {
+                    "id": "OPT-01-01-11",
+                    "label": "Optativa 11",
+                    "hours": 60,
+                    "group": "Optativas"
+                }
+            ],
+            "optionalPool": [
+                {
+                    "code": "FIS006",
+                    "name": "Astrofísica Estelar",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [
+                        "FIS073"
+                    ],
+                    "period": 6,
+                    "ementa": "Conceitos e Técnicas da Astrofísica. Parâmetros Físicos de Estrelas. Formação, Estrutura e Evolução Estelares."
+                },
+                {
+                    "code": "FIS007",
+                    "name": "Astrofísica Galáctica",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [
+                        "FIS006"
+                    ],
+                    "period": 7,
+                    "ementa": "A Via Láctea. Galáxias. Estrutura do Universo."
+                },
+                {
+                    "code": "FIS040",
+                    "name": "Física Experimental Avançada",
+                    "hours": 90,
+                    "credits": 6,
+                    "creditsLabel": null,
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [
+                        "FIS627"
+                    ],
+                    "period": 8,
+                    "ementa": "Realização de experimentos em laboratórios de pesquisa."
+                },
+                {
+                    "code": "FIS042",
+                    "name": "Introdução à Física de Partículas",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [
+                        "FIS622"
+                    ],
+                    "period": 7,
+                    "ementa": "Partículas Elementares. Simetrias e Leis de Conservação. Equações de Onda Quânticas Relativísticas. Colisões Relativísticas. Invariância de calibre global e local. O Modelo Padrão da Física de Partículas. Física além do modelo padrão: Teorias Efetivas."
+                },
+                {
+                    "code": "FIS121",
+                    "name": "Física Quântica II",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [
+                        "FIS120"
+                    ],
+                    "period": 7,
+                    "ementa": "Teoria quântica de espalhamento. Adição de momento angular. Teoria de perturbação independente e dependente do tempo. Estruturas fina e hiperfina do átomo de hidrogênio. Sistema de partículas idênticas. Tópicos modernos diversos."
+                },
+                {
+                    "code": "FIS123",
+                    "name": "Ótica",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [
+                        "FIS039"
+                    ],
+                    "period": 8,
+                    "ementa": "Ótica Geométrica. Natureza vetorial da luz. Equação de onda. Polarização. Interferência e Coerência. Interferência de Feixes múltiplos. Difração. Ótica de sólidos. Lasers"
+                },
+                {
+                    "code": "FIS127",
+                    "name": "Introdução à Física do Estado Sólido",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [
+                        "FIS622"
+                    ],
+                    "period": 7,
+                    "ementa": "Estrutura, difração e ligações cristalinas. Rede recíproca. Fônons: vibrações da rede e propriedades térmicas. Gás de Fermi de elétrons livres. Bandas de energia. Cristais semicondutores. Dielétricos e ferroelétricos. Ferromagnetismo. Supercondutividade."
+                },
+                {
+                    "code": "FIS623",
+                    "name": "Métodos da Física Teórica II",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [
+                        "FIS618"
+                    ],
+                    "period": 6,
+                    "ementa": "Espaços vetoriais de dimensão infinita: integral de Lebesgue, espaços Lp. Série e transformada de Fourier. Distribuições e funções de Green. Equações diferenciais via método de Frobenius. Funções especiais."
+                },
+                {
+                    "code": "FIS630",
+                    "name": "Astronomia Observacional",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [
+                        "FIS086"
+                    ],
+                    "period": 5,
+                    "ementa": "Medidas da Luz. Sistemas de Coordenadas Astronômicos. Tempo, Posição e Movimento. Telescópios. Detectores. Fotometria. Espectroscopia."
+                },
+                {
+                    "code": "FIS631",
+                    "name": "Física Atômica e Molecular",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [
+                        "FIS073"
+                    ],
+                    "period": 6,
+                    "ementa": "Interação elétron-núcleo; Interação elétron-elétron; Interação de átomos e moléculas com campos elétricos e magnéticos; Interação átomo-átomo; Ligações moleculares: iônica, covalente e van der Waals; Teoria de Grupos aplicada ao espectro de átomos e moléculas; átomos de Rydberg."
+                },
+                {
+                    "code": "FIS632",
+                    "name": "Tópico de Eletrônica Aplicada à Física",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [
+                        "FIS617"
+                    ],
+                    "period": 6,
+                    "ementa": "Ementa aberta abordando temas de eletrônica e sua aplicação na física."
+                },
+                {
+                    "code": "FIS633",
+                    "name": "Métodos Computacionais em Física",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [
+                        "FIS616",
+                        "MAT016"
+                    ],
+                    "period": 4,
+                    "ementa": "Processamento de sinais, Simulação Monte Carlo, Algoritmos Genéticos, Diferenças Finitas, Dinâmica Molecular."
+                },
+                {
+                    "code": "FIS634",
+                    "name": "Tópicos de Astrofísica A",
+                    "hours": 30,
+                    "credits": 2,
+                    "creditsLabel": "2–4",
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [],
+                    "period": null,
+                    "ementa": null
+                },
+                {
+                    "code": "FIS635",
+                    "name": "Tópicos Gerais em Física A",
+                    "hours": 30,
+                    "credits": 2,
+                    "creditsLabel": "2–4",
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [],
+                    "period": null,
+                    "ementa": null
+                },
+                {
+                    "code": "FIS636",
+                    "name": "Tópicos Gerais em Física B",
+                    "hours": 30,
+                    "credits": 2,
+                    "creditsLabel": "2–4",
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [],
+                    "period": null,
+                    "ementa": null
+                },
+                {
+                    "code": "FIS637",
+                    "name": "Tópicos Gerais em Física C",
+                    "hours": 30,
+                    "credits": 2,
+                    "creditsLabel": "2–4",
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [],
+                    "period": null,
+                    "ementa": null
+                },
+                {
+                    "code": "FIS639",
+                    "name": "Tópicos de Astrofísica B",
+                    "hours": 30,
+                    "credits": 2,
+                    "creditsLabel": "2–4",
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [],
+                    "period": null,
+                    "ementa": null
+                },
+                {
+                    "code": "FIS640",
+                    "name": "Tópicos de Astrofísica C",
+                    "hours": 30,
+                    "credits": 2,
+                    "creditsLabel": "2–4",
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [],
+                    "period": null,
+                    "ementa": null
+                },
+                {
+                    "code": "FIS641",
+                    "name": "Tópicos de Física Teórica A",
+                    "hours": 30,
+                    "credits": 2,
+                    "creditsLabel": "2–4",
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [],
+                    "period": null,
+                    "ementa": null
+                },
+                {
+                    "code": "FIS642",
+                    "name": "Tópicos de Física Teórica B",
+                    "hours": 30,
+                    "credits": 2,
+                    "creditsLabel": "2–4",
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [],
+                    "period": null,
+                    "ementa": null
+                },
+                {
+                    "code": "FIS643",
+                    "name": "Tópicos de Física Teórica C",
+                    "hours": 30,
+                    "credits": 2,
+                    "creditsLabel": "2–4",
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [],
+                    "period": null,
+                    "ementa": null
+                },
+                {
+                    "code": "FIS644",
+                    "name": "Tópicos de Física dos Materiais A",
+                    "hours": 30,
+                    "credits": 2,
+                    "creditsLabel": "2–4",
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [],
+                    "period": null,
+                    "ementa": null
+                },
+                {
+                    "code": "FIS645",
+                    "name": "Tópicos de Física dos Materiais B",
+                    "hours": 30,
+                    "credits": 2,
+                    "creditsLabel": "2–4",
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [],
+                    "period": null,
+                    "ementa": null
+                },
+                {
+                    "code": "FIS646",
+                    "name": "Tópicos de Física dos Materiais C",
+                    "hours": 30,
+                    "credits": 2,
+                    "creditsLabel": "2–4",
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [],
+                    "period": null,
+                    "ementa": null
+                },
+                {
+                    "code": "MAT118",
+                    "name": "Variável Complexa",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": [
+                        "MAT002"
+                    ],
+                    "period": 4,
+                    "ementa": "Números complexos. Topologia de C. Funções analíticas, Equações de Cauchy-Riemann. Funções Harmônicas. Integração. Teorema de Cauchy-Goursat. Fórmula integral de Cauchy. Séries de Taylor. Princípio de Máximo. Teorema de Liouville. Singularidades isoladas. Séries de Laurent. Teoremas de resíduos e aplicações."
+                },
+                {
+                    "code": "FIS638",
+                    "name": "Tópicos Avançados de Física",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G8",
+                    "groupName": "G8 — Formação Avançada em Física (pós-graduação)",
+                    "prereqs": [],
+                    "period": 8,
+                    "ementa": null
+                },
+                {
+                    "code": "DCC033",
+                    "name": "Análise Numérica",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [
+                        "MAT001"
+                    ],
+                    "period": null,
+                    "ementa": null
+                },
+                {
+                    "code": "DCC203",
+                    "name": "Programação e Desenvolvimento de Software 1",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [],
+                    "period": 2,
+                    "ementa": "Introdução ao funcionamento de um computador e ao desenvolvimento de programas. Desenvolvimento de programas em uma linguagem de alto nível. Tipos de dados simples, apontadores, variáveis compostas homogêneas e heterogêneas. Entrada e saída. Estruturas de controle e repetição. Funções e ferramentas de modularização."
+                },
+                {
+                    "code": "DCC204",
+                    "name": "Programação e Desenvolvimento de Software 2",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [
+                        "DCC203"
+                    ],
+                    "period": 3,
+                    "ementa": "Programação estruturada e linguagem de programação modular. Metodologias de desenvolvimento de software. Compreensão, corretude e depuração de programas. Resolução de problemas de forma modular e eficiente."
+                },
+                {
+                    "code": "DCC205",
+                    "name": "Estrutura de Dados",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [
+                        "DCC204"
+                    ],
+                    "period": 2,
+                    "ementa": "Análise de algoritmos. Abstração de dados. Introdução às técnicas de análise de algoritmos. Estruturas de dados estáticas e dinâmicas na memória principal e secundária. Estruturas de dados para realização eficiente de operações sobre dados."
+                },
+                {
+                    "code": "DIT121",
+                    "name": "Direitos Humanos",
+                    "hours": 30,
+                    "credits": 2,
+                    "creditsLabel": null,
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [],
+                    "period": 1,
+                    "ementa": "Proteção, promoção e restauração em direitos humanos e cidadania. Direitos de crianças e adolescentes. Direitos étnico-raciais. Direitos de gênero.",
+                    "extra": true
+                },
+                {
+                    "code": "EST031",
+                    "name": "Estatística e Probabilidade",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [
+                        "MAT001"
+                    ],
+                    "period": 2,
+                    "ementa": null
+                },
+                {
+                    "code": "FIS004",
+                    "name": "Astronomia Geral",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [
+                        "FIS065"
+                    ],
+                    "period": 2,
+                    "ementa": "Sistema Solar. Estrelas. A Via Láctea. Galáxias. Cosmologia."
+                },
+                {
+                    "code": "FIS619",
+                    "name": "Recursos Didáticos: Mecânica, Fluidos e Física Térmica",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [
+                        "FIS155",
+                        "FIS086"
+                    ],
+                    "period": 5,
+                    "ementa": "Aplicação de conhecimentos específicos de física e abordagens didáticas em situações de ensino dos conteúdos de mecânica, fluidos e termodinâmica a nível de ensino médio. Estratégias de elaboração de aulas teórico-expositivas e elaboração de planos de aula. Instrumentos didáticos para o ensino: experimentos, demonstrações, softwares interativos, simulações, vídeos e resolução de problemas. Realização pelos estudantes de aulas práticas demonstrativas com a utilização e análise desses recursos."
+                },
+                {
+                    "code": "FIS620",
+                    "name": "Física Conceitual A",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [
+                        "FIS152"
+                    ],
+                    "period": 4,
+                    "ementa": "Aprofundamento nos conceitos básicos de Física com enfoque de Ensino Médio e contextualização no cotidiano, com aplicações em problemas relacionados ao meio ambiente, nas áreas de: mecânica da partícula e do corpo rígido; propriedades da matéria – sólidos e fluidos; física térmica."
+                },
+                {
+                    "code": "FIS624",
+                    "name": "Física Conceitual B",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [
+                        "FIS073",
+                        "FIS091"
+                    ],
+                    "period": 5,
+                    "ementa": "Aprofundamento nos conceitos básicos de Física com enfoque de Ensino Médio e contextualização no cotidiano, com aplicações em problemas relacionados ao meio ambiente, nas áreas de: oscilações e ondas; eletromagnetismo; ótica; física quântica; estrutura atômica e nuclear; teoria da relatividade."
+                },
+                {
+                    "code": "FIS625",
+                    "name": "Recursos Didáticos: Eletromagnetismo",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [
+                        "FIS619"
+                    ],
+                    "period": 6,
+                    "ementa": "Aplicação de conhecimentos específicos de física e abordagens didáticas em situações de ensino dos conteúdos de eletromagnetismo a nível de ensino médio. Instrumentos didáticos para o ensino: experimentos, demonstrações, softwares interativos, simulações, vídeos e resolução de problemas. Realização pelos estudantes de aulas práticas demonstrativas com a utilização e análise desses recursos."
+                },
+                {
+                    "code": "FIS626",
+                    "name": "Recursos Didáticos: Astronomia",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [
+                        "FIS004",
+                        "FIS619"
+                    ],
+                    "period": 5,
+                    "ementa": "Aplicação de conhecimentos específicos de Astronomia e técnicas didáticas em situações concretas no nível de ensino médio e/ou fundamental. Instrumentos didáticos para o ensino: práticas com telescópio, experimentos, demonstrações, softwares interativos, simulações, vídeos e resolução de problemas."
+                },
+                {
+                    "code": "FIS629",
+                    "name": "Recursos Didáticos: Ondas, Ótica e Física Moderna",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [
+                        "FIS619",
+                        "FIS073",
+                        "FIS091"
+                    ],
+                    "period": 7,
+                    "ementa": "Aplicação de conhecimentos específicos de física e abordagens didáticas em situações de ensino dos conteúdos de Ótica, ondas e física moderna a nível de ensino médio. Instrumentos didáticos para o ensino: experimentos, demonstrações, softwares interativos, simulações, vídeos e resolução de problemas. Realização pelos estudantes de aulas praticas demonstrativas com a utilização e análise desses recursos."
+                },
+                {
+                    "code": "FIS652",
+                    "name": "Métodos Computacionais no Ensino de Física",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [
+                        "FIS616"
+                    ],
+                    "period": 4,
+                    "ementa": "Linguagens de simulação interativas, modelos numéricos, formatos de imagem e vídeo, edição de imagem e vídeo."
+                },
+                {
+                    "code": "ICB001",
+                    "name": "Bases Ecológicas para o Desenvolvimento Sustentável",
+                    "hours": 30,
+                    "credits": 2,
+                    "creditsLabel": null,
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [],
+                    "period": 1,
+                    "ementa": "Conceitos ecológicos fundamentais para os diferentes aspectos do desenvolvimento sustentável. Conscientização de problemas e soluções para a crise ambiental contemporânea."
+                },
+                {
+                    "code": "ICE055",
+                    "name": "Tópicos em Ensino de Física A",
+                    "hours": 15,
+                    "credits": 1,
+                    "creditsLabel": "1–6",
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [],
+                    "period": null,
+                    "ementa": null
+                },
+                {
+                    "code": "ICE056",
+                    "name": "Tópicos em Ensino de Física B",
+                    "hours": 15,
+                    "credits": 1,
+                    "creditsLabel": "1–6",
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [],
+                    "period": null,
+                    "ementa": null
+                },
+                {
+                    "code": "ICE057",
+                    "name": "Tópicos em Ensino de Física C",
+                    "hours": 15,
+                    "credits": 1,
+                    "creditsLabel": "1–6",
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [],
+                    "period": null,
+                    "ementa": null
+                },
+                {
+                    "code": "ICE058",
+                    "name": "Tópicos em Ensino de Física D",
+                    "hours": 15,
+                    "credits": 1,
+                    "creditsLabel": "1–6",
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [],
+                    "period": null,
+                    "ementa": null
+                },
+                {
+                    "code": "ICE059",
+                    "name": "Tópicos em Ensino de Física E",
+                    "hours": 15,
+                    "credits": 1,
+                    "creditsLabel": "1–6",
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [],
+                    "period": null,
+                    "ementa": null
+                },
+                {
+                    "code": "ICE060",
+                    "name": "Tópicos em Ensino de Física F",
+                    "hours": 15,
+                    "credits": 1,
+                    "creditsLabel": "1–6",
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [],
+                    "period": null,
+                    "ementa": null
+                },
+                {
+                    "code": "ICE061",
+                    "name": "Tópicos Especiais A",
+                    "hours": 30,
+                    "credits": 2,
+                    "creditsLabel": "2–4",
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [],
+                    "period": null,
+                    "ementa": null
+                },
+                {
+                    "code": "ICE062",
+                    "name": "Tópicos Especiais B",
+                    "hours": 30,
+                    "credits": 2,
+                    "creditsLabel": "2–4",
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [],
+                    "period": null,
+                    "ementa": null
+                },
+                {
+                    "code": "ICE063",
+                    "name": "Tópicos Especiais C",
+                    "hours": 30,
+                    "credits": 2,
+                    "creditsLabel": "2–4",
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [],
+                    "period": null,
+                    "ementa": null
+                },
+                {
+                    "code": "LET223",
+                    "name": "Fundamentos de Libras",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [],
+                    "period": 2,
+                    "ementa": "Visão sócio-antropológica da Surdez. Aspectos históricos da Educação de Surdos e da formação da Libras. Relações entre surdos e ouvintes (educador, intérprete e família) e seu reflexo no contexto educacional. Noções básicas da estrutura lingüística da Libras e de sua gramática. Filosofias educacionais aplicadas aos Surdos e sua produção textual. Comunicação Básica em Libras."
+                },
+                {
+                    "code": "MAT243",
+                    "name": "Análise I",
+                    "hours": 90,
+                    "credits": 6,
+                    "creditsLabel": null,
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [
+                        "MAT002"
+                    ],
+                    "period": 6,
+                    "ementa": null
+                },
+                {
+                    "code": "MAT244",
+                    "name": "Introd. Geometria Diferencial",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [
+                        "MAT002"
+                    ],
+                    "period": 6,
+                    "ementa": "Conceito de curvas, curvatura e torção. Teoria de Curvas. Conceito de superfícies, 1a e 2a formas fundamentais."
+                },
+                {
+                    "code": "MAT245",
+                    "name": "Análise II",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [
+                        "MAT243"
+                    ],
+                    "period": 6,
+                    "ementa": null
+                },
+                {
+                    "code": "MAT246",
+                    "name": "Introd. Equações Diferenciais Ordinárias",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [
+                        "MAT016"
+                    ],
+                    "period": 6,
+                    "ementa": "Equações diferenciais de 1a e 2a ordens. Equações diferenciais lineares. Sistemas de equações diferenciais. Sistemas lineares com coeficientes constantes. Existência e unicidade de soluções."
+                },
+                {
+                    "code": "MAT247",
+                    "name": "Introd. Equações Diferenciais Parciais",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [
+                        "MAT016"
+                    ],
+                    "period": 6,
+                    "ementa": null
+                },
+                {
+                    "code": "QUI003",
+                    "name": "Química Geral B",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [],
+                    "period": 1,
+                    "ementa": null
+                },
+                {
+                    "code": "QUI019",
+                    "name": "Química Geral Experimental",
+                    "hours": 30,
+                    "credits": 2,
+                    "creditsLabel": null,
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [],
+                    "period": 1,
+                    "ementa": null
+                },
+                {
+                    "code": "QUI604",
+                    "name": "Físico-Química II",
+                    "hours": 90,
+                    "credits": 6,
+                    "creditsLabel": null,
+                    "group": "G9",
+                    "groupName": "G9 — Optativas Gerais",
+                    "prereqs": [
+                        "FIS152",
+                        "QUI003"
+                    ],
+                    "period": null,
+                    "ementa": null
+                }
+            ],
             "prereqOverrides": {},
-            "summary": null
+            "summary": {
+                "obligatoryHours": {
+                    "min": 1680,
+                    "max": 1680
+                },
+                "optionalHours": {
+                    "min": 660,
+                    "max": 660
+                },
+                "stageHours": null,
+                "complementaryPresetHours": null,
+                "complementaryOpenHours": null,
+                "freeHours": {
+                    "min": 60,
+                    "max": 60
+                },
+                "totalHours": 2400
+            },
+            "optionalCreditsByPeriod": {
+                "2": 4,
+                "3": 4,
+                "4": 4,
+                "5": 4,
+                "6": 4,
+                "7": 8,
+                "8": 20
+            }
         }
     ]
 }

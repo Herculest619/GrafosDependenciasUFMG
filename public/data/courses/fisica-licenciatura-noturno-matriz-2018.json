@@ -13,13 +13,13 @@
         "curriculum": "Matriz 2018 (noturno)",
         "source": {
             "kind": "estrutura-curricular-pdf",
-            "url": "data/archives/LicN2018.pdf",
+            "url": null,
             "retrievedAt": "2026-11-05T19:39:52.557Z",
-            "note": "PDF fornecido pelo usuário em data/archives"
+            "note": "PDF fornecido pelo usuário em data/archives; o PDF original (LicN2018.pdf) foi removido de data/archives em 2026-11 e o texto extraído foi preservado"
         },
         "note": "PDF de estrutura curricular fornecido em data/archives; versões de Formação Complementar Aberta não modeladas."
     },
-    "generatedAt": "2026-11-06T15:21:12.643Z",
+    "generatedAt": "2026-11-11T00:51:50.148Z",
     "disciplines": {
         "DCC001": {
             "code": "DCC001",
@@ -1361,14 +1361,6 @@
                     "prereqs": [
                         "DCC001",
                         "MAT001"
-                    ]
-                },
-                {
-                    "code": "QUI003",
-                    "group": "G9",
-                    "prereqs": [
-                        "FIS066",
-                        "QUI003"
                     ]
                 },
                 {

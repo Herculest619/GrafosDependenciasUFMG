@@ -23,7 +23,7 @@ Grafo de um curso (Engenharia de Computação):
 
 ## Estado atual
 
-**25 cursos** publicados (de ~100 da UFMG), cobrindo 8 unidades/setores:
+**23 cursos** publicados (de ~100 da UFMG), cobrindo 8 unidades/setores:
 
 | Unidade             | Curso                                       | Versão curricular      | Períodos | Disciplinas | Pré-requisitos | Optativas    | Carga total |
 | ------------------- | ------------------------------------------- | ---------------------- | -------- | ----------- | -------------- | ------------ | ----------- |
@@ -31,11 +31,9 @@ Grafo de um curso (Engenharia de Computação):
 | DCC — ICEx          | Sistemas de Informação                      | 02009 · N-2019/9       | 9        | 35          | 16             | 13 slots     | 3.000 h     |
 | DCC — ICEx / Eng.   | Engenharia de Computação                    | 02101 · V-20251        | 10       | 52          | 41             | 10 slots     | 3.600 h     |
 | DCC — ICEx          | Ciência de Dados                            | 02011 · V-20241        | 9        | 39          | 36             | 11 slots     | 3.000 h     |
-| ICEx — Física       | Física — Bacharelado                        | fonte legada           | 7        | 31          | 38             | não mapeadas | —           |
+| ICEx — Física       | Física — Bacharelado                        | Matriz 2019 · PPC      | 8        | 31          | 38             | 11 slots     | 2.400 h     |
 | ICEx — Física       | Física — Licenciatura (diurno)              | fonte legada           | 9        | 41          | 49             | não mapeadas | —           |
-| ICEx — Física       | Física — Licenciatura (noturno)             | fonte legada           | 10       | 41          | 48             | não mapeadas | —           |
-| ICEx — Física       | Física — Bacharelado (matriz 2013/1)        | PDF em `data/archives` | 8        | 30          | 32             | 13 slots     | 2.400 h     |
-| ICEx — Física       | Física — Licenciatura Noturno (matriz 2018) | PDF em `data/archives` | 9        | 35          | 33             | 12 slots     | 2.805 h     |
+| ICEx — Física       | Física — Licenciatura Noturno (matriz 2018) | texto extraído         | 9        | 35          | 33             | 12 slots     | 2.805 h     |
 | IGC — Geociências   | Geografia — Licenciatura (matutino)         | 04004 · M-20271        | 10       | 43          | 27             | 7 slots      | 3.225 h     |
 | IGC — Geociências   | Geografia — Licenciatura (noturno)          | 04004 · N-20271        | 10       | 43          | 27             | 7 slots      | 3.225 h     |
 | IGC — Geociências   | Turismo                                     | 04003 · D-20221        | 8        | 25          | 3              | 13 slots     | 2.550 h     |
@@ -63,24 +61,36 @@ Observações sobre os dados:
 -   Pedagogia **não tem pré-requisitos** na matriz oficial (0 arestas é o dado real);
 -   cursos com vários percursos (Farmácia 3, Biblioteconomia 5, Pedagogia 6, Museologia 2)
     abrem no percurso padrão e permitem alternar na página do curso;
--   os 3 cursos de Física "fonte legada" não têm carga horária nem optativas mapeadas;
--   as duas matrizes de Física em `data/archives` são versões antigas **com** carga horária
-    e pré-requisitos (úteis para quem está sob currículo antigo);
+-   o curso de Física de **fonte legada** (licenciatura diurno) não tem carga horária nem
+    optativas mapeadas; a licenciatura noturna legada foi **retirada do catálogo** por
+    duplicar a matriz 2018, que é a versão mais recente e a única publicada para o noturno;
+-   a **matriz 2019 do Bacharelado em Física** e o **Anexo A de ementas** estão em
+    `data/archives/Física Bacharelado/`, com carga horária, pré-requisitos e ementas; o
+    PDF da licenciatura 2018 foi removido de `data/archives` e só o texto extraído
+    permanece (o curso continua publicado);
+-   as ementas do Bacharelado em Física vêm do Anexo A do PPC 2019: **60 das 90
+    disciplinas** têm texto (as 31 obrigatórias + 29 optativas); as demais (tópicos
+    `FIS634–646`, `ICE055–063` e disciplinas sem ementa no PDF) mostram "Ementa não
+    disponível nesta fonte";
 -   os **espaços de optativa são distribuídos automaticamente** entre as colunas dos
     períodos (abaixo das disciplinas), priorizando os semestres mais vazios — não existe
     mais uma coluna "Optativas" separada no fim do grafo;
 -   **períodos sem disciplina obrigatória continuam no grafo**: é o caso do 8º período da
-    Física 2013/1 (só optativas) e dos últimos períodos da Pedagogia noturno. O build
+    Física 2019 (só optativas) e dos últimos períodos da Pedagogia noturno. O build
     preserva os períodos declarados no documento e a validação barra lacunas na numeração.
 
-O parser entende **três** formatos de documento:
+O parser entende **quatro** formatos de documento:
 
 -   **"Relatório de versão curricular"** (Siga) — uma linha por percurso dentro de cada
-    período (DCC, Farmácia, ECI, FAE);
+    período (DCC, Farmácia, ECI, FAE, IGC, Medicina e ICA);
 -   **"Relatório de percurso curricular"** (Siga) — um percurso por documento, colunas
     fixas (Sistemas de Informação e Ciência de Dados);
--   **"Estrutura curricular"** (PDFs mais antigos, ex. Física 2013/2018) — blocos por
-    período com coluna de pré-requisito e grupos de optativas (G1/G2/G9).
+-   **"Estrutura curricular"** (PDFs mais antigos, ex. Física — Licenciatura Noturno
+    2018) — blocos por período com coluna de pré-requisito e grupos de optativas
+    (G1/G2/G9);
+-   **"Matriz 2019 + Anexo de ementas"** (PPC do Bacharelado em Física) — tabelas de
+    resumo (3.1–3.5), obrigatórias por período (4.1), optativas por grupo (4.2/4.3) e
+    um **Anexo A em documento separado** com as ementas e as horas de cada disciplina.
 
 Também trata os artefatos comuns da extração: cabeçalhos/rodapés colados nas linhas,
 nomes e listas de pré-requisitos quebrados em duas linhas, blocos duplicados na virada
@@ -92,7 +102,8 @@ grupo com identificador completo (`13002-D-20141-1`).
 ```
 data/archives/*.pdf        PDFs enviados manualmente (inbox de documentos)
 data/sources/**            texto extraído dos relatórios oficiais (Siga/PROGRAD/Estruturas)
-        │  scripts/build-data.mjs  (parseSigaReport | parseEstruturaCurricular | legado)
+        │  scripts/build-data.mjs  (parseSigaReport | parseEstruturaCurricular |
+        │                           parseMatriz2019 + parseEmentas | legado)
         ▼
 public/data/courses.json          catálogo (manifesto)
 public/data/courses/<slug>.json   um arquivo por curso (carregado sob demanda)
@@ -164,8 +175,84 @@ src/core/graph.mjs                regras puras: disponibilidade, cargas horária
 }
 ```
 
+Campos adicionais do formato **"matriz 2019 + Anexo de ementas"** (Bacharelado em
+Física; o schema continua v2 e os demais cursos não são afetados):
+
+```json
+{
+    "meta": {
+        "layout": "matriz-2019",
+        "source": { "kind": "estrutura-curricular-pdf", "url": "data/archives/Física Bacharelado/BacD2019.pdf" },
+        "ementas": {
+            "url": "data/archives/Física Bacharelado/ementas_curso_fisica_v2019.pdf",
+            "retrievedAt": "2026-11-10T21:10:00-03:00",
+            "note": "Anexo A do PPC 2019 fornecido pelo usuário"
+        }
+    },
+    "disciplines": {
+        "FIS634": {
+            "code": "FIS634",
+            "name": "Tópicos de Astrofísica A",
+            "type": "OP",
+            "credits": 2,
+            "creditsLabel": "2–4",
+            "hours": { "total": 30, "theory": null, "practice": null },
+            "prereqs": [],
+            "scheduled": false,
+            "group": "G1",
+            "period": null,
+            "ementa": null
+        }
+    },
+    "percursos": [
+        {
+            "id": "01-01",
+            "name": "Bacharelado — formação padrão (01-01)",
+            "optionalPool": [
+                {
+                    "code": "MAT118",
+                    "name": "Variável Complexa",
+                    "hours": 60,
+                    "credits": 4,
+                    "creditsLabel": null,
+                    "group": "G1",
+                    "groupName": "G1 — Optativas de Física",
+                    "prereqs": ["MAT002"],
+                    "period": 4,
+                    "ementa": "Números complexos. Topologia de C. …"
+                }
+            ],
+            "optionalCreditsByPeriod": { "2": 4, "3": 4, "4": 4, "5": 4, "6": 4, "7": 8, "8": 20 },
+            "summary": {
+                "obligatoryHours": { "min": 1680, "max": 1680 },
+                "optionalHours": { "min": 660, "max": 660 },
+                "freeHours": { "min": 60, "max": 60 },
+                "totalHours": 2400
+            }
+        }
+    ]
+}
+```
+
+-   **`ementa`**: texto corrido do Anexo A em `disciplines[code].ementa` e
+    `optionalPool[].ementa` (string ou `null`; `null` = disciplina sem ementa na fonte).
+-   **`creditsLabel`**: faixa de créditos quando a fonte declara "2–4" ou "1–6" (nos
+    tópicos); `credits` guarda o menor valor da faixa.
+-   **`group`/`groupName`** (`G1`, `G8`, `G9`) e **`type`** (`OB`/`OP`) nas disciplinas e
+    no pool; **`period`** é o período sugerido pelo Anexo A (o das obrigatórias vem da
+    tabela 4.1).
+-   **`optionalCreditsByPeriod`**: as linhas `OP/AAC` da tabela 4.1 (sugestão de
+    créditos de optativa por período), preservadas sem virar slot.
+-   **`meta.ementas`**: origem do Anexo A (url, data e nota), separada de
+    `meta.source` (a matriz).
+
 Decisões de modelagem:
 
+-   **Painel de detalhes**: clicar no nó abre um painel com tipo (obrigatória/optativa),
+    grupo, período sugerido, créditos/carga horária, **ementa** (quando a fonte traz o
+    texto; senão "Ementa não disponível nesta fonte"), pré-requisitos com o status
+    (cursada/faltando), disciplinas que ela libera e o atalho para marcar/desmarcar como
+    cursada. Dá para marcar mesmo sem os pré-requisitos, para simular cenários.
 -   **Slots de optativa**: as optativas não são pré-requisito de nada e o aluno escolhe quais
     cursar, então o grafo mostra "Optativa 1, Optativa 2, …" (sem arestas até serem
     escolhidas), calculados a partir da carga horária mínima de optativas do percurso
@@ -210,9 +297,10 @@ O que deve aparecer:
 1. catálogo com os cursos publicados (hoje: Física ×3, Ciência da Computação, Sistemas de
    Informação, Engenharia de Computação, Ciência de Dados);
 2. ao abrir um curso, o grafo com uma coluna por período, nós cinza/verde/azul e os slots
-   "Optativa 1..N" na última coluna;
-3. clique em um nó para marcar/desmarcar — o progresso fica em `localStorage` e é salvo por
-   curso (sobrevive a recarregar a página).
+   "Optativa 1..N" distribuídos entre as colunas;
+3. clique em um nó para abrir o **painel de detalhes** (ementa, créditos, pré-requisitos) e
+   marcar/desmarcar como cursada — o progresso fica em `localStorage` e é salvo por curso
+   (sobrevive a recarregar a página).
 
 Testar o build de produção (é o que o GitHub Pages serve):
 
@@ -230,9 +318,10 @@ npm run lint
 
 O `npm run check` roda três verificações independentes:
 
-1. `npm test` — 69 testes (`node --test`) das regras de grafo/progresso, dos parsers
-   (incluindo regressão sobre os 13 relatórios oficiais do Siga e os 2 PDFs de estrutura
-   curricular de Física), da conversão para JSON v2 e da integridade dos dados publicados;
+1. `npm test` — 81 testes (`node --test`) das regras de grafo/progresso, dos parsers
+   (incluindo regressão sobre os 13 relatórios oficiais do Siga, a matriz 2019 de Física
+   com o Anexo A de ementas e o PDF de estrutura curricular de 2018), da conversão para
+   JSON v2 e da integridade dos dados publicados;
 2. `npm run data:validate` — IDs duplicados, arestas órfãs, ciclos, pré-requisito em
    período posterior, faixas de carga horária e divergência entre o manifesto e os JSONs;
 3. `npm run check:sfc` — compila os componentes Vue (`@vue/compiler-sfc`) e confere os
@@ -274,14 +363,18 @@ npm run data:fetch      # baixa o PDF do Siga e extrai o texto (precisa de pdfto
    veja `data/sources/farmacia/index.json`).
 4. Inclua o arquivo em `COURSES` no topo de `scripts/build-data.mjs` (unidade e campus
    vêm de `UNIT_DEFAULTS`; nome, grau e turno são lidos do próprio relatório). O `kind`
-   escolhe o parser: `siga`, `estrutura` (PDFs antigos com coluna de pré-requisito) ou
-   `legacy` (JSON do projeto original).
+   escolhe o parser: `siga`, `estrutura` (PDFs antigos com coluna de pré-requisito),
+   `fisica-2019` (matriz 2019 + Anexo de ementas, com `ementasFile` apontando o segundo
+   texto) ou `legacy` (JSON do projeto original).
 5. Rode `npm run data:build && npm run data:validate`.
 6. Abra um PR — o GitHub Actions roda `npm run check` e faz o deploy.
 
 > PDFs enviados manualmente podem ficar em `data/archives/`; o texto extraído vai para
 > `data/sources/<unidade>/` e a origem é registrada no `index.json` da unidade. Foi assim
-> que entraram as matrizes antigas de Física (2013/1 e 2018).
+> que entraram a matriz 2019 do Bacharelado em Física e o Anexo A de ementas. A matriz
+> 2013/1 do Bacharelado (e a fonte legada) saíram do catálogo; o PDF da licenciatura 2018
+> foi removido de `data/archives`, mas o texto extraído permaneceu e o curso continua
+> publicado (registro com `pdf: null`).
 
 ## Cobertura e próximos passos
 
@@ -300,14 +393,21 @@ varrido:
 -   **Medicina** — Medicina (I-20212), relatório de versão curricular no site da Faculdade;
 -   **ICA (Montes Claros)** — Engenharia de Alimentos (D-20251), Zootecnia (D-20261) e
     Aquacultura (D2023-1), grade publicada no site do campus;
+-   **Física** — 3 cursos publicados: Bacharelado (matriz 2019, a partir do PPC com o
+    Anexo A de ementas fornecido pelo usuário), licenciatura diurna (fonte legada) e
+    licenciatura noturna (matriz 2018, texto extraído preservado; a entrada legada do
+    noturno foi removida por ser duplicata de versão anterior). Detalhes da fonte e da
+    modelagem em [docs/FISICA_2019.md](docs/FISICA_2019.md);
 -   **~75 cursos restantes** (Engenharias, Saúde, Direito, Letras, ICEx/Matemática etc.)
     dependem de relatório do Siga: pedido de dados à PROGRAD/DGI (LAI) ou contribuição de
     quem tiver acesso.
 
 Outros aprendizados do levantamento:
 
--   **PPCs da PROGRAD não servem** como fonte: a matriz é anexo separado, sem códigos nem
-    pré-requisitos na maioria dos casos;
+-   **PPCs da PROGRAD não servem** como fonte na maioria dos casos: a matriz é anexo
+    separado, sem códigos nem pré-requisitos. A exceção é o **PPC 2019 do Bacharelado em
+    Física**, que traz as tabelas com códigos/pré-requisitos e um Anexo A de ementas —
+    por isso ganhou parser próprio;
 -   **horários/oferta** não têm endpoint público global — por isso a antiga aba "Tabela de
     Horários" foi removida;
 -   sites de unidade são heterogêneos (WordPress, Wix, IIS) e alguns bloqueiam crawl; a
@@ -326,12 +426,26 @@ relatório → texto → `data:build` → PR).
     `sources.json`) e podem estar desatualizados em relação ao Siga.
 -   O grafo é **apoio** ao planejamento de matrícula: a fonte de verdade é sempre o Siga e o
     colegiado do curso.
--   Os cursos de Física vieram do JSON do projeto original (2025), sem carga horária e sem
-    optativas mapeadas; a interface avisa isso.
+-   O **curso de Física de fonte legada** (licenciatura diurno) veio do JSON do projeto
+    original (2025), sem carga horária e sem optativas mapeadas; a interface avisa isso.
+    A **licenciatura noturna** é publicada pela **matriz 2018** (9 períodos, 35
+    disciplinas, 12 slots, 2.805 h) — a entrada legada duplicada foi retirada do catálogo
+    por ser a versão anterior.
+-   O **Bacharelado em Física** passou a usar a **matriz 2019**: 8 períodos, 31
+    obrigatórias, 38 pré-requisitos, 11 slots de optativa (660 h), 2.400 h totais e
+    ementas do Anexo A para 60 das 90 disciplinas. Os percursos 01-02 a 01-05 e as AAC
+    (G3) **não são modelados** porque o PDF não lista as disciplinas obrigatórias de cada
+    percurso nem as atividades de AAC; o G8 aparece como FIS638, sem ementa (variável).
+-   No Bacharelado em Física, pré-requisitos escritos como `A/B` (ou) são exigidos como
+    `A e B`: o modelo não expressa alternativas, então pode haver bloqueio mais restritivo
+    que a regra real.
+-   O PDF da **licenciatura 2018** foi removido de `data/archives`; o curso continua
+    publicado a partir do texto extraído e o registro da fonte fica com `pdf: null`.
 -   Alguns cursos têm matrizes antigas em PDF (exportação de Word) sem códigos de disciplina
     e sem pré-requisitos — esses casos não entram no grafo.
--   A carga horária por disciplina usa o total informado no relatório; os espaços de optativa
-    assumem 60 h cada até o aluno escolher a disciplina (aí vale a carga horária dela).
+-   A carga horária por disciplina usa o total informado no relatório (no Bacharelado em
+    Física, o total das ementas); os espaços de optativa assumem 60 h cada até o aluno
+    escolher a disciplina (aí vale a carga horária dela).
 
 ## Licença e créditos
 

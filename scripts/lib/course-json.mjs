@@ -534,8 +534,11 @@ export function buildEstruturaCourse(parsed, options) {
         group: Object.keys(parsed.groups ?? {}).find((group) => group === 'G1') ?? 'Optativas',
     }))
 
-    const optionalPool = Object.entries(parsed.groups ?? {}).flatMap(([group, rows]) =>
-        rows.map((row) => ({ code: row.code, group, prereqs: row.prereqs }))
+    const optionalPool = uniqueBy(
+        Object.entries(parsed.groups ?? {}).flatMap(([group, rows]) =>
+            rows.map((row) => ({ code: row.code, group, prereqs: row.prereqs }))
+        ),
+        (entry) => entry.code
     )
 
     const degree = parsed.kind === 'licenciatura' ? 'Licenciatura' : 'Bacharelado'
@@ -597,6 +600,282 @@ export function buildEstruturaCourse(parsed, options) {
         periods: periods.at(-1)?.number ?? 0,
         optionalSlots: optionalSlots.length,
         totalHours: parsed.headerTotal?.hours ?? null,
+    }
+
+    const catalog = {
+        ...meta,
+        percursos: [{ id: percurso.id, name: percurso.name }],
+        stats,
+        file: `data/courses/${id}.json`,
+    }
+
+    return { course, catalog, warnings }
+}
+
+/**
+ * Converte a matriz 2019 do Bacharelado em Física (saída de `parseMatriz2019`)
+ * e o Anexo A de ementas (saída de `parseEmentas`) no JSON v2.
+ *
+ * Diferente das estruturas antigas, aqui há três novidades no schema:
+ *  - `disciplines[code].ementa` (texto do Anexo A) e `period` sugerido;
+ *  - `optionalPool[].ementa` para a escolha de cada espaço de optativa;
+ *  - `percurso.optionalCreditsByPeriod` com a sugestão de créditos de
+ *    optativa/AAC por período (linhas "OP/AAC" da Tabela 4.1).
+ */
+export function buildFisica2019Course(matriz, ementas, options = {}) {
+    const warnings = [...(matriz?.warnings ?? []), ...(ementas?.warnings ?? [])]
+    const ementaByCode =
+        ementas?.byCode instanceof Map
+            ? ementas.byCode
+            : new Map(Object.entries(ementas?.byCode ?? {}))
+    const disciplines = {}
+
+    const addDiscipline = (row, { scheduled, group, type, period }) => {
+        const ementa = ementaByCode.get(row.code) ?? null
+        const credits = Number.isFinite(row.credits)
+            ? row.credits
+            : Number.isFinite(ementa?.credits)
+            ? ementa.credits
+            : null
+        const hoursTotal = Number.isFinite(ementa?.hours)
+            ? ementa.hours
+            : Number.isFinite(credits)
+            ? credits * 15
+            : null
+        const name = ementa?.name ?? row.name ?? row.code
+
+        const existing = disciplines[row.code]
+        if (existing) {
+            if (scheduled) {
+                existing.scheduled = true
+                existing.type = type ?? existing.type
+                existing.period = period ?? existing.period
+            }
+            if (group) existing.group = group
+            if (!existing.ementa && ementa?.ementa) existing.ementa = ementa.ementa
+            if (!Number.isFinite(existing.hours.total) && Number.isFinite(hoursTotal)) {
+                existing.hours = { total: hoursTotal, theory: null, practice: null }
+            }
+            existing.prereqs = uniqueBy(
+                [...existing.prereqs, ...(row.prereqs ?? [])],
+                (code) => code
+            )
+            return
+        }
+
+        disciplines[row.code] = {
+            code: row.code,
+            name,
+            type: type ?? null,
+            credits,
+            creditsLabel: row.creditsLabel ?? null,
+            hours: { total: hoursTotal, theory: null, practice: null },
+            prereqs: [...(row.prereqs ?? [])],
+            scheduled: Boolean(scheduled),
+            group: group ?? null,
+            period: period ?? ementa?.period ?? null,
+            ementa: ementa?.ementa ?? null,
+        }
+    }
+
+    // ---- Obrigatórias (Tabela 4.1) ----
+    for (const period of matriz?.periods ?? []) {
+        for (const row of period.rows ?? []) {
+            addDiscipline(row, {
+                scheduled: true,
+                group: null,
+                type: 'OB',
+                period: period.number,
+            })
+        }
+    }
+
+    // ---- Optativas (Tabelas 4.2 e 4.3 + FIS638/G8) ----
+    const poolGroups = {}
+    for (const [group, rows] of Object.entries(matriz?.groups ?? {})) {
+        poolGroups[group] = [...(rows ?? [])]
+    }
+
+    // Optativas que constam do Anexo A como OP1/OP9 do bacharelado mas não
+    // aparecem nas tabelas 4.2/4.3 (ex.: DIT121) entram na pool do grupo
+    // correspondente, para não perder disciplina optativa documentada.
+    const poolCodes = new Set(
+        Object.values(poolGroups).flatMap((rows) => rows.map((row) => row.code))
+    )
+    for (const entry of ementas?.entries ?? [...ementaByCode.values()]) {
+        if (!['OP1', 'OP9'].includes(entry.bacNature)) continue
+        if (poolCodes.has(entry.code) || disciplines[entry.code]) continue
+        const group = entry.bacNature === 'OP1' ? 'G1' : 'G9'
+        poolGroups[group] = poolGroups[group] ?? []
+        poolGroups[group].push({
+            code: entry.code,
+            name: entry.name,
+            credits: entry.credits,
+            creditsLabel: null,
+            prereqs: entry.prereqs ?? [],
+            prereqRaw: entry.prereqText ?? '',
+            group,
+            extra: true,
+        })
+        poolCodes.add(entry.code)
+    }
+
+    for (const [group, rows] of Object.entries(poolGroups)) {
+        for (const row of rows ?? []) {
+            const ementa = ementaByCode.get(row.code) ?? null
+            const prereqs = ementa?.prereqs?.length ? ementa.prereqs : row.prereqs ?? []
+            addDiscipline(
+                { ...row, prereqs },
+                {
+                    scheduled: false,
+                    group,
+                    type: 'OP',
+                    period: ementa?.period ?? null,
+                }
+            )
+        }
+    }
+
+    // Pré-requisitos que não fazem parte da matriz do bacharelado (código de
+    // outro curso, optativa de percurso não modelado etc.) são descartados.
+    const dropped = []
+    for (const discipline of Object.values(disciplines)) {
+        const kept = []
+        for (const prereq of discipline.prereqs) {
+            if (prereq === discipline.code || !disciplines[prereq]) {
+                dropped.push(`${discipline.code}->${prereq}`)
+            } else {
+                kept.push(prereq)
+            }
+        }
+        discipline.prereqs = [...new Set(kept)]
+    }
+    if (dropped.length) {
+        warnings.push(
+            `${dropped.length} pré-requisito(s) fora da matriz ignorado(s): ${dropped
+                .slice(0, 8)
+                .join(', ')}`
+        )
+    }
+
+    // ---- Períodos do percurso padrão ----
+    const periods = (matriz?.periods ?? []).map((period) => ({
+        number: period.number,
+        codes: (period.rows ?? []).map((row) => row.code).sort(),
+        optional: [],
+    }))
+
+    const optionalHours = matriz?.totals?.optionalHours ?? 0
+    const obligatoryHours = matriz?.totals?.obligatoryHours ?? 0
+    const freeHours = matriz?.totals?.freeHours ?? null
+    const totalHours = matriz?.totals?.totalHours ?? 0
+    const slotCount = Math.min(Math.ceil(optionalHours / 60), 24)
+    const percursoId = options.percursoId ?? '01-01'
+
+    const optionalSlots = Array.from({ length: slotCount }, (_, index) => ({
+        id: `OPT-${percursoId}-${String(index + 1).padStart(2, '0')}`,
+        label: `Optativa ${index + 1}`,
+        hours: 60,
+        group: 'Optativas',
+    }))
+
+    const optionalCreditsByPeriod = {}
+    for (const period of matriz?.periods ?? []) {
+        if (period.optionalCredits > 0) {
+            optionalCreditsByPeriod[period.number] = period.optionalCredits
+        }
+    }
+
+    const optionalPool = Object.entries(poolGroups)
+        .flatMap(([group, rows]) =>
+            (rows ?? []).map((row) => {
+                const discipline = disciplines[row.code]
+                return {
+                    code: row.code,
+                    name: discipline?.name ?? row.name,
+                    hours: discipline?.hours?.total ?? null,
+                    credits: discipline?.credits ?? row.credits ?? null,
+                    creditsLabel: discipline?.creditsLabel ?? row.creditsLabel ?? null,
+                    group,
+                    groupName: matriz?.groupNames?.[group] ?? group,
+                    prereqs: [...(discipline?.prereqs ?? [])],
+                    period: discipline?.period ?? null,
+                    ementa: discipline?.ementa ?? null,
+                    ...(row.extra ? { extra: true } : {}),
+                }
+            })
+        )
+        .sort(
+            (left, right) =>
+                String(left.group).localeCompare(String(right.group)) ||
+                left.code.localeCompare(right.code)
+        )
+
+    const summary = {
+        obligatoryHours: { min: obligatoryHours, max: obligatoryHours },
+        optionalHours: { min: optionalHours, max: optionalHours },
+        stageHours: null,
+        complementaryPresetHours: null,
+        complementaryOpenHours: null,
+        freeHours: Number.isFinite(freeHours) ? { min: freeHours, max: freeHours } : null,
+        totalHours,
+    }
+
+    const percurso = {
+        id: percursoId,
+        name: options.percursoName ?? 'Bacharelado — formação padrão (01-01)',
+        periods,
+        optionalSlots,
+        optionalPool,
+        prereqOverrides: {},
+        summary,
+        optionalCreditsByPeriod,
+    }
+
+    const name = options.name ?? 'Física'
+    const id = options.id ?? 'fisica-bacharelado'
+    const meta = {
+        id,
+        name,
+        variant: options.variant ?? 'Bacharelado',
+        unit: options.unit ?? 'ICEx — Departamento de Física',
+        campus: options.campus ?? 'Pampulha',
+        shift: options.shift ?? 'Diurno',
+        degree: options.degree ?? 'Bacharelado',
+        layout: 'matriz-2019',
+        curriculum: options.curriculum ?? 'Matriz 2019',
+        source: {
+            kind: options.source?.kind ?? 'estrutura-curricular-pdf',
+            url: options.source?.url ?? null,
+            retrievedAt: options.source?.retrievedAt ?? null,
+            note: options.source?.note ?? null,
+        },
+        ementas: {
+            url: options.ementasSource?.url ?? null,
+            retrievedAt: options.ementasSource?.retrievedAt ?? null,
+            note: options.ementasSource?.note ?? null,
+        },
+        note:
+            options.note ??
+            'Matriz 2019 (PPC): 8 períodos, 31 obrigatórias e 11 espaços de optativa (660 h). Os percursos 01-02 a 01-05, as AAC (G3) e as disciplinas obrigatórias de percurso não são modelados porque o PDF fornecido não as lista; as optativas de pós-graduação do G8 aparecem como FIS638.',
+    }
+
+    const course = {
+        schemaVersion: SCHEMA_VERSION,
+        id,
+        meta,
+        generatedAt: new Date().toISOString(),
+        disciplines,
+        percursos: [percurso],
+    }
+
+    const graph = buildGraph(course, { percursoId })
+    const stats = {
+        disciplines: graph.stats.disciplines,
+        edges: graph.stats.edges,
+        periods: periods.at(-1)?.number ?? 0,
+        optionalSlots: optionalSlots.length,
+        totalHours: totalHours || null,
     }
 
     const catalog = {

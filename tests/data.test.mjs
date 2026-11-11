@@ -52,13 +52,43 @@ test('todo curso publicado tem disciplinas, períodos e fontes registradas', () 
     }
 })
 
-test('dados de Física mantêm a matriz original (regressão)', () => {
+test('dados de Física: bacharelado usa a matriz 2019 com ementas', () => {
     const fisica = readJson(join(DATA_DIR, 'courses/fisica-bacharelado.json'))
     assert.equal(fisica.meta.name, 'Física')
-    assert.equal(fisica.percursos[0].periods.at(-1).number, 7)
-    assert.ok(fisica.disciplines.FIS065)
+    assert.equal(fisica.meta.curriculum, 'Matriz 2019')
+    assert.equal(fisica.meta.source.kind, 'estrutura-curricular-pdf')
+    assert.ok(fisica.meta.source.url.includes('BacD2019.pdf'))
+
+    const percurso = fisica.percursos[0]
+    assert.equal(percurso.periods.at(-1).number, 8)
+    assert.equal(Object.values(fisica.disciplines).filter((item) => item.scheduled).length, 31)
     assert.deepEqual(fisica.disciplines.FIS069.prereqs, ['FIS065', 'MAT039'])
-    assert.ok(fisica.disciplines.DCC208)
+    assert.equal(fisica.disciplines.FIS069.hours.total, 60)
+    assert.match(fisica.disciplines.FIS069.ementa, /Carga elétrica/)
+    assert.equal(percurso.optionalSlots.length, 11)
+    assert.equal(percurso.summary.totalHours, 2400)
+    assert.equal(percurso.summary.optionalHours.min, 660)
+    assert.ok(percurso.optionalPool.some((entry) => entry.code === 'FIS630' && entry.ementa))
+
+    // a matriz 2013 não é mais publicada
+    assert.equal(fisica.disciplines.FIS054, undefined)
+})
+
+test('catálogo: matriz 2013 substituída pela matriz 2019 do bacharelado', () => {
+    const { courses } = readJson(MANIFEST)
+    const ids = courses.map((entry) => entry.id)
+    assert.ok(ids.includes('fisica-bacharelado'))
+    assert.ok(!ids.includes('fisica-bacharelado-matriz-2013'))
+    assert.equal(
+        courses.find((entry) => entry.id === 'fisica-bacharelado').curriculum,
+        'Matriz 2019'
+    )
+    // a licenciatura 2018 continua publicada (só o PDF saiu de data/archives)
+    assert.ok(ids.includes('fisica-licenciatura-noturno-matriz-2018'))
+    const lic2018 = courses.find((entry) => entry.id === 'fisica-licenciatura-noturno-matriz-2018')
+    assert.equal(lic2018.source.url, null)
+    // a entrada legada do noturno era duplicata da matriz 2018 e foi removida
+    assert.ok(!ids.includes('fisica-licenciatura-noturno'))
 })
 
 test('dados do DCC têm códigos, períodos e pré-requisitos conhecidos', () => {

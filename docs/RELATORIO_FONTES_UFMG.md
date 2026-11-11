@@ -1,4 +1,4 @@
-# Fontes públicas de dados curriculares da UFMG (verificado em 2026-11-05)
+# Fontes públicas de dados curriculares da UFMG (verificado em 2026-11-05; atualizado em 2026-11-10)
 
 Objetivo: alimentar app de grafo de dependências (nós = disciplinas, arestas = pré-requisitos,
 níveis = períodos) para TODOS os cursos de graduação da UFMG.
@@ -10,7 +10,9 @@ níveis = períodos) para TODOS os cursos de graduação da UFMG.
    relatórios **"Relatório de percurso curricular"** e **"Relatório de versão curricular"** (PDF).
    O Siga é acessível **apenas autenticado** via `https://sistemas.ufmg.br/` (minhaUFMG).
 3. Cópias desses PDFs do Siga são publicadas **por algumas unidades** nos seus próprios sites
-   (ex.: DCC publica 4; Física publica matrizes antigas sem códigos).
+   (ex.: DCC publica 4; Física publicava só matrizes antigas sem códigos — a matriz 2019 do
+   Bacharelado veio do PPC enviado pelo usuário, num formato próprio de "matriz + Anexo de
+   ementas").
 4. A lista canônica de cursos É pública e autêntica (3 fontes redundantes, todas verificadas).
 5. Zona cinzenta: dados abertos da UFMG (`dados.ufmg.br`) publicam vagas/matriculados, **não** matrizes.
 
@@ -38,6 +40,13 @@ níveis = períodos) para TODOS os cursos de graduação da UFMG.
 | `https://www.fisica.ufmg.br/graduacao/projeto-pedagogico/`                         | 200               | página com "4. MATRIZES CURRICULARES"                                |
 | `https://www.fisica.ufmg.br/graduacao/wp-content/uploads/sites/3/2017/12/bach.pdf` | 200               | 2 páginas, versão 2015, **sem códigos e sem pré-requisitos**         |
 | `https://github.com/rafael-sant-ana/estrutura-curricular-de-qualquer-curso-ufmg`   | 200               | `grade-compsci.pdf` = relatório de percurso completo + parser Python |
+
+Além dos endpoints acima, em **2026-11** o usuário forneceu dois PDFs que não estão
+publicados em URL: `BacD2019.pdf` (tabelas 3.1–3.5 e 4.1–4.3 do PPC 2019 do Bacharelado
+em Física + tabela de AAC) e `ementas_curso_fisica_v2019.pdf` (Anexo A com as ementas).
+Eles ficam em `data/archives/Física Bacharelado/` e a extração usou
+`pdftotext -layout`; o formato foi incorporado como parser próprio (ver
+[FISICA_2019.md](FISICA_2019.md)).
 
 Ferramentas de busca (para registro): `web_search` do harness = **HTTP 401** (chave inválida);
 DuckDuckGo lite = 202 captcha; Mojeek = 403; `web.archive.org/cdx` = 503 offline.
@@ -103,7 +112,9 @@ Cidade, Turno, Área do Conhecimento, Modalidade, Unidade Acadêmica, Duração 
 
 -   Siga autenticado (403 fora do minhaUFMG) → sem automação pública possível hoje.
 -   Sites de unidade heterogêneos (WordPress, Wix, IIS, sites estáticos).
--   Matrizes antigas em PDF exportado de Word (Física 2015) **sem código nem pré-requisito**.
+-   Matrizes antigas em PDF exportado de Word (Física 2015) **sem código nem pré-requisito**;
+    o PPC 2019 do Bacharelado em Física é a exceção: tem códigos, períodos, pré-requisitos e
+    um Anexo de ementas (formato próprio, exige parser dedicado).
 -   Buscadores bloqueados no ambiente (401/captcha/403) → descoberta depende de sitemap/REST.
 -   `www.ufmg.br` tem megamenu de ~15 KB antes do conteúdo (usar REST `_fields` ou proxy de leitura).
 
@@ -137,7 +148,9 @@ Cursos que **não** têm matriz pública no formato do Siga:
 
 -   **Educação do Campo (FAE)**: páginas do curso não publicam matriz (só documento de estágio);
 -   **FIEI (FAE)**: subsite responde 401 para a REST de mídia — acesso automatizado bloqueado;
--   **Física (ICEx)**: site do departamento só tem matrizes antigas (Word, sem códigos/pré-requisitos).
+-   **Física (ICEx)**: o site do departamento só publica matrizes antigas (Word, sem
+    códigos/pré-requisitos); a matriz 2019 do **Bacharelado** entrou pelo PPC fornecido pelo
+    usuário (ver seção "Atualização — Física" abaixo).
 
 ## Atualização — coleta IGC, Medicina e ICA/Montes Claros (2026-11)
 
@@ -167,3 +180,67 @@ Ainda não cobertos nesta rodada:
     período do Siga), exigiriam um parser específico;
 -   unidades com subdomínio indisponível ou REST desativada: Letras, FAFICH, Engenharia,
     ICB, EEFFTO, Odontologia, Enfermagem, Face, Arquitetura, Música, Estatística.
+
+---
+
+## Atualização — Física: matriz 2019 + Anexo de ementas
+
+Situação atual de **Física (ICEx)**: o site do departamento continua só com as matrizes
+antigas em PDF exportado de Word (a de 2015, sem códigos nem pré-requisitos). A matriz
+de 2019 do **Bacharelado** entrou por **upload do usuário**, com dois PDFs do PPC em
+`data/archives/Física Bacharelado/`:
+
+| Curso                    | Fonte                                                                 | Formato                       | Publicado? |
+| ------------------------ | --------------------------------------------------------------------- | ----------------------------- | ---------- |
+| Física — Bacharelado     | `BacD2019.pdf` (tabelas 3.1–3.5 e 4.1–4.3 + AAC) + `ementas_curso_fisica_v2019.pdf` (Anexo A) | **matriz 2019 + Anexo de ementas** | **sim** — 8 períodos, 31 obrigatórias, 38 pré-requisitos, 11 slots de optativa (660 h), 2.400 h |
+| Física — Licenciatura (diurno)  | JSON do projeto original (fonte legada)                        | legado                        | sim (sem horas/optativas) |
+| Física — Licenciatura · Noturno · matriz 2018 | texto extraído `fisica-licenciatura-noturno-matriz-2018.txt` (o PDF saiu de `data/archives`) | estrutura curricular antiga | sim — 9 períodos, 35 disciplinas, 33 arestas, 12 slots, 2.805 h |
+
+> A licenciatura **noturna** tinha duas entradas no catálogo (a legada, sem horas/optativas,
+> e a matriz 2018). A entrada legada foi **removida** por duplicar a mesma versão
+> curricular; fica publicada apenas a **matriz 2018**, que é a mais recente (o texto
+> extraído foi preservado e o PDF original saiu de `data/archives`).
+
+**Formatos reconhecidos hoje** (quatro, ver README): relatório de versão curricular
+(Siga), relatório de percurso curricular (Siga), estrutura curricular antiga (PDF) e
+**matriz 2019 + Anexo de ementas** (Física, parser `scripts/lib/fisica-2019.mjs`).
+O novo formato tem parser próprio porque as tabelas do PPC não usam os marcadores de
+período do Siga: o rótulo do período fica no meio do bloco da tabela 4.1, as células de
+pré-requisito da 4.2 quebram em duas linhas e as ementas vêm em documento separado.
+Detalhes de modelagem e lacunas em [FISICA_2019.md](FISICA_2019.md).
+
+O que **já está publicado** no app para o Bacharelado 2019:
+
+-   8 períodos, 31 disciplinas obrigatórias (Grupo 1), 1680 h de obrigatórias;
+-   11 espaços de optativa de 60 h (660 h = 44 cr), com pool de 59 disciplinas
+    (G1 25, G9 33, G8 1) e escolha por espaço na interface;
+-   ementas do Anexo A para 60 disciplinas (31 obrigatórias + 29 optativas);
+-   resumo de integralização de 2.400 h (1680 h obrigatórias + 660 h optativas + 60 h
+    livres do Núcleo Geral), com a sugestão de `OP/AAC` por período preservada no JSON.
+
+O que **ainda falta** nessa fonte:
+
+-   **percursos 01-02 (Física Médica), 01-03 (Energia Nuclear), 01-04 (Física
+    Matemática) e 01-05 (Formação Complementar/Transversal)**: o PDF só traz o resumo
+    (tabelas 3.2–3.5); as disciplinas obrigatórias de cada percurso não estão no
+    documento fornecido, então não há como modelá-los sem o anexo/regulamento
+    específico;
+-   **AAC (G3)**: as 120 h mínimas estão dentro dos 660 h de optativas, mas as
+    atividades não são disciplinas e não aparecem como nós;
+-   **ementas faltantes**: 30 optativas sem texto no Anexo A (tópicos `FIS634–646`,
+    `ICE055–063`, DCC033, EST031, FIS638, MAT243/245/247, QUI003, QUI019, QUI604) —
+    várias têm só cabeçalho/metadados no PDF; `QUI604` não tem nem a linha de
+    metadados;
+-   **FIS638/G8**: é a disciplina de pós-graduação aproveitada no Grupo 26; o Anexo A
+    usa o mesmo código para duas ementas (Mecânica Analítica e Mecânica Estatística),
+    então fica com `ementa: null` e sem pré-requisitos;
+-   **DIT121 — Direitos Humanos**: aparece no Anexo A como `OP9 – Bac`, mas não está na
+    tabela 4.3; entrou na pool G9 como entrada `extra` até confirmação do colegiado;
+-   **semântica de OU**: pré-requisitos escritos como `A/B` são tratados como `A e B`
+    (o modelo não expressa alternativas).
+
+Sobre a **licenciatura noturna 2018**: o `LicN2018.pdf` foi removido de `data/archives`
+(o texto extraído foi preservado). O curso continua publicado a partir do texto, e a
+entrada correspondente em `data/sources/fisica/index.json` fica com `pdf: null` e nota
+de que o PDF original não está mais no repositório. A matriz 2013/1 do Bacharelado foi
+**substituída** pela de 2019 (removida do catálogo e do `public/data`).

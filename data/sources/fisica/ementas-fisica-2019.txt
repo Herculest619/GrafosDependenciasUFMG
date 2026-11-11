@@ -1,0 +1,416 @@
+ANEXO A – EMENTAS DAS DISCIPLINAS
+MATEMÁTICA
+MAT038 Geometria Analítica e Álgebra Linear
+Álgebra vetorial. Retas e planos. Matrizes, sistemas lineares e determinantes. Espaço vetorial Rn.
+Autovalores e autovetores de matrizes. Diagonalização de matrizes simétricas.
+(04 créditos, 60 horas, OB – Bac e Lic, 1º per., Pré: ---)
+MAT001 Cálculo Diferencial e Integral I
+Funções de IR em R. Derivadas. Integrais. Aplicações.
+(06 créditos, 90 horas, OB – Bac e Lic, 1º per., Pré: ---)
+MAT039 Cálculo Diferencial e Integral II
+Coordenadas polares. Cônicas. Séries. Série e formula de Taylor. Diferenciabilidade de funções de
+várias variáveis.
+(04 créditos, 60 horas, OB – Bac e Lic, 2º per., Pré: MAT001)
+MAT002 Cálculo Diferencial e Integral III
+Integração de função de duas ou mais variáveis. Integrais de linha e de superfície. Teoremas de
+Gauss e de Stokes.
+(04 créditos, 60 horas, OB – Bac e Lic, 3º per., Pré: MAT039)
+MAT015 Equações Diferenciais A
+Equações diferenciais de 1ª e 2ª ordens. Sistemas lineares de equações diferenciais lineares. Solução
+em séries de potência. Transformada de Laplace.
+(04 créditos, 60 horas, OB – Bac e Lic, 3º per., Pré: MAT039)
+MAT016 Equações Diferenciais B
+Séries integrais de Fourier. Equações diferenciais parciais.
+(04 créditos, 60 horas, OB – Bac e OP9 – Lic, 4º per., Pré: MAT015)
+FIS618 Métodos da Física Teórica I
+Equações lineares e determinantes. Espaços vetoriais, transformações lineares e matrizes.
+Autovetores. Produto interno. Operadores autoadjuntos, unitários e normais. Teorema espectral.
+(04 cr, 60 horas, OB – Bac e OP1 - Lic, 5º per., Pré: MAT015)
+FIS623 Métodos da Física Teórica II
+Espaços vetoriais de dimensão infinita: integral de Lebesgue, espaços Lp. Série e transformada de
+Fourier. Distribuições e funções de Green. Equações diferenciais via método de Frobenius. Funções
+especiais.
+(04 cr, 60 horas, OP1 - Bac e Lic, 6º per., Pré: FIS618)
+MAT118 Variável Complexa
+Números complexos. Topologia de C. Funções analíticas, Equações de Cauchy-Riemann. Funções
+Harmônicas. Integração. Teorema de Cauchy-Goursat. Fórmula integral de Cauchy. Séries de
+Taylor. Princípio de Máximo. Teorema de Liouville. Singularidades isoladas. Séries de Laurent.
+Teoremas de resíduos e aplicações.
+(04 cr, 60 horas, OP1 – Bac e Lic, 4º per., Pré: MAT002)
+MAT244 Introd. Geometria Diferencial
+Conceito de curvas, curvatura e torção. Teoria de Curvas. Conceito de superfícies, 1a e 2a formas
+fundamentais.
+(04 cr, 60 horas, OP9 - Bac e Lic, 6º per., Pré: MAT002)
+
+                                                                                                    40
+MAT243 Análise I
+(06 cr, 90 horas, OP9 - Bac e Lic, 6º per., Pré: MAT002)
+MAT246 Introd. Equações Diferenciais Ordinárias
+Equações diferenciais de 1a e 2a ordens. Equações diferenciais lineares. Sistemas de equações
+diferenciais. Sistemas lineares com coeficientes constantes. Existência e unicidade de soluções.
+(04 cr, 60 horas, OP9 - Bac e Lic, 6º per., Pré: MAT016)
+MAT247 Introd. Equações Diferenciais Parciais
+(04 cr, 60 horas, OP9 - Bac e Lic, 6º per., Pré: MAT016)
+MAT245 Análise II
+(04 cr, 60 horas, OP9 - Bac e Lic, 6º per., Pré: MAT243)
+MAT213 Álgebra linear II
+(04 cr, 60 horas, OP7 - Bac e Lic, 6º per., Pré: MAT243)
+MAT233 Anéis e módulos
+(04 cr, 60 horas, OP7 - Bac e Lic, 6º per., Pré: MAT243)
+MAT234 Introdução a topologia
+(04 cr, 60 horas, OP7 - Bac e Lic, 6º per., Pré: MAT243)
+MAT232 Grupos e corpos
+(04 cr, 60 horas, OP7 - Bac e Lic, 6º per., Pré: MAT243)
+
+COMPUTAÇÃO
+DCC208 Introdução à Programação de Computadores
+Metodologia de desenvolvimento de programas. Programação em Linguagem de Alto-Nível.
+Comandos Básicos. Modularização. Estruturas de dados. Bibliotecas científicas.
+(04 cr, 60 horas, OB – Bac e Lic, 1º per., Pré: ---)
+FIS616 Introdução à Computação em Física
+Programas gráficos. Tratamento e visualização de dados. Mínimos quadrados, interpolação e
+extrapolação. Solução de sistemas algébricos lineares. Integração numérica.
+(04 cr, 60 horas, OB – Bac e Lic, 2º per., Pré: DCC208 e MAT001)
+FIS633 Métodos Computacionais em Física
+Processamento de sinais, Simulação Monte Carlo, Algoritmos Genéticos, Diferenças Finitas,
+Dinâmica Molecular.
+(04 cr, 60 horas, OP1 – Bac e Lic, 4º per., Pré: FIS616 e MAT016)
+FIS652 Métodos Computacionais no Ensino de Física
+Linguagens de simulação interativas, modelos numéricos, formatos de imagem e vídeo, edição de
+imagem e vídeo.
+(04 cr, 60 horas, OP9 – Bac e OP1 – Lic, 4º per., Pré: FIS616)
+DCC203 - Programação e Desenvolvimento de Software 1
+Introdução ao funcionamento de um computador e ao desenvolvimento de programas.
+Desenvolvimento de programas em uma linguagem de alto nível. Tipos de dados simples,
+apontadores, variáveis compostas homogêneas e heterogêneas. Entrada e saída. Estruturas de
+controle e repetição. Funções e ferramentas de modularização.
+(04 cr, 60 horas, OP – Bac e Lic, 2º per., Pré: ---)
+
+
+
+                                                                                                   41
+DCC204 - Programação e Desenvolvimento de Software 2
+Programação estruturada e linguagem de programação modular. Metodologias de desenvolvimento
+de software. Compreensão, corretude e depuração de programas. Resolução de problemas de forma
+modular e eficiente.
+(04 cr, 60 horas, OP – Bac e Lic, 3º per., Pré: DCC203)
+DCC205 – Estrutura de Dados
+Análise de algoritmos. Abstração de dados. Introdução às técnicas de análise de algoritmos.
+Estruturas de dados estáticas e dinâmicas na memória principal e secundária. Estruturas de dados
+para realização eficiente de operações sobre dados.
+(04 cr, 60 horas, OP – Bac e Lic, 2º per., Pré: DCC204)
+ESTATÍSTICA
+EST031 ESTATÍSTICA E PROBABILIDADE
+(04 cr, 60 horas, OP9 – Bac e Lic, 2º per., Pré: MAT001)
+FÍSICA BÁSICA
+FIS065 Fundamentos de Mecânica
+Cinemática da partícula. Força e leis de Newton. Dinâmica da partícula. Trabalho e energia.
+Conservação de energia. Sistemas de partículas. Conservação do momento linear. Colisões.
+Cinemática rotacional. Dinâmica de rotação. Torque e equilíbrio de corpos rígidos. Conservação do
+momento angular. Gravitação.
+(04 cr, 60 horas, OB – Bac e Lic, 1º per., Pré: ---)
+FIS152 Fundamentos de Mecânica dos Fluidos e Termodinâmica
+Estática e dinâmica dos fluidos. Equação de Bernoulli. Temperatura e dilatação. Modelo cinético do
+gás ideal. Calor e a primeira lei da termodinâmica. Entropia e a segunda lei da termodinâmica.
+(02 cr, 30 horas, OB – Bac e Lic, 2º per., Pré: FIS065 e MAT001)
+FIS069 Fundamentos de Eletromagnetismo
+Carga elétrica, campo elétrico e a lei de Gauss. Potencial elétrico, capacitores e dielétricos. Corrente
+e resistência elétricas. Campo magnético e lei de Ampère. Lei de Faraday e indutância. Equações de
+Maxwell.
+(04 cr, 60 horas, OB – Bac e Lic, 3º per., Pré: FIS065; Có: MAT002)
+FIS086 Fundamentos de Oscilações, Ondas e Ótica
+Oscilações mecânicas. Circuitos elétricos de corrente alternada. Ondas Mecânicas. Som. Ondas
+Eletromagnéticas. Polarização e birrefringência. Interferência e difração da luz.
+(04 cr, 60 horas, OB – Bac e Lic, 4º per., Pré: FIS069 e MAT015 no Diurno; apenas FIS069 no
+Noturno)
+FIS091 Fundamentos da Relatividade
+Postulados da relatividade especial; Transformações de Lorentz; Cinemática e dinâmica
+relativística; Noções de Relatividade Geral.
+(02 cr, 30 horas, OB – Bac e Lic, 4º per., Pré: FIS069)
+
+FÍSICA EXPERIMENTAL BÁSICA
+FIS151 Física Experimental Básica: Mecânica
+Obtenção, tratamento e análise de dados obtidos em experimentos de mecânica. Utilização de
+aparelhos de medida. Apresentação de resultados.
+(02 créditos, 30 horas, OB – Bac e Lic, 2º per., Có: FIS065)
+
+                                                                                                     42
+FIS154 Física Experimental Básica: Termodinâmica
+Obtenção, tratamento e análise de dados obtidos em experimentos de calor e termodinâmica.
+Elaboração de relatórios científicos completos.
+(02 créditos, 30 horas, OB – Bac e Lic, 3º per., Pré: FIS151 e FIS065, Có: FIS152)
+FIS153 Física Experimental Básica: Eletromagnetismo
+Obtenção, tratamento e análise de dados obtidos em experimentos de eletromagnetismo. Elaboração
+de relatórios científicos completos.
+(02 créditos, 30 horas, OB – Bac e Lic, 3º per., Pré: FIS151 e FIS065, Có: FIS069)
+FIS155 Física Experimental Básica: Ondas e Ótica
+Obtenção, tratamento e análise de dados obtidos em experimentos de oscilações, ondas e ótica.
+Elaboração de relatórios científicos completos.
+(02 créditos, 30 horas, OB – Bac e Lic, 4º per., Pré: FIS151 e FIS069, Có: FIS086)
+
+FÍSICA EXPERIMENTAL PROFISSIONAL
+FIS617 Física Experimental: Eletromagnetismo
+Experimentos relacionados a fenômenos eletromagnéticos.
+(04 cr, 60 horas, OB – Bac e Lic, 5º per., Pré: FIS086 e FIS155)
+FIS621 Física Experimental: Oscilações, Ondas e Ótica
+Experimentos relacionados a fenômenos de oscilações, ondas e ótica. Apresentação de seminário
+sobre um artigo científico experimental.
+(04 cr, 60 horas, OB – Bac e Lic, 6º per., Pré: FIS086 e FIS155)
+FIS627 Física Experimental: Física Moderna
+Experimentos relacionados aos conteúdos de física moderna. Realização de um projeto
+experimental com apresentação de seminário.
+(04 cr, 60 horas, OB – Bac e Lic, 7º per., Pré: FIS617 ou FIS621 e FIS073)
+FIS040 Física Experimental Avançada
+Realização de experimentos em laboratórios de pesquisa.
+(06 cr, 90 horas, OP1 – Bac e Lic, 8º per., Pré: FIS627)
+FIS632 Tópico de Eletrônica Aplicada à Física
+Ementa aberta abordando temas de eletrônica e sua aplicação na física.
+(04 cr, 60 horas, OP1 – Bac e Lic, 6º per., Pré: FIS617)
+
+FÍSICA TEÓRICA
+FIS034 Mecânica I
+Mecânica Newtoniana: movimento em uma dimensão. Oscilações. Movimento Geral em três
+dimensões. Referenciais não inerciais. Forças Centrais e Gravitação. Dinâmica de Sistema de
+Partículas.
+(04 cr, 60 horas, OB – Bac e LicD, 4º per., Pré: FIS065 e MAT015)
+FIS036 Mecânica II
+Mecânica Lagrangeana e Hamiltoniana. Aplicações: Mecânica de Corpos Rígidos, Oscilações
+Acopladas, Sistemas contínuos.
+(04 cr, 60 horas, OB – Bac e OP1 – Lic, 5º per., Pré: FIS034 (D) ou FIS031 (N))
+FIS031 Mecânica Fundamental
+
+
+                                                                                                43
+Mecânica Newtoniana - Movimento Retilíneo de uma Partícula. Movimento Geral em Três
+Dimensões. Dinâmica de Sistema de Partículas. Mecânica de Corpos Rígidos, Movimento no Plano.
+(04 cr, 60 horas, OB – LicN, 5º per., Pré: FIS065 e MAT039)
+FIS Mecânica Analítica (Pós) : entrará como - FIS638 - TÓPICOS AVANÇADOS DE FÍSICA
+Princípios variacionais e Equações de Lagrange. Forças centrais. Pequenas Oscilações. Equações de
+movimento dos corpos rígidos. Equações de Hamilton. Transformações canônicas. Teoria de
+Hamilton-Jacobi. Variação da ação-ângulo. Sistemas Contínuos.
+(04 cr, 60 horas, OPAv – Bac, 8º per., Pré: FIS036)
+FIS073 Introdução à Física Quântica
+Quantização da carga, luz e energia. Modelos atômicos. Propriedades ondulatórias das partículas.
+Equação de Schrödinger. Átomo de hidrogênio.
+(04 créditos, 60 horas, OB – Bac e Lic, 5º per., Pré: FIS086)
+FIS622 Estrutura da Matéria
+Estatística quântica. Moléculas. Sólidos. Física nuclear. Física de partículas. Cosmologia.
+(04 créditos, 60 horas, OB – Bac e Lic, 6º per., Pré: FIS073)
+FIS120 Física Quântica I
+Formalismo e postulados da mecânica quântica. Spin ½ e sistemas de 2 níveis. Oscilador
+harmônico. Momento angular. Potencial central e átomo de hidrogênio.
+(04 créditos, 60 horas, OB – Bac e OP1 – Lic, 6º per., Pré: FIS073 e FIS618)
+FIS631 Física Atômica e Molecular
+Interação elétron-núcleo; Interação elétron-elétron; Interação de átomos e moléculas com campos
+elétricos e magnéticos; Interação átomo-átomo; Ligações moleculares: iônica, covalente e van der
+Waals; Teoria de Grupos aplicada ao espectro de átomos e moléculas; átomos de Rydberg.
+ (04 créditos, 60 horas, OP1 – Bac e Lic, 6º per., Pré: FIS073)
+FIS121 Física Quântica II
+Teoria quântica de espalhamento. Adição de momento angular. Teoria de perturbação independente
+e dependente do tempo. Estruturas fina e hiperfina do átomo de hidrogênio. Sistema de partículas
+idênticas. Tópicos modernos diversos.
+(04 créditos, 60 horas, OP1 – Bac e Lic, 7º per., Pré: FIS120)
+FIS127 Introdução à Física do Estado Sólido
+Estrutura, difração e ligações cristalinas. Rede recíproca. Fônons: vibrações da rede e propriedades
+térmicas. Gás de Fermi de elétrons livres. Bandas de energia. Cristais semicondutores. Dielétricos e
+ferroelétricos. Ferromagnetismo. Supercondutividade.
+(04 créditos, 60 horas, OP1 – Bac e Lic, 7º per., Pré: FIS622)
+FIS042 Introdução à Física de Partículas
+Partículas Elementares. Simetrias e Leis de Conservação. Equações de Onda Quânticas
+Relativísticas. Colisões Relativísticas. Invariância de calibre global e local. O Modelo Padrão da
+Física de Partículas. Física além do modelo padrão: Teorias Efetivas.
+(04 créditos, 60 horas, OP1 – Bac e Lic, 7º per., Pré: FIS622)
+FIS037 Eletromagnetismo I
+Eletrostática. Magnetostática. Campos variáveis no tempo.
+(04 cr, 60 horas, OB – Bac e OP1 – Lic, 6º per., Pré: FIS069 e MAT002)
+FIS039 Eletromagnetismo II
+
+
+                                                                                                   44
+Leis de Conservação. Ondas eletromagnéticas. Potenciais e Campos. Radiação. Eletrodinâmica e
+Relatividade.
+(04 cr, 60 horas, OB – Bac e OP1 – Lic, 7º per., Pré: FIS037)
+FIS123 Ótica
+Ótica Geométrica. Natureza vetorial da luz. Equação de onda. Polarização. Interferência e
+Coerência. Interferência de Feixes múltiplos. Difração. Ótica de sólidos. Lasers
+(04 cr, 60 horas, OP1 – Bac e Lic, 8º per., Pré: FIS039)
+FIS628 Termodinâmica e Introdução à Física Estatística
+Termodinâmica: objetivos e postulados; Equação fundamental e equações de estado, aplicações;
+Teorema do trabalho máximo, Potenciais termodinâmicos; Relações de Maxwell e estabilidade de
+sistemas termodinâmicos; Mecânica estatística, ensembles e aplicações.
+(04 cr, 60 horas, OB – Bac e OP1 – Lic, 7º per., Pré: FIS622)
+FIS Mecânica Estatística (Pós) : entrará como - FIS638 - TÓPICOS AVANÇADOS DE FÍSICA
+Princípios da física estatística. Grandezas Termodinâmicas. Teorema H de Boltzmann. Estatística
+de Maxwell-Boltzmann e de Gibbs. Estatística de Bose-Einstein e de Fermi-Dirac. Aplicações à
+teoria dos sólidos e estatística de fótons.
+(04 cr, 60 horas, OPAv - Bac, 8º per., Pré: FIS628)
+FIS630 Astronomia Observacional
+Medidas da Luz. Sistemas de Coordenadas Astronômicos. Tempo, Posição e Movimento.
+Telescópios. Detectores. Fotometria. Espectroscopia.
+(04 cr, 60 horas, OP1, 5º per., Pré: FIS086)
+FIS006 Astrofísica Estelar
+Conceitos e Técnicas da Astrofísica. Parâmetros Físicos de Estrelas. Formação, Estrutura e
+Evolução Estelares.
+(04 cr, 60 horas, OP1, 6º per., Pré: FIS073)
+FIS007 Astrofísica Galáctica
+A Via Láctea. Galáxias. Estrutura do Universo.
+(04 cr, 60 horas, OP1, 7º per., Pré: FIS006)
+
+FORMAÇÃO GERAL EM FÍSICA
+FIS003 Evolução das Ideias da Física
+Filosofia grega da natureza. Ciência alexandrina. Declínio da ciência antiga. Física medieval.
+Renascença e a revolução científica. Física newtoniana. Física no "século das luzes". Decadência do
+mecanicismo e nascimento do eletromagnetismo e da termodinâmica. Crise finissecular e
+nascimento da física contemporânea. Problemas atuais.
+(04 créditos, 60 horas, OB, 2º per., Pré-requisito: FIS065)
+FIS615 Seminários: Física e Sociedade
+Seminários que discutam a relação do físico com a sociedade: questões éticas e ambientais, direitos
+humanos, diversidade e relações etno-raciais. Palestras de profissionais da área – professores,
+pesquisadores, físicos da indústria, geofísicos, físicos médicos etc. – com o intuito de mostrar as
+possíveis áreas de trabalho dos bacharéis e licenciados em Física.
+(02 créditos, 30 horas, OB, 1º per., Pré-requisito: ---)
+FIS004 Astronomia Geral
+Sistema Solar. Estrelas. A Via Láctea. Galáxias. Cosmologia.
+
+                                                                                                45
+(04 cr, 60 horas, OP9 – Bac e OB - Lic, 2º per., Pré: FIS065)
+FIS620 Física Conceitual A
+Aprofundamento nos conceitos básicos de Física com enfoque de Ensino Médio e contextualização
+no cotidiano, com aplicações em problemas relacionados ao meio ambiente, nas áreas de: mecânica
+da partícula e do corpo rígido; propriedades da matéria – sólidos e fluidos; física térmica.
+(04 cr, 60 horas, OP9 – Bac e OB - Lic, 4º per., Pré: FIS152)
+FIS624 Física Conceitual B
+Aprofundamento nos conceitos básicos de Física com enfoque de Ensino Médio e contextualização
+no cotidiano, com aplicações em problemas relacionados ao meio ambiente, nas áreas de: oscilações
+e ondas; eletromagnetismo; ótica; física quântica; estrutura atômica e nuclear; teoria da relatividade.
+(04 cr, 60 horas, OP9 – Bac e OB - Lic, 5º per., Pré: FIS073 e FIS091)
+
+DISCIPLINAS DA FaE/LICENCIATURA
+CAE001 Sociologia da Educação
+Estrutura social e educação: reprodução social e transmissão de conhecimento. O impacto das
+revoluções tecnológicas nos processos civilizatórios: o papel da escola. A relação da escola com a
+sociedade e com o estado. Analise sociológica do fracasso escolar.
+(04 cr, 60 horas, OB/OP – Lic, 2º per., Pré: ---)
+CAE002 Psicologia da Educação – Aprendizagem e Ensino
+Visão histórica-conceitual da psicologia como ciência e sua contribuição a área educacional.
+Principais teorias da aprendizagem de base empirista, racionalista e interacionista. Problemas de
+aprendizagem, interação professor-aluno: dinâmica da sala de aula.
+(04 cr, 60 horas, OB – Lic, 2º per., Pré: ---)
+ADE003 Política Educacional
+Estado e educação. Estado, educação, estrutura social e mecanismo de decisão. Diretrizes e
+financiamento da educação. A ação do estado brasileiro na trajetória histórica do ensino público e
+privado.
+(04 cr, 60 horas, OB/OP – Lic, 3º per., Pré: ---)
+LET223 Fundamentos de Libras
+Visão sócio-antropológica da Surdez. Aspectos históricos da Educação de Surdos e da formação da
+Libras. Relações entre surdos e ouvintes (educador, intérprete e família) e seu reflexo no contexto
+educacional. Noções básicas da estrutura lingüística da Libras e de sua gramática. Filosofias
+educacionais aplicadas aos Surdos e sua produção textual. Comunicação Básica em Libras.
+(04 cr, 60 horas, OB – Lic, 2º per., Pré: ---)
+FAE493 Fundamentos da Educação Especial e Inclusiva
+Contexto histórico e político da Educação Especial e da Educação Inclusiva. Fundamentos teóricos
+e conceituais. O público alvo da educação especial. Intervenções pedagógicas para inclusão escolar.
+(04 cr, 60 horas, OB – Lic, 4º per., Pré: ---)
+ADE066 Gestão Escolar
+Formulação e implementação de políticas locais de educação, do planejamento educacional nos
+estados e municípios e na administração de sistemas e/ou redes de ensino. Administração de
+unidades escolares e de interação formativa com crianças, adolescentes e jovens.
+ (04 cr, 60 horas, OB/OP – Lic, 3º per., Pré: ---)
+DIT121 Direitos Humanos
+
+                                                                                                     46
+Proteção, promoção e restauração em direitos humanos e cidadania. Direitos de crianças e
+adolescentes. Direitos étnico-raciais. Direitos de gênero.
+ (02 cr, 30 horas, OP9 – Bac e Lic, 1º per., Pré: ---)
+ICB001 Bases Ecológicas para o Desenvolvimento Sustentável
+Conceitos ecológicos fundamentais para os diferentes aspectos do desenvolvimento sustentável.
+Conscientização de problemas e soluções para a crise ambiental contemporânea.
+ (02 cr, 30 horas, OP9 – Bac e Lic, 1º per., Pré: ---)
+MTE227 Fundamentos e Metodologia do Ensino de Ciências Físicas
+Ver com o DMTE
+(04 cr, 60 horas, OP – Lic, 5º per., Pré: ---)
+
+PRÁTICA DE ENSINO
+MTE101 Didática de Licenciatura
+Ver com o ColLicen/FaE.
+(04 cr, 60 horas, OB – Lic, 3º per., Pré: ---)
+FIS619 – Recursos Didáticos: Mecânica, Fluidos e Física Térmica
+Aplicação de conhecimentos específicos de física e abordagens didáticas em situações de ensino
+dos conteúdos de mecânica, fluidos e termodinâmica a nível de ensino médio. Estratégias de
+elaboração de aulas teórico-expositivas e elaboração de planos de aula. Instrumentos didáticos para
+o ensino: experimentos, demonstrações, softwares interativos, simulações, vídeos e resolução de
+problemas. Realização pelos estudantes de aulas práticas demonstrativas com a utilização e análise
+desses recursos.
+(04 cr, 60 horas, OP9–Bac e OB–Lic, 5º per., Pré: FIS155 e FIS086)
+FIS625 – Recursos Didáticos: Eletromagnetismo
+Aplicação de conhecimentos específicos de física e abordagens didáticas em situações de ensino
+dos conteúdos de eletromagnetismo a nível de ensino médio. Instrumentos didáticos para o ensino:
+experimentos, demonstrações, softwares interativos, simulações, vídeos e resolução de problemas.
+Realização pelos estudantes de aulas práticas demonstrativas com a utilização e análise desses
+recursos.
+(04 cr, 60 horas, OP9–Bac e OB–Lic, 6º per., Pré: FIS619)
+FIS629 Recursos Didáticos: Ondas, Ótica e Física Moderna
+Aplicação de conhecimentos específicos de física e abordagens didáticas em situações de ensino
+dos conteúdos de Ótica, ondas e física moderna a nível de ensino médio. Instrumentos didáticos
+para o ensino: experimentos, demonstrações, softwares interativos, simulações, vídeos e resolução
+de problemas. Realização pelos estudantes de aulas praticas demonstrativas com a utilização e
+análise desses recursos.
+(04 cr, 60 horas, OP9–Bac e OB–Lic, 7º per., Pré: FIS619, FIS073, FIS091)
+FIS626 Recursos Didáticos: Astronomia
+Aplicação de conhecimentos específicos de Astronomia e técnicas didáticas em situações concretas
+no nível de ensino médio e/ou fundamental. Instrumentos didáticos para o ensino: práticas com
+telescópio, experimentos, demonstrações, softwares interativos, simulações, vídeos e resolução de
+problemas.
+(04 cr, 60 horas, OP9 – Bac e OB – Lic, 5º per., Pré: FIS004 e FIS619)
+MTE446 – Didática de física I - 60h – (7o período - acompanha estágio em ensino de física I)
+
+
+                                                                                                 47
+Diferentes concepções de ensino e de aprendizagem e suas implicações para a educação em
+Física/Ciências. Problematização e contextualização. Demandas de aprendizagem: relações entre
+conhecimento científico e o cotidiano. Papel do professor: Interatividade, dialogia no ensino de
+Física/Ciências, mediação pedagógica: conceito e práticas.
+Abordagens: Ensino por Investigação; Ensino por meio de Modelos e Modelagem; TIC’s no ensino
+de física.
+(04 cr, 60 horas, OB – Lic, 7º per., Pré: FIS069, Có: MTE230)
+MTE447 – Didática de física II - 60h – (8o período - acompanha estágio II e prepara o estágio
+III)
+Natureza da ciência, concepções de ciência e cientista: implicações para o ensino de Física.
+Explicação e argumentação no Ensino de Física. Linguagem e formação de conceitos científicos.
+Planejamento de sequências de ensino de Física: princípios orientadores e projetos. Avaliação de
+aprendizagem em Física. Análise de projetos; análise crítica e comparativa de livros didáticos de
+Física e Ciências.
+Abordagens: Ciência-Tecnologia-Sociedade no ensino de física; Questões sociocientíficas no
+ensino de física; uso de materiais da divulgação científica em sala de aula; abordagem por temas e
+por projetos; História, Filosofia e Sociologia da ciência no Ensino de Física;
+(04 cr, 60 horas, OB – Lic, 8º per., Pré: MTE446 e MTE230, Có: MTE235)
+
+
+ESTÁGIOS
+MTE230 – Estágio em Ensino de Física I
+Estágio de observação e monitoria. Caracterização do Ensino de Física ministrado na educação
+básica (ensino fundamental e médio). Abordagem etnográfica da cultura escolar e da sala de aula de
+física. Iniciação à docência por meio do acompanhamento de prática profissional. Planejamento de
+aula: concepção, execução e avaliação em situações concretas de ensino
+(08 cr, 120 horas, OB – Lic, 7º per., Pré: FIS069, Có: MTE446)
+MTE235 – Estágio em Ensino de Física II
+Diagnóstico do contexto escolar. Planejamento e desenvolvimento de sequências didáticas de
+ensino de ciências/física na educação básica. Análise e produção de recursos didáticos. Regência de
+classe por meio do uso de diferentes estratégias de ensino. Avaliação do ensino e da aprendizagem
+em física/ciências.
+(09 cr, 135 horas, OB – Lic, 8º per., Pré: MTE446 e MTE230, Có: MTE447)
+MTE239 – Estágio em Ensino de Física III
+Diagnóstico do contexto escolar. Planejamento e desenvolvimento de projeto de ensino de
+ciências/física na educação básica inspiradas na pesquisa. Escrita e fundamentação do projeto;
+desenvolvimento de recursos e instrumentos de avaliação. Aplicação e reflexão sobre sua
+efetividade e alcance.
+(10 cr, 150 horas, OB – Lic, 9º per., Pré: : MTE447 e MTE235)
+
+QUÍMICA
+QUI003 Química Geral B
+(4 cr, 60 horas, OP – Bac e Lic, 1º per., Pré: : ---)
+QUI019 Química Geral Experimental
+(2 cr, 30 horas, OP – Bac e Lic, 1º per., Pré: : ---)
+QUI604 Físico-Química II
+                                                                                                 48
+

@@ -1,0 +1,216 @@
+  Tabela 3.1 – Resumo das atividades obrigatórias e optativas da formação
+                      padrão do Bacharelado.
+     NUCLEO COMUM (Grupo 1)                         1260 h = 84 cr
+     OBRIGATÓRIAS DO BACHARELADO (Grupo 1)          420 h = 28 cr
+     TOTAL DE OBRIGATÓRIAS (Grupo 1)                1680 h = 112 cr (70%)
+     G1 – Optativas de Física (Grupo 5)             Min = 16 cr; Max = 36 cr
+     G3 – AAC (Atividades Acadêmicas) (Grupo 9)     Min = 8 cr; Max = 24 cr
+     G8 – Formação Avançada em Física (Grupo 26)    Min = 0 cr; Max = 16 cr
+     G9 – Optativas Gerais (Grupo 7)                Min = 0 cr; Max = 20 cr
+     TOTAL DE OPTATIVAS (G1 + G3 + G8 + G9)          660 h = 44 cr
+     (Grupo 27) = G5+G9+G26+G7
+     Núcleo Geral (Grupo 37)                        Min = 4 cr; Max = 4 cr
+     TOTAL                                          2400 h = 160 cr
+
+
+
+
+Tabela 3.5 – Resumo das atividades obrigatórias e optativas do BACHARELADO com
+          Formação Complementar Aberta / Formação Transversal. 01-05
+     NUCLEO COMUM (Grupo 1)                         1260 h = 84 cr
+     OBRIGATÓRIAS DO BACHARELADO (Grupo 1)          420 h = 28 cr
+     TOTAL DE OBRIGATÓRIAS (Grupo 1)                1680 h = 112 cr (70%)
+     G1 – Optativas de Física (Grupo 21)              16 cr (240h)
+     G3 – AAC (Atividades Acadêmicas) (Grupo 13)      8 cr (120h)
+     TOTAL DE OPTATIVAS (G1 + G3) (Grupo 31)         360 h = 24 cr
+     =G21+G13
+     Formação Complementar/Transversal (Grupo 34)     24 cr (360h)
+     TOTAL                                          2400 h = 160 cr
+        Tabela 3.2 – Resumo percurso em FÍSICA MÉDICA (01-02).
+          NUCLEO COMUM (Grupo 1)                                                1260 h = 84 cr
+          OBRIGATÓRIAS DO BACHARELADO (Grupo 1)                                 420 h = 28 cr
+          OBRIGATÓRIAS DO PERCURSO (Grupo 38)                                   225 h = 15 cr
+          TOTAL DE OBRIGATÓRIAS                                                 1905 h = 127 cr (79%)
+          G1 – Optativas de Física (Grupo 18)                                   Min = 8 cr; Max = 17 cr
+          G3 – AAC (Atividades Acadêmicas) (Grupo 10)                           Min = 8 cr; Max = 17 cr
+          G5 – Optativas de Física Médica (Grupo 23)                            Min = 8 cr; Max = 17 cr
+          G9 – Optativas Gerais (Grupo 16)                                      Min = 0 cr; Max = 9 cr
+          TOTAL DE OPTATIVAS (Grupo 28) = G18+G10+G23+G16                         495 h = 33 cr
+           TOTAL                                                                2400 h = 160 cr
+O aluno interessado por este Percurso poderá fazer a opção a partir do 2º período do curso, em data pré-estabelecida pelo
+calendário da UFMG.
+
+
+                           Tabela 3.3 – Resumo percurso em Energia Nuclear (01-03)
+           NUCLEO COMUM(Grupo 1)                                                1260 h = 84 cr
+           OBRIGATÓRIAS DO BACHARELADO (Grupo 1)                                420 h = 28 cr
+           OBRIGATÓRIAS DO PERCURSO (Grupo 39)                                  180 h = 12 cr
+           TOTAL DE OBRIGATÓRIAS                                                1860 h = 124 cr (77,5%)
+           G1 – Optativas de Física (Grupo 19)                                  Min = 8 cr; Max = 16 cr
+           G3 – AAC (Atividades Acadêmicas) (Grupo 11)                          Min = 8 cr; Max = 16 cr
+           G6 – Optativas de Energia Nuclear (Grupo 24)                         Min = 12 cr; Max = 20 cr
+           G9 – Optativas Gerais (Grupo 17)                                     Min = 0 cr; Max = 8 cr
+           TOTAL DE OPTATIVAS (Grupo 29) = G19+G11+G24+G17                       540 h = 36 cr
+            TOTAL                                                               2400 h = 160 cr
+O aluno interessado por este Percurso deverá fazer a opção a partir do 4º período do curso, em data pré-estabelecida pelo
+calendário da UFMG.
+
+
+                         Tabela 3.4 – Resumo percurso em Física Matemática.(01-04)
+          NUCLEO COMUM (Grupo 1)                                                1260 h = 84 cr
+          OBRIGATÓRIAS DO BACHARELADO (Grupo 1)                                 420 h = 28 cr
+          OBRIGATÓRIAS DO PERCURSO (Grupo 40)                                   270 h = 18 cr
+          TOTAL DE OBRIGATÓRIAS                                                 1950 h = 130 cr (81%)
+          G1 – Optativas de Física (Grupo 20)                                      12 cr (180h)
+          G3 – AAC (Atividades Acadêmicas) (Grupo 12)                               8 cr (120h)
+          G7 – Optativas de Física Matemática (Grupo 25)                             6 cr (90h)
+          TOTAL DE OPTATIVAS (Grupo 30) = G20 + G12 + G25                         390 h = 26 cr
+          Núcleo Geral (Grupo 37)                                                       4 cr
+           TOTAL                                                                2400 h = 160 cr
+O aluno interessado por este Percurso deverá fazer a opção a partir do 3º período do curso, em data pré-estabelecida pelo
+calendário da UFMG.
+            Tabela 4.1 – Disciplinas a serem cursadas no BACHARELADO – GRUPO 1
+ SEM     COD      NOME                                                 CR           PRÉ
+        DCC208    Introdução à Programação de Computadores              4          nenhum
+        FIS065    Fundamentos de Mecânica                               4          nenhum
+        MAT001    Cálculo Diferencial e Integral I                      6          nenhum
+   1o
+        MAT038    Geometria Analítica e Álgebra Linear                  4          nenhum
+        FIS151    Física Experimental Básica: Mecânica                  2          nenhum
+        FIS615    Seminários: Física e Sociedade                        2          nenhum         22
+
+        FIS003    Evolução das Ideias da Física                         4         FIS065
+        FIS154    Física Experimental Básica: Termodinâmica             2      FIS151/FIS065
+        FIS616    Introdução à Computação em Física                     4     DCC208/MAT001
+   2o
+        FIS152    Fund. Mecânica dos Fluidos e Termodinâmica            2     FIS065/MAT001
+        MAT039    Cálculo Diferencial e Integral II                     4         MAT001
+                                   OP/AAC                               4          -/-/-/-/       20
+
+        FIS069    Fundamentos de Eletromagnetismo                       4      FIS065/MAT039
+        FIS153    Física Experimental Básica: Eletromagnetismo          2       FIS151/FIS065
+   3o   MAT002    Cálculo Diferencial e Integral III                    4          MAT039
+        MAT015    Equações Diferenciais A                               4          MAT039
+                                   OP/AAC                               4           -/-/-/-/      18
+
+        FIS034    Mecânica I                                            4      FIS065/MAT015
+        FIS086    Fundamentos de Oscilações, Ondas e Ótica              4      FIS069/MAT015
+        FIS091    Fundamentos de Relatividade                           2          FIS069
+   4o
+        FIS155    Física Experimental Básica: Ondas e Ótica             2       FIS151/FIS069
+        MAT016    Equações Diferenciais B                               4          MAT015
+                                  OP/AAC                                4           -/-/-/-/      20
+
+         FIS036   Mecânica II                                           4          FIS034
+         FIS073   Introdução à Física Quântica                          4          FIS086
+   5o    FIS617   Física Experimental: Eletromagnetismo                 4       FIS155/FIS086
+         FIS618   Métodos da Física Teórica I                           4          MAT015
+                                    OP/AAC                              4           -/-/-/-/      20
+
+         FIS037   Eletromagnetismo I                                    4      FIS069/MAT002
+         FIS120   Física Quântica I                                     4       FIS073/FIS618
+   6o    FIS622   Estrutura da Matéria                                  4          FIS073
+         FIS621   Física Experimental: Oscilações, Ondas e Ótica        4       FIS086/FIS155
+                                    OP/AAC                              4           -/-/-/-/      20
+
+         FIS039   Eletromagnetismo II                                   4          FIS037
+         FIS628   Termodinâmica e Introdução à Física Estatística       4          FIS622
+   7o
+         FIS627   Física Experimental: Física Moderna                   4       FIS621/FIS073
+                                  OP/AAC                                8           -/-/-/-/      20
+
+   8o                              OP/AAC                              20           -/-/-/-/      20
+As disciplinas do Núcleo Comum, que são obrigatórias para o Bacharelado e a Licenciatura, estão
+hachuradas de cinza.
+Tabela 4.2 Disciplinas Optativas com temas de Física - Grupo 5 (Grupo 18,19,20,21)
+     As colunas da direita sinalizam as disciplinas que são essenciais (E) e recomendadas (R) para os enfoques em
+ Astrofísica (A), Física dos Materiais (FM), Física Teórica (FT), Física Experimental (FE) e Física Computacional (FC)
+S                                                                                           A FM FT           FE    FC
+E
+M
+*        COD           NOME                                           CR         PRÉ
+4 MAT118              Variável Complexa                             4        MAT002                   E            R
+  FIS630              Astronomia Observacional                      4        FIS086       E
+5                                                                            FIS616 /     R                        E
+  FIS633              Métodos Computacionais em Física              4
+                                                                             MAT016
+  FIS006              Astrofísica Estelar                           4        FIS073       E
+6 FIS623              Métodos da Física Teórica II                  4        FIS618                   E            R
+  FIS632              Tópico em Eletrônica aplicada à Física        4        FIS617                          E
+  FIS007              Astrofísica Galáctica                         4        FIS006       E
+  FIS042              Introdução à Física de Partículas             4        FIS622                   R      R     R
+7 FIS121              Física Quântica II                            4        FIS120             E     E            R
+  FIS127              Introdução à Física do Estado Sólido          4        FIS622             E     R      R     R
+  FIS631              Física Atômica e Molecular                    4        FIS073             E     R      R     R
+  FIS040              Física Experimental Avançada                  6        FIS627             E            E
+8
+  FIS123              Ótica                                         4        FIS039       E     E     R      E     R
+     FIS634,639,640   Tópicos de Astrofísica A, B, C               2-4          -         R
+     FIS644,645,646   Tópicos de Física dos Materiais A, B, C      2-4          -              R             R
+-
+     FIS641,642,643   Tópicos de Física Teórica A, B, C            2-4          -                     R
+     FIS635,636,637   Tópicos Gerais em Física A, B, C             2-4          -
+SEM* - indicação de a partir de que semestre essa disciplina pode ser cursada.
+
+
+
+
+    AAC - Atividades Acadêmicas Complementares Grupo 9
+    (Grupo 10,11,12,13)
+ ATIVIDADE                                                          Créditos         Máximo
+ Estudo Orientado                                                   1 ou 2           6
+
+ Participação Em Eventos                                            1 ou 2           6
+
+ Iniciação à Pesquisa, à Docência e à Extensão                      max 4/sem        16
+
+ Monografia                                                         4 ou 8           4 ou 8
+
+ Vivência Profissional                                              max 4/sem        14
+     Tabela 4.3 Disciplinas Optativas de caráter geral do Bacharelado - Grupo 7 (Grupo 16 e 17)
+S
+E
+M
+*       COD     NOME                                      CR            PRÉ
+  LET223        Fundamentos de Libras                          4       nenhum
+  QUI003        Química Geral B                                4       nenhum              R       R
+1 QUI019        Química Geral Experimental                     2       nenhum              R       R
+                Bases Ecológicas para o Desenvolvimento
+     ICB001                                                    2       nenhum
+                Sustentável
+     DCC203     Progr. e Desenvolvimento de Software I         4       nenhum          R               E
+2
+     EST031     Estatística e Probabilidades                   4       MAT001                  R       R
+     DCC033     Análise Numérica                               4   DCC003/MAT001
+3    DCC204     Progr. e Desenv. de Software II                4       DCC203          R               E
+     QUI604     Físico-Química II                              6   FIS152 / QUI003         R       R
+     DCC205     Estrutura de Dados                             4       DCC204          R               E
+     FIS004     Astronomia Geral                               4       FIS065
+4
+     FIS620     Física Conceitual A                            4       FIS152
+     MAT244     Introd. Geometria Diferencial                  4       MAT002
+     FIS619     Rec.Did.:Mecânica, Fluidos e Fis.Term.         4    FIS155/FIS086
+     FIS624     Física Conceitual B                            4    FIS073/FIS091
+     FIS652     Métodos Comp. no Ensino de Física              4       FIS616
+5
+     MAT243     Análise I                                      6       MAT002
+     MAT246     Intr. Equações Diferenciais Ordinárias         4       MAT016
+     MAT247     Intr. Equações Diferenciais Parciais           4       MAT016
+     FIS625     Recursos Didáticos: Eletromagnetismo           4       FIS619
+6    FIS626     Recursos Didáticos: Astronomia                 4    FIS004/FIS619
+     MAT245     Análise II                                     4       MAT243
+                                                                   FIS619/FIS073/FI
+7    FIS629     Rec.Did.:Ondas,Ótica e Física Moderna          4
+                                                                        S091
+     ICE061-
+                Tópicos Especiais A, B, C                  2-4     Depende da oferta
+     063
+-
+     ICE055-
+                Tópicos em Ensino de Física A - F          1-6     Depende da oferta
+     060
+
+           O aluno também poderá solicitar matrícula nas disciplinas da Pós-graduação em Física que
+    serão aproveitadas no grupo 26 do percurso padrão:
+    FIS638 - TÓPICOS AVANÇADOS DE FÍSICA                4 créditos (Grupo 26)
+

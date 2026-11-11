@@ -3,6 +3,7 @@ import { computed, onMounted, reactive, ref, watch } from 'vue'
 import { RouterLink } from 'vue-router'
 
 import CourseGraph from '../components/CourseGraph.vue'
+import DisciplineDetails from '../components/DisciplineDetails.vue'
 import ProgressPanel from '../components/ProgressPanel.vue'
 import { formatHours } from '../core/format.mjs'
 import {
@@ -36,6 +37,7 @@ const choices = ref({})
 const choosingSlot = ref(null)
 const choiceSearch = ref('')
 const search = ref('')
+const detailsCode = ref(null)
 
 const meta = computed(() => state.course?.meta ?? null)
 const percursos = computed(() => state.course?.percursos ?? [])
@@ -76,6 +78,8 @@ const optionalOptions = computed(() => {
             const missing = (entry.prereqs ?? []).filter((code) => !taken.value.has(code))
             return {
                 ...entry,
+                // a pool pode não trazer a ementa; nesse caso usa a da grade do curso
+                ementa: entry.ementa ?? disciplinesByCode.value[entry.code]?.ementa ?? null,
                 missing,
                 alreadyChosen:
                     chosenCodes.value.has(entry.code) &&
@@ -106,6 +110,112 @@ const hasOptionalSlots = computed(() =>
     (state.course?.percursos ?? []).some((percurso) => (percurso.optionalSlots ?? []).length > 0)
 )
 
+/** Entradas da pool de optativas do percurso atual, indexadas por código. */
+const poolByCode = computed(
+    () =>
+        new Map(
+            (selectedPercursoData.value?.optionalPool ?? []).map((entry) => [entry.code, entry])
+        )
+)
+
+/** Dados da disciplina aberta no painel de detalhes (grade do curso ou pool). */
+const detailsDiscipline = computed(() => {
+    if (!detailsCode.value) return null
+    return (
+        disciplinesByCode.value[detailsCode.value] ??
+        poolByCode.value.get(detailsCode.value) ??
+        null
+    )
+})
+
+const detailsNode = computed(
+    () => graph.value?.nodes.find((node) => node.id === detailsCode.value) ?? null
+)
+
+const detailsPeriod = computed(
+    () => detailsNode.value?.level ?? detailsDiscipline.value?.period ?? null
+)
+
+const detailsOptional = computed(() => {
+    if (!detailsCode.value) return false
+    if (detailsNode.value) return Boolean(detailsNode.value.optional)
+    const discipline = detailsDiscipline.value
+    return discipline?.type === 'OP' || Boolean(discipline?.group)
+})
+
+const detailsTaken = computed(
+    () => Boolean(detailsCode.value) && taken.value.has(detailsCode.value)
+)
+
+const detailsStatus = computed(() => {
+    if (!detailsCode.value) return 'blocked'
+    return progress.value?.status.get(detailsCode.value) ?? 'blocked'
+})
+
+/** Nome de uma disciplina: da grade do curso, da pool de optativas ou o código. */
+function disciplineName(code) {
+    return disciplinesByCode.value[code]?.name ?? poolByCode.value.get(code)?.name ?? code
+}
+
+const detailsPrereqs = computed(() => {
+    const code = detailsCode.value
+    if (!code) return []
+    const discipline = detailsDiscipline.value
+    const prereqs = selectedPercursoData.value?.prereqOverrides?.[code] ?? discipline?.prereqs ?? []
+    return [...new Set(prereqs)].map((prereq) => ({
+        code: prereq,
+        name: disciplineName(prereq),
+        taken: taken.value.has(prereq),
+        inGraph: Boolean(graph.value?.nodes.some((node) => node.id === prereq)),
+    }))
+})
+
+/** Disciplinas (e optativas escolhidas) que dependem diretamente desta. */
+const detailsDependents = computed(() => {
+    const code = detailsCode.value
+    if (!code || !graph.value) return []
+    const nodesById = new Map(graph.value.nodes.map((node) => [node.id, node]))
+    const seen = new Set()
+    const dependents = []
+    for (const edge of graph.value.edges) {
+        if (edge.from !== code || seen.has(edge.to)) continue
+        seen.add(edge.to)
+        const node = nodesById.get(edge.to)
+        if (!node) continue
+        dependents.push({
+            code: node.id,
+            name: node.name ?? node.label ?? node.id,
+            kind: node.kind,
+            level: node.level,
+            taken: taken.value.has(node.id),
+        })
+    }
+    return dependents.sort(
+        (left, right) =>
+            Number(left.level) - Number(right.level) ||
+            String(left.name).localeCompare(String(right.name), 'pt-BR')
+    )
+})
+
+/** Sugestão de créditos de optativa/AAC por período (quando a fonte traz o mapa). */
+function periodOptionalCredits(period) {
+    const map = selectedPercursoData.value?.optionalCreditsByPeriod
+    if (!map) return null
+    const value = Number(map[String(period.number)] ?? map[period.number])
+    if (!Number.isFinite(value) || value <= 0) return null
+    return value
+}
+
+function openDetails(code) {
+    if (!code) return
+    if (!disciplinesByCode.value[code] && !poolByCode.value.has(code)) return
+    detailsCode.value = code
+}
+
+function closeDetails() {
+    detailsCode.value = null
+}
+
 const suggestions = computed(() => {
     const term = search.value.trim()
     if (term.length < 2 || !graph.value) return []
@@ -127,6 +237,8 @@ async function load() {
         }
         const course = await loadCourse(entry.file)
         state.course = course
+        detailsCode.value = null
+        choosingSlot.value = null
         selectedPercurso.value = course.percursos?.[0]?.id ?? null
         const stored = loadProgress(storage, course.id)
         taken.value = new Set(stored?.taken ?? [])
@@ -150,6 +262,11 @@ watch(
     },
     { deep: false }
 )
+
+// O painel mostra dados do percurso selecionado; troca de percurso fecha o painel.
+watch(selectedPercurso, () => {
+    detailsCode.value = null
+})
 
 function toggle(code) {
     const next = new Set(taken.value)
@@ -458,12 +575,13 @@ function prerequisiteLabel(code) {
                             </li>
                         </ul>
                         <p class="mt-3 text-xs text-gray-500 dark:text-gray-400">
-                            Clique em uma disciplina para marcar/desmarcar. Você pode marcar mesmo
-                            sem os pré-requisitos (“quebra”) para simular cenários. Cada coluna é um
-                            período sugerido. Clique em uma <strong>optativa</strong> para escolher
-                            a disciplina que vai preenchê-la; no mesmo painel dá para marcar se ela
-                            já foi cursada (aí ela fica azul). Arraste para navegar e use o scroll
-                            (ou pinça) para dar zoom; “Ajustar” mostra o grafo inteiro.
+                            Clique em uma disciplina para ver a ementa e marcar/desmarcar. Você pode
+                            marcar mesmo sem os pré-requisitos (“quebra”) para simular cenários.
+                            Cada coluna é um período sugerido. Clique em uma
+                            <strong>optativa</strong> para escolher a disciplina que vai
+                            preenchê-la; no mesmo painel dá para marcar se ela já foi cursada (aí
+                            ela fica azul). Arraste para navegar e use o scroll (ou pinça) para dar
+                            zoom; “Ajustar” mostra o grafo inteiro.
                         </p>
                     </section>
                 </aside>
@@ -477,7 +595,7 @@ function prerequisiteLabel(code) {
                             ref="graphRef"
                             :graph="graph"
                             :status="progress.status"
-                            @toggle="toggle"
+                            @show-details="openDetails"
                             @choose-slot="openSlot"
                         />
                     </div>
@@ -487,8 +605,16 @@ function prerequisiteLabel(code) {
                             v-for="period in selectedPercursoData?.periods ?? []"
                             :key="period.number"
                         >
-                            <div class="mb-2 flex items-center justify-between">
-                                <h2 class="text-lg font-semibold">Período {{ period.number }}</h2>
+                            <div class="mb-2 flex flex-wrap items-center justify-between gap-2">
+                                <div class="flex flex-wrap items-center gap-2">
+                                    <h2 class="text-lg font-semibold">
+                                        Período {{ period.number }}
+                                    </h2>
+                                    <span v-if="periodOptionalCredits(period)" class="badge">
+                                        sugestão: {{ periodOptionalCredits(period) }} cr em
+                                        optativas/AAC
+                                    </span>
+                                </div>
                                 <button
                                     type="button"
                                     class="btn text-xs"
@@ -511,7 +637,7 @@ function prerequisiteLabel(code) {
                                         :checked="taken.has(code)"
                                         @change="toggle(code)"
                                     />
-                                    <div class="min-w-0">
+                                    <div class="min-w-0 flex-1">
                                         <p class="text-sm font-medium">
                                             <span
                                                 class="font-mono text-xs text-gray-500 dark:text-gray-400"
@@ -526,8 +652,15 @@ function prerequisiteLabel(code) {
                                             {{ prerequisiteLabel(code) }}
                                         </p>
                                     </div>
+                                    <button
+                                        type="button"
+                                        class="btn shrink-0 text-xs"
+                                        @click="openDetails(code)"
+                                    >
+                                        Detalhes
+                                    </button>
                                     <span
-                                        class="ml-auto shrink-0 rounded-full px-2 py-0.5 text-xs font-medium"
+                                        class="shrink-0 rounded-full px-2 py-0.5 text-xs font-medium"
                                         :class="{
                                             'bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-200':
                                                 statusOf(code) === 'taken',
@@ -585,6 +718,14 @@ function prerequisiteLabel(code) {
                                             }}
                                         </p>
                                     </div>
+                                    <button
+                                        v-if="slot.chosen"
+                                        type="button"
+                                        class="btn text-xs"
+                                        @click="openDetails(slot.chosen.code)"
+                                    >
+                                        Detalhes
+                                    </button>
                                     <button
                                         type="button"
                                         class="btn text-xs"
@@ -664,6 +805,13 @@ function prerequisiteLabel(code) {
                                         : 'pré-requisitos ok'
                                 }}
                             </p>
+                            <p
+                                v-if="option.ementa"
+                                class="mt-1 line-clamp-2 text-xs text-gray-500 dark:text-gray-400"
+                                :title="option.ementa"
+                            >
+                                {{ option.ementa }}
+                            </p>
                         </div>
                         <button
                             type="button"
@@ -710,5 +858,20 @@ function prerequisiteLabel(code) {
                 </div>
             </div>
         </div>
+
+        <DisciplineDetails
+            v-if="detailsCode"
+            :code="detailsCode"
+            :discipline="detailsDiscipline"
+            :period="detailsPeriod"
+            :optional="detailsOptional"
+            :prereqs="detailsPrereqs"
+            :dependents="detailsDependents"
+            :taken="detailsTaken"
+            :status="detailsStatus"
+            @close="closeDetails"
+            @toggle-taken="toggle"
+            @navigate="openDetails"
+        />
     </div>
 </template>

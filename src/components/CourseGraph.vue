@@ -9,7 +9,7 @@ const props = defineProps({
     status: { type: Map, required: true },
 })
 
-const emit = defineEmits(['toggle', 'choose-slot'])
+const emit = defineEmits(['show-details', 'choose-slot'])
 
 const theme = inject('theme', null)
 const container = ref(null)
@@ -17,6 +17,12 @@ const container = ref(null)
 let network = null
 let nodesSet = null
 let edgesSet = null
+
+// Um arrasto não deve ser confundido com um clique: ignoramos cliques que
+// acontecerem durante o gesto ou logo depois que ele termina.
+const CLICK_AFTER_DRAG_MS = 250
+let dragging = false
+let lastDragEnd = 0
 
 const COLORS = {
     taken: { background: '#3b82f6', border: '#1d4ed8' },
@@ -153,6 +159,7 @@ function buildDataset() {
 }
 
 function destroyNetwork() {
+    dragging = false
     if (network) {
         network.destroy()
         network = null
@@ -184,6 +191,8 @@ function mountNetwork(options = {}) {
     network.on('click', (params) => {
         // O evento "click" do vis-network traz params.nodes apenas quando há seleção;
         // como os nós não são selecionáveis, fazemos o hit-test pelo ponteiro.
+        // Um arrasto (mover o nó) não deve abrir o painel de detalhes.
+        if (dragging || Date.now() - lastDragEnd < CLICK_AFTER_DRAG_MS) return
         const nodeId = network.getNodeAt(params.pointer.DOM)
         if (nodeId === undefined || nodeId === null) return
         network.unselectAll()
@@ -192,7 +201,11 @@ function mountNetwork(options = {}) {
             emit('choose-slot', nodeId)
             return
         }
-        emit('toggle', nodeId)
+        emit('show-details', nodeId)
+    })
+
+    network.on('dragStart', () => {
+        dragging = true
     })
 
     // O arrasto vertical é permitido (para reorganizar dentro do período), mas o
@@ -207,6 +220,8 @@ function mountNetwork(options = {}) {
         if (changed.length) nodesSet.update(changed)
         network.unselectAll()
         refreshColors()
+        dragging = false
+        lastDragEnd = Date.now()
     })
 
     // expõe a instância para depuração/ testes e2e: abra a página com ?debug=1

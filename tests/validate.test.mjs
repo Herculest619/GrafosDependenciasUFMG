@@ -129,3 +129,14 @@ test('curso vazio/estruturalmente inválido é rejeitado', () => {
             .errors.length > 0
     )
 })
+
+test('detecta ementa corrompida, optativa órfã e sugestão de optativas inválida', () => {
+    const course = baseCourse()
+    course.disciplines.TST100.ementa = 'IntroduÃ§Ã£o'
+    course.percursos[0].optionalPool = [{ code: 'ZZZ999', hours: 60 }]
+    course.percursos[0].optionalCreditsByPeriod = { 0: -1 }
+    const { errors } = validateCourse(course)
+    assert.ok(errors.some((error) => error.includes('ementa com texto corrompido')))
+    assert.ok(errors.some((error) => error.includes('não existe no curso')))
+    assert.ok(errors.some((error) => error.includes('optionalCreditsByPeriod')))
+})

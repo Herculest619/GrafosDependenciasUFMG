@@ -14,35 +14,6 @@ function parse(file) {
     return parseEstruturaCurricular(readFileSync(join(SOURCES, `${file}.txt`), 'utf8'))
 }
 
-test('estrutura curricular: Física Bacharelado matriz 2013/1', () => {
-    const parsed = parse('fisica-bacharelado-matriz-2013')
-    assert.equal(parsed.kind, 'bacharelado')
-    assert.equal(parsed.shift, 'Diurno')
-    assert.equal(parsed.versions.length, 3)
-    assert.equal(parsed.blocks.length, 8)
-    assert.equal(
-        parsed.blocks.reduce((total, block) => total + block.rows.length, 0),
-        30
-    )
-    // o 8º período não tem obrigatórias: só optativas sugeridas
-    assert.equal(parsed.blocks[7].number, 8)
-    assert.deepEqual(parsed.blocks[7].rows, [])
-    assert.deepEqual(
-        parsed.blocks[0].rows.map((row) => row.code),
-        ['DCC001', 'FIS054', 'MAT001', 'MAT038']
-    )
-    assert.deepEqual(parsed.totals, {
-        obligatoryCredits: 111,
-        obligatoryHours: 1665,
-        optionalCredits: 49,
-        optionalHours: 735,
-    })
-    assert.deepEqual(parsed.headerTotal, { credits: 160, hours: 2400 })
-    assert.equal(parsed.groups.G1.length, 15)
-    assert.equal(parsed.groups.G9.length, 11)
-    assert.deepEqual(parsed.warnings, [])
-})
-
 test('estrutura curricular: Física Licenciatura Noturno matriz 2018', () => {
     const parsed = parse('fisica-licenciatura-noturno-matriz-2018')
     assert.equal(parsed.kind, 'licenciatura')
@@ -67,43 +38,30 @@ test('estrutura curricular: Física Licenciatura Noturno matriz 2018', () => {
 })
 
 test('converte a estrutura curricular no JSON v2', () => {
-    const parsed = parse('fisica-bacharelado-matriz-2013')
+    const parsed = parse('fisica-licenciatura-noturno-matriz-2018')
     const { course, catalog } = buildEstruturaCourse(parsed, {
-        id: 'fisica-bacharelado-matriz-2013',
+        id: 'fisica-licenciatura-noturno-matriz-2018',
         name: 'Física',
-        variant: 'Bacharelado · matriz 2013/1',
-        degree: 'Bacharelado',
-        curriculum: 'Matriz 2013/1',
+        variant: 'Licenciatura · Noturno · matriz 2018',
+        degree: 'Licenciatura',
+        curriculum: 'Matriz 2018 (noturno)',
     })
 
-    assert.equal(course.id, 'fisica-bacharelado-matriz-2013')
-    assert.equal(course.meta.degree, 'Bacharelado')
-    assert.equal(course.meta.curriculum, 'Matriz 2013/1')
+    assert.equal(course.id, 'fisica-licenciatura-noturno-matriz-2018')
+    assert.equal(course.meta.degree, 'Licenciatura')
     assert.equal(course.percursos.length, 1)
 
     const percurso = course.percursos[0]
     assert.deepEqual(
         percurso.periods.map((period) => period.number),
-        [1, 2, 3, 4, 5, 6, 7, 8]
+        [1, 2, 3, 4, 5, 6, 7, 8, 9]
     )
-    // o último período existe mesmo sem disciplina obrigatória
-    assert.deepEqual(percurso.periods[7].codes, [])
-    assert.equal(percurso.optionalSlots.length, 13) // 735 h / 60 h
-    assert.equal(percurso.summary.optionalHours.min, 735)
-    assert.equal(percurso.summary.totalHours, 2400)
+    assert.equal(percurso.optionalSlots.length, 12) // 690 h / 60 h
+    assert.equal(percurso.summary.optionalHours.min, 690)
+    assert.equal(percurso.summary.totalHours, 2805)
 
-    // disciplina obrigatória, com carga horária e pré-requisitos
-    assert.equal(course.disciplines.FIS069.hours.total, 60)
-    assert.deepEqual(course.disciplines.FIS069.prereqs, ['FIS065', 'MAT039'])
-    assert.equal(course.disciplines.FIS069.scheduled, true)
-
-    // optativa do grupo G1 fora dos períodos
-    assert.equal(course.disciplines.FIS148.scheduled, false)
-    assert.equal(course.disciplines.FIS148.group, 'G1')
-    assert.ok(percurso.optionalPool.some((entry) => entry.code === 'FIS148'))
-
-    assert.equal(catalog.stats.disciplines, 30)
-    assert.equal(catalog.stats.periods, 8)
+    assert.equal(catalog.stats.disciplines, 35)
+    assert.equal(catalog.stats.periods, 9)
     assert.ok(catalog.stats.edges > 0)
 })
 
@@ -120,5 +78,5 @@ test('descarta pré-requisito de si mesma (typo do PDF)', () => {
         'QUI003 não pode ser pré-requisito de si mesma'
     )
     assert.ok(warnings.some((warning) => warning.includes('QUI003->QUI003')))
-    assert.equal(course.percursos[0].optionalSlots.length, 12) // 690 h / 60 h
+    assert.equal(course.percursos[0].optionalSlots.length, 12)
 })
