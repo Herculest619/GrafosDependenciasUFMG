@@ -1,6 +1,6 @@
 {
     "schemaVersion": 2,
-    "generatedAt": "2026-11-11T00:51:50.229Z",
+    "generatedAt": "2026-11-11T00:58:11.011Z",
     "courses": [
         {
             "id": "aquacultura",
@@ -522,7 +522,7 @@
                 "retrievedAt": "2026-11-05T19:39:52.557Z",
                 "note": "PDF fornecido pelo usuário em data/archives; o PDF original (LicN2018.pdf) foi removido de data/archives em 2026-11 e o texto extraído foi preservado"
             },
-            "note": "PDF de estrutura curricular fornecido em data/archives; versões de Formação Complementar Aberta não modeladas.",
+            "note": "Estrutura curricular 2018 (texto extraído; PDF removido de data/archives). Inconsistências do PDF documentadas em docs/RELATORIO_FONTES_UFMG.md: MAT016 repetido como obrigatória/optativa (mantida a obrigatória) e QUI003 repetido no G9 (mantida a primeira ocorrência).",
             "percursos": [
                 {
                     "id": "padrao",

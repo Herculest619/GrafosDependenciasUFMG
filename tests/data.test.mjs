@@ -89,6 +89,13 @@ test('catálogo: matriz 2013 substituída pela matriz 2019 do bacharelado', () =
     assert.equal(lic2018.source.url, null)
     // a entrada legada do noturno era duplicata da matriz 2018 e foi removida
     assert.ok(!ids.includes('fisica-licenciatura-noturno'))
+
+    // ...e a matriz 2018 publicada não tem disciplinas duplicadas na pool
+    const lic = readJson(join(DATA_DIR, 'courses/fisica-licenciatura-noturno-matriz-2018.json'))
+    assert.equal(lic.disciplines.MAT016.name, 'Equações Diferenciais B')
+    const licPool = lic.percursos[0].optionalPool.map((entry) => entry.code)
+    assert.equal(new Set(licPool).size, licPool.length)
+    assert.ok(!licPool.includes('MAT016'))
 })
 
 test('dados do DCC têm códigos, períodos e pré-requisitos conhecidos', () => {

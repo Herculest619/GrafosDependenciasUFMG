@@ -441,6 +441,12 @@ relatório → texto → `data:build` → PR).
     que a regra real.
 -   O PDF da **licenciatura 2018** foi removido de `data/archives`; o curso continua
     publicado a partir do texto extraído e o registro da fonte fica com `pdf: null`.
+-   Na **matriz 2018 da licenciatura noturna** o PDF repete códigos: `MAT016` aparece como
+    obrigatória ("Equações Diferenciais C") e como optativa do G9 ("Equações Diferenciais
+    B"), e `QUI003` aparece duas vezes no G9 ("Química Geral B" e um provável typo para
+    "Físico-Química II"). O app publica `MAT016` uma única vez, como obrigatória, com o
+    nome corrigido para "Equações Diferenciais B", e mantém só a primeira ocorrência de
+    `QUI003`; o `data:build` avisa sobre as duas inconsistências do PDF.
 -   Alguns cursos têm matrizes antigas em PDF (exportação de Word) sem códigos de disciplina
     e sem pré-requisitos — esses casos não entram no grafo.
 -   A carga horária por disciplina usa o total informado no relatório (no Bacharelado em

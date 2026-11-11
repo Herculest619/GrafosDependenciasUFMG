@@ -216,6 +216,11 @@ const COURSES = [
             degree: 'Licenciatura',
             shift: 'Noturno',
             curriculum: 'Matriz 2018 (noturno)',
+            // O PDF lista MAT016 como "Equações Diferenciais C" na tabela de
+            // obrigatórias, mas o mesmo código aparece no G9 como "Equações
+            // Diferenciais B" (nome correto do código no Anexo A de 2019).
+            nameOverrides: { MAT016: 'Equações Diferenciais B' },
+            note: 'Estrutura curricular 2018 (texto extraído; PDF removido de data/archives). Inconsistências do PDF documentadas em docs/RELATORIO_FONTES_UFMG.md: MAT016 repetido como obrigatória/optativa (mantida a obrigatória) e QUI003 repetido no G9 (mantida a primeira ocorrência).',
         },
     },
     {

@@ -39,12 +39,13 @@ test('estrutura curricular: Física Licenciatura Noturno matriz 2018', () => {
 
 test('converte a estrutura curricular no JSON v2', () => {
     const parsed = parse('fisica-licenciatura-noturno-matriz-2018')
-    const { course, catalog } = buildEstruturaCourse(parsed, {
+    const { course, catalog, warnings } = buildEstruturaCourse(parsed, {
         id: 'fisica-licenciatura-noturno-matriz-2018',
         name: 'Física',
         variant: 'Licenciatura · Noturno · matriz 2018',
         degree: 'Licenciatura',
         curriculum: 'Matriz 2018 (noturno)',
+        nameOverrides: { MAT016: 'Equações Diferenciais B' },
     })
 
     assert.equal(course.id, 'fisica-licenciatura-noturno-matriz-2018')
@@ -59,6 +60,16 @@ test('converte a estrutura curricular no JSON v2', () => {
     assert.equal(percurso.optionalSlots.length, 12) // 690 h / 60 h
     assert.equal(percurso.summary.optionalHours.min, 690)
     assert.equal(percurso.summary.totalHours, 2805)
+
+    // O PDF repete MAT016 (obrigatória e G9) e QUI003 (duas vezes no G9):
+    // a pool publicada não pode ter duplicata e a obrigatória prevalece.
+    assert.equal(course.disciplines.MAT016.name, 'Equações Diferenciais B')
+    assert.equal(course.disciplines.MAT016.scheduled, true)
+    const poolCodes = percurso.optionalPool.map((entry) => entry.code)
+    assert.equal(new Set(poolCodes).size, poolCodes.length)
+    assert.ok(!poolCodes.includes('MAT016'))
+    assert.ok(warnings.some((warning) => warning.includes('MAT016 aparece como obrigatória')))
+    assert.ok(warnings.some((warning) => warning.includes('QUI003 aparece duas vezes')))
 
     assert.equal(catalog.stats.disciplines, 35)
     assert.equal(catalog.stats.periods, 9)
@@ -77,6 +88,8 @@ test('descarta pré-requisito de si mesma (typo do PDF)', () => {
         false,
         'QUI003 não pode ser pré-requisito de si mesma'
     )
-    assert.ok(warnings.some((warning) => warning.includes('QUI003->QUI003')))
+    // a 2ª ocorrência de QUI003 ("Físico-Química II") é descartada da pool,
+    // então o auto-pré-requisito nem chega ao JSON; a duplicata é avisada.
+    assert.ok(warnings.some((warning) => warning.includes('QUI003 aparece duas vezes')))
     assert.equal(course.percursos[0].optionalSlots.length, 12)
 })

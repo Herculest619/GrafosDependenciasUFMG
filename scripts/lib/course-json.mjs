@@ -467,15 +467,17 @@ export function convertLegacyCourse(raw, options) {
  */
 export function buildEstruturaCourse(parsed, options) {
     const warnings = [...(parsed.warnings ?? [])]
+    const nameOverrides = options.nameOverrides ?? {}
     const disciplines = {}
 
     const addDiscipline = (row, scheduled, group) => {
         const existing = disciplines[row.code]
         const hours = { total: row.hours, theory: null, practice: null }
+        const name = nameOverrides[row.code] ?? row.name
         if (!existing) {
             disciplines[row.code] = {
                 code: row.code,
-                name: row.name,
+                name,
                 type: null,
                 credits: row.credits,
                 hours,
@@ -494,8 +496,33 @@ export function buildEstruturaCourse(parsed, options) {
     for (const block of parsed.blocks ?? []) {
         for (const row of block.rows) addDiscipline(row, true, null)
     }
+
+    // Optativas: mesma disciplina não pode aparecer duas vezes na pool nem ser
+    // oferecida como optativa se já é obrigatória na matriz (acontece na matriz
+    // 2018 da licenciatura noturna: MAT016 e QUI003 repetidos no PDF).
+    const poolRows = []
+    const poolSeen = new Map()
     for (const [group, rows] of Object.entries(parsed.groups ?? {})) {
-        for (const row of rows) addDiscipline(row, false, group)
+        for (const row of rows) {
+            if (disciplines[row.code]?.scheduled) {
+                warnings.push(
+                    `${row.code} aparece como obrigatória e como optativa (${group}); mantida a obrigatória`
+                )
+                continue
+            }
+            const previous = poolSeen.get(row.code)
+            if (previous) {
+                if (previous.row.name !== row.name) {
+                    warnings.push(
+                        `${row.code} aparece duas vezes nas optativas (${previous.group}/${group}) com nomes diferentes ("${previous.row.name}" e "${row.name}"); mantida a primeira`
+                    )
+                }
+                continue
+            }
+            poolSeen.set(row.code, { row, group })
+            poolRows.push({ row, group })
+            addDiscipline(row, false, group)
+        }
     }
 
     // pré-requisitos que caem fora da matriz do curso
@@ -534,12 +561,11 @@ export function buildEstruturaCourse(parsed, options) {
         group: Object.keys(parsed.groups ?? {}).find((group) => group === 'G1') ?? 'Optativas',
     }))
 
-    const optionalPool = uniqueBy(
-        Object.entries(parsed.groups ?? {}).flatMap(([group, rows]) =>
-            rows.map((row) => ({ code: row.code, group, prereqs: row.prereqs }))
-        ),
-        (entry) => entry.code
-    )
+    const optionalPool = poolRows.map(({ row, group }) => ({
+        code: row.code,
+        group,
+        prereqs: row.prereqs,
+    }))
 
     const degree = parsed.kind === 'licenciatura' ? 'Licenciatura' : 'Bacharelado'
     const name = options.name ?? 'Física'

@@ -200,6 +200,14 @@ de 2019 do **Bacharelado** entrou por **upload do usuário**, com dois PDFs do P
 > e a matriz 2018). A entrada legada foi **removida** por duplicar a mesma versão
 > curricular; fica publicada apenas a **matriz 2018**, que é a mais recente (o texto
 > extraído foi preservado e o PDF original saiu de `data/archives`).
+>
+> Inconsistências do PDF de 2018 (documentadas, sem inventar dados): `MAT016` aparece como
+> obrigatória ("Equações Diferenciais C") e também como optativa do G9 ("Equações
+> Diferenciais B") — o app publica uma única vez, como obrigatória, e usa o nome oficial do
+> código ("Equações Diferenciais B", confirmado no Anexo A de 2019); `QUI003` aparece duas
+> vezes no G9 ("Química Geral B" e "Físico-Química II", provável typo de `QUI604`, que é a
+> Físico-Química II no Anexo A de 2019) — o app mantém a primeira ocorrência e avisa no
+> build. A pool publicada não tem códigos repetidos.
 
 **Formatos reconhecidos hoje** (quatro, ver README): relatório de versão curricular
 (Siga), relatório de percurso curricular (Siga), estrutura curricular antiga (PDF) e
