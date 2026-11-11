@@ -249,12 +249,26 @@ function scheduleInitialView(attempt) {
             if (attempt < 6) setTimeout(() => scheduleInitialView(attempt + 1), 60)
             return
         }
-        goToStart()
+        initialView()
         // segunda passada: o canvas pode terminar de dimensionar depois do 1º frame
         setTimeout(() => {
-            if (network) goToStart()
+            if (network) initialView()
         }, 300)
     })
+}
+
+/**
+ * Câmera inicial: em telas normais começa nos primeiros períodos com zoom 100%
+ * (texto nítido); em telas muito largas (ex.: ultrawide) enquadra a grade
+ * inteira para aproveitar a largura disponível em vez de deixar área vazia.
+ */
+function initialView() {
+    if (!network || !container.value) return
+    const bounds = contentBounds(network.getPositions())
+    const contentWidth = bounds ? bounds.maxX - bounds.minX : 0
+    const isWide = container.value.clientWidth > contentWidth + 160
+    if (isWide) fitAll()
+    else goToStart()
 }
 
 /** Bounding box do conteúdo, com folga para os nós e os cabeçalhos de período. */

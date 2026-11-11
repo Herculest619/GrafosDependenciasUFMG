@@ -6,7 +6,7 @@ import BrandLogo from '../components/BrandLogo.vue'
 import CourseGraph from '../components/CourseGraph.vue'
 import DisciplineDetails from '../components/DisciplineDetails.vue'
 import ProgressPanel from '../components/ProgressPanel.vue'
-import { formatHours } from '../core/format.mjs'
+import { formatHours, matchesSearch } from '../core/format.mjs'
 import {
     buildGraph,
     searchDisciplines,
@@ -60,17 +60,18 @@ const graph = computed(() =>
 )
 
 const chosenCodes = computed(() => new Set(Object.values(choices.value)))
+const choiceSearchTerm = computed(() => choiceSearch.value.trim())
 
 /** Opções de optativa do percurso atual, filtradas pela busca do modal. */
 const optionalOptions = computed(() => {
     const pool = selectedPercursoData.value?.optionalPool ?? []
-    const term = choiceSearch.value.trim().toLowerCase()
     return pool
-        .filter((entry) => {
-            if (!term) return true
-            const haystack = `${entry.code} ${entry.name ?? ''} ${entry.groupName ?? ''}`
-            return haystack.toLowerCase().includes(term)
-        })
+        .filter((entry) =>
+            matchesSearch(
+                `${entry.code} ${entry.name ?? ''} ${entry.groupName ?? ''}`,
+                choiceSearch.value
+            )
+        )
         .slice()
         .sort((left, right) =>
             String(left.name ?? left.code).localeCompare(String(right.name ?? right.code), 'pt-BR')
@@ -363,7 +364,7 @@ function prerequisiteLabel(code) {
 </script>
 
 <template>
-    <div class="mx-auto max-w-[1500px] px-4 py-6">
+    <div class="mx-auto w-full max-w-none px-4 py-6 xl:px-6">
         <div
             v-if="state.loading"
             class="card flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400"
@@ -421,7 +422,9 @@ function prerequisiteLabel(code) {
                 </div>
             </div>
 
-            <div class="grid gap-6 lg:grid-cols-[330px_minmax(0,1fr)]">
+            <div
+                class="grid gap-6 lg:grid-cols-[330px_minmax(0,1fr)] xl:gap-8 2xl:grid-cols-[360px_minmax(0,1fr)]"
+            >
                 <aside class="space-y-4">
                     <section class="card space-y-3">
                         <label class="block">
@@ -834,8 +837,13 @@ function prerequisiteLabel(code) {
                         v-if="!optionalOptions.length"
                         class="px-3 py-4 text-sm text-gray-500 dark:text-gray-400"
                     >
-                        Nenhuma optativa mapeada para este percurso. Você ainda pode marcar o espaço
-                        como cursado.
+                        <template v-if="choiceSearchTerm">
+                            Nenhuma optativa encontrada para “{{ choiceSearchTerm }}”.
+                        </template>
+                        <template v-else>
+                            Nenhuma optativa mapeada para este percurso. Você ainda pode marcar o
+                            espaço como cursado.
+                        </template>
                     </li>
                 </ul>
 

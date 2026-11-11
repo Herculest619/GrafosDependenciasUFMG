@@ -22,12 +22,24 @@ export function percent(part, total) {
     return Math.max(0, Math.min(100, Math.round((part / total) * 100)))
 }
 
-function normalizeText(text) {
+/** Normaliza texto para busca: sem acentos, minúsculo e sem espaços nas pontas. */
+export function normalizeText(text) {
     return String(text ?? '')
         .normalize('NFD')
         .replace(/[\u0300-\u036f]/g, '')
         .toLowerCase()
         .trim()
+}
+
+/**
+ * Verifica se um texto contém todos os termos da busca, ignorando acentos e
+ * caixa. "quimica geral" encontra "Química Geral B"; "geral quimica" também.
+ */
+export function matchesSearch(haystack, query) {
+    const terms = normalizeText(query).split(/\s+/).filter(Boolean)
+    if (!terms.length) return true
+    const text = normalizeText(haystack)
+    return terms.every((term) => text.includes(term))
 }
 
 /** Filtra cursos do catálogo por nome, unidade, grau ou turno. */

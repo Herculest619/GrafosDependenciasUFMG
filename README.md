@@ -320,7 +320,7 @@ npm run lint
 
 O `npm run check` roda três verificações independentes:
 
-1. `npm test` — 81 testes (`node --test`) das regras de grafo/progresso, dos parsers
+1. `npm test` — 82 testes (`node --test`) das regras de grafo/progresso, dos parsers
    (incluindo regressão sobre os 13 relatórios oficiais do Siga, a matriz 2019 de Física
    com o Anexo A de ementas e o PDF de estrutura curricular de 2018), da conversão para
    JSON v2 e da integridade dos dados publicados;

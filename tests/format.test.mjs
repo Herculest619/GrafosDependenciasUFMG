@@ -1,7 +1,14 @@
 import assert from 'node:assert/strict'
 import { test } from 'node:test'
 
-import { filterCourses, formatHours, groupByUnit, percent, slugify } from '../src/core/format.mjs'
+import {
+    filterCourses,
+    formatHours,
+    groupByUnit,
+    matchesSearch,
+    percent,
+    slugify,
+} from '../src/core/format.mjs'
 
 const courses = [
     {
@@ -81,4 +88,15 @@ test('formata horas e percentuais', () => {
     assert.equal(percent(150, 100), 100)
     assert.equal(percent(10, 0), 0)
     assert.equal(percent(null, 100), 0)
+})
+
+test('matchesSearch ignora acentos, caixa e ordem dos termos', () => {
+    const option = 'QUI003 Química Geral B G9 — Optativas Gerais'
+    assert.equal(matchesSearch(option, 'quimica'), true)
+    assert.equal(matchesSearch(option, 'QUÍMICA'), true)
+    assert.equal(matchesSearch(option, 'quimica geral'), true)
+    assert.equal(matchesSearch(option, 'geral quimica'), true)
+    assert.equal(matchesSearch(option, 'QUI003'), true)
+    assert.equal(matchesSearch(option, 'fisica'), false)
+    assert.equal(matchesSearch(option, '   '), true)
 })
