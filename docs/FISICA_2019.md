@@ -64,7 +64,7 @@ Bacharelado inteiro). Resumo do que entra no grafo:
   percurso (`summary.freeHours`), não como disciplina/nó.
 - **Ementas**: o texto do Anexo A de cada disciplina é publicado em
   `disciplines[code].ementa` (string ou `null`) e também em `optionalPool[].ementa`;
-  aparece no painel de detalhes ao clicar no nó.
+  aparece no painel de detalhes da visão **Lista** (no grafo, o clique apenas marca/desmarca).
 - **Sugestão de optativas por período**: as linhas `OP/AAC` da 4.1 são guardadas em
   `percurso.optionalCreditsByPeriod` (`{"2":4,"3":4,"4":4,"5":4,"6":4,"7":8,"8":20}`),
   sem transformar cada período em um slot separado.

@@ -582,13 +582,14 @@ function prerequisiteLabel(code) {
                             </li>
                         </ul>
                         <p class="mt-3 text-xs text-gray-500 dark:text-gray-400">
-                            Clique em uma disciplina para ver a ementa e marcar/desmarcar. Você pode
+                            No grafo, clique em uma disciplina para marcar/desmarcar. Você pode
                             marcar mesmo sem os pré-requisitos (“quebra”) para simular cenários.
                             Cada coluna é um período sugerido. Clique em uma
                             <strong>optativa</strong> para escolher a disciplina que vai
                             preenchê-la; no mesmo painel dá para marcar se ela já foi cursada (aí
-                            ela fica azul). Arraste para navegar e use o scroll (ou pinça) para dar
-                            zoom; “Ajustar” mostra o grafo inteiro.
+                            ela fica azul). Para ver a ementa e os detalhes, use a visão
+                            <strong>Lista</strong>. Arraste para navegar e use o scroll (ou pinça)
+                            para dar zoom; “Ajustar” mostra o grafo inteiro.
                         </p>
                     </section>
                 </aside>
@@ -602,7 +603,7 @@ function prerequisiteLabel(code) {
                             ref="graphRef"
                             :graph="graph"
                             :status="progress.status"
-                            @show-details="openDetails"
+                            @toggle="toggle"
                             @choose-slot="openSlot"
                         />
                     </div>

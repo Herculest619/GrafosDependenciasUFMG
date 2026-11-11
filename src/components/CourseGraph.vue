@@ -9,7 +9,7 @@ const props = defineProps({
     status: { type: Map, required: true },
 })
 
-const emit = defineEmits(['show-details', 'choose-slot'])
+const emit = defineEmits(['toggle', 'choose-slot'])
 
 const theme = inject('theme', null)
 const container = ref(null)
@@ -191,7 +191,8 @@ function mountNetwork(options = {}) {
     network.on('click', (params) => {
         // O evento "click" do vis-network traz params.nodes apenas quando há seleção;
         // como os nós não são selecionáveis, fazemos o hit-test pelo ponteiro.
-        // Um arrasto (mover o nó) não deve abrir o painel de detalhes.
+        // No grafo o clique é só marcar/desmarcar; o painel de detalhes fica na Lista.
+        // Um arrasto (mover o nó) não pode marcar/desmarcar sem querer.
         if (dragging || Date.now() - lastDragEnd < CLICK_AFTER_DRAG_MS) return
         const nodeId = network.getNodeAt(params.pointer.DOM)
         if (nodeId === undefined || nodeId === null) return
@@ -201,7 +202,7 @@ function mountNetwork(options = {}) {
             emit('choose-slot', nodeId)
             return
         }
-        emit('show-details', nodeId)
+        emit('toggle', nodeId)
     })
 
     network.on('dragStart', () => {

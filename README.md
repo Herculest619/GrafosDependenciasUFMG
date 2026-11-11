@@ -248,11 +248,12 @@ Física; o schema continua v2 e os demais cursos não são afetados):
 
 Decisões de modelagem:
 
--   **Painel de detalhes**: clicar no nó abre um painel com tipo (obrigatória/optativa),
-    grupo, período sugerido, créditos/carga horária, **ementa** (quando a fonte traz o
-    texto; senão "Ementa não disponível nesta fonte"), pré-requisitos com o status
-    (cursada/faltando), disciplinas que ela libera e o atalho para marcar/desmarcar como
-    cursada. Dá para marcar mesmo sem os pré-requisitos, para simular cenários.
+-   **Painel de detalhes (visão Lista)**: no grafo o clique só marca/desmarca; na visão
+    **Lista**, o botão "Detalhes" abre um painel com tipo (obrigatória/optativa), grupo,
+    período sugerido, créditos/carga horária, **ementa** (quando a fonte traz o texto; senão
+    "Ementa não disponível nesta fonte"), pré-requisitos com o status (cursada/faltando),
+    disciplinas que ela libera e o atalho para marcar/desmarcar como cursada. Dá para marcar
+    mesmo sem os pré-requisitos, para simular cenários.
 -   **Slots de optativa**: as optativas não são pré-requisito de nada e o aluno escolhe quais
     cursar, então o grafo mostra "Optativa 1, Optativa 2, …" (sem arestas até serem
     escolhidas), calculados a partir da carga horária mínima de optativas do percurso
@@ -298,9 +299,10 @@ O que deve aparecer:
    Informação, Engenharia de Computação, Ciência de Dados);
 2. ao abrir um curso, o grafo com uma coluna por período, nós cinza/verde/azul e os slots
    "Optativa 1..N" distribuídos entre as colunas;
-3. clique em um nó para abrir o **painel de detalhes** (ementa, créditos, pré-requisitos) e
-   marcar/desmarcar como cursada — o progresso fica em `localStorage` e é salvo por curso
-   (sobrevive a recarregar a página).
+3. no grafo, clique em um nó para **marcar/desmarcar** como cursada (o grafo continua
+   simples: clique marca, arraste move o nó verticalmente); na visão **Lista**, o botão
+   "Detalhes" abre ementa, créditos e pré-requisitos — o progresso fica em `localStorage` e
+   é salvo por curso (sobrevive a recarregar a página).
 
 Testar o build de produção (é o que o GitHub Pages serve):
 
